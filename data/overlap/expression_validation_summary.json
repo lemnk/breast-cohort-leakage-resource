@@ -1,0 +1,107 @@
+{
+  "series": [
+    "GSE20194",
+    "GSE20271",
+    "GSE22093",
+    "GSE23988",
+    "GSE25055",
+    "GSE25065",
+    "GSE42822"
+  ],
+  "common_probe_count": 22283,
+  "fingerprint_probe_count": 2048,
+  "selection_seed": "breast-cohort-leakage-resource-v1",
+  "candidate_edges": 385,
+  "negative_controls": 1925,
+  "candidate_median_rho": 0.8893201804402899,
+  "candidate_min_rho": 0.3353453463394275,
+  "control_median_rho": 0.766574861242589,
+  "control_p99_rho": 0.8968248597785494,
+  "evidence_counts": {
+    "confirmed": 304,
+    "not_corroborated": 69,
+    "supported": 12
+  },
+  "control_rule_counts": {
+    "confirmed": 0,
+    "not_corroborated": 1921,
+    "supported": 4
+  },
+  "empirical_control_confirmed_rate": 0.0,
+  "heuristic_control_confirmed_rate_upper_bound": 0.0015584415584415584,
+  "expected_confirmed_controls_per_385_at_observed_rate": 0.0,
+  "expected_confirmed_controls_per_385_at_heuristic_upper_bound": 0.6,
+  "pair_summary": {
+    "GSE20194--GSE20271": {
+      "candidate_n": 39,
+      "candidate_median": 0.7639290821420449,
+      "control_n": 195,
+      "control_median": 0.6588554621366768,
+      "control_p99": 0.7862978983691539
+    },
+    "GSE20194--GSE22093": {
+      "candidate_n": 1,
+      "candidate_median": 0.8035525774671323,
+      "control_n": 5,
+      "control_median": 0.6574769879822703,
+      "control_p99": 0.6768752330169636
+    },
+    "GSE20194--GSE25055": {
+      "candidate_n": 188,
+      "candidate_median": 0.9999997143167318,
+      "control_n": 940,
+      "control_median": 0.8268696574295239,
+      "control_p99": 0.9042695564152732
+    },
+    "GSE20194--GSE25065": {
+      "candidate_n": 1,
+      "candidate_median": 0.8035525774671323,
+      "control_n": 5,
+      "control_median": 0.6695128519975488,
+      "control_p99": 0.7209507359782126
+    },
+    "GSE20194--GSE42822": {
+      "candidate_n": 1,
+      "candidate_median": 0.8040576724696571,
+      "control_n": 5,
+      "control_median": 0.7731174467299751,
+      "control_p99": 0.8014243363073377
+    },
+    "GSE20271--GSE22093": {
+      "candidate_n": 14,
+      "candidate_median": 0.6892412842211953,
+      "control_n": 70,
+      "control_median": 0.6177745246331005,
+      "control_p99": 0.7312222378308818
+    },
+    "GSE20271--GSE25055": {
+      "candidate_n": 33,
+      "candidate_median": 0.7772028054705991,
+      "control_n": 165,
+      "control_median": 0.6786138198572564,
+      "control_p99": 0.783108547493618
+    },
+    "GSE20271--GSE25065": {
+      "candidate_n": 44,
+      "candidate_median": 0.7810289901154315,
+      "control_n": 220,
+      "control_median": 0.6848409488511112,
+      "control_p99": 0.7877163736851808
+    },
+    "GSE22093--GSE25065": {
+      "candidate_n": 4,
+      "candidate_median": 0.9999999999999998,
+      "control_n": 20,
+      "control_median": 0.818939081531395,
+      "control_p99": 0.889700154078416
+    },
+    "GSE23988--GSE42822": {
+      "candidate_n": 60,
+      "candidate_median": 0.8239432311891272,
+      "control_n": 300,
+      "control_median": 0.743632183521836,
+      "control_p99": 0.8027728348829276
+    }
+  },
+  "interpretation": "Expression evidence corroborates identifier candidates; it does not independently prove patient identity. Control rule exceedance is an internal empirical calibration, not a multiplicity-adjusted external false-discovery estimate."
+}

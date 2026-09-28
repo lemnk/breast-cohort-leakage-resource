@@ -1,0 +1,7 @@
+{
+  "database": "gds",
+  "query": "breast cancer[All Fields] AND Homo sapiens[Organism] AND gse[Filter] AND (\"Expression profiling by array\"[DataSet Type] OR \"Expression profiling by high throughput sequencing\"[DataSet Type])",
+  "retrieval_limit": 10000,
+  "freeze_date": "2026-09-27",
+  "purpose": "metadata-only comprehensive release-2 feasibility expansion"
+}

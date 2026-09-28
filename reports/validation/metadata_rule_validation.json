@@ -1,0 +1,21 @@
+{
+  "known_positive_exact_gsm_mention_pairs": 55895,
+  "positive_normalized_title_equal": 55895,
+  "positive_normalized_title_equal_rate": 1.0,
+  "positive_strict_rule_recovered": 26426,
+  "positive_strict_rule_recovery_rate_within_exact_gsm_reuse": 0.47277931836479115,
+  "deterministic_background_pairs": 100000,
+  "background_normalized_title_equal": 0,
+  "background_strict_rule_collisions": 0,
+  "background_strict_collision_rate": 0.0,
+  "candidate_links": 4279,
+  "candidate_links_with_context_support": 350,
+  "candidate_context_support_rate": 0.08179481187193269,
+  "context_support_reasons": {
+    "identical_series_summary": 147,
+    "shared_pubmed": 212
+  },
+  "audit_sample_n": 100,
+  "audit_status": "frozen worksheet generated; structured public-record review is regenerated separately when cached GEO headers are present",
+  "caveat": "Background pairs are presumed nonmatches, not a patient-identity gold standard. Metadata context supports study relatedness, not identity by itself."
+}

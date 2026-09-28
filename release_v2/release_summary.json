@@ -1,0 +1,11 @@
+{
+  "release": 2,
+  "series_inventory": 5931,
+  "series_pairs_with_evidence": 1948,
+  "evidence_tiers": {
+    "high_confidence_overlap": 1172,
+    "manual_review_required": 776
+  },
+  "high_confidence_series_involved": 1626,
+  "interpretation": "Exact GSM reuse is direct repository overlap. Candidate aliases require source verification. No edge is not proof of independence."
+}

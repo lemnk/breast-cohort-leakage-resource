@@ -1,0 +1,21 @@
+{
+  "freeze_date": "2026-09-27",
+  "files": [
+    {
+      "file": "series_matrix/GSE16795_series_matrix.txt.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE16nnn/GSE16795/matrix/GSE16795_series_matrix.txt.gz",
+      "sha256": "9CAFDFFB1AE3531FCE46D48048798C32C2B6A51243E9C27D8158128863AD8F9E"
+    },
+    {
+      "file": "series_matrix/GSE21217-GPL96_series_matrix.txt.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE21nnn/GSE21217/matrix/GSE21217-GPL96_series_matrix.txt.gz",
+      "sha256": "1DB2D1A0DF7F8AC444E0C35545EA817E4F62A58FBAF47A3F31A970A3847D0412",
+      "role": "retained failed same-platform attempt; candidate GSMs absent"
+    },
+    {
+      "file": "series_matrix/GSE21217-GPL570_series_matrix.txt.gz",
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE21nnn/GSE21217/matrix/GSE21217-GPL570_series_matrix.txt.gz",
+      "sha256": "8EF5D8AAC1853AB6958F876C0C6789B22A70376DEE6DBBFAD31731EAAD66A052"
+    }
+  ]
+}

@@ -1,0 +1,386 @@
+sample_a,series_a,title_a,sample_b,series_b,title_b,shared_aliases,evidence,evidence_tier
+GSM1050577,GSE42822,breast cancer US001,GSM590841,GSE23988,breast cancer US001,us001,normalized_title,identifier_candidate
+GSM1050578,GSE42822,breast cancer US005,GSM590842,GSE23988,breast cancer US005,us005,normalized_title,identifier_candidate
+GSM1050579,GSE42822,breast cancer US011,GSM590843,GSE23988,breast cancer US011,us011,normalized_title,identifier_candidate
+GSM1050580,GSE42822,breast cancer US014,GSM590844,GSE23988,breast cancer US014,us014,normalized_title,identifier_candidate
+GSM1050582,GSE42822,breast cancer US019,GSM590845,GSE23988,breast cancer US019,us019,normalized_title,identifier_candidate
+GSM1050584,GSE42822,breast cancer US022,GSM590846,GSE23988,breast cancer US022,us022,normalized_title,identifier_candidate
+GSM1050585,GSE42822,breast cancer US023,GSM590847,GSE23988,breast cancer US023,us023,normalized_title,identifier_candidate
+GSM1050586,GSE42822,breast cancer US024,GSM590848,GSE23988,breast cancer US024,us024,normalized_title,identifier_candidate
+GSM1050587,GSE42822,breast cancer US026,GSM590849,GSE23988,breast cancer US026,us026,normalized_title,identifier_candidate
+GSM1050588,GSE42822,breast cancer US032,GSM590850,GSE23988,breast cancer US032,us032,normalized_title,identifier_candidate
+GSM1050589,GSE42822,breast cancer US033,GSM590851,GSE23988,breast cancer US033,us033,normalized_title,identifier_candidate
+GSM1050590,GSE42822,breast cancer US034,GSM590852,GSE23988,breast cancer US034,us034,normalized_title,identifier_candidate
+GSM1050591,GSE42822,breast cancer US037,GSM590853,GSE23988,breast cancer US037,us037,normalized_title,identifier_candidate
+GSM1050592,GSE42822,breast cancer US038,GSM590854,GSE23988,breast cancer US038,us038,normalized_title,identifier_candidate
+GSM1050593,GSE42822,breast cancer US047,GSM590855,GSE23988,breast cancer US047,us047,normalized_title,identifier_candidate
+GSM1050594,GSE42822,breast cancer US049,GSM590856,GSE23988,breast cancer US049,us049,normalized_title,identifier_candidate
+GSM1050595,GSE42822,breast cancer US051,GSM590857,GSE23988,breast cancer US051,us051,normalized_title,identifier_candidate
+GSM1050596,GSE42822,breast cancer US054,GSM590858,GSE23988,breast cancer US054,us054,normalized_title,identifier_candidate
+GSM1050597,GSE42822,breast cancer US055,GSM590859,GSE23988,breast cancer US055,us055,normalized_title,identifier_candidate
+GSM1050598,GSE42822,breast cancer US057,GSM590860,GSE23988,breast cancer US057,us057,normalized_title,identifier_candidate
+GSM1050601,GSE42822,breast cancer US067,GSM590861,GSE23988,breast cancer US067,us067,normalized_title,identifier_candidate
+GSM1050602,GSE42822,breast cancer US071,GSM590862,GSE23988,breast cancer US071,us071,normalized_title,identifier_candidate
+GSM1050603,GSE42822,breast cancer US072,GSM590863,GSE23988,breast cancer US072,us072,normalized_title,identifier_candidate
+GSM1050605,GSE42822,breast cancer US074,GSM590864,GSE23988,breast cancer US074,us074,normalized_title,identifier_candidate
+GSM1050606,GSE42822,breast cancer US080,GSM590865,GSE23988,breast cancer US080,us080,normalized_title,identifier_candidate
+GSM1050607,GSE42822,breast cancer US082,GSM590866,GSE23988,breast cancer US082,us082,normalized_title,identifier_candidate
+GSM1050608,GSE42822,breast cancer US084,GSM590867,GSE23988,breast cancer US084,us084,normalized_title,identifier_candidate
+GSM1050609,GSE42822,breast cancer US087,GSM590868,GSE23988,breast cancer US087,us087,normalized_title,identifier_candidate
+GSM1050610,GSE42822,breast cancer US088,GSM590869,GSE23988,breast cancer US088,us088,normalized_title,identifier_candidate
+GSM1050611,GSE42822,breast cancer US089,GSM590870,GSE23988,breast cancer US089,us089,normalized_title,identifier_candidate
+GSM1050612,GSE42822,breast cancer US090,GSM590871,GSE23988,breast cancer US090,us090,normalized_title,identifier_candidate
+GSM1050615,GSE42822,breast cancer US096,GSM590872,GSE23988,breast cancer US096,us096,normalized_title,identifier_candidate
+GSM1050616,GSE42822,breast cancer US099,GSM590873,GSE23988,breast cancer US099,us099,normalized_title,identifier_candidate
+GSM1050617,GSE42822,breast cancer US100,GSM590874,GSE23988,breast cancer US100,us100,normalized_title,identifier_candidate
+GSM1050619,GSE42822,breast cancer US103,GSM590875,GSE23988,breast cancer US103,us103,normalized_title,identifier_candidate
+GSM1050620,GSE42822,breast cancer US104,GSM590876,GSE23988,breast cancer US104,us104,normalized_title,identifier_candidate
+GSM1050621,GSE42822,breast cancer US107,GSM590877,GSE23988,breast cancer US107,us107,normalized_title,identifier_candidate
+GSM1050622,GSE42822,breast cancer US108,GSM590878,GSE23988,breast cancer US108,us108,normalized_title,identifier_candidate
+GSM1050623,GSE42822,breast cancer US110,GSM590879,GSE23988,breast cancer US110,us110,normalized_title,identifier_candidate
+GSM1050624,GSE42822,breast cancer US111,GSM590880,GSE23988,breast cancer US111,us111,normalized_title,identifier_candidate
+GSM1050625,GSE42822,breast cancer US112,GSM590881,GSE23988,breast cancer US112,us112,normalized_title,identifier_candidate
+GSM1050627,GSE42822,breast cancer US116,GSM590882,GSE23988,breast cancer US116,us116,normalized_title,identifier_candidate
+GSM1050628,GSE42822,breast cancer US117,GSM590883,GSE23988,breast cancer US117,us117,normalized_title,identifier_candidate
+GSM1050629,GSE42822,breast cancer US118,GSM590884,GSE23988,breast cancer US118,us118,normalized_title,identifier_candidate
+GSM1050630,GSE42822,breast cancer US122,GSM590885,GSE23988,breast cancer US122,us122,normalized_title,identifier_candidate
+GSM1050631,GSE42822,breast cancer US128,GSM590886,GSE23988,breast cancer US128,us128,normalized_title,identifier_candidate
+GSM1050632,GSE42822,breast cancer US132,GSM590888,GSE23988,breast cancer US132,us132,normalized_title,identifier_candidate
+GSM1050633,GSE42822,breast cancer US135,GSM590889,GSE23988,breast cancer US135,us135,normalized_title,identifier_candidate
+GSM1050634,GSE42822,breast cancer US141,GSM590890,GSE23988,breast cancer US141,us141,normalized_title,identifier_candidate
+GSM1050635,GSE42822,breast cancer US143,GSM590891,GSE23988,breast cancer US143,us143,normalized_title,identifier_candidate
+GSM1050636,GSE42822,breast cancer US151,GSM590893,GSE23988,breast cancer US151,us151,normalized_title,identifier_candidate
+GSM1050637,GSE42822,breast cancer US154,GSM590894,GSE23988,breast cancer US154,us154,normalized_title,identifier_candidate
+GSM1050638,GSE42822,breast cancer US158,GSM590895,GSE23988,breast cancer US158,us158,normalized_title,identifier_candidate
+GSM1050639,GSE42822,breast cancer US160,GSM590896,GSE23988,breast cancer US160,us160,normalized_title,identifier_candidate
+GSM1050640,GSE42822,breast cancer US165,GSM590897,GSE23988,breast cancer US165,us165,normalized_title,identifier_candidate
+GSM1050641,GSE42822,breast cancer US166,GSM590898,GSE23988,breast cancer US166,us166,normalized_title,identifier_candidate
+GSM1050646,GSE42822,breast cancer US131,GSM590887,GSE23988,breast cancer US131,us131,normalized_title,identifier_candidate
+GSM1050647,GSE42822,breast cancer US134,GSM505494,GSE20194,BR_FNA_US134,us134,normalized_title,identifier_candidate
+GSM1050650,GSE42822,breast cancer US144,GSM590892,GSE23988,breast cancer US144,us144,normalized_title,identifier_candidate
+GSM1050656,GSE42822,breast cancer US168,GSM590899,GSE23988,breast cancer US168,us168,normalized_title,identifier_candidate
+GSM1050666,GSE42822,breast cancer US186,GSM590900,GSE23988,breast cancer US186,us186,normalized_title,identifier_candidate
+GSM505327,GSE20194,BR_FNA_M157,GSM615198,GSE25055,M157,m157,normalized_title,identifier_candidate
+GSM505328,GSE20194,BR_FNA_M196,GSM615208,GSE25055,M196,m196,normalized_title,identifier_candidate
+GSM505330,GSE20194,BR_FNA_M214,GSM615214,GSE25055,M214,m214,normalized_title,identifier_candidate
+GSM505331,GSE20194,BR_FNA_M113,GSM615182,GSE25055,M113,m113,normalized_title,identifier_candidate
+GSM505333,GSE20194,BR_FNA_M154,GSM615195,GSE25055,M154,m154,normalized_title,identifier_candidate
+GSM505334,GSE20194,BR_FNA_M165,GSM615200,GSE25055,M165,m165,normalized_title,identifier_candidate
+GSM505336,GSE20194,BR_FNA_M153,GSM615194,GSE25055,M153,m153,normalized_title,identifier_candidate
+GSM505337,GSE20194,BR_FNA_M220,GSM615219,GSE25055,M220,m220,normalized_title,identifier_candidate
+GSM505338,GSE20194,BR_FNA_M228,GSM615222,GSE25055,M228,m228,normalized_title,identifier_candidate
+GSM505339,GSE20194,BR_FNA_M177,GSM615201,GSE25055,M177,m177,normalized_title,identifier_candidate
+GSM505343,GSE20194,BR_FNA_M130,GSM615189,GSE25055,M130,m130,normalized_title,identifier_candidate
+GSM505344,GSE20194,BR_FNA_M180,GSM615202,GSE25055,M180,m180,normalized_title,identifier_candidate
+GSM505345,GSE20194,BR_FNA_M121,GSM615185,GSE25055,M121,m121,normalized_title,identifier_candidate
+GSM505346,GSE20194,BR_FNA_M155,GSM615196,GSE25055,M155,m155,normalized_title,identifier_candidate
+GSM505347,GSE20194,BR_FNA_M128,GSM615187,GSE25055,M128,m128,normalized_title,identifier_candidate
+GSM505348,GSE20194,BR_FNA_M227,GSM615221,GSE25055,M227,m227,normalized_title,identifier_candidate
+GSM505350,GSE20194,BR_FNA_M156,GSM615197,GSE25055,M156,m156,normalized_title,identifier_candidate
+GSM505351,GSE20194,BR_FNA_M111,GSM615181,GSE25055,M111,m111,normalized_title,identifier_candidate
+GSM505352,GSE20194,BR_FNA_M201,GSM615210,GSE25055,M201,m201,normalized_title,identifier_candidate
+GSM505353,GSE20194,BR_FNA_M188,GSM615205,GSE25055,M188,m188,normalized_title,identifier_candidate
+GSM505354,GSE20194,BR_FNA_M158,GSM615199,GSE25055,M158,m158,normalized_title,identifier_candidate
+GSM505355,GSE20194,BR_FNA_M226,GSM615220,GSE25055,M226,m226,normalized_title,identifier_candidate
+GSM505356,GSE20194,BR_FNA_M199,GSM615209,GSE25055,M199,m199,normalized_title,identifier_candidate
+GSM505357,GSE20194,BR_FNA_M215,GSM615215,GSE25055,M215,m215,normalized_title,identifier_candidate
+GSM505358,GSE20194,BR_FNA_M136,GSM615191,GSE25055,M136,m136,normalized_title,identifier_candidate
+GSM505359,GSE20194,BR_FNA_M206,GSM615212,GSE25055,M206,m206,normalized_title,identifier_candidate
+GSM505360,GSE20194,BR_FNA_M211,GSM615213,GSE25055,M211,m211,normalized_title,identifier_candidate
+GSM505361,GSE20194,BR_FNA_M217,GSM615217,GSE25055,M217,m217,normalized_title,identifier_candidate
+GSM505363,GSE20194,BR_FNA_M216,GSM615216,GSE25055,M216,m216,normalized_title,identifier_candidate
+GSM505364,GSE20194,BR_FNA_M139,GSM615192,GSE25055,M139,m139,normalized_title,identifier_candidate
+GSM505365,GSE20194,BR_FNA_M117,GSM615183,GSE25055,M117,m117,normalized_title,identifier_candidate
+GSM505366,GSE20194,BR_FNA_M106,GSM615179,GSE25055,M106,m106,normalized_title,identifier_candidate
+GSM505368,GSE20194,BR_FNA_M123,GSM615186,GSE25055,M123,m123,normalized_title,identifier_candidate
+GSM505370,GSE20194,BR_FNA_M205,GSM615211,GSE25055,M205,m205,normalized_title,identifier_candidate
+GSM505371,GSE20194,BR_FNA_M182,GSM615204,GSE25055,M182,m182,normalized_title,identifier_candidate
+GSM505372,GSE20194,BR_FNA_M133,GSM615190,GSE25055,M133,m133,normalized_title,identifier_candidate
+GSM505374,GSE20194,BR_FNA_M189,GSM615206,GSE25055,M189,m189,normalized_title,identifier_candidate
+GSM505375,GSE20194,BR_FNA_M181,GSM615203,GSE25055,M181,m181,normalized_title,identifier_candidate
+GSM505378,GSE20194,BR_FNA_M236,GSM615227,GSE25055,M236,m236,normalized_title,identifier_candidate
+GSM505382,GSE20194,BR_FNA_M246,GSM615228,GSE25055,M246,m246,normalized_title,identifier_candidate
+GSM505392,GSE20194,BR_FNA_M280,GSM615236,GSE25055,M280,m280,normalized_title,identifier_candidate
+GSM505398,GSE20194,BR_FNA_M266,GSM615234,GSE25055,M266,m266,normalized_title,identifier_candidate
+GSM505402,GSE20194,BR_FNA_M231,GSM615224,GSE25055,M231,m231,normalized_title,identifier_candidate
+GSM505408,GSE20194,BR_FNA_M270,GSM615235,GSE25055,M270,m270,normalized_title,identifier_candidate
+GSM505410,GSE20194,BR_FNA_M259,GSM615230,GSE25055,M259,m259,normalized_title,identifier_candidate
+GSM505411,GSE20194,BR_FNA_M301,GSM615242,GSE25055,M301,m301,normalized_title,identifier_candidate
+GSM505412,GSE20194,BR_FNA_M234,GSM615226,GSE25055,M234,m234,normalized_title,identifier_candidate
+GSM505413,GSE20194,BR_FNA_M310,GSM615244,GSE25055,M310,m310,normalized_title,identifier_candidate
+GSM505415,GSE20194,BR_FNA_M260,GSM615231,GSE25055,M260,m260,normalized_title,identifier_candidate
+GSM505416,GSE20194,BR_FNA_M255,GSM615229,GSE25055,M255,m255,normalized_title,identifier_candidate
+GSM505420,GSE20194,BR_FNA_M304,GSM615243,GSE25055,M304,m304,normalized_title,identifier_candidate
+GSM505421,GSE20194,BR_FNA_M233,GSM615225,GSE25055,M233,m233,normalized_title,identifier_candidate
+GSM505422,GSE20194,BR_FNA_M297,GSM615241,GSE25055,M297,m297,normalized_title,identifier_candidate
+GSM505423,GSE20194,BR_FNA_M295,GSM615240,GSE25055,M295,m295,normalized_title,identifier_candidate
+GSM505424,GSE20194,BR_FNA_M282,GSM615238,GSE25055,M282,m282,normalized_title,identifier_candidate
+GSM505426,GSE20194,BR_FNA_M261,GSM615232,GSE25055,M261,m261,normalized_title,identifier_candidate
+GSM505427,GSE20194,BR_FNA_M333,GSM615249,GSE25055,M333,m333,normalized_title,identifier_candidate
+GSM505428,GSE20194,BR_FNA_M402,GSM615270,GSE25055,M402,m402,normalized_title,identifier_candidate
+GSM505430,GSE20194,BR_FNA_M386,GSM615267,GSE25055,M386,m386,normalized_title,identifier_candidate
+GSM505432,GSE20194,BR_FNA_M375,GSM615265,GSE25055,M375,m375,normalized_title,identifier_candidate
+GSM505435,GSE20194,BR_FNA_M331,GSM508115,GSE20271,breast cancer 331,m331,normalized_title|study_aware_title,identifier_candidate
+GSM505448,GSE20194,BR_FNA_M323,GSM508123,GSE20271,breast cancer 323,m323,normalized_title|study_aware_title,identifier_candidate
+GSM505448,GSE20194,BR_FNA_M323,GSM615247,GSE25055,M323,m323,normalized_title,identifier_candidate
+GSM505449,GSE20194,BR_FNA_M442,GSM615280,GSE25055,M442,m442,normalized_title,identifier_candidate
+GSM505450,GSE20194,BR_FNA_PERU14-16,GSM508163,GSE20271,breast cancer PERU14-16,peru1416,normalized_title,identifier_candidate
+GSM505450,GSE20194,BR_FNA_PERU14-16,GSM615405,GSE25055,PERU14_16,peru1416,normalized_title,identifier_candidate
+GSM505451,GSE20194,BR_FNA_M523,GSM615292,GSE25055,M523,m523,normalized_title,identifier_candidate
+GSM505452,GSE20194,BR_FNA_M315,GSM508129,GSE20271,breast cancer 315,m315,normalized_title|study_aware_title,identifier_candidate
+GSM505452,GSE20194,BR_FNA_M315,GSM615245,GSE25055,M315,m315,normalized_title,identifier_candidate
+GSM505453,GSE20194,BR_FNA_M399,GSM508130,GSE20271,breast cancer 399,m399,normalized_title|study_aware_title,identifier_candidate
+GSM505453,GSE20194,BR_FNA_M399,GSM615269,GSE25055,M399,m399,normalized_title,identifier_candidate
+GSM505454,GSE20194,BR_FNA_M524,GSM615293,GSE25055,M524,m524,normalized_title,identifier_candidate
+GSM505455,GSE20194,BR_FNA_M353,GSM615256,GSE25055,M353,m353,normalized_title,identifier_candidate
+GSM505456,GSE20194,BR_FNA_M534,GSM615296,GSE25055,M534,m534,normalized_title,identifier_candidate
+GSM505457,GSE20194,BR_FNA_M447,GSM508172,GSE20271,breast cancer 447,m447,normalized_title|study_aware_title,identifier_candidate
+GSM505457,GSE20194,BR_FNA_M447,GSM615281,GSE25055,M447,m447,normalized_title,identifier_candidate
+GSM505458,GSE20194,BR_FNA_M356,GSM615258,GSE25055,M356,m356,normalized_title,identifier_candidate
+GSM505459,GSE20194,BR_FNA_M367,GSM615263,GSE25055,M367,m367,normalized_title,identifier_candidate
+GSM505460,GSE20194,BR_FNA_M120,GSM615184,GSE25055,M120,m120,normalized_title,identifier_candidate
+GSM505462,GSE20194,BR_FNA_PERU11,GSM615403,GSE25055,PERU11,peru11,normalized_title,identifier_candidate
+GSM505464,GSE20194,BR_FNA_M107,GSM508128,GSE20271,breast cancer 107,m107,normalized_title|study_aware_title,identifier_candidate
+GSM505464,GSE20194,BR_FNA_M107,GSM615180,GSE25055,M107,m107,normalized_title,identifier_candidate
+GSM505465,GSE20194,BR_FNA_M343,GSM508124,GSE20271,breast cancer 343,m343,normalized_title|study_aware_title,identifier_candidate
+GSM505465,GSE20194,BR_FNA_M343,GSM615254,GSE25055,M343,m343,normalized_title,identifier_candidate
+GSM505466,GSE20194,BR_FNA_M485,GSM508116,GSE20271,breast cancer 485,m485,normalized_title|study_aware_title,identifier_candidate
+GSM505466,GSE20194,BR_FNA_M485,GSM615284,GSE25055,M485,m485,normalized_title,identifier_candidate
+GSM505467,GSE20194,BR_FNA_M373,GSM615264,GSE25055,M373,m373,normalized_title,identifier_candidate
+GSM505468,GSE20194,BR_FNA_M463,GSM615282,GSE25055,M463,m463,normalized_title,identifier_candidate
+GSM505469,GSE20194,BR_FNA_M357,GSM615259,GSE25055,M357,m357,normalized_title,identifier_candidate
+GSM505470,GSE20194,BR_FNA_PERU08,GSM508056,GSE20271,breast cancer PERU08,peru08,normalized_title,identifier_candidate
+GSM505471,GSE20194,BR_FNA_PERU12-14,GSM508127,GSE20271,breast cancer PERU12-14,peru1214,normalized_title,identifier_candidate
+GSM505471,GSE20194,BR_FNA_PERU12-14,GSM615404,GSE25055,PERU12_14,peru1214,normalized_title,identifier_candidate
+GSM505472,GSE20194,BR_FNA_M384,GSM508133,GSE20271,breast cancer 384,m384,normalized_title|study_aware_title,identifier_candidate
+GSM505472,GSE20194,BR_FNA_M384,GSM615266,GSE25055,M384,m384,normalized_title,identifier_candidate
+GSM505473,GSE20194,BR_FNA_M497,GSM615286,GSE25055,M497,m497,normalized_title,identifier_candidate
+GSM505474,GSE20194,BR_FNA_PERU07,GSM508120,GSE20271,breast cancer PERU07,peru07,normalized_title,identifier_candidate
+GSM505474,GSE20194,BR_FNA_PERU07,GSM615401,GSE25055,PERU07,peru07,normalized_title,identifier_candidate
+GSM505475,GSE20194,BR_FNA_M503,GSM615288,GSE25055,M503,m503,normalized_title,identifier_candidate
+GSM505476,GSE20194,BR_FNA_M129,GSM615188,GSE25055,M129,m129,normalized_title,identifier_candidate
+GSM505477,GSE20194,BR_FNA_M421,GSM615273,GSE25055,M421,m421,normalized_title,identifier_candidate
+GSM505478,GSE20194,BR_FNA_M146,GSM615193,GSE25055,M146,m146,normalized_title,identifier_candidate
+GSM505479,GSE20194,BR_FNA_M506,GSM615289,GSE25055,M506,m506,normalized_title,identifier_candidate
+GSM505480,GSE20194,BR_FNA_PERU09,GSM508121,GSE20271,breast cancer PERU09,peru09,normalized_title,identifier_candidate
+GSM505480,GSE20194,BR_FNA_PERU09,GSM615402,GSE25055,PERU09,peru09,normalized_title,identifier_candidate
+GSM505481,GSE20194,BR_FNA_M525,GSM615294,GSE25055,M525,m525,normalized_title,identifier_candidate
+GSM505483,GSE20194,BR_FNA_M469,GSM615283,GSE25055,M469,m469,normalized_title,identifier_candidate
+GSM505485,GSE20194,BR_FNA_M341,GSM615253,GSE25055,M341,m341,normalized_title,identifier_candidate
+GSM505486,GSE20194,BR_FNA_M434,GSM615279,GSE25055,M434,m434,normalized_title,identifier_candidate
+GSM505487,GSE20194,BR_FNA_M334,GSM615250,GSE25055,M334,m334,normalized_title,identifier_candidate
+GSM505488,GSE20194,BR_FNA_PERU01,GSM508122,GSE20271,breast cancer PERU01,peru01,normalized_title,identifier_candidate
+GSM505488,GSE20194,BR_FNA_PERU01,GSM615400,GSE25055,PERU01,peru01,normalized_title,identifier_candidate
+GSM505489,GSE20194,BR_FNA_PERU53,GSM508054,GSE20271,breast cancer PERU53,peru53,normalized_title,identifier_candidate
+GSM505489,GSE20194,BR_FNA_PERU53,GSM549311,GSE22093,breast cancer PERU53,peru53,normalized_title,identifier_candidate
+GSM505489,GSE20194,BR_FNA_PERU53,GSM615804,GSE25065,PERU53,peru53,normalized_title,identifier_candidate
+GSM505490,GSE20194,BR_FNA_PERU55,GSM508049,GSE20271,breast cancer PERU55,peru55,normalized_title,identifier_candidate
+GSM505491,GSE20194,BR_FNA_M713,GSM508025,GSE20271,breast cancer 713,m713,normalized_title|study_aware_title,identifier_candidate
+GSM505506,GSE20194,BR_FNA_M195,GSM615207,GSE25055,M195,m195,normalized_title,identifier_candidate
+GSM505508,GSE20194,BR_FNA_M263,GSM615233,GSE25055,M263,m263,normalized_title,identifier_candidate
+GSM505509,GSE20194,BR_FNA_M281,GSM615237,GSE25055,M281,m281,normalized_title,identifier_candidate
+GSM505510,GSE20194,BR_FNA_M283,GSM615239,GSE25055,M283,m283,normalized_title,identifier_candidate
+GSM505512,GSE20194,BR_FNA_M319,GSM508180,GSE20271,breast cancer 319,m319,normalized_title|study_aware_title,identifier_candidate
+GSM505512,GSE20194,BR_FNA_M319,GSM615246,GSE25055,M319,m319,normalized_title,identifier_candidate
+GSM505513,GSE20194,BR_FNA_M332,GSM508118,GSE20271,breast cancer 332,m332,normalized_title|study_aware_title,identifier_candidate
+GSM505513,GSE20194,BR_FNA_M332,GSM615248,GSE25055,M332,m332,normalized_title,identifier_candidate
+GSM505514,GSE20194,BR_FNA_M339,GSM615251,GSE25055,M339,m339,normalized_title,identifier_candidate
+GSM505515,GSE20194,BR_FNA_M340,GSM508175,GSE20271,breast cancer 340,m340,normalized_title|study_aware_title,identifier_candidate
+GSM505515,GSE20194,BR_FNA_M340,GSM615252,GSE25055,M340,m340,normalized_title,identifier_candidate
+GSM505516,GSE20194,BR_FNA_M345,GSM615255,GSE25055,M345,m345,normalized_title,identifier_candidate
+GSM505517,GSE20194,BR_FNA_M355,GSM615257,GSE25055,M355,m355,normalized_title,identifier_candidate
+GSM505518,GSE20194,BR_FNA_M360,GSM615260,GSE25055,M360,m360,normalized_title,identifier_candidate
+GSM505519,GSE20194,BR_FNA_M363,GSM615261,GSE25055,M363,m363,normalized_title,identifier_candidate
+GSM505520,GSE20194,BR_FNA_M365,GSM508125,GSE20271,breast cancer 365,m365,normalized_title|study_aware_title,identifier_candidate
+GSM505520,GSE20194,BR_FNA_M365,GSM615262,GSE25055,M365,m365,normalized_title,identifier_candidate
+GSM505521,GSE20194,BR_FNA_M382,GSM508171,GSE20271,breast cancer 382,m382,normalized_title|study_aware_title,identifier_candidate
+GSM505522,GSE20194,BR_FNA_M385,GSM508126,GSE20271,breast cancer 385,m385,normalized_title|study_aware_title,identifier_candidate
+GSM505523,GSE20194,BR_FNA_M396,GSM615268,GSE25055,M396,m396,normalized_title,identifier_candidate
+GSM505524,GSE20194,BR_FNA_M411,GSM615271,GSE25055,M411,m411,normalized_title,identifier_candidate
+GSM505525,GSE20194,BR_FNA_M417,GSM615272,GSE25055,M417,m417,normalized_title,identifier_candidate
+GSM505526,GSE20194,BR_FNA_M423,GSM508119,GSE20271,breast cancer 423,m423,normalized_title|study_aware_title,identifier_candidate
+GSM505526,GSE20194,BR_FNA_M423,GSM615274,GSE25055,M423,m423,normalized_title,identifier_candidate
+GSM505527,GSE20194,BR_FNA_M425,GSM615275,GSE25055,M425,m425,normalized_title,identifier_candidate
+GSM505528,GSE20194,BR_FNA_M430,GSM615276,GSE25055,M430,m430,normalized_title,identifier_candidate
+GSM505529,GSE20194,BR_FNA_M431,GSM615277,GSE25055,M431,m431,normalized_title,identifier_candidate
+GSM505530,GSE20194,BR_FNA_M433,GSM615278,GSE25055,M433,m433,normalized_title,identifier_candidate
+GSM505531,GSE20194,BR_FNA_M443,GSM508114,GSE20271,breast cancer 443,m443,normalized_title|study_aware_title,identifier_candidate
+GSM505532,GSE20194,BR_FNA_M486,GSM615285,GSE25055,M486,m486,normalized_title,identifier_candidate
+GSM505533,GSE20194,BR_FNA_M502,GSM508188,GSE20271,breast cancer 502,m502,normalized_title|study_aware_title,identifier_candidate
+GSM505533,GSE20194,BR_FNA_M502,GSM615287,GSE25055,M502,m502,normalized_title,identifier_candidate
+GSM505534,GSE20194,BR_FNA_M507,GSM615290,GSE25055,M507,m507,normalized_title,identifier_candidate
+GSM505535,GSE20194,BR_FNA_M513,GSM508173,GSE20271,breast cancer 513,m513,normalized_title|study_aware_title,identifier_candidate
+GSM505535,GSE20194,BR_FNA_M513,GSM615291,GSE25055,M513,m513,normalized_title,identifier_candidate
+GSM505536,GSE20194,BR_FNA_M531,GSM615295,GSE25055,M531,m531,normalized_title,identifier_candidate
+GSM505537,GSE20194,BR_FNA_M545,GSM508176,GSE20271,breast cancer 545,m545,normalized_title|study_aware_title,identifier_candidate
+GSM505537,GSE20194,BR_FNA_M545,GSM615297,GSE25055,M545,m545,normalized_title,identifier_candidate
+GSM505538,GSE20194,BR_FNA_M549,GSM615298,GSE25055,M549,m549,normalized_title,identifier_candidate
+GSM505539,GSE20194,BR_FNA_M556,GSM615299,GSE25055,M556,m556,normalized_title,identifier_candidate
+GSM505540,GSE20194,BR_FNA_M557,GSM615300,GSE25055,M557,m557,normalized_title,identifier_candidate
+GSM505541,GSE20194,BR_FNA_M558,GSM615301,GSE25055,M558,m558,normalized_title,identifier_candidate
+GSM505542,GSE20194,BR_FNA_M559,GSM615302,GSE25055,M559,m559,normalized_title,identifier_candidate
+GSM505543,GSE20194,BR_FNA_M564,GSM615303,GSE25055,M564,m564,normalized_title,identifier_candidate
+GSM505544,GSE20194,BR_FNA_M566,GSM615305,GSE25055,M566,m566,normalized_title,identifier_candidate
+GSM505545,GSE20194,BR_FNA_M571,GSM615307,GSE25055,M571,m571,normalized_title,identifier_candidate
+GSM505547,GSE20194,BR_FNA_M578,GSM615309,GSE25055,M578,m578,normalized_title,identifier_candidate
+GSM505548,GSE20194,BR_FNA_M583,GSM615312,GSE25055,M583,m583,normalized_title,identifier_candidate
+GSM505549,GSE20194,BR_FNA_M599,GSM615313,GSE25055,M599,m599,normalized_title,identifier_candidate
+GSM505550,GSE20194,BR_FNA_M607,GSM615316,GSE25055,M607,m607,normalized_title,identifier_candidate
+GSM505551,GSE20194,BR_FNA_M610,GSM615318,GSE25055,M610,m610,normalized_title,identifier_candidate
+GSM505552,GSE20194,BR_FNA_M612,GSM615320,GSE25055,M612,m612,normalized_title,identifier_candidate
+GSM505553,GSE20194,BR_FNA_M617,GSM615321,GSE25055,M617,m617,normalized_title,identifier_candidate
+GSM505554,GSE20194,BR_FNA_M619,GSM615322,GSE25055,M619,m619,normalized_title,identifier_candidate
+GSM505556,GSE20194,BR_FNA_M642,GSM615328,GSE25055,M642,m642,normalized_title,identifier_candidate
+GSM505557,GSE20194,BR_FNA_M643,GSM615329,GSE25055,M643,m643,normalized_title,identifier_candidate
+GSM505558,GSE20194,BR_FNA_M647,GSM508132,GSE20271,breast cancer 647,m647,normalized_title|study_aware_title,identifier_candidate
+GSM505558,GSE20194,BR_FNA_M647,GSM615330,GSE25055,M647,m647,normalized_title,identifier_candidate
+GSM505559,GSE20194,BR_FNA_M651,GSM615331,GSE25055,M651,m651,normalized_title,identifier_candidate
+GSM505560,GSE20194,BR_FNA_M652,GSM615332,GSE25055,M652,m652,normalized_title,identifier_candidate
+GSM505561,GSE20194,BR_FNA_M657,GSM508183,GSE20271,breast cancer 657,m657,normalized_title|study_aware_title,identifier_candidate
+GSM505561,GSE20194,BR_FNA_M657,GSM615333,GSE25055,M657,m657,normalized_title,identifier_candidate
+GSM505562,GSE20194,BR_FNA_M658,GSM615334,GSE25055,M658,m658,normalized_title,identifier_candidate
+GSM505563,GSE20194,BR_FNA_M659,GSM615335,GSE25055,M659,m659,normalized_title,identifier_candidate
+GSM505564,GSE20194,BR_FNA_M661,GSM615336,GSE25055,M661,m661,normalized_title,identifier_candidate
+GSM505565,GSE20194,BR_FNA_M662,GSM615337,GSE25055,M662,m662,normalized_title,identifier_candidate
+GSM505566,GSE20194,BR_FNA_M665,GSM615338,GSE25055,M665,m665,normalized_title,identifier_candidate
+GSM505567,GSE20194,BR_FNA_M666,GSM615339,GSE25055,M666,m666,normalized_title,identifier_candidate
+GSM505568,GSE20194,BR_FNA_M668,GSM615340,GSE25055,M668,m668,normalized_title,identifier_candidate
+GSM505569,GSE20194,BR_FNA_M669,GSM615341,GSE25055,M669,m669,normalized_title,identifier_candidate
+GSM505570,GSE20194,BR_FNA_M670,GSM615342,GSE25055,M670,m670,normalized_title,identifier_candidate
+GSM505571,GSE20194,BR_FNA_M671,GSM615343,GSE25055,M671,m671,normalized_title,identifier_candidate
+GSM505572,GSE20194,BR_FNA_M673,GSM508139,GSE20271,breast cancer 673,m673,normalized_title|study_aware_title,identifier_candidate
+GSM505572,GSE20194,BR_FNA_M673,GSM615344,GSE25055,M673,m673,normalized_title,identifier_candidate
+GSM505573,GSE20194,BR_FNA_M675,GSM615345,GSE25055,M675,m675,normalized_title,identifier_candidate
+GSM505574,GSE20194,BR_FNA_M679,GSM615347,GSE25055,M679,m679,normalized_title,identifier_candidate
+GSM505575,GSE20194,BR_FNA_M681,GSM615348,GSE25055,M681,m681,normalized_title,identifier_candidate
+GSM505576,GSE20194,BR_FNA_M682,GSM615349,GSE25055,M682,m682,normalized_title,identifier_candidate
+GSM505577,GSE20194,BR_FNA_M683,GSM615350,GSE25055,M683,m683,normalized_title,identifier_candidate
+GSM505578,GSE20194,BR_FNA_M685,GSM508186,GSE20271,breast cancer 685,m685,normalized_title|study_aware_title,identifier_candidate
+GSM505578,GSE20194,BR_FNA_M685,GSM615351,GSE25055,M685,m685,normalized_title,identifier_candidate
+GSM505579,GSE20194,BR_FNA_M690,GSM508184,GSE20271,breast cancer 690,m690,normalized_title|study_aware_title,identifier_candidate
+GSM505579,GSE20194,BR_FNA_M690,GSM615352,GSE25055,M690,m690,normalized_title,identifier_candidate
+GSM505580,GSE20194,BR_FNA_M692,GSM615354,GSE25055,M692,m692,normalized_title,identifier_candidate
+GSM505581,GSE20194,BR_FNA_M693,GSM615355,GSE25055,M693,m693,normalized_title,identifier_candidate
+GSM505582,GSE20194,BR_FNA_M695,GSM615356,GSE25055,M695,m695,normalized_title,identifier_candidate
+GSM505583,GSE20194,BR_FNA_M696,GSM615357,GSE25055,M696,m696,normalized_title,identifier_candidate
+GSM505584,GSE20194,BR_FNA_M709,GSM615359,GSE25055,M709,m709,normalized_title,identifier_candidate
+GSM505585,GSE20194,BR_FNA_M710,GSM508185,GSE20271,breast cancer 710,m710,normalized_title|study_aware_title,identifier_candidate
+GSM505585,GSE20194,BR_FNA_M710,GSM615360,GSE25055,M710,m710,normalized_title,identifier_candidate
+GSM505586,GSE20194,BR_FNA_M714,GSM615361,GSE25055,M714,m714,normalized_title,identifier_candidate
+GSM505587,GSE20194,BR_FNA_M717,GSM615362,GSE25055,M717,m717,normalized_title,identifier_candidate
+GSM505588,GSE20194,BR_FNA_M718,GSM508182,GSE20271,breast cancer 718,m718,normalized_title|study_aware_title,identifier_candidate
+GSM505588,GSE20194,BR_FNA_M718,GSM615363,GSE25055,M718,m718,normalized_title,identifier_candidate
+GSM505589,GSE20194,BR_FNA_M723,GSM615365,GSE25055,M723,m723,normalized_title,identifier_candidate
+GSM505590,GSE20194,BR_FNA_M725,GSM508027,GSE20271,breast cancer 725,m725,normalized_title|study_aware_title,identifier_candidate
+GSM505590,GSE20194,BR_FNA_M725,GSM615366,GSE25055,M725,m725,normalized_title,identifier_candidate
+GSM505591,GSE20194,BR_FNA_M728,GSM615367,GSE25055,M728,m728,normalized_title,identifier_candidate
+GSM505592,GSE20194,BR_FNA_M732,GSM615369,GSE25055,M732,m732,normalized_title,identifier_candidate
+GSM505593,GSE20194,BR_FNA_M734,GSM615370,GSE25055,M734,m734,normalized_title,identifier_candidate
+GSM505594,GSE20194,BR_FNA_M744,GSM615373,GSE25055,M744,m744,normalized_title,identifier_candidate
+GSM505595,GSE20194,BR_FNA_M746,GSM508187,GSE20271,breast cancer 746,m746,normalized_title|study_aware_title,identifier_candidate
+GSM505595,GSE20194,BR_FNA_M746,GSM615374,GSE25055,M746,m746,normalized_title,identifier_candidate
+GSM505596,GSE20194,BR_FNA_M753,GSM508189,GSE20271,breast cancer 753,m753,normalized_title|study_aware_title,identifier_candidate
+GSM505596,GSE20194,BR_FNA_M753,GSM615377,GSE25055,M753,m753,normalized_title,identifier_candidate
+GSM505597,GSE20194,BR_FNA_M765,GSM615381,GSE25055,M765,m765,normalized_title,identifier_candidate
+GSM505598,GSE20194,BR_FNA_M767,GSM615383,GSE25055,M767,m767,normalized_title,identifier_candidate
+GSM505599,GSE20194,BR_FNA_M774,GSM615386,GSE25055,M774,m774,normalized_title,identifier_candidate
+GSM505600,GSE20194,BR_FNA_M781,GSM615388,GSE25055,M781,m781,normalized_title,identifier_candidate
+GSM505601,GSE20194,BR_FNA_M782,GSM615389,GSE25055,M782,m782,normalized_title,identifier_candidate
+GSM505602,GSE20194,BR_FNA_M784,GSM615391,GSE25055,M784,m784,normalized_title,identifier_candidate
+GSM505603,GSE20194,BR_FNA_M795,GSM615395,GSE25055,M795,m795,normalized_title,identifier_candidate
+GSM505605,GSE20194,BR_FNA_M806,GSM615398,GSE25055,M806,m806,normalized_title,identifier_candidate
+GSM508015,GSE20271,breast cancer SPAIN30,GSM615819,GSE25065,Spain30,spain30,normalized_title,identifier_candidate
+GSM508020,GSE20271,breast cancer SPAIN32,GSM615820,GSE25065,Spain32,spain32,normalized_title,identifier_candidate
+GSM508021,GSE20271,breast cancer SPAIN49,GSM615825,GSE25065,Spain49,spain49,normalized_title,identifier_candidate
+GSM508024,GSE20271,breast cancer PERU16-18,GSM615791,GSE25065,PERU16-18,peru1618,normalized_title,identifier_candidate
+GSM508027,GSE20271,breast cancer 725,GSM615366,GSE25055,M725,m725,normalized_title|study_aware_title,identifier_candidate
+GSM508034,GSE20271,breast cancer PERU25,GSM549304,GSE22093,breast cancer PERU25,peru25,normalized_title,identifier_candidate
+GSM508035,GSE20271,breast cancer LBJ038,GSM615773,GSE25065,LBJ038,lbj038,normalized_title,identifier_candidate
+GSM508036,GSE20271,breast cancer PERU36,GSM549306,GSE22093,breast cancer PERU36,peru36,normalized_title,identifier_candidate
+GSM508037,GSE20271,breast cancer PERU50,GSM615802,GSE25065,PERU50,peru50,normalized_title,identifier_candidate
+GSM508038,GSE20271,breast cancer PERU41,GSM549308,GSE22093,breast cancer PERU41,peru41,normalized_title,identifier_candidate
+GSM508042,GSE20271,breast cancer LBJ016,GSM615771,GSE25065,LBJ016,lbj016,normalized_title,identifier_candidate
+GSM508044,GSE20271,breast cancer PERU38,GSM549307,GSE22093,breast cancer PERU38,peru38,normalized_title,identifier_candidate
+GSM508044,GSE20271,breast cancer PERU38,GSM615797,GSE25065,PERU38,peru38,normalized_title,identifier_candidate
+GSM508045,GSE20271,breast cancer PERU73,GSM615811,GSE25065,PERU73,peru73,normalized_title,identifier_candidate
+GSM508046,GSE20271,breast cancer PERU72,GSM615810,GSE25065,PERU72,peru72,normalized_title,identifier_candidate
+GSM508047,GSE20271,breast cancer PERU44,GSM549309,GSE22093,breast cancer PERU44,peru44,normalized_title,identifier_candidate
+GSM508047,GSE20271,breast cancer PERU44,GSM615800,GSE25065,PERU44,peru44,normalized_title,identifier_candidate
+GSM508048,GSE20271,breast cancer PERU57,GSM615807,GSE25065,PERU57,peru57,normalized_title,identifier_candidate
+GSM508050,GSE20271,breast cancer PERU69,GSM615809,GSE25065,PERU69,peru69,normalized_title,identifier_candidate
+GSM508051,GSE20271,breast cancer PERU27,GSM549305,GSE22093,breast cancer PERU27,peru27,normalized_title,identifier_candidate
+GSM508053,GSE20271,breast cancer PERU61,GSM615808,GSE25065,PERU61,peru61,normalized_title,identifier_candidate
+GSM508054,GSE20271,breast cancer PERU53,GSM549311,GSE22093,breast cancer PERU53,peru53,normalized_title,identifier_candidate
+GSM508054,GSE20271,breast cancer PERU53,GSM615804,GSE25065,PERU53,peru53,normalized_title,identifier_candidate
+GSM508055,GSE20271,breast cancer PERU05,GSM615789,GSE25065,PERU05,peru05,normalized_title,identifier_candidate
+GSM508057,GSE20271,breast cancer PERU02,GSM615788,GSE25065,PERU02,peru02,normalized_title,identifier_candidate
+GSM508059,GSE20271,breast cancer PERU21,GSM549302,GSE22093,breast cancer PERU21,peru21,normalized_title,identifier_candidate
+GSM508059,GSE20271,breast cancer PERU21,GSM615792,GSE25065,PERU21,peru21,normalized_title,identifier_candidate
+GSM508060,GSE20271,breast cancer MEXICO18,GSM549300,GSE22093,breast cancer MEXICO18,mexico18,normalized_title,identifier_candidate
+GSM508061,GSE20271,breast cancer MEXICO15,GSM549299,GSE22093,breast cancer MEXICO15,mexico15,normalized_title,identifier_candidate
+GSM508062,GSE20271,breast cancer MEXICO10,GSM750753,GSE22093,breast cancer MEXICO10,mexico10,normalized_title,identifier_candidate
+GSM508063,GSE20271,breast cancer MEXICO2,GSM549301,GSE22093,breast cancer MEXICO2,mexico2,normalized_title,identifier_candidate
+GSM508066,GSE20271,breast cancer PERU22,GSM549303,GSE22093,breast cancer PERU22,peru22,normalized_title,identifier_candidate
+GSM508069,GSE20271,breast cancer PERU49,GSM549310,GSE22093,breast cancer PERU49,peru49,normalized_title,identifier_candidate
+GSM508103,GSE20271,breast cancer SPAIN57,GSM615828,GSE25065,Spain57,spain57,normalized_title,identifier_candidate
+GSM508104,GSE20271,breast cancer SPAIN48,GSM615824,GSE25065,Spain48,spain48,normalized_title,identifier_candidate
+GSM508105,GSE20271,breast cancer SPAIN45,GSM615822,GSE25065,Spain45,spain45,normalized_title,identifier_candidate
+GSM508106,GSE20271,breast cancer SPAIN53,GSM615827,GSE25065,Spain53,spain53,normalized_title,identifier_candidate
+GSM508107,GSE20271,breast cancer SPAIN27,GSM615818,GSE25065,Spain27,spain27,normalized_title,identifier_candidate
+GSM508110,GSE20271,breast cancer SPAIN13,GSM615817,GSE25065,Spain13,spain13,normalized_title,identifier_candidate
+GSM508112,GSE20271,breast cancer SPAIN46,GSM615823,GSE25065,Spain46,spain46,normalized_title,identifier_candidate
+GSM508116,GSE20271,breast cancer 485,GSM615284,GSE25055,M485,m485,normalized_title|study_aware_title,identifier_candidate
+GSM508117,GSE20271,breast cancer 565,GSM615304,GSE25055,M565,m565,normalized_title|study_aware_title,identifier_candidate
+GSM508118,GSE20271,breast cancer 332,GSM615248,GSE25055,M332,m332,normalized_title|study_aware_title,identifier_candidate
+GSM508119,GSE20271,breast cancer 423,GSM615274,GSE25055,M423,m423,normalized_title|study_aware_title,identifier_candidate
+GSM508120,GSE20271,breast cancer PERU07,GSM615401,GSE25055,PERU07,peru07,normalized_title,identifier_candidate
+GSM508121,GSE20271,breast cancer PERU09,GSM615402,GSE25055,PERU09,peru09,normalized_title,identifier_candidate
+GSM508122,GSE20271,breast cancer PERU01,GSM615400,GSE25055,PERU01,peru01,normalized_title,identifier_candidate
+GSM508123,GSE20271,breast cancer 323,GSM615247,GSE25055,M323,m323,normalized_title|study_aware_title,identifier_candidate
+GSM508124,GSE20271,breast cancer 343,GSM615254,GSE25055,M343,m343,normalized_title|study_aware_title,identifier_candidate
+GSM508125,GSE20271,breast cancer 365,GSM615262,GSE25055,M365,m365,normalized_title|study_aware_title,identifier_candidate
+GSM508127,GSE20271,breast cancer PERU12-14,GSM615404,GSE25055,PERU12_14,peru1214,normalized_title,identifier_candidate
+GSM508128,GSE20271,breast cancer 107,GSM615180,GSE25055,M107,m107,normalized_title|study_aware_title,identifier_candidate
+GSM508129,GSE20271,breast cancer 315,GSM615245,GSE25055,M315,m315,normalized_title|study_aware_title,identifier_candidate
+GSM508130,GSE20271,breast cancer 399,GSM615269,GSE25055,M399,m399,normalized_title|study_aware_title,identifier_candidate
+GSM508132,GSE20271,breast cancer 647,GSM615330,GSE25055,M647,m647,normalized_title|study_aware_title,identifier_candidate
+GSM508133,GSE20271,breast cancer 384,GSM615266,GSE25055,M384,m384,normalized_title|study_aware_title,identifier_candidate
+GSM508136,GSE20271,breast cancer PERU37,GSM615796,GSE25065,PERU37,peru37,normalized_title,identifier_candidate
+GSM508137,GSE20271,breast cancer PERU23,GSM615793,GSE25065,PERU23,peru23,normalized_title,identifier_candidate
+GSM508138,GSE20271,breast cancer PERU52,GSM615803,GSE25065,PERU52,peru52,normalized_title,identifier_candidate
+GSM508139,GSE20271,breast cancer 673,GSM615344,GSE25055,M673,m673,normalized_title|study_aware_title,identifier_candidate
+GSM508140,GSE20271,breast cancer PERU26,GSM615794,GSE25065,PERU26,peru26,normalized_title,identifier_candidate
+GSM508142,GSE20271,breast cancer PERU28,GSM615795,GSE25065,PERU28,peru28,normalized_title,identifier_candidate
+GSM508144,GSE20271,breast cancer PERU48,GSM615801,GSE25065,PERU48,peru48,normalized_title,identifier_candidate
+GSM508145,GSE20271,breast cancer PERU42,GSM615799,GSE25065,PERU42,peru42,normalized_title,identifier_candidate
+GSM508146,GSE20271,breast cancer PERU54,GSM615805,GSE25065,PERU54,peru54,normalized_title,identifier_candidate
+GSM508147,GSE20271,breast cancer PERU40,GSM615798,GSE25065,PERU40,peru40,normalized_title,identifier_candidate
+GSM508149,GSE20271,breast cancer LBJ047,GSM615775,GSE25065,LBJ047,lbj047,normalized_title,identifier_candidate
+GSM508158,GSE20271,breast cancer PERU56,GSM615806,GSE25065,PERU56,peru56,normalized_title,identifier_candidate
+GSM508159,GSE20271,breast cancer LBJ046,GSM615774,GSE25065,LBJ046,lbj046,normalized_title,identifier_candidate
+GSM508163,GSE20271,breast cancer PERU14-16,GSM615405,GSE25055,PERU14_16,peru1416,normalized_title,identifier_candidate
+GSM508166,GSE20271,breast cancer SPAIN51,GSM615826,GSE25065,Spain51,spain51,normalized_title,identifier_candidate
+GSM508167,GSE20271,breast cancer SPAIN12,GSM615816,GSE25065,Spain12,spain12,normalized_title,identifier_candidate
+GSM508169,GSE20271,breast cancer SPAIN41,GSM615821,GSE25065,Spain41,spain41,normalized_title,identifier_candidate
+GSM508172,GSE20271,breast cancer 447,GSM615281,GSE25055,M447,m447,normalized_title|study_aware_title,identifier_candidate
+GSM508173,GSE20271,breast cancer 513,GSM615291,GSE25055,M513,m513,normalized_title|study_aware_title,identifier_candidate
+GSM508174,GSE20271,breast cancer 625,GSM615324,GSE25055,M625,m625,normalized_title|study_aware_title,identifier_candidate
+GSM508175,GSE20271,breast cancer 340,GSM615252,GSE25055,M340,m340,normalized_title|study_aware_title,identifier_candidate
+GSM508176,GSE20271,breast cancer 545,GSM615297,GSE25055,M545,m545,normalized_title|study_aware_title,identifier_candidate
+GSM508177,GSE20271,breast cancer LBJ054,GSM615777,GSE25065,LBJ054,lbj054,normalized_title,identifier_candidate
+GSM508178,GSE20271,breast cancer PERU76,GSM615812,GSE25065,PERU76,peru76,normalized_title,identifier_candidate
+GSM508179,GSE20271,breast cancer LBJ082,GSM615780,GSE25065,LBJ082,lbj082,normalized_title,identifier_candidate
+GSM508180,GSE20271,breast cancer 319,GSM615246,GSE25055,M319,m319,normalized_title|study_aware_title,identifier_candidate
+GSM508181,GSE20271,breast cancer LBJ070,GSM615778,GSE25065,LBJ070,lbj070,normalized_title,identifier_candidate
+GSM508182,GSE20271,breast cancer 718,GSM615363,GSE25055,M718,m718,normalized_title|study_aware_title,identifier_candidate
+GSM508183,GSE20271,breast cancer 657,GSM615333,GSE25055,M657,m657,normalized_title|study_aware_title,identifier_candidate
+GSM508184,GSE20271,breast cancer 690,GSM615352,GSE25055,M690,m690,normalized_title|study_aware_title,identifier_candidate
+GSM508185,GSE20271,breast cancer 710,GSM615360,GSE25055,M710,m710,normalized_title|study_aware_title,identifier_candidate
+GSM508186,GSE20271,breast cancer 685,GSM615351,GSE25055,M685,m685,normalized_title|study_aware_title,identifier_candidate
+GSM508187,GSE20271,breast cancer 746,GSM615374,GSE25055,M746,m746,normalized_title|study_aware_title,identifier_candidate
+GSM508188,GSE20271,breast cancer 502,GSM615287,GSE25055,M502,m502,normalized_title|study_aware_title,identifier_candidate
+GSM508189,GSE20271,breast cancer 753,GSM615377,GSE25055,M753,m753,normalized_title|study_aware_title,identifier_candidate
+GSM549302,GSE22093,breast cancer PERU21,GSM615792,GSE25065,PERU21,peru21,normalized_title,identifier_candidate
+GSM549307,GSE22093,breast cancer PERU38,GSM615797,GSE25065,PERU38,peru38,normalized_title,identifier_candidate
+GSM549309,GSE22093,breast cancer PERU44,GSM615800,GSE25065,PERU44,peru44,normalized_title,identifier_candidate
+GSM549311,GSE22093,breast cancer PERU53,GSM615804,GSE25065,PERU53,peru53,normalized_title,identifier_candidate

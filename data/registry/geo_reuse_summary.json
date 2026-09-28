@@ -1,0 +1,14 @@
+{
+  "query_defined_series": 540,
+  "sample_mentions": 40734,
+  "unique_geo_sample_accessions": 35654,
+  "reused_geo_sample_accessions": 4331,
+  "series_with_exact_accession_reuse": 56,
+  "series_pairs_with_exact_accession_reuse": 48,
+  "pair_overlap_patterns": {
+    "complete_containment": 33,
+    "near_containment": 6,
+    "partial_overlap": 9
+  },
+  "scope_note": "This is a query-defined discovery universe, not all of GEO and not yet a manually adjudicated clinical-cohort set."
+}

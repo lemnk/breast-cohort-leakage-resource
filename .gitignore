@@ -1,0 +1,21 @@
+# Downloaded GEO expression matrices are reproducible from public accessions
+# and are intentionally excluded from the distributable repository.
+data/source/series_matrix/
+data/heldout/series_matrix/
+
+# Local runtimes and caches
+node_modules/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated inspection and preview artifacts
+*.inspect.ndjson
+reports/validation/workbook_preview/
+reports/validation/final_pipeline_run.log
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

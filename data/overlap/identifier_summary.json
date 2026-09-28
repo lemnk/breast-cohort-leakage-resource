@@ -1,0 +1,22 @@
+{
+  "samples": 1947,
+  "samples_with_alias": 1938,
+  "distinct_aliases": 1835,
+  "identifier_candidate_edges": 385,
+  "identity_components": 312,
+  "samples_in_components": 660,
+  "ambiguous_cross_series_aliases": 0,
+  "pair_counts": {
+    "GSE20194--GSE20271": 39,
+    "GSE20194--GSE22093": 1,
+    "GSE20194--GSE25055": 188,
+    "GSE20194--GSE25065": 1,
+    "GSE20194--GSE42822": 1,
+    "GSE20271--GSE22093": 14,
+    "GSE20271--GSE25055": 33,
+    "GSE20271--GSE25065": 44,
+    "GSE22093--GSE25065": 4,
+    "GSE23988--GSE42822": 60
+  },
+  "warning": "Identifier edges are candidates until corroborated by expression fingerprints or source documentation."
+}

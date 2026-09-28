@@ -1,0 +1,9 @@
+{
+  "series_inventory": 540,
+  "series_pairs_with_evidence": 64,
+  "evidence_tiers": {
+    "high_confidence_overlap": 55,
+    "manual_review_required": 9
+  },
+  "interpretation": "Absence from the edge table means no evidence was detected within this release, not proof of independence."
+}

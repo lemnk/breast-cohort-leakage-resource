@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "mandatory_seed_review": 11,
+    "priority_review": 109,
+    "secondary_review": 22,
+    "screen_out": 398
+  },
+  "deposited_samples": {
+    "mandatory_seed_review": 1947,
+    "priority_review": 11841,
+    "secondary_review": 3128,
+    "screen_out": 23818
+  },
+  "output": "C:\\cancer\\breast_cohort_leakage_resource\\data\\discovery\\geo_screening_queue.csv"
+}

@@ -1,0 +1,73 @@
+{
+  "selection_status": "metadata-selected and protocol-frozen before expression download",
+  "series_pair": "GSE16795--GSE21217",
+  "platform_pair": "GPL96--GPL570",
+  "biological_material": "breast cancer cell lines; not patient specimens",
+  "candidate_n": 3,
+  "control_n": 15,
+  "common_probe_count": 22277,
+  "fingerprint_probe_count": 2048,
+  "selection_seed": "breast-cohort-leakage-resource-v1",
+  "control_p99": 0.8315907971442155,
+  "evidence_counts": {
+    "confirmed": 2,
+    "supported": 0,
+    "not_corroborated": 1
+  },
+  "control_rule_counts": {
+    "confirmed": 0,
+    "supported": 0,
+    "not_corroborated": 15
+  },
+  "candidate_results": [
+    {
+      "normalized_title": "uacc812",
+      "series_a": "GSE16795",
+      "sample_a": "GSM421895",
+      "title_a": "UACC812",
+      "series_b": "GSE21217",
+      "sample_b": "GSM530553",
+      "title_b": "UACC812",
+      "spearman_rho": 0.8971781089693269,
+      "rank_a_to_b": 1,
+      "rank_b_to_a": 1,
+      "reciprocal_top1": true,
+      "pair_null_p99": 0.8315907971442155,
+      "margin_above_null_p99": 0.06558731182511146,
+      "expression_evidence": "confirmed"
+    },
+    {
+      "normalized_title": "zr751",
+      "series_a": "GSE16795",
+      "sample_a": "GSM421897",
+      "title_a": "ZR-75-1",
+      "series_b": "GSE21217",
+      "sample_b": "GSM530554",
+      "title_b": "ZR751",
+      "spearman_rho": 0.8631470082007664,
+      "rank_a_to_b": 1,
+      "rank_b_to_a": 9,
+      "reciprocal_top1": false,
+      "pair_null_p99": 0.8315907971442155,
+      "margin_above_null_p99": 0.03155621105655093,
+      "expression_evidence": "not_corroborated"
+    },
+    {
+      "normalized_title": "zr7530",
+      "series_a": "GSE16795",
+      "sample_a": "GSM421898",
+      "title_a": "ZR-75-30",
+      "series_b": "GSE21217",
+      "sample_b": "GSM530555",
+      "title_b": "ZR7530",
+      "spearman_rho": 0.9069800346036337,
+      "rank_a_to_b": 1,
+      "rank_b_to_a": 1,
+      "reciprocal_top1": true,
+      "pair_null_p99": 0.8315907971442155,
+      "margin_above_null_p99": 0.07538923745941828,
+      "expression_evidence": "confirmed"
+    }
+  ],
+  "interpretation": "Held-out GPL96-to-GPL570 cell-line transport check; no patient-level or RNA-seq accuracy inference."
+}

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this registry or software, please cite the associated manuscript and this software release."
+title: "Breast Cancer Cohort-Overlap Resource"
+type: software
+authors:
+  - family-names: "Beyene"
+    given-names: "Naol"
+    email: "naolzed6@gmail.com"
+repository-code: "https://github.com/lemnk/breast-cohort-leakage-resource"
+url: "https://github.com/lemnk/breast-cohort-leakage-resource"
+version: "2.0.0"
+date-released: "2026-09-27"
+license: MIT
+keywords:
+  - breast cancer
+  - transcriptomics
+  - cohort overlap
+  - sample reuse
+  - reproducibility

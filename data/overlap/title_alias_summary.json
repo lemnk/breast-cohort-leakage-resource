@@ -1,0 +1,7 @@
+{
+  "candidate_alias_groups": 331,
+  "candidate_cross_series_links": 340,
+  "series_pairs": 18,
+  "series_involved": 21,
+  "warning": "Exact specific titles with different GSM accessions are identity candidates, not proof of patient identity."
+}

@@ -1,0 +1,541 @@
+series_accession,title,sample_count,data_type,platforms
+GSE100567,Buparlisib-treated Patient Derived Xenograft (PDX) Reversed Phase Protein Array (RPPA) Data,288,Protein profiling by protein array,23632
+GSE10129,Genomic copy number alterations as predictive markers of neoadjuvant chemotherapy response in breast cancer,56,Genome variation profiling by genome tiling array,5772
+GSE102088,Expression data from normal breast tissues,114,Expression profiling by array,17586
+GSE102121,Clinical and biological impact of miR-18a expression in breast cancer after neoadjuvant chemotherapy,12,Expression profiling by array,17692
+GSE102367,c-Jun/AP-1 overexpression reprograms ERα signaling related to tamoxifen response in ERα-positive breast cancer [expression profiling],18,Expression profiling by array,23126
+GSE10281,Letrozole (Femara) early response to treatment,36,Expression profiling by array,570
+GSE103115,Cisplatin-induced gene expression changes in triple-negative breast cancer (TNBC) cells,24,Expression profiling by array,10558
+GSE103426,"Expression profiling of MDA-MB-231 and MDA-MB-468 after ALDH1A3 manipulation, all-trans retinoic acid treatment, decitabine treatment",48,Expression profiling by array,16686
+GSE103520,Transcriptome-wide response to synthetic chromatin protein PcTF: Breast Cancer,27,Expression profiling by high throughput sequencing,11154
+GSE103668,Pre-treatment expression data from neoadjuvant platinum & bevacizumab treated triple negative breast cancer patients,21,Expression profiling by array,570
+GSE103744,Identification and validation of single sample breast cancer radiosensitivity gene expression predictors [Illumina HT12 v4 data],172,Expression profiling by array,10558
+GSE103745,Identification and validation of single sample breast cancer radiosensitivity gene expression predictors [Nanostring custom assay data],336,Expression profiling by array,24000
+GSE104753,The role of LSD1 in Epithelial to Mesenchymal Transition,4,Expression profiling by array,16686
+GSE104754,LSD1 activation promotes inducible EMT programs and modulates the tumour microenvironment in breast cancer,3,Genome binding/occupancy profiling by high throughput sequencing,18573
+GSE10510,Comparison between Estrogen receptor positive and Estrogen receptor negative breast cancer samples,152,Expression profiling by array,6486
+GSE106360,Epigenome analysis of pre- and post-neoadjuvant chemotherapy breast tumor samples,47,Methylation profiling by genome tiling array,13534
+GSE106782,"Genome-wide analysis of gene expression by IFNβ in Transformed HMEC (Epithelial/non-CSC, Mesenchymal/CSC)",8,Expression profiling by array,10558
+GSE106977,Triple negative breast cancer subtypes and pathologic complete response rate to neoadjuvant chemotherapy,119,Expression profiling by array,17586
+GSE10886,A Supervised Risk Predictor of Breast Cancer Based on Biological Subtypes,226,Expression profiling by array,885;1390;887
+GSE10893,"Basal-like Breast Cancer DNA copy number losses identify genes involved in genomic instability, response to therapy, and patient survival",504,Expression profiling by array; Genome variation profiling by genome tiling array; Genome variation profiling by SNP array,885;6607;5325;1390;8864;1708;887
+GSE109710,Tumor infiltrating lymphocytes in patients receiving trastuzumab/pertuzumab-based chemotherapy: A TRYPHAENA substudy,173,Expression profiling by array,24546
+GSE111563,Gene expression analysis of breast tumours from dormant and acquired resistant patients,101,Expression profiling by array,10558
+GSE111688,BRCA1 and BRCA2 classification of ovarian cancer,52,Genome variation profiling by genome tiling array,17641
+GSE113353,DAOY-NERT2 Notch/Hypoxia Transcriptome Analysis,12,Expression profiling by high throughput sequencing,11154
+GSE113753,DAOY-Notch1/Notch2 knockout: transcriptome comparison,12,Expression profiling by high throughput sequencing,16791
+GSE114082,Gene expression profiling of primary HER2-positive breast cancers before and after brief exposure to single agent neoadjuvant trastuzumab,34,Expression profiling by array,14951
+GSE114403,Immune profiling of pre- and post-treatment breast cancer tissues from the SOWG S0800 randomized neoadjuvant trail of weekly nab-paclitaxel with or without bevacizumab and dose dense doxorubicin and cyclophosphamide,100,Expression profiling by array,24993
+GSE116335,"CALGB 40601: Randomized Phase III Trial of Paclitaxel Combined With Trastuzumab, Lapatinib, or Both As Neoadjuvant Treatment of HER2-Positive Primary Breast Cancer",265,Expression profiling by high throughput sequencing,11154;16791
+GSE119262,Gene expression profiling of pre-operative mTOR inhibitor everolimus treatment in breast cancer,88,Expression profiling by array,6104
+GSE119937,Molecular Determinants of Post-Mastectomy Breast Cancer Recurrence,131,Expression profiling by high throughput sequencing,11154
+GSE120798,Development and Characterisation of Acquired Radioresistant Breast Cancer Cell Lines.,29,Expression profiling by high throughput sequencing,21697
+GSE121944,Transcriptomic profiling of MDA-MD-231 and MDA-MB-231-LM1 cells isolated from mouse lungs at micrometastatic stage,6,Expression profiling by array,25741
+GSE122630,On-Treatment Biomarkers Improve Prediction of Response to Neoadjuvant Chemotherapy in Breast Cancer,95,Expression profiling by high throughput sequencing,17303
+GSE123603,"IL-6 augments IL-4-induced polarization of primary human macrophages through synergy of STAT3, STAT6 and BATF transcription factors",12,Expression profiling by high throughput sequencing,18573
+GSE123631,BRCA2 abrogation triggers innate immune responses potentiated by treatment with PARP inhibitors,48,Expression profiling by high throughput sequencing,20301
+GSE123712,XmaI-RRBS on triple negative breast carcinoma samples taken prior to chemotherapy,50,Methylation profiling by high throughput sequencing,17301
+GSE123828,XmaI-RRBS on Luminal B breast carcinoma samples taken prior to chemotherapy,50,Methylation profiling by high throughput sequencing,17301
+GSE123832,"Pharmacogenomic Predictor of Sensitivity to Preoperative Chemotherapy With Paclitaxel and Fluorouracil, Doxorubicin, and Cyclophosphamide in Breast Cancer [MDA4]",,Expression profiling by array; Third-party reanalysis,
+GSE123845,Multi-omics and immune profiling of breast cancers undergoing neoadjuvant chemotherapy identified dynamic cellular and molecular changes associated with clinical response,227,Expression profiling by high throughput sequencing,16791
+GSE124027,Genome-wide maps of DNA methylation and gene expression for  multiple  regions  within  a  breast tumor [RRBS],7,Methylation profiling by high throughput sequencing,16791
+GSE124030,Genome-wide maps of DNA methylation and gene expression for  multiple  regions  within  a  breast tumor [RNA-Seq],7,Expression profiling by high throughput sequencing,16791
+GSE124224,ARID1A is a critical regulator of luminal identity and therapeutic response in oestrogen receptor-positive breast cancer (ATAC-Seq),20,Genome binding/occupancy profiling by high throughput sequencing,11154
+GSE124225,ARID1A is a critical regulator of luminal identity and therapeutic response in oestrogen receptor-positive breast cancer (ChIP-Seq),24,Genome binding/occupancy profiling by high throughput sequencing,11154
+GSE124227,ARID1A is a critical regulator of luminal identity and therapeutic response in oestrogen receptor-positive breast cancer (RNA-Seq),10,Expression profiling by high throughput sequencing,11154
+GSE130503,RNA-seq to profile the transcriptome changes induced by the EZH2 degrader MS1943,4,Expression profiling by high throughput sequencing,16791
+GSE130786,"A Phase II Randomized Trial of Neoadjuvant Trastuzumab or Lapatinib or the Combination of Trastuzumab and Lapatinib, Followed by Docetaxel and Carboplatin with Trastuzumab and/or Lapatinib in Patients with HER2+ Breast Cancer [Baseline]",110,Expression profiling by array,6480
+GSE130787,"A Phase II Randomized Trial of Neoadjuvant Trastuzumab or Lapatinib or the Combination of Trastuzumab and Lapatinib, Followed by Docetaxel and Carboplatin with Trastuzumab and/or Lapatinib in Patients with HER2+ Breast Cancer [treatments]",89,Expression profiling by array,6480
+GSE130788,"A Phase II Randomized Trial of Neoadjuvant Trastuzumab or Lapatinib or the Combination of Trastuzumab and Lapatinib, Followed by Docetaxel and Carboplatin with Trastuzumab and/or Lapatinib in Patients with HER2+ Breast Cancer",199,Expression profiling by array,6480
+GSE130903,Short and long-term effects of CDK4/6 inhibition on early stage breast cancer,12,Expression profiling by high throughput sequencing,11154
+GSE131085,Interpheron-γ signaling is associated with BRCA-1 loss-of-function mutations in high grade serous ovarian cancer [RNA-seq],8,Expression profiling by high throughput sequencing,9052
+GSE131769,Genomic signature of the standardized uptake value in 18F-fluorodeoxyglucose positron emission tomography in breast cancer,301,Expression profiling by array,6947
+GSE132207,Epigenetic remodelling of enhancers in response to estrogen deprivation and re-stimulation [RNA-Seq],15,Expression profiling by high throughput sequencing,16791
+GSE132288,ADAR1 role on transcriptome stability,18,Expression profiling by high throughput sequencing,20301
+GSE132510,Epigenetic remodelling of enhancers in response to estrogen deprivation and re-stimulation [ChIP-Seq],7,Genome binding/occupancy profiling by high throughput sequencing,18573
+GSE132513,Epigenetic remodelling of enhancers in response to estrogen deprivation and re-stimulation [methylArray],18,Methylation profiling by genome tiling array,21145
+GSE133987,SUM159 BrCa Decitabine Gene Expression,6,Expression profiling by array,16686
+GSE135400,KDM1B is an important regulator of cytokine signaling in the tumor immune microenvironment and response to immune checkpoint therapy (RNA-seq),19,Expression profiling by high throughput sequencing,20795;21273
+GSE135427,Identification of the KDM4B regulated transcriptome in the ER positive breast cancer cell line MCF-7,4,Expression profiling by array,10558
+GSE135565,Gene expression profiles of the standardized uptake value in 18F-fluorodeoxyglucose positron emission tomography in tripple negative breast cancer,84,Expression profiling by array,570
+GSE135710,Single-cell RNA-seq of B cell polustion in breast cancer patients,4,Expression profiling by high throughput sequencing,21273;20795
+GSE135894,HOTAIRM1 suppresses Estrogen Receptor activity in breast cancer by restricting chromatin accessibility of pioneer factor FOXA1,18,Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing,21290
+GSE136300,Deep sequencing of GSK-126 treated HER2+ PDX tumours,4,Expression profiling by high throughput sequencing,16791
+GSE136644,POL and Z1031 Gene Expression_Final,603,Expression profiling by array,6480
+GSE137356,Validation of the DNA Damage Immune Response (DDIR) Signature in Triple-Negative Breast Cancer (TNBC) Patients from the SWOG 9313c Trial,394,Expression profiling by array,23985
+GSE138233,Transcriptomic analysis of DOXO-Resistant cells compared to parental DOXO-Sensitive mda-mb-436 cell line,24,Expression profiling by array,14550
+GSE139364,Drug-induced mitochondrial oxidative stress is responsible for various effects of the survivin inhibitor Sepantronium Bromide (YM155) in triple negative breast cancer cells,4,Expression profiling by high throughput sequencing,16791
+GSE140185,ARID1A is a critical regulator of luminal identity and therapeutic response in oestrogen receptor-positive breast cancer (ChIP-seq II),17,Genome binding/occupancy profiling by high throughput sequencing,11154
+GSE140186,ARID1A is a critical regulator of luminal identity and therapeutic response in oestrogen receptor-positive breast cancer (RNA-seq II),32,Expression profiling by high throughput sequencing,11154
+GSE140489,STING-dependent paracriny shapes apoptotic priming of breast tumors in response to anti-mitotic treatment,60,Expression profiling by array,570
+GSE140494,Gene expression-based prediction of neodjuvant chemotherapy response in early breast cancer,91,Expression profiling by array,570
+GSE140758,Synergistic targeting of estrogen-receptor positive breast cancers by MDM2 inhibition in combination with endocrine therapy or CDK4/6 inhibition,29,Expression profiling by high throughput sequencing,16791
+GSE143846,Stromal cell signature associated with response to neoadjuvant chemotherapy in locally advanced breast cancer,44,Expression profiling by array,14550
+GSE144221,DNA methylation markers panel can improve prediction of response to neoadjuvant chemotherapy in luminal B breast cancer,25,Methylation profiling by high throughput sequencing,17301
+GSE145325,RNA sequencing of ER+ breast tumor treated with letrozole,58,Expression profiling by high throughput sequencing,21290
+GSE14550,Gene expression profiling of MCF7 breast cancer xenografts overexpressing podoplanin (human array),6,Expression profiling by array,2986
+GSE14551,Gene expression profiling of tumor stroma of MCF7 breast cancer xenografts overexpressing podoplanin (mouse array),6,Expression profiling by array,2995
+GSE14552,Gene expression profiling of MCF7 breast cancer xenografts overexpressing podoplanin,12,Expression profiling by array,2995;2986
+GSE145618,The STRIPAK complex regulates response to chemotherapy through p21 and p27,6,Expression profiling by high throughput sequencing,18573
+GSE147942,Microglia coordinate the anti-tumor immune response to breast cancer brain metastasis [Foxn1 nu/nu 10X data],6,Expression profiling by high throughput sequencing,21103;25431
+GSE147948,Microglia coordinate the anti-tumor immune response to breast cancer brain metastasis [MITRG 10X data],6,Expression profiling by high throughput sequencing,25526;24676
+GSE148186,Inhibition  of O-GlcNAc transferase activates tumor-suppressor gene expression in tamoxifen-resistant breast cancer cells,16,Expression profiling by array,10558
+GSE148444,Glucocorticoid Receptors are Required Effectors of TGFb1-Induced p38 MAPK Signaling to Advanced Cancer Phenotypes in Triple Negative Breast Cancer,12,Expression profiling by high throughput sequencing,16791
+GSE148537,Store Independent Ca2+ Entry Regulates the DNA Damage Response Pathway in Breast Cancer Cells,4,Expression profiling by array,570
+GSE149283,Gene expression profiling of primary HER2-positive breast cancers treated with neoadjuvant trastuzumab,18,Expression profiling by array,23159
+GSE149322,AKT/mTOR/HER/PI3K family genes as predictors of pCR for early stage breast cancer patients treated with the AKT inhibitor MK2206 in the I-SPY 2 TRIAL (NCT01042379),150,Expression profiling by array,16233;20078
+GSE149988,Comparative Analysis of the Development of Acquired Radioresistance in Canine and Human Mammary Cancer Cell Lines,10,Expression profiling by high throughput sequencing,28490
+GSE150575,AKT/mTOR/HER/PI3K family proteins and phospho-proteins as predictors of pCR for early stage breast cancer patients treated with the AKT inhibitor MK2206 in the I-SPY 2 TRIAL (NCT01042379),138,Protein profiling by protein array,28470
+GSE150576,AKT/mTOR/HER/PI3K family genes and phospho-proteins as predictors of pCR for early stage breast cancer patients treated with the AKT inhibitor MK2206 in the I-SPY 2 TRIAL,288,Expression profiling by array; Protein profiling by protein array,16233;28470;20078
+GSE150997,Activation of the interferon signaling pathway is associated with resistance to CDK4/6 inhibitors and immune checkpoint activation in ER-positive breast cancer [RNA-seq],33,Expression profiling by high throughput sequencing,18573
+GSE151751,A Patient-Derived Xenograft Preclinical Model for Triple Negative Breast Cancer to Evaluate PDJ Amplicon Heterogeneity and Chemotherapeutic Induction,10,Genome variation profiling by genome tiling array,19387
+GSE152322,MiR-302b as a Combinatorial Therapeutic Approach to Improve Cisplatin Chemotherapy Efficacy in Human Triple Negative Breast Cancer,23,Expression profiling by array,10558
+GSE152360,Chromatin Accessibility differentiates Invasive Lobular from Invasive Ductal Breast cancer and Dictates Response to Endocrine Treatment,89,Expression profiling by high throughput sequencing,18573
+GSE152361,Chromatin Accessibility differentiates Invasive Lobular from Invasive Ductal Breast cancer and Dictates Response to Endocrine Treatment,12,Genome binding/occupancy profiling by high throughput sequencing,18573
+GSE152362,FOXA1 Shapes the Chromatin State of ILC and Drives Differential Response to Aromatase Inhibitors and Tamoxifen [ER ChIP-seq],29,Genome binding/occupancy profiling by high throughput sequencing,18573
+GSE152363,FOXA1 Shapes the Chromatin State of ILC and Drives Differential Response to Aromatase Inhibitors and Tamoxifen [FOXA1 ChIP-seq],9,Genome binding/occupancy profiling by high throughput sequencing,18573
+GSE152364,FOXA1 Shapes the Chromatin State of ILC and Drives Differential Response to Aromatase Inhibitors and Tamoxifen [GATA3 ChIP-seq],8,Genome binding/occupancy profiling by high throughput sequencing,18573
+GSE152365,FOXA1 Shapes the Chromatin State of ILC and Drives Differential Response to Aromatase Inhibitors and Tamoxifen [H3K27ac ChIP-seq],8,Genome binding/occupancy profiling by high throughput sequencing,18573
+GSE152366,FOXA1 Shapes the Chromatin State of ILC and Drives Differential Response to Aromatase Inhibitors and Tamoxifen [HiChIP-seq],4,Genome binding/occupancy profiling by high throughput sequencing,24676
+GSE152512,FOXA1 Shapes the Chromatin State of ILC and Drives Differential Response to Aromatase Inhibitors and Tamoxifen [WGS],4,Other,20795
+GSE153470,Molecular profiling of aromatase inhibitor-treated post-menopausal breast tumors identifies immunerelated correlates of resistance,162,Expression profiling by array,13376
+GSE154524,CALGB 40603: Randomized Phase II 2 x 2 Factorial Trial of the Addition of Carboplatin +/- Bevacizumab to Neoadjuvant Weekly Paclitaxel Followed by Dose-Dense AC in Hormone Receptor-Poor/HER2-Negative Resectable Breast Cancer,389,Expression profiling by high throughput sequencing,11154;16791
+GSE154932,Integrating multimodal data sets into a mathematical framework to describe and predict therapeutic resistance in cancer,3,Expression profiling by high throughput sequencing,24676
+GSE155657,m6A-seq assays and analysis of breast cancer MDA-MB-231 cells with or without PRMT5 overexpression and Doxrubicin treatment,12,Other,24676
+GSE156445,Exploring the molecular mechanism of action of a mono-herbal formulation of Ayurveda Cesamplous pareira ,18,Expression profiling by array,17586
+GSE156470,Membrane Peptolytic Signals on a Fibroblast Subset Dictate Cancer Stem Cell Fate by Regulating Lipid Metabolism,6,Expression profiling by high throughput sequencing,24676
+GSE156915,In-depth clinical and biological exploration of DNA Damage Immune Response (DDIR) as a biomarker for oxaliplatin use in colorectal cancer,361,Expression profiling by array,29069
+GSE157069,Transcriptome analysis of the circadian clock gene BMAL1 deletion with opposite carcinogenic effects,16,Expression profiling by high throughput sequencing,20301
+GSE157323,Inhibiting DDX3X triggers tumor-intrinsic type I interferon response and enhances anti-tumor immunity,9,Expression profiling by high throughput sequencing,16288
+GSE158724,Convergent evolution of resistance pathways during early stage breast cancer treatment with combination cell cycle (CDK) and endocrine signalling inhibitors ,95,Expression profiling by high throughput sequencing,24676;16791
+GSE159448,RNA-Seq analysis identifies to GATA3-AS1 as a lncRNA associated with resistance to neoadjuvant chemotherapy in locally advanced breast cancer patients,12,Expression profiling by high throughput sequencing,16791
+GSE159724,Heat Shock Factor 1 (HSF1) supports the ESR1 action in breast cancer (ChIP-seq),10,Genome binding/occupancy profiling by high throughput sequencing,18460
+GSE159802,Heat Shock Factor 1 (HSF1) supports the ESR1 action in breast cancer (RNA-seq),18,Expression profiling by high throughput sequencing,18460
+GSE160497,A tumor suppressive relationship between mineralocorticoid and retinoic receptors activates a transcriptional program consistent with a reverse Warburg effect in breast cancer,24,Expression profiling by array,10558
+GSE160568,Identification of biomarkers of response to preoperative talazoparib monotherapy   in treatment naïve gBRCA+ breast cancers,18,Expression profiling by high throughput sequencing,11154
+GSE161830,Molecular profiling of 16 week aromatase inhibitor-treated post-menopausal breast tumors,29,Expression profiling by array,13376
+GSE162187,Transcriptomic analysis of breast cancer patients sensitive and resistant to chemotherapy: Looking for overall survival and drug resistance biomarkers,22,Expression profiling by high throughput sequencing,20301
+GSE162670,Laser capture microdissection and miRNA expression profiling of different tissue morphologies in triple-negative breast cancer,74,Non-coding RNA profiling by array,19117
+GSE163110,MDAMB231 transcriptome response to SKP2 knockdown,9,Expression profiling by high throughput sequencing,24676
+GSE163882,Multi-center retrospective evaluation of a RNA expression classifier to predict pathological complete response to neoadjuvant chemotherapy in breast cancer biopsies,222,Expression profiling by high throughput sequencing,18573
+GSE16391,GGI: a potential predictor of relapse for endocrine-treated breast cancer patients in the BIG 1-98 trial,55,Expression profiling by array,570
+GSE164385,H3K27me3 conditions chemotolerance in triple-negative breast cancer [scChIP-seq],13,Genome binding/occupancy profiling by high throughput sequencing,24676
+GSE16446,Multifactorial Approach to Predicting Resistance to Anthracyclines,120,Expression profiling by array,570
+GSE164715,H3K27me3 conditions chemotolerance in triple-negative breast cancer [scRNA-seq],19,Expression profiling by high throughput sequencing,24676
+GSE164716,H3K27me3 conditions chemotolerance in triple-negative breast cancer,100,Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing,24676
+GSE165407,Mammary-specific expression of Trim24 establishes a mouse model of human metaplastic breast cancer and nominates c-Met and TRIM24 as therapeutic targets,28,Expression profiling by high throughput sequencing,11154
+GSE165914,Olaparib resistance and cisplatin responses in triple negative breast cancer,54,Expression profiling by high throughput sequencing,16791
+GSE16716,MicroArray Quality Control Phase II (MAQC-II) Project,1343,Expression profiling by array,570;1261;96;1355
+GSE167481,Genome-wide synthetic lethal screen unveils novel CAIX – NFS1/xCT axis as a targetable vulnerability in hypoxic solid tumors.,8,Other,16791
+GSE168410,Deconvolution of breast tumors for optimal chemotherapy selection,47,Expression profiling by high throughput sequencing,18573
+GSE16987,"A new gene expression signature, the ClinicoMolecular Triad Classification, may improve prediction and prognostication of breast cancer at the time of diagnosis",161,Expression profiling by array,6104
+GSE173411,Tepoxalin increases chemotherapy efficacy in drug-resistant breast cancer cells overexpressing the multidrug transporter gene ABCB1,8,Expression profiling by high throughput sequencing,24676
+GSE173839,Durvalumab with olaparib and paclitaxel for high-risk HER2-negative stage II/III breast cancer: Results from the adaptively randomized I-SPY2 platform trial ,105,Expression profiling by array,20078
+GSE17460,Expression data from MCF-7 cells transfected with miR-26a and treated or not with estradiol,9,Expression profiling by array,5175
+GSE174673,Signature of acquired resistance to fluvastatin,6,Expression profiling by array,23126
+GSE174692,MLK4 kinase regulates the DNA damage response and promotes triple-negative breast cancer chemoresistance,12,Expression profiling by high throughput sequencing,24676
+GSE175692,Gene expression profiles of breast cancer metastasis according to organ site,184,Expression profiling by array,30206
+GSE176128,Long non-coding RNA landscape of patients biopsies from advanced Triple Negative Breast Cancer,55,Expression profiling by array,16686
+GSE178235,Genome-wide DNA methylation analysis of HER2-positive breast cancer and stroma,43,Methylation profiling by array,13534
+GSE178305,Exosomal-microRNA transcriptome profiling of Parental and CSC-like MDA-MB-231 cells in response to cisplatin treatment [NanoString],12,Non-coding RNA profiling by array,28943
+GSE178307,Exosomal-microRNA transcriptome profiling of Parental and CSC-like MDA-MB-231 cells in response to cisplatin treatment,12,Non-coding RNA profiling by high throughput sequencing,22790
+GSE178310,Exosomal-microRNA transcriptome profiling of Parental and CSC-like MDA-MB-231 cells in response to cisplatin treatment,24,Non-coding RNA profiling by array; Non-coding RNA profiling by high throughput sequencing,22790;28943
+GSE179509,Distinctive properties of endothelial cells from tumor and normal tissue in human breast cancer,4,Expression profiling by high throughput sequencing,18573
+GSE180280,Activation of a cGAS-STING-mediated immune response predicts response to neoadjuvant chemotherapy in early breast cancer,57,Expression profiling by high throughput sequencing,18573
+GSE180295,Array data from neoDDRD clinical trial,46,Expression profiling by array,30404
+GSE180717,Recurrence biomarkers of triple negative breast cancer treated with neoadjuvant chemotherapy combined with anti-EGFR antibodies [Nanostring],27,Expression profiling by array,23845
+GSE180775,Recurrence biomarkers of triple negative breast cancer treated with neoadjuvant chemotherapy combined with anti-EGFR antibodies [Agilent],41,Expression profiling by array,13607
+GSE180878,A human breast transcriptome atlas,16,Expression profiling by high throughput sequencing,20795
+GSE180962,Ganitumab and Metformin plus Standard Neoadjuvant Therapy in Stage 2/3 Breast Cancer: Results from the I-SPY2 Adaptively Randomized Platform Trial,233,Expression profiling by array,16233;20078
+GSE181466,RNAseq of a Triple-Negative Breast Cancer Cohort Treated with Neoadjuvant Carboplatin and Docetaxel According to Lehmann's Refined Classification,97,Expression profiling by high throughput sequencing,16791
+GSE181548,Pam50 of a Triple-Negative Breast Cancer Cohort Treated with Neoadjuvant Carboplatin and Docetaxel According to Lehmann's Refined Classification,105,Expression profiling by array,17784
+GSE181574,Neoadjuvant T-DM1/pertuzumab and paclitaxel/trastuzumab/pertuzumab for HER2-positive breast cancer in the adaptively randomized I-SPY2 trial.,127,Expression profiling by array,20078;30493
+GSE182288,Effect of ribociclib on breast cancer cells,12,Expression profiling by high throughput sequencing,16791
+GSE18229,Phenotypic and Molecular Characterization of the Claudin-low Intrinsic Subtype of Breast Cancer,372,Expression profiling by array,887;5325;1390;885;6607;7504;1708
+GSE182606,Dormancy-inducing 3D engineered matrix uncovers mechanosensitive and drug-protective FHL2-p21 signaling axis,9,Expression profiling by high throughput sequencing,15520
+GSE182951,Circulating exosomal microRNAs as predictive biomarkers of neoadjuvant chemotherapy response in breast cancer,40,Non-coding RNA profiling by high throughput sequencing,18573
+GSE18331,A phenotype-based model for rational selection of novel targeted therapies in treating aggressive breast cancer,14,Expression profiling by array,570
+GSE18378,Gene profiling and prediction of response to anastrozole neoadjuvant treatment in breast cancer,60,Expression profiling by array,6480;6848
+GSE184156,Targeting metabolic adaptations in the breast cancer–liver metastatic niche using dietary approaches to improve endocrine therapy efficacy,44,Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing,11154;16512
+GSE184159,Identification of DNA methylation biomarkers for prediction of response to neoadjuvant chemotherapy in triple-negative breast cancer [EPIC Array],63,Methylation profiling by array,23976
+GSE184455,Seviteronel plus chemotherapy is a new targeted combination therapy to treat triple-negative breast cancer,12,Expression profiling by high throughput sequencing,24676
+GSE184647,Androgen receptor signalling driving cancer stem cells (CSCs) state in triple-negative breast cancer,23,Expression profiling by high throughput sequencing,16791
+GSE185507,An immunological signature to predict outcome in patients with triple-negative breast cancer patients with residual disease after neoadjuvant chemotherapy,115,Expression profiling by array,30829
+GSE185865,RNA Binding Protein CELF6 Modulates Expression and Alternative Splicing of Genes associated with Tumorigenesis in Non-small Cell Lung Cancer Cells.,6,Expression profiling by high throughput sequencing,24676
+GSE186004,Heat Shock Factor 1 (HSF1) regulates ESR1 action in breast cancer,12,Expression profiling by high throughput sequencing,18460
+GSE186102,"Neoadjuvant eribulin in HER2-negative early-stage breast cancer (SOLTI-1007-NeoEribulin): a multicenter, two-cohort, non-randomized phase II trial",473,Expression profiling by array,30877
+GSE1864,A genomic view of estrogen actions in human breast cancer cells,25,Expression profiling by array,970
+GSE186965,H3K27me3 conditions chemotolerance  in triple-negative breast cancer [ChIP-reChIP],23,Genome binding/occupancy profiling by high throughput sequencing,24676
+GSE186966,H3K27me3 conditions chemotolerance  in triple-negative breast cancer [CUT&TAG],18,Genome binding/occupancy profiling by high throughput sequencing,24676
+GSE18728,Expression data from human breast cancers pre and post chemothrapy,61,Expression profiling by array,570
+GSE18864,Tumor expression data from neoadjuvant trial of cisplatin monotherapy in triple negative breast cancer patients,84,Expression profiling by array,570
+GSE188743,"A three lncRNA set: AC009975.1, POTEH-AS1 and AL390243.1 as nodal efficacy biomarker of neoadjuvant therapy for HER-2 positive breast cancer",6,Non-coding RNA profiling by array,26963
+GSE18908,Breast tumor subtypes correlate with prognosis,111,Expression profiling by array,5953
+GSE189274,CDK12 promotes tumorigenesis but induces vulnerability to therapies inhibiting folate one-carbon metabolism in breast cancer.,8,Expression profiling by high throughput sequencing,24247;24676
+GSE189371,Radiomics Predicts High or Low Recurrence Risk and is Associated with LncRNAs in Breast Cancer,96,Expression profiling by high throughput sequencing,29480
+GSE189757,Novel dynamic network analysis approach characterizes progressive and complex effects of weight gain and obesity on breast cancer signaling,44,Expression profiling by high throughput sequencing,16791
+GSE190275,TP53 signature predicts survival outcome in triple-negative breast cancer with neoadjuvant chemotherapy,60,Expression profiling by array,31028
+GSE190811, Single cell profiling of primary and paired metastatic lymph node tumors in breast cancer patients (10x Visium),4,Expression profiling by high throughput sequencing,24676
+GSE190883,"PCW-1001, a novel pyrazole compound, modulates the expression of DNA damage response genes",4,Other,27026
+GSE191127,Comprehensive characterization of pre- and post-treatment samples of breast cancer reveal potential mechanisms of chemotherapy resistance,40,Expression profiling by high throughput sequencing,11154
+GSE192341,RNAseq gene expression profiles of 87 pre-treatment biopsies of breast cancer patients to study neoadjuvant treatment response,87,Expression profiling by high throughput sequencing,11154
+GSE194040,I-SPY2-990 mRNA/RPPA Data Resource: mRNA component,988,Expression profiling by array,30493;20078
+GSE195712,RBCK1 is an Endogenous Inhibitor for Triple Negative Breast Cancer via Hippo/YAP axis,6,Expression profiling by high throughput sequencing,23227
+GSE19594,SNP array data of breast cancer,88,SNP genotyping by SNP array; Genome variation profiling by SNP array,1266
+GSE196093,I-SPY2-990 mRNA/RPPA Data Resource: RPPA component,736,Protein profiling by protein array,28470
+GSE196096,I-SPY2-990 mRNA/RPPA Data Resource,1724,Expression profiling by array; Protein profiling by protein array,30493;28470;20078
+GSE19697,An expression profile that predicts the therapeutic response of the basal-like breast cancer to neoadjuvant chemotherapy,24,Expression profiling by array,570
+GSE197894,An alternatively spliced p62 isoform promotes breast cancer chemoresistance,20,Expression profiling by high throughput sequencing,20301
+GSE197931,A novel signature of twelve-gene to evaluate neoadjuvant chemotherapy response and predict prognosis in breast cancer,6,Expression profiling by high throughput sequencing,11154
+GSE199088,A novel small molecule targeting oncogenic PELP1 demonstrates anti-tumor activity in wild type and mutant estrogen receptor alpha-positive breast cancer,6,Expression profiling by high throughput sequencing,18573
+GSE200029,FGFR inhibition reverses resistance to endocrine therapy by reducing expression of EMT-related genes,15,Expression profiling by high throughput sequencing,24676
+GSE201085,Peripheral Blood Monocyte Abundance Predicts Outcomes in Breast Cancer Patients,58,Expression profiling by high throughput sequencing,24676
+GSE20181,Letrozole (Femara) early and late responses to treatment,176,Expression profiling by array,96
+GSE20194,MAQC-II Project: human breast cancer (BR) data set,278,Expression profiling by array,96
+GSE202402,Xmal-RRBS on breast carcinoma samples taken before and after neoadjuvant chemotherapy,40,Methylation profiling by high throughput sequencing,17301
+GSE202536,Doxorubicin response in a triple negative breast cancer cell model: long-term resistance versus short-term stress,15,Expression profiling by array,570
+GSE202595,Diabetes-associated breast cancer has a distinct transcriptome and metabolome and shows DNA repair deficiency [ER positive cell lines],24,Expression profiling by high throughput sequencing,21290
+GSE202597,Diabetes-associated breast cancer has a distinct transcriptome and metabolome and shows DNA repair deficiency [CML exposed MDAMB231 cells],8,Expression profiling by high throughput sequencing,18573
+GSE202598,Diabetes-associated breast cancer has a distinct transcriptome and metabolome and shows DNA repair deficiency [MDAMB157 cell lines],8,Expression profiling by high throughput sequencing,24676
+GSE202599,Diabetes-associated breast cancer has a distinct transcriptome and metabolome and shows DNA repair deficiency [Xenografts],24,Expression profiling by high throughput sequencing,18573
+GSE202682,Breast Cancer Chemotherapy Induces Vascular Dysfunction and Hypertension,12,Expression profiling by high throughput sequencing,16791
+GSE20271,Expression data from breast cancer FNA biopsies from patients,178,Expression profiling by array,96
+GSE202772,Epigenetic heterogeneity and transcriptional drivers of triple-negative breast cancer (PDX H3K27ac ChIP-Seq),24,Genome binding/occupancy profiling by high throughput sequencing,18573
+GSE202773,Epigenetic heterogeneity and transcriptional drivers of triple-negative breast cancer (PDX  RNA-Seq),15,Expression profiling by high throughput sequencing,18573
+GSE202775,Epigenetic heterogeneity and transcriptional drivers of triple-negative breast cancer (PDX Methylation),15,Methylation profiling by array,13534
+GSE202922,Diabetes-associated breast cancer has a distinct transcriptome and metabolome and shows DNA repair deficiency [Breast Tumors],73,Expression profiling by high throughput sequencing,21290
+GSE20361,Dynamic changes during adaptation to estrogen deprivation in MCF7 cell line,8,Expression profiling by array,570
+GSE204825,Identification of Src Family Kinases as potential therapeutic targets for chemotherapy-resistant triple negative breast cancer,64,Expression profiling by high throughput sequencing,18573
+GSE205243,A novel 3D co-culture model augmented with single-cell sequencing to study the response of breast cancer cells to cisplatin,3,Expression profiling by high throughput sequencing,24676
+GSE205472,A Single-Cell Atlas of HR+ Breast  Cancer Reveals the Shifting of the Tumor Microenvironment in Response to Neoadjuvant Chemotherapy,13,Expression profiling by high throughput sequencing,24676
+GSE205568,A pooled treatment-curated breast cancer gene-expression dataset,,Expression profiling by array; Third-party reanalysis,
+GSE20624,Breast Carcinomas arising at a Young Age:  A Unique Biology or a Surrogate for Aggressive Intrinsic Subtypes.,344,Expression profiling by array,887;5325;885;1390
+GSE20685,Microarray-based molecular subtyping of breast cancer,327,Expression profiling by array,570
+GSE206998,RNAseq of triple negative breast cancer samples,6,Expression profiling by high throughput sequencing,24676
+GSE207248,On-treatment transcriptional profiling in HER2+ inflammatory breast cancer,44,Expression profiling by high throughput sequencing,18573
+GSE207460,An integrated ’omics approach highlights the role of epigenetic events to explain and predict response to neoadjuvant chemotherapy and bevacizumab in breast cancer,290,Methylation profiling by genome tiling array,13534
+GSE209533,Disulfiram/Cu induce ferroptosis in triple-negative breast cancer cells,6,Expression profiling by high throughput sequencing,24676
+GSE210306,Integrated transcriptome analysis of radioresistant cells revealed genes and pathways predictive of tumor response to radiotherapy and chemotherapy in breast cancer,8,Expression profiling by array,6244
+GSE210680,Engineering Pluripotent DNA Methylation by CpG Island Methylation Response (CIMR) to Synthetic CpG-free ssDNA Insertion,47,Methylation profiling by genome tiling array,23976
+GSE211434,Diverse immune suppressing cancer communications with myeloid cells prevent T cell activation and recruitment and provide resistance to cell cycle inhibitor therapy,81,Expression profiling by high throughput sequencing,16791
+GSE212690,Beneficial effects of mifepristone treatment in breast cancer patients selected by the progesterone receptor isoform ratio: Results from the MIPRA trial,16,Expression profiling by high throughput sequencing,24676
+GSE213029,Aerobic Exercise Training Rejuvenates the Human Skeletal Muscle Methylome Ten years after Breast Cancer Treatment and Survival,32,Methylation profiling by array,21145
+GSE213228,Targeting IRAK2 in triple-negative breast cancer cells decreases cellular growth in vitro and delays tumor progression in murine models,18,Expression profiling by high throughput sequencing,18573
+GSE216333,Predictors of success in establishing orthotopic patient-derived xenograft models of triple negative breast cancer,207,Expression profiling by array,96
+GSE216413,Effect of GATA3 suppression gene expression in breast cancer cells.,6,Expression profiling by high throughput sequencing,24676
+GSE218973,Spatial Profiling Identifies Prognostic Features of Response to Adjuvant Therapy in Triple Negative Breast Cancer (TNBC),50,Other,32896
+GSE21974,Molecular Subtype Predicts Response to Neoadjuvant Chemotherapy in Breast Cancer,57,Expression profiling by array,6480
+GSE21997,Genomic predictors of response to doxorubicin versus docetaxel in breast cancer,98,Expression profiling by array,5325;1390;7504
+GSE22093,Expression data from breast cancer FNA biopsies from patients,103,Expression profiling by array,96
+GSE221060,Long noncoding RNA expression profile of chemotherapy-sensitive and resistant breast cancer tissues,6,Non-coding RNA profiling by array,16956
+GSE221061,Long noncoding RNA expression profile of breast cancer tissues pre- and post-neoadjuvant chemotherapy,6,Non-coding RNA profiling by array,16956
+GSE221222,ATR/Chk1 interacting lncRNA modulates DNA damage response to induce breast cancer chemoresistance,12,Non-coding RNA profiling by array,16956
+GSE22226,Heterogeneity of Response to Chemotherapy and Recurrence-free Survival in Neoadjuvant Breast Cancer: Results from the I-SPY 1 TRIAL,150,Expression profiling by array,1708;4133
+GSE22290,Breast tumor DNA methylation,162,Methylation profiling by array,9183
+GSE22386,Dynamic changes in gene expression in vivo predict prognosis of tamoxifen-treated patients with breast cancer,32,Expression profiling by array,506
+GSE225078,"A phase Ib trial evaluating the safety, efficacy, and immunologic effects of pembrolizumab plus paclitaxel or flat-dose capecitabine in 1st/2nd line metastatic triple-negative breast cancer",30,Expression profiling by high throughput sequencing,20301
+GSE22513,Markers of Taxane Sensitivity in Breast Cancer,28,Expression profiling by array,570
+GSE225762,PCMT1 knockdown attenuates malignant properties by globally regulating transcriptome profiles in triple-negative breast cancer cells,6,Expression profiling by high throughput sequencing,24676
+GSE230521,NK cell-triggered CCL5/IFNg-CXCL9/10 axis underlies the clinical efficacy of HER2-targeted antibodies in primary HER2-positive breast cancer [array],12,Expression profiling by array,23159
+GSE230536,NK cell-triggered CCL5/IFN?-CXCL9/10 axis underlies the clinical efficacy of HER2-targeted antibodies in primary HER2 positive breast cancer [RNA-seq],15,Expression profiling by high throughput sequencing,18573
+GSE230881,IRSN-23 Prospective Analyses,263,Expression profiling by array,570
+GSE231629,Microarray gene expression profiles from female ER-positive HER2-normal breast cancer patients,109,Expression profiling by array,570
+GSE232764,TBCRC 039: A phase II study of preoperative ruxolitinib with or without paclitaxel for triple-negative inflammatory breast cancer,17,Expression profiling by high throughput sequencing,24676
+GSE234171,Long-term multi-modal recording reveals epigenetic adaptation routes in dormant breast cancer cells [RNA-Seq],51,Expression profiling by high throughput sequencing,24676
+GSE234181,Long-term multi-modal recording reveals epigenetic adaptation routes in dormant breast cancer cells [scRNA-Seq],184,Expression profiling by high throughput sequencing,24676
+GSE234475,Effect of HORMAD1 and CT83 Cancer/Testis Gene expression on human mammary epithelial cell line (HMLE),12,Expression profiling by high throughput sequencing,24676
+GSE234519,NSABP B-41: A Study of AC Followed by a Combination of Paclitaxel Plus Trastuzumab or Lapatinib or Both Given Before Surgery to Patients With Operable HER2 Positive Invasive Breast Cancer,245,Expression profiling by high throughput sequencing,24676
+GSE235052,Identification of a Notch transcriptomic signature for breast cancer [dataset1],155,Expression profiling by high throughput sequencing,16791
+GSE236275,"Expression of PVRL4, a molecular target for cancer treatment, is transcriptionally regulated by FOS family protein",9,Expression profiling by high throughput sequencing,17303
+GSE236419,Diabetes-associated breast cancer has a distinct transcriptome and metabolome and shows DNA repair deficiency [RNAseq-Hs578T],8,Expression profiling by high throughput sequencing,24676
+GSE236420,Diabetes-associated breast cancer has a distinct transcriptome and metabolome and shows DNA repair deficiency [RNAseq-MDA-MB-231_and_MDA-MB-468],16,Expression profiling by high throughput sequencing,16791
+GSE236681,Targeting Metabolic Adaptations in the Breast Cancer–Liver Metastatic Niche Using Dietary Approaches to Improve Endocrine Therapy Efficacy,4,Expression profiling by high throughput sequencing,25526
+GSE236749,Identification of a Notch transcriptomic signature for breast cancer [dataset2],106,Expression profiling by high throughput sequencing,24676
+GSE237984,MAGI1 prevents senescence and promotes the DNA damage response in ER+ breast cancer,13,Expression profiling by high throughput sequencing,24676
+GSE23988,Expression data from breast cancer FNA biopsies from patients (US samples),61,Expression profiling by array,96
+GSE240138,Bexmarilimab-induced macrophage activation leads to treatment benefit in solid tumors: the phase I/II first-in-human MATINS trial,222,Expression profiling by high throughput sequencing; Other,24676
+GSE240671,Stranded bulk Illumina RNASeq of human mammary tumors before and after neoadjuvant chemotherapy treatment,122,Expression profiling by high throughput sequencing,24676
+GSE241785,Expression of vesicular miRNAs from plasma of Brazilian breast cancer patients diagnosed before 40 years old,24,Non-coding RNA profiling by array,32484
+GSE241852,"Grainyhead-like-2, an epithelial master programmer, promotes interferon induction and suppresses breast cancer recurrence [RNA-Seq]",12,Expression profiling by high throughput sequencing,20301
+GSE243238,Identification of tumor-intrinsic drivers of immune exclusion in acral melanoma,20,Expression profiling by high throughput sequencing,18573
+GSE243375,HER2 heterogeneity and treatment response-associated profiles in HER2-positive breast cancer in the NCT02326974 clinical trial ,287,Expression profiling by high throughput sequencing,24676
+GSE243956,Ultradeep targeted methylation sequencing of BRCA1 promoter in paired tumor-normal samples from breast cancer patients,819,Methylation profiling by high throughput sequencing,15520
+GSE245132,Gene expression profiling of HER2-positive breast cancer samples collected at baseline and at surgery from patients who did not achieve pathological complete response after trastuzumab-based neoadjuvant biochemotherapy.,64,Expression profiling by array,23159
+GSE24578,Basal gene expression of breast cancer cell lines,14,Expression profiling by array,571
+GSE246198,Acidosis-mediated inhibition of cancer cell dissemination is restored by hypoxia via regulation of NHE1-dependent signaling,12,Expression profiling by high throughput sequencing,18573
+GSE246613,Single-cell and spatial profiling identify three response trajectories to pembrolizumab and radiation therapy in triple negative breast cancer,266,Expression profiling by high throughput sequencing,24676;24247
+GSE24716,Expression data from CD133+ and CD133- glioma cells,8,Expression profiling by array,571
+GSE24717,Using a Stem Cell-Based Signature to Guide Therapeutic Selection in Cancer,22,Expression profiling by array,571
+GSE248460,The micro RNA expression of 5 nomal breast tissues and 15 breast cancer tissues,20,Non-coding RNA profiling by high throughput sequencing,16791
+GSE248830,Unlocking Molecular mechanisms and identifying druggable targets in matched-paired brain metastasis of Breast and Lung cancers ,44,Expression profiling by array,32069
+GSE250156,An inflamed tumor cell subpopulation promotes chemotherapy resistance in triple negative breast cancer [scRNA-Seq],5,Expression profiling by high throughput sequencing,16791
+GSE250157,An inflamed tumor cell subpopulation promotes chemotherapy resistance in triple negative breast cancer [RNA-Seq],8,Expression profiling by high throughput sequencing,24676
+GSE25055,Discovery cohort for genomic predictor of response and survival following neoadjuvant taxane-anthracycline chemotherapy in breast cancer,310,Expression profiling by array,96
+GSE25065,Validation cohort for genomic predictor of response and survival following neoadjuvant taxane-anthracycline chemotherapy in breast cancer,198,Expression profiling by array,96
+GSE25066,Genomic predictor of response and survival following neoadjuvant taxane-anthracycline chemotherapy in breast cancer,508,Expression profiling by array,96
+GSE251707,NRF2 activation by cysteine as a mechanism of survival for Triple Negative Breast Cancer cells,12,Expression profiling by high throughput sequencing,18573
+GSE252175,Multi-Omics molecular subtyping based on commensal microbiome predicts molecular characteristics and therapeutic response in Triple-Negative Breast Cancer [scRNA-seq],2,Expression profiling by high throughput sequencing,24676
+GSE252176,Multi-Omics molecular subtyping based on commensal microbiome predicts molecular characteristics and therapeutic response in Triple-Negative Breast Cancer [Spatial Transcriptome seq],4,Expression profiling by high throughput sequencing; Other,24676
+GSE252315,Basal epithelial subpopulations underlie and predict chemotherapy resistance in Triple-Negative Breast Cancer,21,Expression profiling by high throughput sequencing,11154
+GSE254558,Chemotherapy-driven de novo Wnt pathway activation dictates a dynamic shift to a drug-tolerant state in breast cancer cells,46,Expression profiling by high throughput sequencing,20301
+GSE255068,Tumor cells impair immunological synapse formation via central nervous system-enriched metabolite,3,Expression profiling by high throughput sequencing,24676
+GSE255107,STING signalling compensates for low tumour mutation burden to drive anti-tumour immunity,11,Expression profiling by high throughput sequencing,24676
+GSE255359,High mechanical conditioning by tumor extracellular matrix stiffness is a predictive biomarker for anti-fibrotic therapy in HER2-negative breast cancer,108,Expression profiling by high throughput sequencing,21697
+GSE255765,MCF-7 ESR1 drug response bulk RNA,64,Expression profiling by high throughput sequencing,24676
+GSE255766,MCF-7 ESR1 drug response scRNA,6,Expression profiling by high throughput sequencing,24676
+GSE259249,ZBTB7A is a modulator of KDM5-driven transcriptional networks in basal breast cancer  (RNA-Seq),63,Expression profiling by high throughput sequencing,24676;20301
+GSE260693,Breast cancer-subtype and infiltrating macrophage signatures predict chemotherapy-response and survival,73,Expression profiling by high throughput sequencing,24676
+GSE260989,Phase 1 Trial Combining Neoadjuvant Chemotherapy with Chemokine Modulatory Regimen for Triple Negative Breast Cancer,14,Expression profiling by high throughput sequencing,24676
+GSE261774,SPP1+ macrophages in HR+ breast cancer are associated with tumour-infiltrating lymphocytes.,21,Expression profiling by high throughput sequencing,24676
+GSE261815,"Immune microenvironment of premenopausal estrogen receptor-positive/HER2-negative advanced breast cancer in response to treatment of Pembrolizumab, exemestane, and leuprolide",11,Expression profiling by array,32069
+GSE262268,Defects in CDK12 promote epigenetic plasticity through remodeling of the core transcription machinery (MeDIP-seq),12,Methylation profiling by high throughput sequencing,28038
+GSE263089,ESR1 and p53 Interactome Defines Mechanisms of Therapeutic Response to Tamoxifen Therapy in Luminal Breast Cancer Patients,35,Expression profiling by high throughput sequencing,16791
+GSE263161,ZBTB7A is a modulator of KDM5-driven transcriptional networks in basal breast cancer  (scRNA-seq),4,Expression profiling by high throughput sequencing,24676
+GSE26338,"Genomic analysis identifies unique signatures predictive of brain, lung, and liver relapse",414,Expression profiling by array,1390;1708;5325;885;1197;6607;887
+GSE264197,Inosine Monophosphate Dehydrogenase 2 (IMPDH2) Modulates Response to Therapy and Chemo-Resistance in Triple Negative Breast Cancer,9,Expression profiling by high throughput sequencing,18573
+GSE264252,Targeting neddylation and sumoylation in chemoresistant triple negative breast cancer,34,Expression profiling by high throughput sequencing,24676
+GSE26639,Expression Data from 226 patients of the REMAGUS02 trial,226,Expression profiling by array,570
+GSE26666,"miR148b is a major coordinator of breast cancer progression in a relapse-associated microRNA signature by targeting ITGA5, ROCK1, PIK3CA, NRAS and CSF1",102,Non-coding RNA profiling by array; Expression profiling by array,6480;8227
+GSE266919,Distinct Cellular Mechanisms Underlie Chemotherapies and Their Combinations with PD-L1 Checkpoint Inhibitor in Triple-Negative Breast Cancer [TNBC],117,Expression profiling by high throughput sequencing,24676;24247
+GSE267168,CSF1R inhibition plus chemotherapy induces systemic anti-tumor immune responses in triple negative breast cancer and sensitizes tumors to anti-PD-1 therapy by relieving resident memory T cell dysfunction [luminex],107,Protein profiling by protein array,34463
+GSE267543,Integrative miRNOMe profiling reveals the miR-195-5p-CHEK1 axis and its impact on luminal breast cancer outcomes ,101,Non-coding RNA profiling by array,25134
+GSE267582,Epigenome analysis of MTHFD2 as a biomarker for decitabine response in MDA-MB-231 tumours,24,Methylation profiling by array,21145
+GSE268514,Integrative genomic analysis of Korean high-grade serous ovarian cancer,161,Expression profiling by high throughput sequencing,24676
+GSE268662,Multi-omic analysis identifies metabolic biomarkers for early detection of breast cancer and prediction of therapeutic responses,9,Expression profiling by high throughput sequencing,24676
+GSE270235,Responses to checkpoint inhibition in metastatic TNBC driven by divergent myeloid phenotypes,12,Expression profiling by high throughput sequencing,24676
+GSE270967,LncRNA expression profile is associated with neoadjuvant chemotherapy resistance in luminal B breast cancer,20,Expression profiling by high throughput sequencing,16791
+GSE271080,Randomized phase II trial of preoperative fulvestrant with or without enzalutamide for ER+/Her2- primary breast cancer,86,Expression profiling by high throughput sequencing,20301
+GSE27120,Characterization and clinical evaluation of CD10+ stroma cells in the breast cancer microenvironment,79,Expression profiling by array,570
+GSE271314,"Transcriptome analysis of rigosertib resistant MDA-MB-453 cells, obtained from a CRISPR screen with WNK1 depletion.",5,Expression profiling by high throughput sequencing,21697
+GSE271749,Transient splicing inhibition causes persistent DNA damage and enhances chemotherapy vulnerability in homologous recombination proficient triple-negative breast cancer,9,Expression profiling by high throughput sequencing,24676
+GSE27354,Glycogene expression changes between different passages in the 4T1 Mouse metastatic breast cancer cell line,12,Expression profiling by array,11094
+GSE273622,TRIB3 inhibition by palbociclib sensitizes prostate cancer to ferroptosis via SOX2-mediated SLC7A11 downregulation,6,Expression profiling by high throughput sequencing,24676
+GSE27463,"Global Analysis of the Immediate Transcriptional Effects of Estrogen Signaling Reveals a Rapid, Extensive, and Transient Response",8,Expression profiling by high throughput sequencing,9052
+GSE275065,NSABP B-41: A Study of AC Followed by a Combination of Paclitaxel Plus Trastuzumab or Lapatinib or Both Given Before Surgery to Patients With Operable HER2 Positive Invasive Breast Cancer [B41_27_POST],27,Expression profiling by high throughput sequencing,24676
+GSE278231,Transcriptomic analysis of human breast cancer cells upon carboplatin treatment,6,Expression profiling by high throughput sequencing,24676
+GSE279219,Early downmodulation of tumor glycolysis predicts response to fasting-mimicking diet in triple-negative breast cancer patients,24,Expression profiling by high throughput sequencing,24676
+GSE279294,Transcriptomic profiling of MDA-MB-453 breast cancer cells following ZNF207 overexpression,6,Expression profiling by high throughput sequencing,24676
+GSE279443,Transcriptomic profiling of MCF-7 breast cancer cells under normoxic and hypoxic conditions,6,Expression profiling by high throughput sequencing,34284
+GSE280454,Identification of a shared drug-tolerant persister program in triple-negative breast cancer across treatments and patients [CUT&Tag],23,Genome binding/occupancy profiling by high throughput sequencing,24676
+GSE280455,Identification of a shared drug-tolerant persister program in triple-negative breast cancer across treatments and patients [CITE-seq],5,Expression profiling by high throughput sequencing; Other,24676
+GSE280810,Macrophages expressing chimeric cytokine receptors have an inflammatory phenotype and anti-tumoral activity upon IL-10 or TGFβ stimulation,30,Expression profiling by high throughput sequencing,24676
+GSE280902,Identification of neoadjuvant chemotherapy response transcriptomic meta-signatures in invasive breast cancer in Latino patients,58,Expression profiling by high throughput sequencing,30173
+GSE283272,Neoadjuvant HER2 inhibition induces ESR1 DNA methylation alterations resulting in clinically relevant ER expression changes in breast cancer,22,Methylation profiling by genome tiling array,21145
+GSE28330,Telomeric Allelic Imbalance Indicates Defective DNA Repair and Sensitivity to DNA-Damaging Agents ,107,Genome variation profiling by SNP array; SNP genotyping by SNP array,13270;13362
+GSE283522,The spatially informed mFISHseq assay resolves biomarker discordance and predicts treatment response in breast cancer,1254,Expression profiling by high throughput sequencing,24676
+GSE283791,A Pilot Phase II Study of Neoadjuvant Fulvestrant plus Abemaciclib in Women with Advanced Low-Grade Serous Carcinoma,6,Expression profiling by high throughput sequencing,24676
+GSE284115,Single-cell transcriptomics of myeloid milieu reveals an angiogenic niche in triple-negative breast cancer,6,Expression profiling by high throughput sequencing,20795;21273
+GSE284956,Overcoming intrinsic mechanisms of cell cycle inhibitor resistance in estrogen receptor-positive (ER+) breast cancer,180,Expression profiling by high throughput sequencing,24676
+GSE285485,TREM2+ Macrophage Infiltration Underlies Breast Cancer Lung Metastasis due to Paclitaxel Treatment,6,Expression profiling by high throughput sequencing,24676
+GSE28583,Differentially expressed genes after treatment with chemotherapy in breast cancer and their correlation with pathologic mid-response (Miller & Payne grade 3),20,Expression profiling by array,570
+GSE286213,Mapping cell-cell fusion at single-cell resolution [scRNA-seq],2,Expression profiling by high throughput sequencing,24676
+GSE28694,Differentially expressed genes after treatment with chemotherapy in breast cancer and their correlation with pathologic good response (Miller & Payne grades 4 and 5),13,Expression profiling by array,570
+GSE287429,Drug Repurposing Identifies Proteasome Inhibitors as Antiproliferative Agents Counteracting Inflammation-Driven Chemoresistance in Triple-Negative Breast Cancer Organoids,12,Expression profiling by high throughput sequencing,34284
+GSE28796,Gene expression profiles of pretreatment biopsies from dose-dense-docetaxel-treated breast cancers,24,Expression profiling by array,570
+GSE28826,Differentially expressed genes after treatment with chemotherapy in breast cancer and their correlation with pathologic bad response (Miller & Payne grades 1 and 2),28,Expression profiling by array,570
+GSE28844,Differentially expressed genes after treatment with chemotherapy in breast cancer and their correlation with pathologic response,61,Expression profiling by array,570
+GSE289189,Histone H4 lysine 20 tri-methylation safeguards breast cancer lineage fidelity and unfolded protein response [Bulk RNA-seq],22,Expression profiling by high throughput sequencing,24676
+GSE289193,Histone H4 lysine 20 tri-methylation safeguards breast cancer lineage fidelity and unfolded protein response,160,Expression profiling by high throughput sequencing,24676;24247
+GSE289825,Single-cell transcriptomic profiling of immune landscape in triple-negative breast cancer during neoadjuvant chemotherapy,2,Expression profiling by high throughput sequencing,30173
+GSE290733,Molecular Portraits of Social Adversity in Breast Cancer [RNA-Seq],66,Expression profiling by high throughput sequencing,24676
+GSE290735,Molecular Portraits of Social Adversity in Breast Cancer [smallRNA-Seq],61,Non-coding RNA profiling by high throughput sequencing,24676
+GSE290736,Molecular Portraits of Social Adversity in Breast Cancer [RRBS],55,Methylation profiling by high throughput sequencing,24676
+GSE291188,Unravelling the antitumor mechanism of Ocoxin through cancer cell genomics,24,Expression profiling by high throughput sequencing,24676
+GSE291966,An annotated biobank of triple negative breast cancer patient-derived xenografts featuring treatment-naïve and longitudinal samples throughout neoadjuvant chemotherapy,92,Expression profiling by high throughput sequencing,20301;11154
+GSE292476,Cancer stem cells are hyper-responsive sensors of tumor microenvironment in orchestrating metastasis dynamics,4,Expression profiling by high throughput sequencing,30173
+GSE292485,Cancer stem cells are hyper-responsive sensors of tumor microenvironment in orchestrating metastasis dynamics,8,Expression profiling by high throughput sequencing,16791
+GSE292487,FADS2 Mediated Nrf2-SLC7A11 Axis Activation Promotes Breast Ductal Carcinoma in Situ Progression via Glutamate Efflux,25,Expression profiling by high throughput sequencing,24676
+GSE292539,Cancer stem cells are hyper-responsive sensors of tumor microenvironment in orchestrating metastasis dynamics,4,Genome binding/occupancy profiling by high throughput sequencing,24676
+GSE292946,A Pilot Phase II Study of Neoadjuvant Fulvestrant plus Abemaciclib in Women with Advanced Low--Grade Serous Carcinoma,88,Other,26526;24676
+GSE29338,Benign Breast Cores from Healthy Women Treated with Tamoxifen or Placebo,80,Expression profiling by array,13376
+GSE293933,Effect of decitabine on therapeutic response in doxorubicin- and paclitaxel-resistant breast cancer cell lines,29,Expression profiling by high throughput sequencing,30173
+GSE295602,SF3B6 promotes the cellular proliferation by extensively interacting with and regulating transcripts expression and alternative splicing in MDA-MB-231 cells [RIP-seq],4,Other,24676
+GSE295603,SF3B6 promotes the cellular proliferation by extensively interacting with and regulating transcripts expression and alternative splicing in MDA-MB-231 cells [RNA-seq],6,Expression profiling by high throughput sequencing,24676
+GSE29561,Response prediction to neoadjuvant chemotherapy,22,Expression profiling by array,96
+GSE295858,Spatially distinct cellular and molecular landscapes define prognosis in triple negative breast cancer [1],991,Other,30173;32628
+GSE295918,TREM2+ Macrophage Infiltration Underlies Breast Cancer Lung Metastasis due to Paclitaxel Treatment [ATAC-seq],8,Genome binding/occupancy profiling by high throughput sequencing,34290;34284
+GSE295927,Spatially distinct cellular and molecular landscapes define prognosis in triple negative breast cancer [2],449,Other,32628;30173
+GSE296805,An immunological mechanism of resistance to CDK4/6 inhibitors in breast cancer,50,Expression profiling by high throughput sequencing,24676
+GSE297299,Polyploid cisplatin-resistant cancer cells have altered nuclear organization and epigenomic status,16,Expression profiling by high throughput sequencing,34281;24676
+GSE298286,In silico reconstruction of primary and metastatic tumor architecture using GIS-augmented spatial transcriptomics,16,Expression profiling by high throughput sequencing; Other,24676
+GSE298644,Resistance to neoadjuvant talazoparib in triple-negative breast cancer mediated by BRN2-induced ATR/STAT3 pathways or Shieldin 2 subclone expansion,7,Expression profiling by high throughput sequencing,20301
+GSE298828,I-SPY2 TRIAL RPPA data for ganitumab arm (and control arm),221,Protein profiling by protein array,35911
+GSE298840,EMT-ciliary signaling in quasi-mesenchymal-stem-like cells drives therapeutic resistance and is a druggable vulnerability in triple-negative breast cancer,6,Expression profiling by high throughput sequencing,24676
+GSE298905,Polyploid cisplatin-resistant cancer cells have altered nuclear organization and epigenomic status,54,Genome binding/occupancy profiling by high throughput sequencing,24676
+GSE299631,Spatiotemporal organisation of residual disease in mouse and human BRCA1-deficient mammary tumors and breast cancer,50,Expression profiling by high throughput sequencing; Other,24676;24247
+GSE300475,Single cell RNA sequencing for longitudinal human peripheral blood from HR+ breast cancer patients treated with immunotherapy,32,Other; Expression profiling by high throughput sequencing,24676
+GSE300749,Cannabinoid CB2 receptor drives trastuzumab resistance and predicts durable anti-HER2 response,12,Expression profiling by high throughput sequencing,24676
+GSE302088,Inhibition of Acetyl-CoA-carboxylase induces endoplasmic reticulum stress and has synergistic effects with anti-cancer therapies,5,Expression profiling by high throughput sequencing,24676
+GSE303200,Identification of a shared drug-tolerant persister program in triple-negactive breast cancer across treatments and patients [RNA-Seq],18,Expression profiling by high throughput sequencing,24676
+GSE303201,Identification of a shared drug-tolerant persister program in triple-negactive breast cancer across treatments and patients [scRNA-Seq],10,Expression profiling by high throughput sequencing,24676
+GSE303203,Identification of a shared drug-tolerant persister program in triple-negactive breast cancer across treatments and patients [array],59,Expression profiling by array,570
+GSE304108,Drug Screening in 3D Microtumors Reveals DDR1/2-MAPK12-GLI1 as a Vulnerability in Cancer-Associated Fibroblasts,29,Expression profiling by high throughput sequencing,16791;17021
+GSE30516,Dynamic re-wiring of apoptotic signaling networks enhances tumor cell killing by DNA damage,25,Expression profiling by array,570
+GSE306386,BRMS1L promotes chemotherapy sensitivity by inhibiting autophagy in breast cancer,2,Expression profiling by high throughput sequencing,24676
+GSE306824,Nuclear accumulation of ADAMTS1 zymogen: A novel mechanism promoting chemoresistance and metastasis in breast cancer,2,Genome binding/occupancy profiling by high throughput sequencing,24676
+GSE307248,Nuclear accumulation of ADAMTS1 zymogen: A novel mechanism promoting chemoresistance and metastasis in breast cancer [RNA-Seq],6,Expression profiling by high throughput sequencing,24676
+GSE307574,Determinants of long-term response to patritumab deruxtecan (HER3-DXd) in breast cancer patient-derived xenografts,58,Expression profiling by high throughput sequencing,24676
+GSE307770,Epigenetic markers of tumor progression in breast cancer patients with high nodal involvement,47,Methylation profiling by genome tiling array,21145
+GSE309004,Molecular determinants of neoadjuvant chemotherapy resistance in breast cancer: An analysis of gene expression and tumor microenvironment,54,Expression profiling by high throughput sequencing,18573
+GSE309752,ATP6V0D2 drives triple-negative breast cancer progression and inhibits cisplatin sensitivity by promoting PHLPP2 lysosomal degradation,6,Expression profiling by high throughput sequencing,29480
+GSE309800,OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumors [Primary Screen],15,Other,24676
+GSE309801,OR7A10 GPCR engineering boosts CAR-NK therapy against solid tumors [mini screen],25,Other,24676
+GSE310422,Determinants of long-term response to patritumab deruxtecan (HER3-DXd) in breast cancer patient-derived xenografts [NanoString],109,Other,36324
+GSE310900,Gene expression profile of FFPE primary Her2-positive breast cancer samples from patient who were subjected to  neoadjuvant therapy,13,Expression profiling by array,23126
+GSE312599,Altered MDC1 Interactions and Dysfunctional DNA Repair in Lobular Breast Cancer Confers Sensitivity to PARP Inhibition,4,Expression profiling by high throughput sequencing; Other,24676
+GSE313244,Multidimensional Single-Cell Transcriptomic Profiling of Uterine Leiomyosarcomas Identifies Molecular Subtypes with Distinct Therapeutic Vulnerabilities [Spatial Transcriptomics],26,Other,24676
+GSE31432,"Defining the molecular response to trastuzumab, pertuzumab and combination therapy in ovarian cancer",23,Expression profiling by array,6947
+GSE314386,Regulation of mitochondrial ROS by C15ORF48 in a basal cell subpopulation contributes to chemotherapy resistance in triple negative breast cancer,9,Expression profiling by high throughput sequencing,24676
+GSE314549,Chemotherapeutic Induction of Single-Stranded DNA Accumulation Sensitizes Triple-Negative Breast Cancer to Immunotherapy [RNA-Seq],6,Expression profiling by high throughput sequencing,24676
+GSE315149,"Nuclear FGF2, Androgen Receptor and Wnt Pathway Activation Define a Targetable Subset of Antiprogestin-Resistant Luminal Breast Cancer",6,Expression profiling by high throughput sequencing,16791
+GSE31519,A Clinically Relevant Gene Signature in Triple-Negative and Basal-Like Breast Cancer,67,Expression profiling by array; Third-party reanalysis,96
+GSE31870,Maintenance of Hormone Responsiveness in Luminal Breast Cancers by Suppression of Notch,24,Expression profiling by array,10481
+GSE318780,Transcriptome analysis of breast tumour tissue and adjacent normal,40,Expression profiling by high throughput sequencing,24676
+GSE319641,RNA-Seq profiling of pre- and on-treatment tumor samples from breast cancer patients enrolled in the NeoTRIP trial.,401,Expression profiling by high throughput sequencing,18573
+GSE319840,Patient-derived cell lines unveil COL1A2 as a predictor of docetaxel resistance in breast cancer,12,Expression profiling by high throughput sequencing,24676
+GSE32072,Expression data from breast cancer FNA and surgical specimens from patients,50,Expression profiling by array,96
+GSE323120,Integrating transcription factor networks with chromatin accessibility as markers of survival outcome and drug response in triple-negative breast cancer,48,Genome binding/occupancy profiling by high throughput sequencing,16791
+GSE324721,Neoadjuvant Palbociclib Treatment Impacts Cell Cycle Progression of DCIS,24,Expression profiling by high throughput sequencing,34284
+GSE325338,ATR and PKMYT1inhibition re-sensitize a subset of TNBC patient-derived models to carboplatin and induce mitotic catastrophe,18,Expression profiling by high throughput sequencing,18573
+GSE32603,Serial gene expression analysis in locally advanced breast cancer patients who failed to respond to neoadjuvant chemotherapy,248,Expression profiling by array,14668
+GSE326056,CCR5 Governs DNA Damage Repair and Breast Cancer Stem Cell Expansion,2,Expression profiling by high throughput sequencing,11154
+GSE32646,GSTP1 expression predicts poor pathological complete response to neoadjuvant chemotherapy in ER-negative breast cancer,115,Expression profiling by array,570
+GSE327278,Analysis of transcriptional changes associated with acquired resistance to docetaxel in HR+/HER2- breast cancer cell line MCF-7,6,Expression profiling by high throughput sequencing,30173
+GSE328422,Spatio-temporal mapping of immune cell dynamics during human sequential lymph node metastasis,6,Other,33762
+GSE328653,Analysis of transcriptional changes associated with acquired resistance to taxanes and anthracyclines in HR+/HER2- breast cancer cell lines MCF-7 and ZR-75-1,12,Expression profiling by high throughput sequencing,30173
+GSE328823,"Innate and Acquired Transcriptional Programs Shape Heterogeneous Tumor Cell Responses to PARP, Akt, and CDK4/6 Inhibitors",16,Expression profiling by high throughput sequencing; Other,24676
+GSE331245,SMART: A Spatio-Molecular Atlas of Response Trajectories in Triple-Negative Breast Cancer,23,Other,18573
+GSE336193,Zanidatamab in Patients with Early Stage HER2-positive Breast Cancer: The NeoZanHER Phase 2 Single-Arm Open-Label Trial,16,Expression profiling by high throughput sequencing,34284
+GSE33658,"A phase II neoadjuvant trial of anastrozole (A), fulvestrant (F) and gefitinib (I - iressa) in patients with newly diagnosed estrogen receptor positive breast cancer",22,Expression profiling by array,570
+GSE341330,Tracking CDK1 dynamics with a novel biosensor mouse and clinical cohorts to predict CDK4/6 inhibitor sensitivity in ER+ breast cancer,9,Expression profiling by high throughput sequencing,24676
+GSE34138,"SERPINA6, BEX1, AGTR1, SLC26A3, and LAPTM4B are markers of resistance to neoadjuvant chemotherapy in HER2-negative breast cancer",178,Expression profiling by array,6884
+GSE344585,Gene expression analysis of HSD17B4 knock-out breast cancer cells,4,Expression profiling by high throughput sequencing,29480
+GSE35535,TIMP1 overexpression mediates resistance of MCF-7 human breast cancer cells to fulvestrant and down-regulates progesterone receptor expression,10,Expression profiling by array,13497
+GSE37543,Subtype-specific response to bevacizumab is reflected in the metabolome and transcriptome of breast cancer xenografts,60,Expression profiling by array,6480
+GSE37751,Molecular Profiles of Human Breast Cancer and Their Association with Tumor Subtypes and Disease Prognosis (Affymetrix),108,Expression profiling by array,6244
+GSE37754,Molecular Profiles of Human Breast Cancer and Their Association with Tumor Subtypes and Disease Prognosis (Illumina),72,Methylation profiling by array,13534
+GSE37946,HER2-enriched tumor initiating cell (HTIC) genomic predictor of response following neoadjuvant trastuzumab-based chemotherapy in HER2+ breast cancer,50,Expression profiling by array,96
+GSE38278,microRNAs and their target proteins are associated with characteristics of estrogen receptor-positive breast cancer (miRNA data),8,Non-coding RNA profiling by array,13746
+GSE38279,microRNAs and their target proteins associated with characteristics of estrogen receptor-positive breast cancer (mRNA data),8,Expression profiling by array,5639
+GSE38901,HSF1 drives a transcriptional program distinct from heat shock to support highly malignant human cancers [ChIP-Seq],63,Genome binding/occupancy profiling by high throughput sequencing,9052;15433;11154
+GSE39004,Molecular Profiles of Human Breast Cancer and Their Association with Tumor Subtypes and Disease Prognosis,180,Expression profiling by array; Methylation profiling by array,13534;6244
+GSE39130,Profiles of genomic instability in high-grade serous ovarian cancer (HGSC) predict treatment outcome,65,Genome variation profiling by SNP array; SNP genotyping by SNP array,3718
+GSE40049,Deregulated microRNAs in triple-negative breast cancer revealed by deep sequencing,38,Non-coding RNA profiling by high throughput sequencing,13393
+GSE40640,A radiation-induced gene expression signature as a tool to predict acute radiotherapy-induced adverse side effects,48,Expression profiling by array,6104
+GSE41112,Predictors of depression in breast cancer patients during and after radiotherapy: Role of chemotherapy and the inflammatory response,61,Expression profiling by array,10558
+GSE41656,Gene expression analysis of a series of HER2+ of breast tumors,60,Expression profiling by array,6884
+GSE41678,System-Wide Analysis Reveals a Complex Network of Tumor-Fibroblast Interactions Involved in Tumorigenicity,80,Expression profiling by array,6244
+GSE41998,Biomarker analysis of neoadjuvant Doxorubicin/Cyclophosphamide followed by Ixabepilone or Paclitaxel in early-stage breast cancer,279,Expression profiling by array,571
+GSE42347,Integrative genomics of gene and metabolic regulation by estrogen receptors α and β and coregulators [expression],4,Expression profiling by array,571
+GSE42822,Expression data from breast cancer FNA biopsies from patients ( (USO samples),91,Expression profiling by array,96
+GSE43296,Polysome-associated mRNA profiling of cancer cells in response to CXCL12 and IGF1,6,Expression profiling by high throughput sequencing,11154
+GSE4335,Norway/Stanford Breast Tumors,122,Expression profiling by array,180;2777;3047;3147;2778;2776;3045
+GSE43502,Identification of Prognosis-Relevant Subgroups in Patients with Chemoresistant Triple Negative Breast Cancer,25,Expression profiling by array,570
+GSE43807,The expression profile of ABC transporter genes in post-treatment breast carcinomas,111,Expression profiling by RT-PCR,16556
+GSE43816,Response to Neoadjuvant Chemotherapy in Triple Negative Breast tumors.,14,Expression profiling by array,11532
+GSE4382,Repeated observation of breast tumor subtypes in independent gene expression data sets,167,Expression profiling by array,3045;180;2776;2777;3507;3047;2778;3147
+GSE44272,The Long-HER Study,53,Expression profiling by array,13667
+GSE45898,Gene Expression analysis of therapeutical response in Triple Negative Breast tumors.,10,Expression profiling by array,11532
+GSE46350,Potential Biomarkers of Long-term Benefit from Single-agent Trastuzumab or Lapatinib in HER2-positive Metastatic Breast Cancer,21,Other,17071
+GSE4668,Expression data from hormone-starved MCF7/BUS cell culture,34,Expression profiling by array,96
+GSE47009,Hypoxia/Anoxia,4,Expression profiling by array,16686
+GSE47013,Deficiency in tumor suppressor p53 is required for doxorubicin induced transcriptional upregulation of NF-kB target genes in human breast cancer,12,Expression profiling by array,5175
+GSE47066,Reverse phase protein array based protein profiling of breast cancer specimens,128,Protein profiling by protein array,17176
+GSE47358,Novel role of Engrailed 1 as pro-survival transcription factor in basal-like breast cancer and engineering of interference peptides to block its oncogenic function,5,Expression profiling by array,10481
+GSE4779,A stroma-related gene signature predicts sensitivity to epirubicin-containing neoadjuvant chemotherapy in breast cancer.,102,Expression profiling by array,1352
+GSE48088,Expression of miRNAs in breast tumor from very youn women (<36) and women above 65 years old,36,Non-coding RNA profiling by array,14613
+GSE48905,The NEWEST trial,42,Expression profiling by array,570
+GSE48906,Neoadjuvant anastrozole alone or with gefitinib in early breast cancer,96,Expression profiling by array,570
+GSE49035,De novo sequencing of circulating microRNAs in locally advanced breast cancer,42,Non-coding RNA profiling by high throughput sequencing,16791
+GSE50567,BRCA1-related gene signature in breast cancer: the role of ER status and molecular type,41,Expression profiling by array,570
+GSE50693,Endocrine response in invasive lobular carcinoma is characterized by unique estrogen-mediated gene expression and de novo tamoxifen resistance (MM134),20,Expression profiling by array,571
+GSE50694,Endocrine response in invasive lobular carcinoma is characterized by unique estrogen-mediated gene expression and de novo tamoxifen resistance (SUM44),20,Expression profiling by array,571
+GSE50861,Reverse phase protein array based protein profiling of breast cancer specimens (2),4,Protein profiling by protein array,17727
+GSE50948,Expression Data from transNOAH breast cancer trial,156,Expression profiling by array,570
+GSE52072,Genomic polymorphism is genotyped to determine the association between genotypes and treatment outcomes,192,SNP genotyping by SNP array,17886
+GSE52322,Novel linkages between DCE-MRI and genomic profiling in locally advanced and inflammatory breast cancer,37,Expression profiling by array,570
+GSE52621,Detection of hypermethylated circulating serum DNA in metastatic breast cancer and confirmation by the cMethDNA assay,36,Methylation profiling by array,8490
+GSE53031,Gene expression profiling of human breast cancer during pregnancy,167,Expression profiling by array,13667
+GSE54025,Epigenome study of normal human epithelial tissues,23,Methylation profiling by array,8490
+GSE54091,Docetaxel-loaded solid lipid nanoparticles suppress breast cancer cells growth with reduced myelosuppression toxicity,8,Expression profiling by array,17811
+GSE5462,Letrozole (Femara) early response to treatment,116,Expression profiling by array,96
+GSE55374,Molecular changes in lobular breast cancers in response to endocrine therapy,36,Expression profiling by array,10558
+GSE56022,Ligand-dependent genomic function of glucocorticoid receptor in triple-negative breast cancer,22,Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing,16791;11154
+GSE56259,The expression profile of cytochromes P450 (CYPs) and aldo-keto reductases (AKRs) in post-treatment breast carcinomas,111,Expression profiling by RT-PCR,19914
+GSE56985,The C10orf10 protein profiling of breast cancer specimens based on a tissue array,1,Protein profiling by protein array,18600
+GSE57703,SSEA4 is a marker for chemotherapy resistance [mRNA],12,Expression profiling by array,17077
+GSE57704,SSEA4 is a marker for chemotherapy resistance [miRNA],12,Non-coding RNA profiling by array,18402
+GSE58479,Predicting Response and Survival in Chemotherapy-Treated Triple-Negative Breast Cancer,69,Other,18800
+GSE58837,Expression data from breast cancer tumors treated with a single window of the antiangiogenic agent Sunitinib,31,Expression profiling by array,6244
+GSE58990,Activation of IFN/STAT1 signaling is a hallmark of response to chemotherapy in patient-derived xenografts of triple-negative breast cancer,28,Expression profiling by array,5175
+GSE59515,Accurate prediction and validation of response to endocrine therapy in breast cancer,75,Expression profiling by array,10558
+GSE59780,"Expression data from menadione, PERK inhibitor, or control-treated HMLE-shGFP and HMLE-Twist human mammary epithelial cells",6,Expression profiling by array,570
+GSE60182,Integrative transcriptome-wide analyses reveal critical HER2-regulated mRNAs and lincRNAs in HER2+ breast cancer,6,Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing,16791
+GSE60964,YB-1 affects response to paclitaxel in TNBCs by modulation of EGR1,15,Expression profiling by array,15207
+GSE60994,Exosome Transfer from Stromal to Breast Cancer Cells Regulates Therapy Resistance Pathways [set 1],31,Expression profiling by array,6244
+GSE60995,Exosome Transfer from Stromal to Breast Cancer Cells Regulates Therapy Resistance Pathways [set 2],16,Expression profiling by array,6244
+GSE60997,Analysis of exosome RNA from co-culture of cancer cell and stroma cell,4,Other; Expression profiling by high throughput sequencing,15520
+GSE6130,Agreement in Breast Cancer Classification between Microarray and qRT-PCR from Fresh-Frozen and Formalin-Fixed Tissues,159,Expression profiling by array,885;1390;887
+GSE62327,Gene expression profiling of primary HER2-positive breast cancers treated with neoadjuvant trastuzumab,24,Expression profiling by array,14951
+GSE6304,Gene Expression Profiles of Epigenetic treatment in primary breast cancer.,4,Expression profiling by array,2895
+GSE63471,Implementing whole genome array for clinical use in academic centers: A randomized trial comparing neoadjuvant standard chemotherapy to genomic-driven chemotherapy in operable breast cancer (REMAGUS04 trial),142,Expression profiling by array,571
+GSE6448,Deletion of chromosome 11q predicts response to anthracycline-based chemotherapy in early breast cancer,185,Genome variation profiling by array,3632
+GSE65238,Transcriptome analysis of Wnt3a-treated triple-negative breast cancer cell lines.,36,Expression profiling by array,15640
+GSE65505,Gene expression profiling in response to radiation treatment in human breast cancer,62,Expression profiling by array,17586
+GSE66305,Prospective biomarker analysis of the randomized CHER-LOB study evaluating the dual anti-HER2 treatment with chemotherapy plus trastuzumab and lapatinib as neoadjuvant therapy for HER2-positive breast cancer [expression],88,Expression profiling by array,570
+GSE66398,Prospective biomarker analysis of the randomized CHER-LOB study evaluating the dual anti-HER2 treatment with chemotherapy plus trastuzumab and lapatinib as neoadjuvant therapy for HER2-positive breast cancer [copy number],68,Genome variation profiling by SNP array,6801
+GSE66399,Prospective biomarker analysis of the randomized CHER-LOB study evaluating the dual anti-HER2 treatment with chemotherapy plus trastuzumab and lapatinib as neoadjuvant therapy for HER2-positive breast cancer,156,Expression profiling by array; Genome variation profiling by SNP array,6801;570
+GSE66999,NCIC CTG MA.22  phase I/II trial of epirubicin and docetaxel in locally advanced breast cancer on 2-weekly or 3-weekly schedules,76,Expression profiling by array,6480
+GSE67295,Inflammatory cytokines activate unliganded estrogen receptor and alter the sensitivity of breast cancer cells to tamoxifen,56,Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing,11154
+GSE67982,ColXα1 and Tumor Infiltrating Lymphocytes: a Marker of Response to Neoadjuvant Therapy in Estrogen Receptor and Human Epidermal Growth Factor Receptor 2 Positive Breast Cancer,11,Expression profiling by array,17586
+GSE6800,Effects of Cimicfuga racemosa (black cohosh) in MCF-7 cells,8,Expression profiling by array,570
+GSE6861,Prediction of breast cancer pathological complete response to anthracycline/taxane chemotherapy.,161,Expression profiling by array,1352
+GSE7017,Establishment of a predictive clinicogenomic model for FEC100 regimen in node-positive breast cancer patients,150,Expression profiling by array,4819
+GSE70233,caArray_harri-00137: Predictors of Resistance to Preoperative Trastuzumab and Vinorelbine for HER2-Positive Early Breast Cancer,22,Expression profiling by array,570
+GSE70404,Investigation about Monocytes in metastatic breast cancer patients under chemotherapy +/- Avastin,8,Expression profiling by high throughput sequencing,16791
+GSE70690,Expression data for triple-negative breast cancer (TNBC) cells following chemotherapy,4,Expression profiling by array,570
+GSE70754,The prognostic significance of the dynamic changes of miRNA expression in locally advanced BC during neo-adjuvant chemotherapy treatment,66,Expression profiling by array,14613
+GSE71258,Identification of genes associated with breast cancer micrometastatic disease in bone marrow disseminated tumor cells (DTCs),128,Expression profiling by array,570
+GSE71915,Genome-wide profiling of inflammatory cistrome reveals AP-1/c-Jun as a key regulator of TNFalpha-mediated triple-negative breast cancer progression [microarray],12,Expression profiling by array,11532
+GSE71976,Genome-wide profiling of inflammatory cistrome reveals AP-1/c-Jun as a key regulator of TNFalpha-mediated triple-negative breast cancer progression [ChIP-seq],4,Genome binding/occupancy profiling by high throughput sequencing,9052
+GSE72245,DNA methylation-based immune response signature improves patient diagnosis in multiple cancers (Cohort 1),118,Methylation profiling by array,13534
+GSE72251,DNA methylation-based immune response signature improves patient diagnosis in multiple cancers (Cohort 2),119,Methylation profiling by array,13534
+GSE72254,DNA methylation-based immune response signature improves patient diagnosis in multiple cancers (TOP Cohort),58,Methylation profiling by array,13534
+GSE73388,"Ctr9, a key subunit of PAFc, affects global estrogen signaling and drives ERalpha-positive breast tumorigenesis",12,Expression profiling by array,17586
+GSE73736,MicroRNA microarray identifies a miRNA signature to predict chemotherapy response in breast cancers,20,Non-coding RNA profiling by array,20986
+GSE7513,Gene expression data from CD44+/CD24- cells sorted by flow cytometry,29,Expression profiling by array,570
+GSE7515,Gene expression data from cancer mammospheres and bulk tumors,26,Expression profiling by array,570
+GSE763,Cell-type specific responses to chemotherapeutics in breast cancer,75,Expression profiling by array,550
+GSE76314,Human Induced Pluripotent Stem Cells Recapitulate Breast Cancer Patients’ Predilection to Doxorubicin-Induced Cardiotoxicity,12,Expression profiling by high throughput sequencing,11154
+GSE76360,03-311 Trastzumab preoperative Trial of Early Stage HER2+ BRCA,100,Expression profiling by array,6947
+GSE76726,Tumour sampling method can significantly influence gene expression profiles derived from neoadjuvant window studies I,8,Expression profiling by array,10558
+GSE76727,Tumour sampling method can significantly influence gene expression profiles derived from neoadjuvant window studies II,66,Expression profiling by array,10558
+GSE76728,Tumour sampling method can significantly influence gene expression profiles derived from neoadjuvant window studies,74,Expression profiling by array,10558
+GSE77308,Loss of CSL unlocks a hypoxic response and enhanced tumor growth potential in breast cancer cells,404,Expression profiling by high throughput sequencing,11154
+GSE78512,Identification Of Candidate Anti-Cancer Molecular Mechanisms Of Compound Kushen Injection Using Functional Genomics,27,Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing,16791
+GSE79256,Carcinoma-astrocyte gap junctions promote brain metastasis by cytosolic dsDNA response transfer,8,Expression profiling by high throughput sequencing,11154
+GSE80077,Preoperative short-term hormone therapy for hormone receptor positive breast cancer,60,Expression profiling by array,571
+GSE80333,Spatial proximity to fibroblasts impacts molecular features and therapeutic sensitivity of breast cancer cells influencing clinical outcomes,23,Expression profiling by high throughput sequencing; Other,16791;18573
+GSE81853,CD95/Fas increases stemness in cancer cells by inducing a STAT1 dependent Type I interferon response [array],4,Expression profiling by array,10558
+GSE81859,CD95/Fas increases stemness in cancer cells by inducing a STAT1 dependent Type I interferon response [ChIP-seq],2,Genome binding/occupancy profiling by high throughput sequencing,15456
+GSE83937,Identification of three subtypes of triple negative breast cancer with potential therapeutic implications,131,Expression profiling by array,570
+GSE8465,A Phase II Study of Neoadjuvant Gemcitabine Plus Doxorubicin Followed by Gemcitabine Plus Cisplatin in Breast Cancer,46,Expression profiling by array,1390;887
+GSE84863,RNA sequencing of MDA-MB231 and U2OS cancer cell lines exposed to the alkylating agent methyl methanesufonate (MMS) and classical chemotherapeutics ,11,Expression profiling by high throughput sequencing,11154
+GSE85206,Expression of oxysterol pathway genes in estrogen positive breast carcinomas-second phase,164,Expression profiling by RT-PCR,19921
+GSE87006,CDK4 phosphorylation status and a linked gene expression profile predict sensitivity to Palbociclib [lines],20,Expression profiling by array,570
+GSE87007,CDK4 phosphorylation status and a linked gene expression profile predict sensitivity to Palbociclib [tumors],31,Expression profiling by array,570
+GSE87377,Implication of an Immune Score in Molecular Subtypes and Distant Metastasis of Breast Cancer: Comparison between Western and Chinese Han Patients,71,Expression profiling by array,570
+GSE87455,Assessment of tumor pathological and transcriptional biomarkers in pre- and on-treatment core biopsies predictive of response and outcome after neoadjuvant chemotherapy plus Bevacizumab in patients with HER2-negative breast cancer,275,Expression profiling by array,10558
+GSE89891,Inhibition of the H3K9 methyltransferase epigenetic regulator G9A attenuates oncogenicity but provokes a survival response via activation of the hypoxia pathway,27,Expression profiling by array,10558
+GSE92598,mTORC1 and -2 Coordinate Transcriptional and Translational Reprogramming in Resistance to DNA Damage and Replicative Stress in Breast Cancer Cells,35,Expression profiling by array,17586
+GSE93636,WT1 expression in breast cancer disrupts the epithelial/mesenchymal balance of tumour cells and correlates with the metabolic response to docetaxel,3,Expression profiling by high throughput sequencing,11154
+GSE93710,miR363-3p Mediates Maintenance and Chemoresistance of Breast Cancer Stem Cells,8,Non-coding RNA profiling by array,22934
+GSE95042,KDM4 inhibition targets breast cancer stem cells,12,Expression profiling by array,10558
+GSE96570,Integrated Molecular Analysis of Tamoxifen-Resistant Invasive Lobular Breast Cancer Cells,6,Expression profiling by array,96
+GSE97221,Molecular changes in premenopausal estrogen receptor-positive primary breast cancer after oophorectomy,88,Expression profiling by array,10558
+GSE97317,Hypoxia is a Key Driver of Alternative Splicing in Human Breast Cancer Cells,3,Expression profiling by high throughput sequencing,11154
+GSE98238,Gene expression data in MDA231-LM2 breast cancer cells exposed to paclitaxel chemotherapy,6,Expression profiling by array,570
+GSE98824,BKM120 Treated PDX's,30,Expression profiling by array,6480
+GSE99394,Molecular characterization of breast cancer circulating tumor cells (CTCs) associated with brain metastasis,10,Expression profiling by array,17586
+GSE99766,MDA-MB-231 gene expression upon IRE1 RNase inhibition with MKC-8866,18,Expression profiling by array,16686
+GSE99986,Low and High Dose Progestins Elicit Distinct Breast Cancer Biology,47,Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing,18573

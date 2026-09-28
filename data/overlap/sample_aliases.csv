@@ -1,0 +1,2708 @@
+series_accession,sample_accession,sample_title,alias,alias_provenance
+GSE20194,GSM505327,BR_FNA_M157,m157,normalized_title
+GSE20194,GSM505328,BR_FNA_M196,m196,normalized_title
+GSE20194,GSM505329,BR_FNA_M176,m176,normalized_title
+GSE20194,GSM505330,BR_FNA_M214,m214,normalized_title
+GSE20194,GSM505331,BR_FNA_M113,m113,normalized_title
+GSE20194,GSM505333,BR_FNA_M154,m154,normalized_title
+GSE20194,GSM505334,BR_FNA_M165,m165,normalized_title
+GSE20194,GSM505335,BR_FNA_M212,m212,normalized_title
+GSE20194,GSM505336,BR_FNA_M153,m153,normalized_title
+GSE20194,GSM505337,BR_FNA_M220,m220,normalized_title
+GSE20194,GSM505338,BR_FNA_M228,m228,normalized_title
+GSE20194,GSM505339,BR_FNA_M177,m177,normalized_title
+GSE20194,GSM505340,BR_FNA_M186,m186,normalized_title
+GSE20194,GSM505341,BR_FNA_M161,m161,normalized_title
+GSE20194,GSM505342,BR_FNA_M159,m159,normalized_title
+GSE20194,GSM505343,BR_FNA_M130,m130,normalized_title
+GSE20194,GSM505344,BR_FNA_M180,m180,normalized_title
+GSE20194,GSM505345,BR_FNA_M121,m121,normalized_title
+GSE20194,GSM505346,BR_FNA_M155,m155,normalized_title
+GSE20194,GSM505347,BR_FNA_M128,m128,normalized_title
+GSE20194,GSM505348,BR_FNA_M227,m227,normalized_title
+GSE20194,GSM505349,BR_FNA_M116,m116,normalized_title
+GSE20194,GSM505350,BR_FNA_M156,m156,normalized_title
+GSE20194,GSM505351,BR_FNA_M111,m111,normalized_title
+GSE20194,GSM505352,BR_FNA_M201,m201,normalized_title
+GSE20194,GSM505353,BR_FNA_M188,m188,normalized_title
+GSE20194,GSM505354,BR_FNA_M158,m158,normalized_title
+GSE20194,GSM505355,BR_FNA_M226,m226,normalized_title
+GSE20194,GSM505356,BR_FNA_M199,m199,normalized_title
+GSE20194,GSM505357,BR_FNA_M215,m215,normalized_title
+GSE20194,GSM505358,BR_FNA_M136,m136,normalized_title
+GSE20194,GSM505359,BR_FNA_M206,m206,normalized_title
+GSE20194,GSM505360,BR_FNA_M211,m211,normalized_title
+GSE20194,GSM505361,BR_FNA_M217,m217,normalized_title
+GSE20194,GSM505362,BR_FNA_M135,m135,normalized_title
+GSE20194,GSM505363,BR_FNA_M216,m216,normalized_title
+GSE20194,GSM505364,BR_FNA_M139,m139,normalized_title
+GSE20194,GSM505365,BR_FNA_M117,m117,normalized_title
+GSE20194,GSM505366,BR_FNA_M106,m106,normalized_title
+GSE20194,GSM505367,BR_FNA_M108,m108,normalized_title
+GSE20194,GSM505368,BR_FNA_M123,m123,normalized_title
+GSE20194,GSM505369,BR_FNA_M126,m126,normalized_title
+GSE20194,GSM505370,BR_FNA_M205,m205,normalized_title
+GSE20194,GSM505371,BR_FNA_M182,m182,normalized_title
+GSE20194,GSM505372,BR_FNA_M133,m133,normalized_title
+GSE20194,GSM505373,BR_FNA_M179,m179,normalized_title
+GSE20194,GSM505374,BR_FNA_M189,m189,normalized_title
+GSE20194,GSM505375,BR_FNA_M181,m181,normalized_title
+GSE20194,GSM505376,BR_FNA_M230,m230,normalized_title
+GSE20194,GSM505377,BR_FNA_M230R1,m230r1,normalized_title
+GSE20194,GSM505378,BR_FNA_M236,m236,normalized_title
+GSE20194,GSM505379,BR_FNA_M236R1,m236r1,normalized_title
+GSE20194,GSM505380,BR_FNA_M258,m258,normalized_title
+GSE20194,GSM505381,BR_FNA_M258R1,m258r1,normalized_title
+GSE20194,GSM505382,BR_FNA_M246,m246,normalized_title
+GSE20194,GSM505383,BR_FNA_M246R1,m246r1,normalized_title
+GSE20194,GSM505384,BR_FNA_M237,m237,normalized_title
+GSE20194,GSM505385,BR_FNA_M237R1,m237r1,normalized_title
+GSE20194,GSM505386,BR_FNA_M239,m239,normalized_title
+GSE20194,GSM505387,BR_FNA_M239R1,m239r1,normalized_title
+GSE20194,GSM505388,BR_FNA_M264,m264,normalized_title
+GSE20194,GSM505389,BR_FNA_M264R1,m264r1,normalized_title
+GSE20194,GSM505390,BR_FNA_M238,m238,normalized_title
+GSE20194,GSM505391,BR_FNA_M238R1,m238r1,normalized_title
+GSE20194,GSM505392,BR_FNA_M280,m280,normalized_title
+GSE20194,GSM505393,BR_FNA_M280R1,m280r1,normalized_title
+GSE20194,GSM505394,BR_FNA_M245,m245,normalized_title
+GSE20194,GSM505395,BR_FNA_M245R1,m245r1,normalized_title
+GSE20194,GSM505396,BR_FNA_M247,m247,normalized_title
+GSE20194,GSM505397,BR_FNA_M247R1,m247r1,normalized_title
+GSE20194,GSM505398,BR_FNA_M266,m266,normalized_title
+GSE20194,GSM505399,BR_FNA_M266R1,m266r1,normalized_title
+GSE20194,GSM505400,BR_FNA_M235,m235,normalized_title
+GSE20194,GSM505401,BR_FNA_M235R1,m235r1,normalized_title
+GSE20194,GSM505402,BR_FNA_M231,m231,normalized_title
+GSE20194,GSM505403,BR_FNA_M231R1,m231r1,normalized_title
+GSE20194,GSM505404,BR_FNA_M257,m257,normalized_title
+GSE20194,GSM505405,BR_FNA_M257R1,m257r1,normalized_title
+GSE20194,GSM505406,BR_FNA_M256,m256,normalized_title
+GSE20194,GSM505407,BR_FNA_M256R1,m256r1,normalized_title
+GSE20194,GSM505408,BR_FNA_M270,m270,normalized_title
+GSE20194,GSM505409,BR_FNA_M270R1,m270r1,normalized_title
+GSE20194,GSM505410,BR_FNA_M259,m259,normalized_title
+GSE20194,GSM505411,BR_FNA_M301,m301,normalized_title
+GSE20194,GSM505412,BR_FNA_M234,m234,normalized_title
+GSE20194,GSM505413,BR_FNA_M310,m310,normalized_title
+GSE20194,GSM505414,BR_FNA_M251,m251,normalized_title
+GSE20194,GSM505415,BR_FNA_M260,m260,normalized_title
+GSE20194,GSM505416,BR_FNA_M255,m255,normalized_title
+GSE20194,GSM505417,BR_FNA_M286,m286,normalized_title
+GSE20194,GSM505418,BR_FNA_M287,m287,normalized_title
+GSE20194,GSM505419,BR_FNA_M309,m309,normalized_title
+GSE20194,GSM505420,BR_FNA_M304,m304,normalized_title
+GSE20194,GSM505421,BR_FNA_M233,m233,normalized_title
+GSE20194,GSM505422,BR_FNA_M297,m297,normalized_title
+GSE20194,GSM505423,BR_FNA_M295,m295,normalized_title
+GSE20194,GSM505424,BR_FNA_M282,m282,normalized_title
+GSE20194,GSM505425,BR_FNA_M302,m302,normalized_title
+GSE20194,GSM505426,BR_FNA_M261,m261,normalized_title
+GSE20194,GSM505427,BR_FNA_M333,m333,normalized_title
+GSE20194,GSM505428,BR_FNA_M402,m402,normalized_title
+GSE20194,GSM505429,BR_FNA_M387,m387,normalized_title
+GSE20194,GSM505430,BR_FNA_M386,m386,normalized_title
+GSE20194,GSM505431,BR_FNA_M322,m322,normalized_title
+GSE20194,GSM505432,BR_FNA_M375,m375,normalized_title
+GSE20194,GSM505433,BR_FNA_M330,m330,normalized_title
+GSE20194,GSM505434,BR_FNA_M316,m316,normalized_title
+GSE20194,GSM505435,BR_FNA_M331,m331,normalized_title
+GSE20194,GSM505436,BR_FNA_ML20,ml20,normalized_title
+GSE20194,GSM505437,BR_FNA_M371R1,m371r1,normalized_title
+GSE20194,GSM505438,BR_FNA_M402R1,m402r1,normalized_title
+GSE20194,GSM505439,BR_FNA_M331R1,m331r1,normalized_title
+GSE20194,GSM505440,BR_FNA_M375R1,m375r1,normalized_title
+GSE20194,GSM505441,BR_FNA_M322R1,m322r1,normalized_title
+GSE20194,GSM505442,BR_FNA_M333R1,m333r1,normalized_title
+GSE20194,GSM505443,BR_FNA_M387R1,m387r1,normalized_title
+GSE20194,GSM505444,BR_FNA_M386R1,m386r1,normalized_title
+GSE20194,GSM505445,BR_FNA_M316R1,m316r1,normalized_title
+GSE20194,GSM505446,BR_FNA_M330R1,m330r1,normalized_title
+GSE20194,GSM505447,BR_FNA_M371,m371,normalized_title
+GSE20194,GSM505448,BR_FNA_M323,m323,normalized_title
+GSE20194,GSM505449,BR_FNA_M442,m442,normalized_title
+GSE20194,GSM505450,BR_FNA_PERU14-16,peru1416,explicit_source_identifier
+GSE20194,GSM505450,BR_FNA_PERU14-16,peru1416,normalized_title
+GSE20194,GSM505451,BR_FNA_M523,m523,normalized_title
+GSE20194,GSM505452,BR_FNA_M315,m315,normalized_title
+GSE20194,GSM505453,BR_FNA_M399,m399,normalized_title
+GSE20194,GSM505454,BR_FNA_M524,m524,normalized_title
+GSE20194,GSM505455,BR_FNA_M353,m353,normalized_title
+GSE20194,GSM505456,BR_FNA_M534,m534,normalized_title
+GSE20194,GSM505457,BR_FNA_M447,m447,normalized_title
+GSE20194,GSM505458,BR_FNA_M356,m356,normalized_title
+GSE20194,GSM505459,BR_FNA_M367,m367,normalized_title
+GSE20194,GSM505460,BR_FNA_M120,m120,normalized_title
+GSE20194,GSM505461,BR_FNA_M482,m482,normalized_title
+GSE20194,GSM505462,BR_FNA_PERU11,peru11,explicit_source_identifier
+GSE20194,GSM505462,BR_FNA_PERU11,peru11,normalized_title
+GSE20194,GSM505463,BR_FNA_M141,m141,normalized_title
+GSE20194,GSM505464,BR_FNA_M107,m107,normalized_title
+GSE20194,GSM505465,BR_FNA_M343,m343,normalized_title
+GSE20194,GSM505466,BR_FNA_M485,m485,normalized_title
+GSE20194,GSM505467,BR_FNA_M373,m373,normalized_title
+GSE20194,GSM505468,BR_FNA_M463,m463,normalized_title
+GSE20194,GSM505469,BR_FNA_M357,m357,normalized_title
+GSE20194,GSM505470,BR_FNA_PERU08,peru08,explicit_source_identifier
+GSE20194,GSM505470,BR_FNA_PERU08,peru08,normalized_title
+GSE20194,GSM505471,BR_FNA_PERU12-14,peru1214,explicit_source_identifier
+GSE20194,GSM505471,BR_FNA_PERU12-14,peru1214,normalized_title
+GSE20194,GSM505472,BR_FNA_M384,m384,normalized_title
+GSE20194,GSM505473,BR_FNA_M497,m497,normalized_title
+GSE20194,GSM505474,BR_FNA_PERU07,peru07,normalized_title
+GSE20194,GSM505474,BR_FNA_PERU07,peru7,explicit_source_identifier
+GSE20194,GSM505475,BR_FNA_M503,m503,normalized_title
+GSE20194,GSM505476,BR_FNA_M129,m129,normalized_title
+GSE20194,GSM505477,BR_FNA_M421,m421,normalized_title
+GSE20194,GSM505478,BR_FNA_M146,m146,normalized_title
+GSE20194,GSM505479,BR_FNA_M506,m506,normalized_title
+GSE20194,GSM505480,BR_FNA_PERU09,peru09,normalized_title
+GSE20194,GSM505480,BR_FNA_PERU09,peru9,explicit_source_identifier
+GSE20194,GSM505481,BR_FNA_M525,m525,normalized_title
+GSE20194,GSM505482,BR_FNA_M145,m145,normalized_title
+GSE20194,GSM505483,BR_FNA_M469,m469,normalized_title
+GSE20194,GSM505484,BR_FNA_M484,m484,normalized_title
+GSE20194,GSM505485,BR_FNA_M341,m341,normalized_title
+GSE20194,GSM505486,BR_FNA_M434,m434,normalized_title
+GSE20194,GSM505487,BR_FNA_M334,m334,normalized_title
+GSE20194,GSM505488,BR_FNA_PERU01,peru01,normalized_title
+GSE20194,GSM505488,BR_FNA_PERU01,peru1,explicit_source_identifier
+GSE20194,GSM505489,BR_FNA_PERU53,peru53,explicit_source_identifier
+GSE20194,GSM505489,BR_FNA_PERU53,peru53,normalized_title
+GSE20194,GSM505490,BR_FNA_PERU55,peru55,explicit_source_identifier
+GSE20194,GSM505490,BR_FNA_PERU55,peru55,normalized_title
+GSE20194,GSM505491,BR_FNA_M713,m713,normalized_title
+GSE20194,GSM505492,BR_FNA_US120,us120,explicit_source_identifier
+GSE20194,GSM505492,BR_FNA_US120,us120,normalized_title
+GSE20194,GSM505493,BR_FNA_US123,us123,explicit_source_identifier
+GSE20194,GSM505493,BR_FNA_US123,us123,normalized_title
+GSE20194,GSM505494,BR_FNA_US134,us134,explicit_source_identifier
+GSE20194,GSM505494,BR_FNA_US134,us134,normalized_title
+GSE20194,GSM505495,BR_FNA_US031,us031,explicit_source_identifier
+GSE20194,GSM505495,BR_FNA_US031,us031,normalized_title
+GSE20194,GSM505496,BR_FNA_US129,us129,explicit_source_identifier
+GSE20194,GSM505496,BR_FNA_US129,us129,normalized_title
+GSE20194,GSM505497,BR_FNA_US125,us125,explicit_source_identifier
+GSE20194,GSM505497,BR_FNA_US125,us125,normalized_title
+GSE20194,GSM505498,BR_FNA_US147,us147,explicit_source_identifier
+GSE20194,GSM505498,BR_FNA_US147,us147,normalized_title
+GSE20194,GSM505499,BR_FNA_US002,us002,explicit_source_identifier
+GSE20194,GSM505499,BR_FNA_US002,us002,normalized_title
+GSE20194,GSM505500,BR_FNA_M314,m314,normalized_title
+GSE20194,GSM505501,BR_FNA_US092,us092,explicit_source_identifier
+GSE20194,GSM505501,BR_FNA_US092,us092,normalized_title
+GSE20194,GSM505502,BR_FNA_US097,us097,explicit_source_identifier
+GSE20194,GSM505502,BR_FNA_US097,us097,normalized_title
+GSE20194,GSM505503,BR_FNA_M233R1,m233r1,normalized_title
+GSE20194,GSM505504,BR_FNA_M286R1,m286r1,normalized_title
+GSE20194,GSM505505,BR_FNA_M302R1,m302r1,normalized_title
+GSE20194,GSM505506,BR_FNA_M195,m195,normalized_title
+GSE20194,GSM505507,BR_FNA_M232,m232,normalized_title
+GSE20194,GSM505508,BR_FNA_M263,m263,normalized_title
+GSE20194,GSM505509,BR_FNA_M281,m281,normalized_title
+GSE20194,GSM505510,BR_FNA_M283,m283,normalized_title
+GSE20194,GSM505511,BR_FNA_M294,m294,normalized_title
+GSE20194,GSM505512,BR_FNA_M319,m319,normalized_title
+GSE20194,GSM505513,BR_FNA_M332,m332,normalized_title
+GSE20194,GSM505514,BR_FNA_M339,m339,normalized_title
+GSE20194,GSM505515,BR_FNA_M340,m340,normalized_title
+GSE20194,GSM505516,BR_FNA_M345,m345,normalized_title
+GSE20194,GSM505517,BR_FNA_M355,m355,normalized_title
+GSE20194,GSM505518,BR_FNA_M360,m360,normalized_title
+GSE20194,GSM505519,BR_FNA_M363,m363,normalized_title
+GSE20194,GSM505520,BR_FNA_M365,m365,normalized_title
+GSE20194,GSM505521,BR_FNA_M382,m382,normalized_title
+GSE20194,GSM505522,BR_FNA_M385,m385,normalized_title
+GSE20194,GSM505523,BR_FNA_M396,m396,normalized_title
+GSE20194,GSM505524,BR_FNA_M411,m411,normalized_title
+GSE20194,GSM505525,BR_FNA_M417,m417,normalized_title
+GSE20194,GSM505526,BR_FNA_M423,m423,normalized_title
+GSE20194,GSM505527,BR_FNA_M425,m425,normalized_title
+GSE20194,GSM505528,BR_FNA_M430,m430,normalized_title
+GSE20194,GSM505529,BR_FNA_M431,m431,normalized_title
+GSE20194,GSM505530,BR_FNA_M433,m433,normalized_title
+GSE20194,GSM505531,BR_FNA_M443,m443,normalized_title
+GSE20194,GSM505532,BR_FNA_M486,m486,normalized_title
+GSE20194,GSM505533,BR_FNA_M502,m502,normalized_title
+GSE20194,GSM505534,BR_FNA_M507,m507,normalized_title
+GSE20194,GSM505535,BR_FNA_M513,m513,normalized_title
+GSE20194,GSM505536,BR_FNA_M531,m531,normalized_title
+GSE20194,GSM505537,BR_FNA_M545,m545,normalized_title
+GSE20194,GSM505538,BR_FNA_M549,m549,normalized_title
+GSE20194,GSM505539,BR_FNA_M556,m556,normalized_title
+GSE20194,GSM505540,BR_FNA_M557,m557,normalized_title
+GSE20194,GSM505541,BR_FNA_M558,m558,normalized_title
+GSE20194,GSM505542,BR_FNA_M559,m559,normalized_title
+GSE20194,GSM505543,BR_FNA_M564,m564,normalized_title
+GSE20194,GSM505544,BR_FNA_M566,m566,normalized_title
+GSE20194,GSM505545,BR_FNA_M571,m571,normalized_title
+GSE20194,GSM505546,BR_FNA_M576,m576,normalized_title
+GSE20194,GSM505547,BR_FNA_M578,m578,normalized_title
+GSE20194,GSM505548,BR_FNA_M583,m583,normalized_title
+GSE20194,GSM505549,BR_FNA_M599,m599,normalized_title
+GSE20194,GSM505550,BR_FNA_M607,m607,normalized_title
+GSE20194,GSM505551,BR_FNA_M610,m610,normalized_title
+GSE20194,GSM505552,BR_FNA_M612,m612,normalized_title
+GSE20194,GSM505553,BR_FNA_M617,m617,normalized_title
+GSE20194,GSM505554,BR_FNA_M619,m619,normalized_title
+GSE20194,GSM505555,BR_FNA_M626,m626,normalized_title
+GSE20194,GSM505556,BR_FNA_M642,m642,normalized_title
+GSE20194,GSM505557,BR_FNA_M643,m643,normalized_title
+GSE20194,GSM505558,BR_FNA_M647,m647,normalized_title
+GSE20194,GSM505559,BR_FNA_M651,m651,normalized_title
+GSE20194,GSM505560,BR_FNA_M652,m652,normalized_title
+GSE20194,GSM505561,BR_FNA_M657,m657,normalized_title
+GSE20194,GSM505562,BR_FNA_M658,m658,normalized_title
+GSE20194,GSM505563,BR_FNA_M659,m659,normalized_title
+GSE20194,GSM505564,BR_FNA_M661,m661,normalized_title
+GSE20194,GSM505565,BR_FNA_M662,m662,normalized_title
+GSE20194,GSM505566,BR_FNA_M665,m665,normalized_title
+GSE20194,GSM505567,BR_FNA_M666,m666,normalized_title
+GSE20194,GSM505568,BR_FNA_M668,m668,normalized_title
+GSE20194,GSM505569,BR_FNA_M669,m669,normalized_title
+GSE20194,GSM505570,BR_FNA_M670,m670,normalized_title
+GSE20194,GSM505571,BR_FNA_M671,m671,normalized_title
+GSE20194,GSM505572,BR_FNA_M673,m673,normalized_title
+GSE20194,GSM505573,BR_FNA_M675,m675,normalized_title
+GSE20194,GSM505574,BR_FNA_M679,m679,normalized_title
+GSE20194,GSM505575,BR_FNA_M681,m681,normalized_title
+GSE20194,GSM505576,BR_FNA_M682,m682,normalized_title
+GSE20194,GSM505577,BR_FNA_M683,m683,normalized_title
+GSE20194,GSM505578,BR_FNA_M685,m685,normalized_title
+GSE20194,GSM505579,BR_FNA_M690,m690,normalized_title
+GSE20194,GSM505580,BR_FNA_M692,m692,normalized_title
+GSE20194,GSM505581,BR_FNA_M693,m693,normalized_title
+GSE20194,GSM505582,BR_FNA_M695,m695,normalized_title
+GSE20194,GSM505583,BR_FNA_M696,m696,normalized_title
+GSE20194,GSM505584,BR_FNA_M709,m709,normalized_title
+GSE20194,GSM505585,BR_FNA_M710,m710,normalized_title
+GSE20194,GSM505586,BR_FNA_M714,m714,normalized_title
+GSE20194,GSM505587,BR_FNA_M717,m717,normalized_title
+GSE20194,GSM505588,BR_FNA_M718,m718,normalized_title
+GSE20194,GSM505589,BR_FNA_M723,m723,normalized_title
+GSE20194,GSM505590,BR_FNA_M725,m725,normalized_title
+GSE20194,GSM505591,BR_FNA_M728,m728,normalized_title
+GSE20194,GSM505592,BR_FNA_M732,m732,normalized_title
+GSE20194,GSM505593,BR_FNA_M734,m734,normalized_title
+GSE20194,GSM505594,BR_FNA_M744,m744,normalized_title
+GSE20194,GSM505595,BR_FNA_M746,m746,normalized_title
+GSE20194,GSM505596,BR_FNA_M753,m753,normalized_title
+GSE20194,GSM505597,BR_FNA_M765,m765,normalized_title
+GSE20194,GSM505598,BR_FNA_M767,m767,normalized_title
+GSE20194,GSM505599,BR_FNA_M774,m774,normalized_title
+GSE20194,GSM505600,BR_FNA_M781,m781,normalized_title
+GSE20194,GSM505601,BR_FNA_M782,m782,normalized_title
+GSE20194,GSM505602,BR_FNA_M784,m784,normalized_title
+GSE20194,GSM505603,BR_FNA_M795,m795,normalized_title
+GSE20194,GSM505604,BR_FNA_M801,m801,normalized_title
+GSE20194,GSM505605,BR_FNA_M806,m806,normalized_title
+GSE20271,GSM508012,breast cancer SPAIN28,spain28,normalized_title
+GSE20271,GSM508013,breast cancer SPAIN58,spain58,normalized_title
+GSE20271,GSM508014,breast cancer SPAIN36,spain36,normalized_title
+GSE20271,GSM508015,breast cancer SPAIN30,spain30,normalized_title
+GSE20271,GSM508016,breast cancer SPAIN44,spain44,normalized_title
+GSE20271,GSM508017,breast cancer SPAIN50,spain50,normalized_title
+GSE20271,GSM508018,breast cancer SPAIN31,spain31,normalized_title
+GSE20271,GSM508019,breast cancer SPAIN11,spain11,normalized_title
+GSE20271,GSM508020,breast cancer SPAIN32,spain32,normalized_title
+GSE20271,GSM508021,breast cancer SPAIN49,spain49,normalized_title
+GSE20271,GSM508022,breast cancer SPAIN21,spain21,normalized_title
+GSE20271,GSM508023,breast cancer SPAIN42,spain42,normalized_title
+GSE20271,GSM508024,breast cancer PERU16-18,peru1618,normalized_title
+GSE20271,GSM508025,breast cancer 713,m713,study_aware_title
+GSE20271,GSM508026,breast cancer 400,m400,study_aware_title
+GSE20271,GSM508027,breast cancer 725,m725,study_aware_title
+GSE20271,GSM508028,breast cancer 338,m338,study_aware_title
+GSE20271,GSM508029,breast cancer 439,m439,study_aware_title
+GSE20271,GSM508030,breast cancer 378,m378,study_aware_title
+GSE20271,GSM508031,breast cancer 380,m380,study_aware_title
+GSE20271,GSM508032,breast cancer 466,m466,study_aware_title
+GSE20271,GSM508033,breast cancer PERU13-15,peru1315,normalized_title
+GSE20271,GSM508034,breast cancer PERU25,peru25,normalized_title
+GSE20271,GSM508035,breast cancer LBJ038,lbj038,normalized_title
+GSE20271,GSM508036,breast cancer PERU36,peru36,normalized_title
+GSE20271,GSM508037,breast cancer PERU50,peru50,normalized_title
+GSE20271,GSM508038,breast cancer PERU41,peru41,normalized_title
+GSE20271,GSM508039,breast cancer 631,m631,study_aware_title
+GSE20271,GSM508040,breast cancer 595,m595,study_aware_title
+GSE20271,GSM508041,breast cancer 539,m539,study_aware_title
+GSE20271,GSM508042,breast cancer LBJ016,lbj016,normalized_title
+GSE20271,GSM508043,breast cancer 572,m572,study_aware_title
+GSE20271,GSM508044,breast cancer PERU38,peru38,normalized_title
+GSE20271,GSM508045,breast cancer PERU73,peru73,normalized_title
+GSE20271,GSM508046,breast cancer PERU72,peru72,normalized_title
+GSE20271,GSM508047,breast cancer PERU44,peru44,normalized_title
+GSE20271,GSM508048,breast cancer PERU57,peru57,normalized_title
+GSE20271,GSM508049,breast cancer PERU55,peru55,normalized_title
+GSE20271,GSM508050,breast cancer PERU69,peru69,normalized_title
+GSE20271,GSM508051,breast cancer PERU27,peru27,normalized_title
+GSE20271,GSM508052,breast cancer PERU45,peru45,normalized_title
+GSE20271,GSM508053,breast cancer PERU61,peru61,normalized_title
+GSE20271,GSM508054,breast cancer PERU53,peru53,normalized_title
+GSE20271,GSM508055,breast cancer PERU05,peru05,normalized_title
+GSE20271,GSM508056,breast cancer PERU08,peru08,normalized_title
+GSE20271,GSM508057,breast cancer PERU02,peru02,normalized_title
+GSE20271,GSM508058,breast cancer PERU51,peru51,normalized_title
+GSE20271,GSM508059,breast cancer PERU21,peru21,normalized_title
+GSE20271,GSM508060,breast cancer MEXICO18,mexico18,normalized_title
+GSE20271,GSM508061,breast cancer MEXICO15,mexico15,normalized_title
+GSE20271,GSM508062,breast cancer MEXICO10,mexico10,normalized_title
+GSE20271,GSM508063,breast cancer MEXICO2,mexico2,normalized_title
+GSE20271,GSM508064,breast cancer MEXICO12,mexico12,normalized_title
+GSE20271,GSM508065,breast cancer PERU75,peru75,normalized_title
+GSE20271,GSM508066,breast cancer PERU22,peru22,normalized_title
+GSE20271,GSM508067,breast cancer LBJ043,lbj043,normalized_title
+GSE20271,GSM508068,breast cancer PERU43,peru43,normalized_title
+GSE20271,GSM508069,breast cancer PERU49,peru49,normalized_title
+GSE20271,GSM508070,breast cancer PERU15-17,peru1517,normalized_title
+GSE20271,GSM508071,breast cancer SPAIN34,spain34,normalized_title
+GSE20271,GSM508072,breast cancer SPAIN5,spain5,normalized_title
+GSE20271,GSM508073,breast cancer SPAIN9,spain9,normalized_title
+GSE20271,GSM508074,breast cancer SPAIN1,spain1,normalized_title
+GSE20271,GSM508075,breast cancer SPAIN59,spain59,normalized_title
+GSE20271,GSM508076,breast cancer SPAIN38,spain38,normalized_title
+GSE20271,GSM508077,breast cancer SPAIN39,spain39,normalized_title
+GSE20271,GSM508078,breast cancer SPAIN40,spain40,normalized_title
+GSE20271,GSM508079,breast cancer 444,m444,study_aware_title
+GSE20271,GSM508080,breast cancer 633,m633,study_aware_title
+GSE20271,GSM508081,breast cancer 349,m349,study_aware_title
+GSE20271,GSM508082,breast cancer 632,m632,study_aware_title
+GSE20271,GSM508083,breast cancer 629,m629,study_aware_title
+GSE20271,GSM508084,breast cancer 604,m604,study_aware_title
+GSE20271,GSM508085,breast cancer 570,m570,study_aware_title
+GSE20271,GSM508086,breast cancer PERU77,peru77,normalized_title
+GSE20271,GSM508087,breast cancer 622,m622,study_aware_title
+GSE20271,GSM508088,breast cancer 702,m702,study_aware_title
+GSE20271,GSM508089,breast cancer 694,m694,study_aware_title
+GSE20271,GSM508090,breast cancer 414,m414,study_aware_title
+GSE20271,GSM508091,breast cancer 521,m521,study_aware_title
+GSE20271,GSM508092,breast cancer 461,m461,study_aware_title
+GSE20271,GSM508093,breast cancer 369,m369,study_aware_title
+GSE20271,GSM508094,breast cancer 536,m536,study_aware_title
+GSE20271,GSM508095,breast cancer 680,m680,study_aware_title
+GSE20271,GSM508096,breast cancer 705,m705,study_aware_title
+GSE20271,GSM508097,breast cancer 703,m703,study_aware_title
+GSE20271,GSM508098,breast cancer 755,m755,study_aware_title
+GSE20271,GSM508099,breast cancer SPAIN47,spain47,normalized_title
+GSE20271,GSM508100,breast cancer SPAIN7,spain7,normalized_title
+GSE20271,GSM508101,breast cancer SPAIN25,spain25,normalized_title
+GSE20271,GSM508102,breast cancer SPAIN18,spain18,normalized_title
+GSE20271,GSM508103,breast cancer SPAIN57,spain57,normalized_title
+GSE20271,GSM508104,breast cancer SPAIN48,spain48,normalized_title
+GSE20271,GSM508105,breast cancer SPAIN45,spain45,normalized_title
+GSE20271,GSM508106,breast cancer SPAIN53,spain53,normalized_title
+GSE20271,GSM508107,breast cancer SPAIN27,spain27,normalized_title
+GSE20271,GSM508108,breast cancer SPAIN14,spain14,normalized_title
+GSE20271,GSM508109,breast cancer SPAIN60,spain60,normalized_title
+GSE20271,GSM508110,breast cancer SPAIN13,spain13,normalized_title
+GSE20271,GSM508111,breast cancer SPAIN4,spain4,normalized_title
+GSE20271,GSM508112,breast cancer SPAIN46,spain46,normalized_title
+GSE20271,GSM508113,breast cancer SPAIN16,spain16,normalized_title
+GSE20271,GSM508114,breast cancer 443,m443,study_aware_title
+GSE20271,GSM508115,breast cancer 331,m331,study_aware_title
+GSE20271,GSM508116,breast cancer 485,m485,study_aware_title
+GSE20271,GSM508117,breast cancer 565,m565,study_aware_title
+GSE20271,GSM508118,breast cancer 332,m332,study_aware_title
+GSE20271,GSM508119,breast cancer 423,m423,study_aware_title
+GSE20271,GSM508120,breast cancer PERU07,peru07,normalized_title
+GSE20271,GSM508121,breast cancer PERU09,peru09,normalized_title
+GSE20271,GSM508122,breast cancer PERU01,peru01,normalized_title
+GSE20271,GSM508123,breast cancer 323,m323,study_aware_title
+GSE20271,GSM508124,breast cancer 343,m343,study_aware_title
+GSE20271,GSM508125,breast cancer 365,m365,study_aware_title
+GSE20271,GSM508126,breast cancer 385,m385,study_aware_title
+GSE20271,GSM508127,breast cancer PERU12-14,peru1214,normalized_title
+GSE20271,GSM508128,breast cancer 107,m107,study_aware_title
+GSE20271,GSM508129,breast cancer 315,m315,study_aware_title
+GSE20271,GSM508130,breast cancer 399,m399,study_aware_title
+GSE20271,GSM508131,breast cancer 374,m374,study_aware_title
+GSE20271,GSM508132,breast cancer 647,m647,study_aware_title
+GSE20271,GSM508133,breast cancer 384,m384,study_aware_title
+GSE20271,GSM508134,breast cancer 588,m588,study_aware_title
+GSE20271,GSM508135,breast cancer PERU17-19,peru1719,normalized_title
+GSE20271,GSM508136,breast cancer PERU37,peru37,normalized_title
+GSE20271,GSM508137,breast cancer PERU23,peru23,normalized_title
+GSE20271,GSM508138,breast cancer PERU52,peru52,normalized_title
+GSE20271,GSM508139,breast cancer 673,m673,study_aware_title
+GSE20271,GSM508140,breast cancer PERU26,peru26,normalized_title
+GSE20271,GSM508141,breast cancer MEXICO3,mexico3,normalized_title
+GSE20271,GSM508142,breast cancer PERU28,peru28,normalized_title
+GSE20271,GSM508143,breast cancer PERU66,peru66,normalized_title
+GSE20271,GSM508144,breast cancer PERU48,peru48,normalized_title
+GSE20271,GSM508145,breast cancer PERU42,peru42,normalized_title
+GSE20271,GSM508146,breast cancer PERU54,peru54,normalized_title
+GSE20271,GSM508147,breast cancer PERU40,peru40,normalized_title
+GSE20271,GSM508148,breast cancer PERU74,peru74,normalized_title
+GSE20271,GSM508149,breast cancer LBJ047,lbj047,normalized_title
+GSE20271,GSM508150,breast cancer MEXICO11,mexico11,normalized_title
+GSE20271,GSM508151,breast cancer MEXICO14,mexico14,normalized_title
+GSE20271,GSM508152,breast cancer MEXICO17,mexico17,normalized_title
+GSE20271,GSM508153,breast cancer MEXICO1,mexico1,normalized_title
+GSE20271,GSM508154,breast cancer MEXICO5,mexico5,normalized_title
+GSE20271,GSM508155,breast cancer MEXICO7,mexico7,normalized_title
+GSE20271,GSM508156,breast cancer MEXICO6,mexico6,normalized_title
+GSE20271,GSM508157,breast cancer MEXICO16,mexico16,normalized_title
+GSE20271,GSM508158,breast cancer PERU56,peru56,normalized_title
+GSE20271,GSM508159,breast cancer LBJ046,lbj046,normalized_title
+GSE20271,GSM508160,breast cancer PERU31,peru31,normalized_title
+GSE20271,GSM508161,breast cancer PERU60,peru60,normalized_title
+GSE20271,GSM508162,breast cancer PERU29,peru29,normalized_title
+GSE20271,GSM508163,breast cancer PERU14-16,peru1416,normalized_title
+GSE20271,GSM508164,breast cancer SPAIN55,spain55,normalized_title
+GSE20271,GSM508165,breast cancer SPAIN3,spain3,normalized_title
+GSE20271,GSM508166,breast cancer SPAIN51,spain51,normalized_title
+GSE20271,GSM508167,breast cancer SPAIN12,spain12,normalized_title
+GSE20271,GSM508168,breast cancer SPAIN6,spain6,normalized_title
+GSE20271,GSM508169,breast cancer SPAIN41,spain41,normalized_title
+GSE20271,GSM508170,breast cancer 321,m321,study_aware_title
+GSE20271,GSM508171,breast cancer 382,m382,study_aware_title
+GSE20271,GSM508172,breast cancer 447,m447,study_aware_title
+GSE20271,GSM508173,breast cancer 513,m513,study_aware_title
+GSE20271,GSM508174,breast cancer 625,m625,study_aware_title
+GSE20271,GSM508175,breast cancer 340,m340,study_aware_title
+GSE20271,GSM508176,breast cancer 545,m545,study_aware_title
+GSE20271,GSM508177,breast cancer LBJ054,lbj054,normalized_title
+GSE20271,GSM508178,breast cancer PERU76,peru76,normalized_title
+GSE20271,GSM508179,breast cancer LBJ082,lbj082,normalized_title
+GSE20271,GSM508180,breast cancer 319,m319,study_aware_title
+GSE20271,GSM508181,breast cancer LBJ070,lbj070,normalized_title
+GSE20271,GSM508182,breast cancer 718,m718,study_aware_title
+GSE20271,GSM508183,breast cancer 657,m657,study_aware_title
+GSE20271,GSM508184,breast cancer 690,m690,study_aware_title
+GSE20271,GSM508185,breast cancer 710,m710,study_aware_title
+GSE20271,GSM508186,breast cancer 685,m685,study_aware_title
+GSE20271,GSM508187,breast cancer 746,m746,study_aware_title
+GSE20271,GSM508188,breast cancer 502,m502,study_aware_title
+GSE20271,GSM508189,breast cancer 753,m753,study_aware_title
+GSE22093,GSM549230,breast cancer FA01,fa01,normalized_title
+GSE22093,GSM549231,breast cancer FA03,fa03,normalized_title
+GSE22093,GSM549232,breast cancer FA04,fa04,normalized_title
+GSE22093,GSM549233,breast cancer FA06,fa06,normalized_title
+GSE22093,GSM549234,breast cancer FA07,fa07,normalized_title
+GSE22093,GSM549235,breast cancer FA11,fa11,normalized_title
+GSE22093,GSM549236,breast cancer FA13,fa13,normalized_title
+GSE22093,GSM549237,breast cancer FA14,fa14,normalized_title
+GSE22093,GSM549238,breast cancer FA15,fa15,normalized_title
+GSE22093,GSM549239,breast cancer FA16,fa16,normalized_title
+GSE22093,GSM549240,breast cancer FA17,fa17,normalized_title
+GSE22093,GSM549241,breast cancer FA18,fa18,normalized_title
+GSE22093,GSM549242,breast cancer FA19,fa19,normalized_title
+GSE22093,GSM549243,breast cancer FA21,fa21,normalized_title
+GSE22093,GSM549244,breast cancer FA23,fa23,normalized_title
+GSE22093,GSM549245,breast cancer FA24,fa24,normalized_title
+GSE22093,GSM549246,breast cancer FA25,fa25,normalized_title
+GSE22093,GSM549247,breast cancer FA28,fa28,normalized_title
+GSE22093,GSM549248,breast cancer FA29,fa29,normalized_title
+GSE22093,GSM549249,breast cancer FA31,fa31,normalized_title
+GSE22093,GSM549250,breast cancer FA32,fa32,normalized_title
+GSE22093,GSM549251,breast cancer FA33,fa33,normalized_title
+GSE22093,GSM549252,breast cancer FA35,fa35,normalized_title
+GSE22093,GSM549253,breast cancer FA36,fa36,normalized_title
+GSE22093,GSM549254,breast cancer FA37,fa37,normalized_title
+GSE22093,GSM549255,breast cancer FA38,fa38,normalized_title
+GSE22093,GSM549256,breast cancer FA40,fa40,normalized_title
+GSE22093,GSM549257,breast cancer FA41,fa41,normalized_title
+GSE22093,GSM549258,breast cancer FA42,fa42,normalized_title
+GSE22093,GSM549259,breast cancer FA43,fa43,normalized_title
+GSE22093,GSM549260,breast cancer FA44,fa44,normalized_title
+GSE22093,GSM549261,breast cancer FA45,fa45,normalized_title
+GSE22093,GSM549262,breast cancer FA47,fa47,normalized_title
+GSE22093,GSM549263,breast cancer FA49,fa49,normalized_title
+GSE22093,GSM549264,breast cancer FA50,fa50,normalized_title
+GSE22093,GSM549265,breast cancer X112,x112,normalized_title
+GSE22093,GSM549266,breast cancer X142,x142,normalized_title
+GSE22093,GSM549267,breast cancer X172,x172,normalized_title
+GSE22093,GSM549268,breast cancer X207,x207,normalized_title
+GSE22093,GSM549269,breast cancer X208,x208,normalized_title
+GSE22093,GSM549270,breast cancer X248,x248,normalized_title
+GSE22093,GSM549271,breast cancer X312,x312,normalized_title
+GSE22093,GSM549272,breast cancer X313,x313,normalized_title
+GSE22093,GSM549273,breast cancer X314,x314,normalized_title
+GSE22093,GSM549274,breast cancer X318,x318,normalized_title
+GSE22093,GSM549275,breast cancer X323,x323,normalized_title
+GSE22093,GSM549276,breast cancer X338,x338,normalized_title
+GSE22093,GSM549277,breast cancer X349,x349,normalized_title
+GSE22093,GSM549278,breast cancer X369,x369,normalized_title
+GSE22093,GSM549279,breast cancer X378,x378,normalized_title
+GSE22093,GSM549280,breast cancer X380,x380,normalized_title
+GSE22093,GSM549281,breast cancer X400,x400,normalized_title
+GSE22093,GSM549282,breast cancer X414,x414,normalized_title
+GSE22093,GSM549283,breast cancer X458,x458,normalized_title
+GSE22093,GSM549284,breast cancer X461,x461,normalized_title
+GSE22093,GSM549285,breast cancer X466,x466,normalized_title
+GSE22093,GSM549286,breast cancer X473,x473,normalized_title
+GSE22093,GSM549287,breast cancer X521,x521,normalized_title
+GSE22093,GSM549288,breast cancer X536,x536,normalized_title
+GSE22093,GSM549289,breast cancer X570,x570,normalized_title
+GSE22093,GSM549290,breast cancer X571,x571,normalized_title
+GSE22093,GSM549291,breast cancer X572,x572,normalized_title
+GSE22093,GSM549292,breast cancer X604,x604,normalized_title
+GSE22093,GSM549293,breast cancer X631,x631,normalized_title
+GSE22093,GSM549294,breast cancer X644,x644,normalized_title
+GSE22093,GSM549295,breast cancer X680,x680,normalized_title
+GSE22093,GSM549296,breast cancer X694,x694,normalized_title
+GSE22093,GSM549297,breast cancer X702,x702,normalized_title
+GSE22093,GSM549298,breast cancer X703,x703,normalized_title
+GSE22093,GSM549299,breast cancer MEXICO15,mexico15,normalized_title
+GSE22093,GSM549300,breast cancer MEXICO18,mexico18,normalized_title
+GSE22093,GSM549301,breast cancer MEXICO2,mexico2,normalized_title
+GSE22093,GSM549302,breast cancer PERU21,peru21,normalized_title
+GSE22093,GSM549303,breast cancer PERU22,peru22,normalized_title
+GSE22093,GSM549304,breast cancer PERU25,peru25,normalized_title
+GSE22093,GSM549305,breast cancer PERU27,peru27,normalized_title
+GSE22093,GSM549306,breast cancer PERU36,peru36,normalized_title
+GSE22093,GSM549307,breast cancer PERU38,peru38,normalized_title
+GSE22093,GSM549308,breast cancer PERU41,peru41,normalized_title
+GSE22093,GSM549309,breast cancer PERU44,peru44,normalized_title
+GSE22093,GSM549310,breast cancer PERU49,peru49,normalized_title
+GSE22093,GSM549311,breast cancer PERU53,peru53,normalized_title
+GSE22093,GSM750734,breast cancer FA02,fa02,normalized_title
+GSE22093,GSM750735,breast cancer FA05,fa05,normalized_title
+GSE22093,GSM750736,breast cancer FA08,fa08,normalized_title
+GSE22093,GSM750737,breast cancer FA09,fa09,normalized_title
+GSE22093,GSM750738,breast cancer FA10,fa10,normalized_title
+GSE22093,GSM750739,breast cancer FA12,fa12,normalized_title
+GSE22093,GSM750740,breast cancer FA20,fa20,normalized_title
+GSE22093,GSM750741,breast cancer FA22,fa22,normalized_title
+GSE22093,GSM750742,breast cancer FA26,fa26,normalized_title
+GSE22093,GSM750743,breast cancer FA27,fa27,normalized_title
+GSE22093,GSM750744,breast cancer FA30,fa30,normalized_title
+GSE22093,GSM750745,breast cancer FA34,fa34,normalized_title
+GSE22093,GSM750746,breast cancer FA39,fa39,normalized_title
+GSE22093,GSM750747,breast cancer FA46,fa46,normalized_title
+GSE22093,GSM750748,breast cancer FA51,fa51,normalized_title
+GSE22093,GSM750749,breast cancer X150,x150,normalized_title
+GSE22093,GSM750750,breast cancer X439,x439,normalized_title
+GSE22093,GSM750751,breast cancer X452,x452,normalized_title
+GSE22093,GSM750752,breast cancer X553,x553,normalized_title
+GSE22093,GSM750753,breast cancer MEXICO10,mexico10,normalized_title
+GSE22093,GSM750754,breast cancer MEXICO9,mexico9,normalized_title
+GSE23988,GSM590840,breast cancer US097-r1,us097r1,normalized_title
+GSE23988,GSM590841,breast cancer US001,us001,normalized_title
+GSE23988,GSM590842,breast cancer US005,us005,normalized_title
+GSE23988,GSM590843,breast cancer US011,us011,normalized_title
+GSE23988,GSM590844,breast cancer US014,us014,normalized_title
+GSE23988,GSM590845,breast cancer US019,us019,normalized_title
+GSE23988,GSM590846,breast cancer US022,us022,normalized_title
+GSE23988,GSM590847,breast cancer US023,us023,normalized_title
+GSE23988,GSM590848,breast cancer US024,us024,normalized_title
+GSE23988,GSM590849,breast cancer US026,us026,normalized_title
+GSE23988,GSM590850,breast cancer US032,us032,normalized_title
+GSE23988,GSM590851,breast cancer US033,us033,normalized_title
+GSE23988,GSM590852,breast cancer US034,us034,normalized_title
+GSE23988,GSM590853,breast cancer US037,us037,normalized_title
+GSE23988,GSM590854,breast cancer US038,us038,normalized_title
+GSE23988,GSM590855,breast cancer US047,us047,normalized_title
+GSE23988,GSM590856,breast cancer US049,us049,normalized_title
+GSE23988,GSM590857,breast cancer US051,us051,normalized_title
+GSE23988,GSM590858,breast cancer US054,us054,normalized_title
+GSE23988,GSM590859,breast cancer US055,us055,normalized_title
+GSE23988,GSM590860,breast cancer US057,us057,normalized_title
+GSE23988,GSM590861,breast cancer US067,us067,normalized_title
+GSE23988,GSM590862,breast cancer US071,us071,normalized_title
+GSE23988,GSM590863,breast cancer US072,us072,normalized_title
+GSE23988,GSM590864,breast cancer US074,us074,normalized_title
+GSE23988,GSM590865,breast cancer US080,us080,normalized_title
+GSE23988,GSM590866,breast cancer US082,us082,normalized_title
+GSE23988,GSM590867,breast cancer US084,us084,normalized_title
+GSE23988,GSM590868,breast cancer US087,us087,normalized_title
+GSE23988,GSM590869,breast cancer US088,us088,normalized_title
+GSE23988,GSM590870,breast cancer US089,us089,normalized_title
+GSE23988,GSM590871,breast cancer US090,us090,normalized_title
+GSE23988,GSM590872,breast cancer US096,us096,normalized_title
+GSE23988,GSM590873,breast cancer US099,us099,normalized_title
+GSE23988,GSM590874,breast cancer US100,us100,normalized_title
+GSE23988,GSM590875,breast cancer US103,us103,normalized_title
+GSE23988,GSM590876,breast cancer US104,us104,normalized_title
+GSE23988,GSM590877,breast cancer US107,us107,normalized_title
+GSE23988,GSM590878,breast cancer US108,us108,normalized_title
+GSE23988,GSM590879,breast cancer US110,us110,normalized_title
+GSE23988,GSM590880,breast cancer US111,us111,normalized_title
+GSE23988,GSM590881,breast cancer US112,us112,normalized_title
+GSE23988,GSM590882,breast cancer US116,us116,normalized_title
+GSE23988,GSM590883,breast cancer US117,us117,normalized_title
+GSE23988,GSM590884,breast cancer US118,us118,normalized_title
+GSE23988,GSM590885,breast cancer US122,us122,normalized_title
+GSE23988,GSM590886,breast cancer US128,us128,normalized_title
+GSE23988,GSM590887,breast cancer US131,us131,normalized_title
+GSE23988,GSM590888,breast cancer US132,us132,normalized_title
+GSE23988,GSM590889,breast cancer US135,us135,normalized_title
+GSE23988,GSM590890,breast cancer US141,us141,normalized_title
+GSE23988,GSM590891,breast cancer US143,us143,normalized_title
+GSE23988,GSM590892,breast cancer US144,us144,normalized_title
+GSE23988,GSM590893,breast cancer US151,us151,normalized_title
+GSE23988,GSM590894,breast cancer US154,us154,normalized_title
+GSE23988,GSM590895,breast cancer US158,us158,normalized_title
+GSE23988,GSM590896,breast cancer US160,us160,normalized_title
+GSE23988,GSM590897,breast cancer US165,us165,normalized_title
+GSE23988,GSM590898,breast cancer US166,us166,normalized_title
+GSE23988,GSM590899,breast cancer US168,us168,normalized_title
+GSE23988,GSM590900,breast cancer US186,us186,normalized_title
+GSE25055,GSM615096,1002,ispy1002,explicit_source_identifier
+GSE25055,GSM615096,1002,ispy1002,source_namespaced_title
+GSE25055,GSM615097,1005,ispy1005,explicit_source_identifier
+GSE25055,GSM615097,1005,ispy1005,source_namespaced_title
+GSE25055,GSM615098,1009,ispy1009,explicit_source_identifier
+GSE25055,GSM615098,1009,ispy1009,source_namespaced_title
+GSE25055,GSM615099,1011,ispy1011,explicit_source_identifier
+GSE25055,GSM615099,1011,ispy1011,source_namespaced_title
+GSE25055,GSM615100,1016,ispy1016,explicit_source_identifier
+GSE25055,GSM615100,1016,ispy1016,source_namespaced_title
+GSE25055,GSM615101,1019,ispy1019,explicit_source_identifier
+GSE25055,GSM615101,1019,ispy1019,source_namespaced_title
+GSE25055,GSM615102,1027,ispy1027,explicit_source_identifier
+GSE25055,GSM615102,1027,ispy1027,source_namespaced_title
+GSE25055,GSM615103,1031,ispy1031,explicit_source_identifier
+GSE25055,GSM615103,1031,ispy1031,source_namespaced_title
+GSE25055,GSM615104,1034,ispy1034,explicit_source_identifier
+GSE25055,GSM615104,1034,ispy1034,source_namespaced_title
+GSE25055,GSM615105,1035,ispy1035,explicit_source_identifier
+GSE25055,GSM615105,1035,ispy1035,source_namespaced_title
+GSE25055,GSM615106,1037,ispy1037,explicit_source_identifier
+GSE25055,GSM615106,1037,ispy1037,source_namespaced_title
+GSE25055,GSM615107,1038,ispy1038,explicit_source_identifier
+GSE25055,GSM615107,1038,ispy1038,source_namespaced_title
+GSE25055,GSM615108,1041,ispy1041,explicit_source_identifier
+GSE25055,GSM615108,1041,ispy1041,source_namespaced_title
+GSE25055,GSM615109,1044,ispy1044,explicit_source_identifier
+GSE25055,GSM615109,1044,ispy1044,source_namespaced_title
+GSE25055,GSM615110,1045,ispy1045,explicit_source_identifier
+GSE25055,GSM615110,1045,ispy1045,source_namespaced_title
+GSE25055,GSM615111,1049,ispy1049,explicit_source_identifier
+GSE25055,GSM615111,1049,ispy1049,source_namespaced_title
+GSE25055,GSM615112,1050,ispy1050,explicit_source_identifier
+GSE25055,GSM615112,1050,ispy1050,source_namespaced_title
+GSE25055,GSM615113,1054,ispy1054,explicit_source_identifier
+GSE25055,GSM615113,1054,ispy1054,source_namespaced_title
+GSE25055,GSM615114,1055,ispy1055,explicit_source_identifier
+GSE25055,GSM615114,1055,ispy1055,source_namespaced_title
+GSE25055,GSM615115,1057,ispy1057,explicit_source_identifier
+GSE25055,GSM615115,1057,ispy1057,source_namespaced_title
+GSE25055,GSM615116,1061,ispy1061,explicit_source_identifier
+GSE25055,GSM615116,1061,ispy1061,source_namespaced_title
+GSE25055,GSM615117,1062,ispy1062,explicit_source_identifier
+GSE25055,GSM615117,1062,ispy1062,source_namespaced_title
+GSE25055,GSM615118,1064,ispy1064,explicit_source_identifier
+GSE25055,GSM615118,1064,ispy1064,source_namespaced_title
+GSE25055,GSM615119,1067,ispy1067,explicit_source_identifier
+GSE25055,GSM615119,1067,ispy1067,source_namespaced_title
+GSE25055,GSM615120,1068,ispy1068,explicit_source_identifier
+GSE25055,GSM615120,1068,ispy1068,source_namespaced_title
+GSE25055,GSM615121,1074,ispy1074,explicit_source_identifier
+GSE25055,GSM615121,1074,ispy1074,source_namespaced_title
+GSE25055,GSM615122,1078,ispy1078,explicit_source_identifier
+GSE25055,GSM615122,1078,ispy1078,source_namespaced_title
+GSE25055,GSM615123,1088,ispy1088,explicit_source_identifier
+GSE25055,GSM615123,1088,ispy1088,source_namespaced_title
+GSE25055,GSM615124,1089,ispy1089,explicit_source_identifier
+GSE25055,GSM615124,1089,ispy1089,source_namespaced_title
+GSE25055,GSM615125,1092,ispy1092,explicit_source_identifier
+GSE25055,GSM615125,1092,ispy1092,source_namespaced_title
+GSE25055,GSM615126,1095,ispy1095,explicit_source_identifier
+GSE25055,GSM615126,1095,ispy1095,source_namespaced_title
+GSE25055,GSM615127,1100,ispy1100,explicit_source_identifier
+GSE25055,GSM615127,1100,ispy1100,source_namespaced_title
+GSE25055,GSM615128,1106,ispy1106,explicit_source_identifier
+GSE25055,GSM615128,1106,ispy1106,source_namespaced_title
+GSE25055,GSM615129,1113,ispy1113,explicit_source_identifier
+GSE25055,GSM615129,1113,ispy1113,source_namespaced_title
+GSE25055,GSM615130,1114,ispy1114,explicit_source_identifier
+GSE25055,GSM615130,1114,ispy1114,source_namespaced_title
+GSE25055,GSM615131,1123,ispy1123,explicit_source_identifier
+GSE25055,GSM615131,1123,ispy1123,source_namespaced_title
+GSE25055,GSM615132,1127,ispy1127,explicit_source_identifier
+GSE25055,GSM615132,1127,ispy1127,source_namespaced_title
+GSE25055,GSM615133,1132,ispy1132,explicit_source_identifier
+GSE25055,GSM615133,1132,ispy1132,source_namespaced_title
+GSE25055,GSM615134,1134,ispy1134,explicit_source_identifier
+GSE25055,GSM615134,1134,ispy1134,source_namespaced_title
+GSE25055,GSM615135,1135,ispy1135,explicit_source_identifier
+GSE25055,GSM615135,1135,ispy1135,source_namespaced_title
+GSE25055,GSM615136,1136,ispy1136,explicit_source_identifier
+GSE25055,GSM615136,1136,ispy1136,source_namespaced_title
+GSE25055,GSM615137,1138,ispy1138,explicit_source_identifier
+GSE25055,GSM615137,1138,ispy1138,source_namespaced_title
+GSE25055,GSM615138,1140,ispy1140,explicit_source_identifier
+GSE25055,GSM615138,1140,ispy1140,source_namespaced_title
+GSE25055,GSM615139,1144,ispy1144,explicit_source_identifier
+GSE25055,GSM615139,1144,ispy1144,source_namespaced_title
+GSE25055,GSM615140,1145,ispy1145,explicit_source_identifier
+GSE25055,GSM615140,1145,ispy1145,source_namespaced_title
+GSE25055,GSM615141,1149,ispy1149,explicit_source_identifier
+GSE25055,GSM615141,1149,ispy1149,source_namespaced_title
+GSE25055,GSM615142,1150,ispy1150,explicit_source_identifier
+GSE25055,GSM615142,1150,ispy1150,source_namespaced_title
+GSE25055,GSM615143,1155,ispy1155,explicit_source_identifier
+GSE25055,GSM615143,1155,ispy1155,source_namespaced_title
+GSE25055,GSM615144,1158,ispy1158,explicit_source_identifier
+GSE25055,GSM615144,1158,ispy1158,source_namespaced_title
+GSE25055,GSM615145,1160,ispy1160,explicit_source_identifier
+GSE25055,GSM615145,1160,ispy1160,source_namespaced_title
+GSE25055,GSM615146,1163,ispy1163,explicit_source_identifier
+GSE25055,GSM615146,1163,ispy1163,source_namespaced_title
+GSE25055,GSM615147,1164,ispy1164,explicit_source_identifier
+GSE25055,GSM615147,1164,ispy1164,source_namespaced_title
+GSE25055,GSM615148,1165,ispy1165,explicit_source_identifier
+GSE25055,GSM615148,1165,ispy1165,source_namespaced_title
+GSE25055,GSM615149,1169,ispy1169,explicit_source_identifier
+GSE25055,GSM615149,1169,ispy1169,source_namespaced_title
+GSE25055,GSM615150,1170,ispy1170,explicit_source_identifier
+GSE25055,GSM615150,1170,ispy1170,source_namespaced_title
+GSE25055,GSM615151,1172,ispy1172,explicit_source_identifier
+GSE25055,GSM615151,1172,ispy1172,source_namespaced_title
+GSE25055,GSM615152,1173,ispy1173,explicit_source_identifier
+GSE25055,GSM615152,1173,ispy1173,source_namespaced_title
+GSE25055,GSM615153,1175,ispy1175,explicit_source_identifier
+GSE25055,GSM615153,1175,ispy1175,source_namespaced_title
+GSE25055,GSM615154,1177,ispy1177,explicit_source_identifier
+GSE25055,GSM615154,1177,ispy1177,source_namespaced_title
+GSE25055,GSM615155,1180,ispy1180,explicit_source_identifier
+GSE25055,GSM615155,1180,ispy1180,source_namespaced_title
+GSE25055,GSM615156,1188,ispy1188,explicit_source_identifier
+GSE25055,GSM615156,1188,ispy1188,source_namespaced_title
+GSE25055,GSM615157,1191,ispy1191,explicit_source_identifier
+GSE25055,GSM615157,1191,ispy1191,source_namespaced_title
+GSE25055,GSM615158,1193,ispy1193,explicit_source_identifier
+GSE25055,GSM615158,1193,ispy1193,source_namespaced_title
+GSE25055,GSM615159,1197,ispy1197,explicit_source_identifier
+GSE25055,GSM615159,1197,ispy1197,source_namespaced_title
+GSE25055,GSM615160,1199,ispy1199,explicit_source_identifier
+GSE25055,GSM615160,1199,ispy1199,source_namespaced_title
+GSE25055,GSM615161,1200,ispy1200,explicit_source_identifier
+GSE25055,GSM615161,1200,ispy1200,source_namespaced_title
+GSE25055,GSM615162,1203,ispy1203,explicit_source_identifier
+GSE25055,GSM615162,1203,ispy1203,source_namespaced_title
+GSE25055,GSM615163,1205,ispy1205,explicit_source_identifier
+GSE25055,GSM615163,1205,ispy1205,source_namespaced_title
+GSE25055,GSM615164,1208,ispy1208,explicit_source_identifier
+GSE25055,GSM615164,1208,ispy1208,source_namespaced_title
+GSE25055,GSM615165,1209,ispy1209,explicit_source_identifier
+GSE25055,GSM615165,1209,ispy1209,source_namespaced_title
+GSE25055,GSM615166,1210,ispy1210,explicit_source_identifier
+GSE25055,GSM615166,1210,ispy1210,source_namespaced_title
+GSE25055,GSM615167,1216,ispy1216,explicit_source_identifier
+GSE25055,GSM615167,1216,ispy1216,source_namespaced_title
+GSE25055,GSM615168,1217,ispy1217,explicit_source_identifier
+GSE25055,GSM615168,1217,ispy1217,source_namespaced_title
+GSE25055,GSM615169,1218,ispy1218,explicit_source_identifier
+GSE25055,GSM615169,1218,ispy1218,source_namespaced_title
+GSE25055,GSM615170,1219,ispy1219,explicit_source_identifier
+GSE25055,GSM615170,1219,ispy1219,source_namespaced_title
+GSE25055,GSM615171,1220,ispy1220,explicit_source_identifier
+GSE25055,GSM615171,1220,ispy1220,source_namespaced_title
+GSE25055,GSM615172,1223,ispy1223,explicit_source_identifier
+GSE25055,GSM615172,1223,ispy1223,source_namespaced_title
+GSE25055,GSM615173,1225,ispy1225,explicit_source_identifier
+GSE25055,GSM615173,1225,ispy1225,source_namespaced_title
+GSE25055,GSM615174,1226,ispy1226,explicit_source_identifier
+GSE25055,GSM615174,1226,ispy1226,source_namespaced_title
+GSE25055,GSM615175,1227,ispy1227,explicit_source_identifier
+GSE25055,GSM615175,1227,ispy1227,source_namespaced_title
+GSE25055,GSM615176,1231,ispy1231,explicit_source_identifier
+GSE25055,GSM615176,1231,ispy1231,source_namespaced_title
+GSE25055,GSM615177,1232,ispy1232,explicit_source_identifier
+GSE25055,GSM615177,1232,ispy1232,source_namespaced_title
+GSE25055,GSM615178,1236,ispy1236,explicit_source_identifier
+GSE25055,GSM615178,1236,ispy1236,source_namespaced_title
+GSE25055,GSM615179,M106,m106,characteristic:sample id
+GSE25055,GSM615179,M106,m106,normalized_title
+GSE25055,GSM615179,M106,mdaccm106,explicit_source_identifier
+GSE25055,GSM615180,M107,m107,characteristic:sample id
+GSE25055,GSM615180,M107,m107,normalized_title
+GSE25055,GSM615180,M107,mdaccm107,explicit_source_identifier
+GSE25055,GSM615181,M111,m111,characteristic:sample id
+GSE25055,GSM615181,M111,m111,normalized_title
+GSE25055,GSM615181,M111,mdaccm111,explicit_source_identifier
+GSE25055,GSM615182,M113,m113,characteristic:sample id
+GSE25055,GSM615182,M113,m113,normalized_title
+GSE25055,GSM615182,M113,mdaccm113,explicit_source_identifier
+GSE25055,GSM615183,M117,m117,characteristic:sample id
+GSE25055,GSM615183,M117,m117,normalized_title
+GSE25055,GSM615183,M117,mdaccm117,explicit_source_identifier
+GSE25055,GSM615184,M120,m120,characteristic:sample id
+GSE25055,GSM615184,M120,m120,normalized_title
+GSE25055,GSM615184,M120,mdaccm120,explicit_source_identifier
+GSE25055,GSM615185,M121,m121,characteristic:sample id
+GSE25055,GSM615185,M121,m121,normalized_title
+GSE25055,GSM615185,M121,mdaccm121,explicit_source_identifier
+GSE25055,GSM615186,M123,m123,characteristic:sample id
+GSE25055,GSM615186,M123,m123,normalized_title
+GSE25055,GSM615186,M123,mdaccm123,explicit_source_identifier
+GSE25055,GSM615187,M128,m128,characteristic:sample id
+GSE25055,GSM615187,M128,m128,normalized_title
+GSE25055,GSM615187,M128,mdaccm128,explicit_source_identifier
+GSE25055,GSM615188,M129,m129,characteristic:sample id
+GSE25055,GSM615188,M129,m129,normalized_title
+GSE25055,GSM615188,M129,mdaccm129,explicit_source_identifier
+GSE25055,GSM615189,M130,m130,characteristic:sample id
+GSE25055,GSM615189,M130,m130,normalized_title
+GSE25055,GSM615189,M130,mdaccm130,explicit_source_identifier
+GSE25055,GSM615190,M133,m133,characteristic:sample id
+GSE25055,GSM615190,M133,m133,normalized_title
+GSE25055,GSM615190,M133,mdaccm133,explicit_source_identifier
+GSE25055,GSM615191,M136,m136,characteristic:sample id
+GSE25055,GSM615191,M136,m136,normalized_title
+GSE25055,GSM615191,M136,mdaccm136,explicit_source_identifier
+GSE25055,GSM615192,M139,m139,characteristic:sample id
+GSE25055,GSM615192,M139,m139,normalized_title
+GSE25055,GSM615192,M139,mdaccm139,explicit_source_identifier
+GSE25055,GSM615193,M146,m146,characteristic:sample id
+GSE25055,GSM615193,M146,m146,normalized_title
+GSE25055,GSM615193,M146,mdaccm146,explicit_source_identifier
+GSE25055,GSM615194,M153,m153,characteristic:sample id
+GSE25055,GSM615194,M153,m153,normalized_title
+GSE25055,GSM615194,M153,mdaccm153,explicit_source_identifier
+GSE25055,GSM615195,M154,m154,characteristic:sample id
+GSE25055,GSM615195,M154,m154,normalized_title
+GSE25055,GSM615195,M154,mdaccm154,explicit_source_identifier
+GSE25055,GSM615196,M155,m155,characteristic:sample id
+GSE25055,GSM615196,M155,m155,normalized_title
+GSE25055,GSM615196,M155,mdaccm155,explicit_source_identifier
+GSE25055,GSM615197,M156,m156,characteristic:sample id
+GSE25055,GSM615197,M156,m156,normalized_title
+GSE25055,GSM615197,M156,mdaccm156,explicit_source_identifier
+GSE25055,GSM615198,M157,m157,characteristic:sample id
+GSE25055,GSM615198,M157,m157,normalized_title
+GSE25055,GSM615198,M157,mdaccm157,explicit_source_identifier
+GSE25055,GSM615199,M158,m158,characteristic:sample id
+GSE25055,GSM615199,M158,m158,normalized_title
+GSE25055,GSM615199,M158,mdaccm158,explicit_source_identifier
+GSE25055,GSM615200,M165,m165,characteristic:sample id
+GSE25055,GSM615200,M165,m165,normalized_title
+GSE25055,GSM615200,M165,mdaccm165,explicit_source_identifier
+GSE25055,GSM615201,M177,m177,characteristic:sample id
+GSE25055,GSM615201,M177,m177,normalized_title
+GSE25055,GSM615201,M177,mdaccm177,explicit_source_identifier
+GSE25055,GSM615202,M180,m180,characteristic:sample id
+GSE25055,GSM615202,M180,m180,normalized_title
+GSE25055,GSM615202,M180,mdaccm180,explicit_source_identifier
+GSE25055,GSM615203,M181,m181,characteristic:sample id
+GSE25055,GSM615203,M181,m181,normalized_title
+GSE25055,GSM615203,M181,mdaccm181,explicit_source_identifier
+GSE25055,GSM615204,M182,m182,characteristic:sample id
+GSE25055,GSM615204,M182,m182,normalized_title
+GSE25055,GSM615204,M182,mdaccm182,explicit_source_identifier
+GSE25055,GSM615205,M188,m188,characteristic:sample id
+GSE25055,GSM615205,M188,m188,normalized_title
+GSE25055,GSM615205,M188,mdaccm188,explicit_source_identifier
+GSE25055,GSM615206,M189,m189,characteristic:sample id
+GSE25055,GSM615206,M189,m189,normalized_title
+GSE25055,GSM615206,M189,mdaccm189,explicit_source_identifier
+GSE25055,GSM615207,M195,m195,characteristic:sample id
+GSE25055,GSM615207,M195,m195,normalized_title
+GSE25055,GSM615207,M195,mdaccm195,explicit_source_identifier
+GSE25055,GSM615208,M196,m196,characteristic:sample id
+GSE25055,GSM615208,M196,m196,normalized_title
+GSE25055,GSM615208,M196,mdaccm196,explicit_source_identifier
+GSE25055,GSM615209,M199,m199,characteristic:sample id
+GSE25055,GSM615209,M199,m199,normalized_title
+GSE25055,GSM615209,M199,mdaccm199,explicit_source_identifier
+GSE25055,GSM615210,M201,m201,characteristic:sample id
+GSE25055,GSM615210,M201,m201,normalized_title
+GSE25055,GSM615210,M201,mdaccm201,explicit_source_identifier
+GSE25055,GSM615211,M205,m205,characteristic:sample id
+GSE25055,GSM615211,M205,m205,normalized_title
+GSE25055,GSM615211,M205,mdaccm205,explicit_source_identifier
+GSE25055,GSM615212,M206,m206,characteristic:sample id
+GSE25055,GSM615212,M206,m206,normalized_title
+GSE25055,GSM615212,M206,mdaccm206,explicit_source_identifier
+GSE25055,GSM615213,M211,m211,characteristic:sample id
+GSE25055,GSM615213,M211,m211,normalized_title
+GSE25055,GSM615213,M211,mdaccm211,explicit_source_identifier
+GSE25055,GSM615214,M214,m214,characteristic:sample id
+GSE25055,GSM615214,M214,m214,normalized_title
+GSE25055,GSM615214,M214,mdaccm214,explicit_source_identifier
+GSE25055,GSM615215,M215,m215,characteristic:sample id
+GSE25055,GSM615215,M215,m215,normalized_title
+GSE25055,GSM615215,M215,mdaccm215,explicit_source_identifier
+GSE25055,GSM615216,M216,m216,characteristic:sample id
+GSE25055,GSM615216,M216,m216,normalized_title
+GSE25055,GSM615216,M216,mdaccm216,explicit_source_identifier
+GSE25055,GSM615217,M217,m217,characteristic:sample id
+GSE25055,GSM615217,M217,m217,normalized_title
+GSE25055,GSM615217,M217,mdaccm217,explicit_source_identifier
+GSE25055,GSM615218,M219,m219,characteristic:sample id
+GSE25055,GSM615218,M219,m219,normalized_title
+GSE25055,GSM615218,M219,mdaccm219,explicit_source_identifier
+GSE25055,GSM615219,M220,m220,characteristic:sample id
+GSE25055,GSM615219,M220,m220,normalized_title
+GSE25055,GSM615219,M220,mdaccm220,explicit_source_identifier
+GSE25055,GSM615220,M226,m226,characteristic:sample id
+GSE25055,GSM615220,M226,m226,normalized_title
+GSE25055,GSM615220,M226,mdaccm226,explicit_source_identifier
+GSE25055,GSM615221,M227,m227,characteristic:sample id
+GSE25055,GSM615221,M227,m227,normalized_title
+GSE25055,GSM615221,M227,mdaccm227,explicit_source_identifier
+GSE25055,GSM615222,M228,m228,characteristic:sample id
+GSE25055,GSM615222,M228,m228,normalized_title
+GSE25055,GSM615222,M228,mdaccm228,explicit_source_identifier
+GSE25055,GSM615223,M229,m229,characteristic:sample id
+GSE25055,GSM615223,M229,m229,normalized_title
+GSE25055,GSM615223,M229,mdaccm229,explicit_source_identifier
+GSE25055,GSM615224,M231,m231,characteristic:sample id
+GSE25055,GSM615224,M231,m231,normalized_title
+GSE25055,GSM615224,M231,mdaccm231,explicit_source_identifier
+GSE25055,GSM615225,M233,m233,characteristic:sample id
+GSE25055,GSM615225,M233,m233,normalized_title
+GSE25055,GSM615225,M233,mdaccm233,explicit_source_identifier
+GSE25055,GSM615226,M234,m234,characteristic:sample id
+GSE25055,GSM615226,M234,m234,normalized_title
+GSE25055,GSM615226,M234,mdaccm234,explicit_source_identifier
+GSE25055,GSM615227,M236,m236,characteristic:sample id
+GSE25055,GSM615227,M236,m236,normalized_title
+GSE25055,GSM615227,M236,mdaccm236,explicit_source_identifier
+GSE25055,GSM615228,M246,m246,characteristic:sample id
+GSE25055,GSM615228,M246,m246,normalized_title
+GSE25055,GSM615228,M246,mdaccm246,explicit_source_identifier
+GSE25055,GSM615229,M255,m255,characteristic:sample id
+GSE25055,GSM615229,M255,m255,normalized_title
+GSE25055,GSM615229,M255,mdaccm255,explicit_source_identifier
+GSE25055,GSM615230,M259,m259,characteristic:sample id
+GSE25055,GSM615230,M259,m259,normalized_title
+GSE25055,GSM615230,M259,mdaccm259,explicit_source_identifier
+GSE25055,GSM615231,M260,m260,characteristic:sample id
+GSE25055,GSM615231,M260,m260,normalized_title
+GSE25055,GSM615231,M260,mdaccm260,explicit_source_identifier
+GSE25055,GSM615232,M261,m261,characteristic:sample id
+GSE25055,GSM615232,M261,m261,normalized_title
+GSE25055,GSM615232,M261,mdaccm261,explicit_source_identifier
+GSE25055,GSM615233,M263,m263,characteristic:sample id
+GSE25055,GSM615233,M263,m263,normalized_title
+GSE25055,GSM615233,M263,mdaccm263,explicit_source_identifier
+GSE25055,GSM615234,M266,m266,characteristic:sample id
+GSE25055,GSM615234,M266,m266,normalized_title
+GSE25055,GSM615234,M266,mdaccm266,explicit_source_identifier
+GSE25055,GSM615235,M270,m270,characteristic:sample id
+GSE25055,GSM615235,M270,m270,normalized_title
+GSE25055,GSM615235,M270,mdaccm270,explicit_source_identifier
+GSE25055,GSM615236,M280,m280,characteristic:sample id
+GSE25055,GSM615236,M280,m280,normalized_title
+GSE25055,GSM615236,M280,mdaccm280,explicit_source_identifier
+GSE25055,GSM615237,M281,m281,characteristic:sample id
+GSE25055,GSM615237,M281,m281,normalized_title
+GSE25055,GSM615237,M281,mdaccm281,explicit_source_identifier
+GSE25055,GSM615238,M282,m282,characteristic:sample id
+GSE25055,GSM615238,M282,m282,normalized_title
+GSE25055,GSM615238,M282,mdaccm282,explicit_source_identifier
+GSE25055,GSM615239,M283,m283,characteristic:sample id
+GSE25055,GSM615239,M283,m283,normalized_title
+GSE25055,GSM615239,M283,mdaccm283,explicit_source_identifier
+GSE25055,GSM615240,M295,m295,characteristic:sample id
+GSE25055,GSM615240,M295,m295,normalized_title
+GSE25055,GSM615240,M295,mdaccm295,explicit_source_identifier
+GSE25055,GSM615241,M297,m297,characteristic:sample id
+GSE25055,GSM615241,M297,m297,normalized_title
+GSE25055,GSM615241,M297,mdaccm297,explicit_source_identifier
+GSE25055,GSM615242,M301,m301,characteristic:sample id
+GSE25055,GSM615242,M301,m301,normalized_title
+GSE25055,GSM615242,M301,mdaccm301,explicit_source_identifier
+GSE25055,GSM615243,M304,m304,characteristic:sample id
+GSE25055,GSM615243,M304,m304,normalized_title
+GSE25055,GSM615243,M304,mdaccm304,explicit_source_identifier
+GSE25055,GSM615244,M310,m310,characteristic:sample id
+GSE25055,GSM615244,M310,m310,normalized_title
+GSE25055,GSM615244,M310,mdaccm310,explicit_source_identifier
+GSE25055,GSM615245,M315,m315,characteristic:sample id
+GSE25055,GSM615245,M315,m315,normalized_title
+GSE25055,GSM615245,M315,mdaccm315,explicit_source_identifier
+GSE25055,GSM615246,M319,m319,characteristic:sample id
+GSE25055,GSM615246,M319,m319,normalized_title
+GSE25055,GSM615246,M319,mdaccm319,explicit_source_identifier
+GSE25055,GSM615247,M323,m323,characteristic:sample id
+GSE25055,GSM615247,M323,m323,normalized_title
+GSE25055,GSM615247,M323,mdaccm323,explicit_source_identifier
+GSE25055,GSM615248,M332,m332,characteristic:sample id
+GSE25055,GSM615248,M332,m332,normalized_title
+GSE25055,GSM615248,M332,mdaccm332,explicit_source_identifier
+GSE25055,GSM615249,M333,m333,characteristic:sample id
+GSE25055,GSM615249,M333,m333,normalized_title
+GSE25055,GSM615249,M333,mdaccm333,explicit_source_identifier
+GSE25055,GSM615250,M334,m334,characteristic:sample id
+GSE25055,GSM615250,M334,m334,normalized_title
+GSE25055,GSM615250,M334,mdaccm334,explicit_source_identifier
+GSE25055,GSM615251,M339,m339,characteristic:sample id
+GSE25055,GSM615251,M339,m339,normalized_title
+GSE25055,GSM615251,M339,mdaccm339,explicit_source_identifier
+GSE25055,GSM615252,M340,m340,characteristic:sample id
+GSE25055,GSM615252,M340,m340,normalized_title
+GSE25055,GSM615252,M340,mdaccm340,explicit_source_identifier
+GSE25055,GSM615253,M341,m341,characteristic:sample id
+GSE25055,GSM615253,M341,m341,normalized_title
+GSE25055,GSM615253,M341,mdaccm341,explicit_source_identifier
+GSE25055,GSM615254,M343,m343,characteristic:sample id
+GSE25055,GSM615254,M343,m343,normalized_title
+GSE25055,GSM615254,M343,mdaccm343,explicit_source_identifier
+GSE25055,GSM615255,M345,m345,characteristic:sample id
+GSE25055,GSM615255,M345,m345,normalized_title
+GSE25055,GSM615255,M345,mdaccm345,explicit_source_identifier
+GSE25055,GSM615256,M353,m353,characteristic:sample id
+GSE25055,GSM615256,M353,m353,normalized_title
+GSE25055,GSM615256,M353,mdaccm353,explicit_source_identifier
+GSE25055,GSM615257,M355,m355,characteristic:sample id
+GSE25055,GSM615257,M355,m355,normalized_title
+GSE25055,GSM615257,M355,mdaccm355,explicit_source_identifier
+GSE25055,GSM615258,M356,m356,characteristic:sample id
+GSE25055,GSM615258,M356,m356,normalized_title
+GSE25055,GSM615258,M356,mdaccm356,explicit_source_identifier
+GSE25055,GSM615259,M357,m357,characteristic:sample id
+GSE25055,GSM615259,M357,m357,normalized_title
+GSE25055,GSM615259,M357,mdaccm357,explicit_source_identifier
+GSE25055,GSM615260,M360,m360,characteristic:sample id
+GSE25055,GSM615260,M360,m360,normalized_title
+GSE25055,GSM615260,M360,mdaccm360,explicit_source_identifier
+GSE25055,GSM615261,M363,m363,characteristic:sample id
+GSE25055,GSM615261,M363,m363,normalized_title
+GSE25055,GSM615261,M363,mdaccm363,explicit_source_identifier
+GSE25055,GSM615262,M365,m365,characteristic:sample id
+GSE25055,GSM615262,M365,m365,normalized_title
+GSE25055,GSM615262,M365,mdaccm365,explicit_source_identifier
+GSE25055,GSM615263,M367,m367,characteristic:sample id
+GSE25055,GSM615263,M367,m367,normalized_title
+GSE25055,GSM615263,M367,mdaccm367,explicit_source_identifier
+GSE25055,GSM615264,M373,m373,characteristic:sample id
+GSE25055,GSM615264,M373,m373,normalized_title
+GSE25055,GSM615264,M373,mdaccm373,explicit_source_identifier
+GSE25055,GSM615265,M375,m375,characteristic:sample id
+GSE25055,GSM615265,M375,m375,normalized_title
+GSE25055,GSM615265,M375,mdaccm375,explicit_source_identifier
+GSE25055,GSM615266,M384,m384,characteristic:sample id
+GSE25055,GSM615266,M384,m384,normalized_title
+GSE25055,GSM615266,M384,mdaccm384,explicit_source_identifier
+GSE25055,GSM615267,M386,m386,characteristic:sample id
+GSE25055,GSM615267,M386,m386,normalized_title
+GSE25055,GSM615267,M386,mdaccm386,explicit_source_identifier
+GSE25055,GSM615268,M396,m396,characteristic:sample id
+GSE25055,GSM615268,M396,m396,normalized_title
+GSE25055,GSM615268,M396,mdaccm396,explicit_source_identifier
+GSE25055,GSM615269,M399,m399,characteristic:sample id
+GSE25055,GSM615269,M399,m399,normalized_title
+GSE25055,GSM615269,M399,mdaccm399,explicit_source_identifier
+GSE25055,GSM615270,M402,m402,characteristic:sample id
+GSE25055,GSM615270,M402,m402,normalized_title
+GSE25055,GSM615270,M402,mdaccm402,explicit_source_identifier
+GSE25055,GSM615271,M411,m411,characteristic:sample id
+GSE25055,GSM615271,M411,m411,normalized_title
+GSE25055,GSM615271,M411,mdaccm411,explicit_source_identifier
+GSE25055,GSM615272,M417,m417,characteristic:sample id
+GSE25055,GSM615272,M417,m417,normalized_title
+GSE25055,GSM615272,M417,mdaccm417,explicit_source_identifier
+GSE25055,GSM615273,M421,m421,characteristic:sample id
+GSE25055,GSM615273,M421,m421,normalized_title
+GSE25055,GSM615273,M421,mdaccm421,explicit_source_identifier
+GSE25055,GSM615274,M423,m423,characteristic:sample id
+GSE25055,GSM615274,M423,m423,normalized_title
+GSE25055,GSM615274,M423,mdaccm423,explicit_source_identifier
+GSE25055,GSM615275,M425,m425,characteristic:sample id
+GSE25055,GSM615275,M425,m425,normalized_title
+GSE25055,GSM615275,M425,mdaccm425,explicit_source_identifier
+GSE25055,GSM615276,M430,m430,characteristic:sample id
+GSE25055,GSM615276,M430,m430,normalized_title
+GSE25055,GSM615276,M430,mdaccm430,explicit_source_identifier
+GSE25055,GSM615277,M431,m431,characteristic:sample id
+GSE25055,GSM615277,M431,m431,normalized_title
+GSE25055,GSM615277,M431,mdaccm431,explicit_source_identifier
+GSE25055,GSM615278,M433,m433,characteristic:sample id
+GSE25055,GSM615278,M433,m433,normalized_title
+GSE25055,GSM615278,M433,mdaccm433,explicit_source_identifier
+GSE25055,GSM615279,M434,m434,characteristic:sample id
+GSE25055,GSM615279,M434,m434,normalized_title
+GSE25055,GSM615279,M434,mdaccm434,explicit_source_identifier
+GSE25055,GSM615280,M442,m442,characteristic:sample id
+GSE25055,GSM615280,M442,m442,normalized_title
+GSE25055,GSM615280,M442,mdaccm442,explicit_source_identifier
+GSE25055,GSM615281,M447,m447,characteristic:sample id
+GSE25055,GSM615281,M447,m447,normalized_title
+GSE25055,GSM615281,M447,mdaccm447,explicit_source_identifier
+GSE25055,GSM615282,M463,m463,characteristic:sample id
+GSE25055,GSM615282,M463,m463,normalized_title
+GSE25055,GSM615282,M463,mdaccm463,explicit_source_identifier
+GSE25055,GSM615283,M469,m469,characteristic:sample id
+GSE25055,GSM615283,M469,m469,normalized_title
+GSE25055,GSM615283,M469,mdaccm469,explicit_source_identifier
+GSE25055,GSM615284,M485,m485,characteristic:sample id
+GSE25055,GSM615284,M485,m485,normalized_title
+GSE25055,GSM615284,M485,mdaccm485,explicit_source_identifier
+GSE25055,GSM615285,M486,m486,characteristic:sample id
+GSE25055,GSM615285,M486,m486,normalized_title
+GSE25055,GSM615285,M486,mdaccm486,explicit_source_identifier
+GSE25055,GSM615286,M497,m497,characteristic:sample id
+GSE25055,GSM615286,M497,m497,normalized_title
+GSE25055,GSM615286,M497,mdaccm497,explicit_source_identifier
+GSE25055,GSM615287,M502,m502,characteristic:sample id
+GSE25055,GSM615287,M502,m502,normalized_title
+GSE25055,GSM615287,M502,mdaccm502,explicit_source_identifier
+GSE25055,GSM615288,M503,m503,characteristic:sample id
+GSE25055,GSM615288,M503,m503,normalized_title
+GSE25055,GSM615288,M503,mdaccm503,explicit_source_identifier
+GSE25055,GSM615289,M506,m506,characteristic:sample id
+GSE25055,GSM615289,M506,m506,normalized_title
+GSE25055,GSM615289,M506,mdaccm506,explicit_source_identifier
+GSE25055,GSM615290,M507,m507,characteristic:sample id
+GSE25055,GSM615290,M507,m507,normalized_title
+GSE25055,GSM615290,M507,mdaccm507,explicit_source_identifier
+GSE25055,GSM615291,M513,m513,characteristic:sample id
+GSE25055,GSM615291,M513,m513,normalized_title
+GSE25055,GSM615291,M513,mdaccm513,explicit_source_identifier
+GSE25055,GSM615292,M523,m523,characteristic:sample id
+GSE25055,GSM615292,M523,m523,normalized_title
+GSE25055,GSM615292,M523,mdaccm523,explicit_source_identifier
+GSE25055,GSM615293,M524,m524,characteristic:sample id
+GSE25055,GSM615293,M524,m524,normalized_title
+GSE25055,GSM615293,M524,mdaccm524,explicit_source_identifier
+GSE25055,GSM615294,M525,m525,characteristic:sample id
+GSE25055,GSM615294,M525,m525,normalized_title
+GSE25055,GSM615294,M525,mdaccm525,explicit_source_identifier
+GSE25055,GSM615295,M531,m531,characteristic:sample id
+GSE25055,GSM615295,M531,m531,normalized_title
+GSE25055,GSM615295,M531,mdaccm531,explicit_source_identifier
+GSE25055,GSM615296,M534,m534,characteristic:sample id
+GSE25055,GSM615296,M534,m534,normalized_title
+GSE25055,GSM615296,M534,mdaccm534,explicit_source_identifier
+GSE25055,GSM615297,M545,m545,characteristic:sample id
+GSE25055,GSM615297,M545,m545,normalized_title
+GSE25055,GSM615297,M545,mdaccm545,explicit_source_identifier
+GSE25055,GSM615298,M549,m549,characteristic:sample id
+GSE25055,GSM615298,M549,m549,normalized_title
+GSE25055,GSM615298,M549,mdaccm549,explicit_source_identifier
+GSE25055,GSM615299,M556,m556,characteristic:sample id
+GSE25055,GSM615299,M556,m556,normalized_title
+GSE25055,GSM615299,M556,mdaccm556,explicit_source_identifier
+GSE25055,GSM615300,M557,m557,characteristic:sample id
+GSE25055,GSM615300,M557,m557,normalized_title
+GSE25055,GSM615300,M557,mdaccm557,explicit_source_identifier
+GSE25055,GSM615301,M558,m558,characteristic:sample id
+GSE25055,GSM615301,M558,m558,normalized_title
+GSE25055,GSM615301,M558,mdaccm558,explicit_source_identifier
+GSE25055,GSM615302,M559,m559,characteristic:sample id
+GSE25055,GSM615302,M559,m559,normalized_title
+GSE25055,GSM615302,M559,mdaccm559,explicit_source_identifier
+GSE25055,GSM615303,M564,m564,characteristic:sample id
+GSE25055,GSM615303,M564,m564,normalized_title
+GSE25055,GSM615303,M564,mdaccm564,explicit_source_identifier
+GSE25055,GSM615304,M565,m565,characteristic:sample id
+GSE25055,GSM615304,M565,m565,normalized_title
+GSE25055,GSM615304,M565,mdaccm565,explicit_source_identifier
+GSE25055,GSM615305,M566,m566,characteristic:sample id
+GSE25055,GSM615305,M566,m566,normalized_title
+GSE25055,GSM615305,M566,mdaccm566,explicit_source_identifier
+GSE25055,GSM615306,M569,m569,characteristic:sample id
+GSE25055,GSM615306,M569,m569,normalized_title
+GSE25055,GSM615306,M569,mdaccm569,explicit_source_identifier
+GSE25055,GSM615307,M571,m571,characteristic:sample id
+GSE25055,GSM615307,M571,m571,normalized_title
+GSE25055,GSM615307,M571,mdaccm571,explicit_source_identifier
+GSE25055,GSM615308,M577,m577,characteristic:sample id
+GSE25055,GSM615308,M577,m577,normalized_title
+GSE25055,GSM615308,M577,mdaccm577,explicit_source_identifier
+GSE25055,GSM615309,M578,m578,characteristic:sample id
+GSE25055,GSM615309,M578,m578,normalized_title
+GSE25055,GSM615309,M578,mdaccm578,explicit_source_identifier
+GSE25055,GSM615310,M580,m580,characteristic:sample id
+GSE25055,GSM615310,M580,m580,normalized_title
+GSE25055,GSM615310,M580,mdaccm580,explicit_source_identifier
+GSE25055,GSM615311,M581,m581,characteristic:sample id
+GSE25055,GSM615311,M581,m581,normalized_title
+GSE25055,GSM615311,M581,mdaccm581,explicit_source_identifier
+GSE25055,GSM615312,M583,m583,characteristic:sample id
+GSE25055,GSM615312,M583,m583,normalized_title
+GSE25055,GSM615312,M583,mdaccm583,explicit_source_identifier
+GSE25055,GSM615313,M599,m599,characteristic:sample id
+GSE25055,GSM615313,M599,m599,normalized_title
+GSE25055,GSM615313,M599,mdaccm599,explicit_source_identifier
+GSE25055,GSM615314,M601,m601,characteristic:sample id
+GSE25055,GSM615314,M601,m601,normalized_title
+GSE25055,GSM615314,M601,mdaccm601,explicit_source_identifier
+GSE25055,GSM615315,M603,m603,characteristic:sample id
+GSE25055,GSM615315,M603,m603,normalized_title
+GSE25055,GSM615315,M603,mdaccm603,explicit_source_identifier
+GSE25055,GSM615316,M607,m607,characteristic:sample id
+GSE25055,GSM615316,M607,m607,normalized_title
+GSE25055,GSM615316,M607,mdaccm607,explicit_source_identifier
+GSE25055,GSM615317,M608,m608,characteristic:sample id
+GSE25055,GSM615317,M608,m608,normalized_title
+GSE25055,GSM615317,M608,mdaccm608,explicit_source_identifier
+GSE25055,GSM615318,M610,m610,characteristic:sample id
+GSE25055,GSM615318,M610,m610,normalized_title
+GSE25055,GSM615318,M610,mdaccm610,explicit_source_identifier
+GSE25055,GSM615319,M611,m611,characteristic:sample id
+GSE25055,GSM615319,M611,m611,normalized_title
+GSE25055,GSM615319,M611,mdaccm611,explicit_source_identifier
+GSE25055,GSM615320,M612,m612,characteristic:sample id
+GSE25055,GSM615320,M612,m612,normalized_title
+GSE25055,GSM615320,M612,mdaccm612,explicit_source_identifier
+GSE25055,GSM615321,M617,m617,characteristic:sample id
+GSE25055,GSM615321,M617,m617,normalized_title
+GSE25055,GSM615321,M617,mdaccm617,explicit_source_identifier
+GSE25055,GSM615322,M619,m619,characteristic:sample id
+GSE25055,GSM615322,M619,m619,normalized_title
+GSE25055,GSM615322,M619,mdaccm619,explicit_source_identifier
+GSE25055,GSM615323,M624,m624,characteristic:sample id
+GSE25055,GSM615323,M624,m624,normalized_title
+GSE25055,GSM615323,M624,mdaccm624,explicit_source_identifier
+GSE25055,GSM615324,M625,m625,characteristic:sample id
+GSE25055,GSM615324,M625,m625,normalized_title
+GSE25055,GSM615324,M625,mdaccm625,explicit_source_identifier
+GSE25055,GSM615325,M635,m635,characteristic:sample id
+GSE25055,GSM615325,M635,m635,normalized_title
+GSE25055,GSM615325,M635,mdaccm635,explicit_source_identifier
+GSE25055,GSM615326,M636,m636,characteristic:sample id
+GSE25055,GSM615326,M636,m636,normalized_title
+GSE25055,GSM615326,M636,mdaccm636,explicit_source_identifier
+GSE25055,GSM615327,M639,m639,characteristic:sample id
+GSE25055,GSM615327,M639,m639,normalized_title
+GSE25055,GSM615327,M639,mdaccm639,explicit_source_identifier
+GSE25055,GSM615328,M642,m642,characteristic:sample id
+GSE25055,GSM615328,M642,m642,normalized_title
+GSE25055,GSM615328,M642,mdaccm642,explicit_source_identifier
+GSE25055,GSM615329,M643,m643,characteristic:sample id
+GSE25055,GSM615329,M643,m643,normalized_title
+GSE25055,GSM615329,M643,mdaccm643,explicit_source_identifier
+GSE25055,GSM615330,M647,m647,characteristic:sample id
+GSE25055,GSM615330,M647,m647,normalized_title
+GSE25055,GSM615330,M647,mdaccm647,explicit_source_identifier
+GSE25055,GSM615331,M651,m651,characteristic:sample id
+GSE25055,GSM615331,M651,m651,normalized_title
+GSE25055,GSM615331,M651,mdaccm651,explicit_source_identifier
+GSE25055,GSM615332,M652,m652,characteristic:sample id
+GSE25055,GSM615332,M652,m652,normalized_title
+GSE25055,GSM615332,M652,mdaccm652,explicit_source_identifier
+GSE25055,GSM615333,M657,m657,characteristic:sample id
+GSE25055,GSM615333,M657,m657,normalized_title
+GSE25055,GSM615333,M657,mdaccm657,explicit_source_identifier
+GSE25055,GSM615334,M658,m658,characteristic:sample id
+GSE25055,GSM615334,M658,m658,normalized_title
+GSE25055,GSM615334,M658,mdaccm658,explicit_source_identifier
+GSE25055,GSM615335,M659,m659,characteristic:sample id
+GSE25055,GSM615335,M659,m659,normalized_title
+GSE25055,GSM615335,M659,mdaccm659,explicit_source_identifier
+GSE25055,GSM615336,M661,m661,characteristic:sample id
+GSE25055,GSM615336,M661,m661,normalized_title
+GSE25055,GSM615336,M661,mdaccm661,explicit_source_identifier
+GSE25055,GSM615337,M662,m662,characteristic:sample id
+GSE25055,GSM615337,M662,m662,normalized_title
+GSE25055,GSM615337,M662,mdaccm662,explicit_source_identifier
+GSE25055,GSM615338,M665,m665,characteristic:sample id
+GSE25055,GSM615338,M665,m665,normalized_title
+GSE25055,GSM615338,M665,mdaccm665,explicit_source_identifier
+GSE25055,GSM615339,M666,m666,characteristic:sample id
+GSE25055,GSM615339,M666,m666,normalized_title
+GSE25055,GSM615339,M666,mdaccm666,explicit_source_identifier
+GSE25055,GSM615340,M668,m668,characteristic:sample id
+GSE25055,GSM615340,M668,m668,normalized_title
+GSE25055,GSM615340,M668,mdaccm668,explicit_source_identifier
+GSE25055,GSM615341,M669,m669,characteristic:sample id
+GSE25055,GSM615341,M669,m669,normalized_title
+GSE25055,GSM615341,M669,mdaccm669,explicit_source_identifier
+GSE25055,GSM615342,M670,m670,characteristic:sample id
+GSE25055,GSM615342,M670,m670,normalized_title
+GSE25055,GSM615342,M670,mdaccm670,explicit_source_identifier
+GSE25055,GSM615343,M671,m671,characteristic:sample id
+GSE25055,GSM615343,M671,m671,normalized_title
+GSE25055,GSM615343,M671,mdaccm671,explicit_source_identifier
+GSE25055,GSM615344,M673,m673,characteristic:sample id
+GSE25055,GSM615344,M673,m673,normalized_title
+GSE25055,GSM615344,M673,mdaccm673,explicit_source_identifier
+GSE25055,GSM615345,M675,m675,characteristic:sample id
+GSE25055,GSM615345,M675,m675,normalized_title
+GSE25055,GSM615345,M675,mdaccm675,explicit_source_identifier
+GSE25055,GSM615346,M677,m677,characteristic:sample id
+GSE25055,GSM615346,M677,m677,normalized_title
+GSE25055,GSM615346,M677,mdaccm677,explicit_source_identifier
+GSE25055,GSM615347,M679,m679,characteristic:sample id
+GSE25055,GSM615347,M679,m679,normalized_title
+GSE25055,GSM615347,M679,mdaccm679,explicit_source_identifier
+GSE25055,GSM615348,M681,m681,characteristic:sample id
+GSE25055,GSM615348,M681,m681,normalized_title
+GSE25055,GSM615348,M681,mdaccm681,explicit_source_identifier
+GSE25055,GSM615349,M682,m682,characteristic:sample id
+GSE25055,GSM615349,M682,m682,normalized_title
+GSE25055,GSM615349,M682,mdaccm682,explicit_source_identifier
+GSE25055,GSM615350,M683,m683,characteristic:sample id
+GSE25055,GSM615350,M683,m683,normalized_title
+GSE25055,GSM615350,M683,mdaccm683,explicit_source_identifier
+GSE25055,GSM615351,M685,m685,characteristic:sample id
+GSE25055,GSM615351,M685,m685,normalized_title
+GSE25055,GSM615351,M685,mdaccm685,explicit_source_identifier
+GSE25055,GSM615352,M690,m690,characteristic:sample id
+GSE25055,GSM615352,M690,m690,normalized_title
+GSE25055,GSM615352,M690,mdaccm690,explicit_source_identifier
+GSE25055,GSM615353,M691,m691,characteristic:sample id
+GSE25055,GSM615353,M691,m691,normalized_title
+GSE25055,GSM615353,M691,mdaccm691,explicit_source_identifier
+GSE25055,GSM615354,M692,m692,characteristic:sample id
+GSE25055,GSM615354,M692,m692,normalized_title
+GSE25055,GSM615354,M692,mdaccm692,explicit_source_identifier
+GSE25055,GSM615355,M693,m693,characteristic:sample id
+GSE25055,GSM615355,M693,m693,normalized_title
+GSE25055,GSM615355,M693,mdaccm693,explicit_source_identifier
+GSE25055,GSM615356,M695,m695,characteristic:sample id
+GSE25055,GSM615356,M695,m695,normalized_title
+GSE25055,GSM615356,M695,mdaccm695,explicit_source_identifier
+GSE25055,GSM615357,M696,m696,characteristic:sample id
+GSE25055,GSM615357,M696,m696,normalized_title
+GSE25055,GSM615357,M696,mdaccm696,explicit_source_identifier
+GSE25055,GSM615358,M706,m706,characteristic:sample id
+GSE25055,GSM615358,M706,m706,normalized_title
+GSE25055,GSM615358,M706,mdaccm706,explicit_source_identifier
+GSE25055,GSM615359,M709,m709,characteristic:sample id
+GSE25055,GSM615359,M709,m709,normalized_title
+GSE25055,GSM615359,M709,mdaccm709,explicit_source_identifier
+GSE25055,GSM615360,M710,m710,characteristic:sample id
+GSE25055,GSM615360,M710,m710,normalized_title
+GSE25055,GSM615360,M710,mdaccm710,explicit_source_identifier
+GSE25055,GSM615361,M714,m714,characteristic:sample id
+GSE25055,GSM615361,M714,m714,normalized_title
+GSE25055,GSM615361,M714,mdaccm714,explicit_source_identifier
+GSE25055,GSM615362,M717,m717,characteristic:sample id
+GSE25055,GSM615362,M717,m717,normalized_title
+GSE25055,GSM615362,M717,mdaccm717,explicit_source_identifier
+GSE25055,GSM615363,M718,m718,characteristic:sample id
+GSE25055,GSM615363,M718,m718,normalized_title
+GSE25055,GSM615363,M718,mdaccm718,explicit_source_identifier
+GSE25055,GSM615364,M722,m722,characteristic:sample id
+GSE25055,GSM615364,M722,m722,normalized_title
+GSE25055,GSM615364,M722,mdaccm722,explicit_source_identifier
+GSE25055,GSM615365,M723,m723,characteristic:sample id
+GSE25055,GSM615365,M723,m723,normalized_title
+GSE25055,GSM615365,M723,mdaccm723,explicit_source_identifier
+GSE25055,GSM615366,M725,m725,characteristic:sample id
+GSE25055,GSM615366,M725,m725,normalized_title
+GSE25055,GSM615366,M725,mdaccm725,explicit_source_identifier
+GSE25055,GSM615367,M728,m728,characteristic:sample id
+GSE25055,GSM615367,M728,m728,normalized_title
+GSE25055,GSM615367,M728,mdaccm728,explicit_source_identifier
+GSE25055,GSM615368,M729,m729,characteristic:sample id
+GSE25055,GSM615368,M729,m729,normalized_title
+GSE25055,GSM615368,M729,mdaccm729,explicit_source_identifier
+GSE25055,GSM615369,M732,m732,characteristic:sample id
+GSE25055,GSM615369,M732,m732,normalized_title
+GSE25055,GSM615369,M732,mdaccm732,explicit_source_identifier
+GSE25055,GSM615370,M734,m734,characteristic:sample id
+GSE25055,GSM615370,M734,m734,normalized_title
+GSE25055,GSM615370,M734,mdaccm734,explicit_source_identifier
+GSE25055,GSM615371,M735,m735,characteristic:sample id
+GSE25055,GSM615371,M735,m735,normalized_title
+GSE25055,GSM615371,M735,mdaccm735,explicit_source_identifier
+GSE25055,GSM615372,M739,m739,characteristic:sample id
+GSE25055,GSM615372,M739,m739,normalized_title
+GSE25055,GSM615372,M739,mdaccm739,explicit_source_identifier
+GSE25055,GSM615373,M744,m744,characteristic:sample id
+GSE25055,GSM615373,M744,m744,normalized_title
+GSE25055,GSM615373,M744,mdaccm744,explicit_source_identifier
+GSE25055,GSM615374,M746,m746,characteristic:sample id
+GSE25055,GSM615374,M746,m746,normalized_title
+GSE25055,GSM615374,M746,mdaccm746,explicit_source_identifier
+GSE25055,GSM615375,M750,m750,characteristic:sample id
+GSE25055,GSM615375,M750,m750,normalized_title
+GSE25055,GSM615375,M750,mdaccm750,explicit_source_identifier
+GSE25055,GSM615376,M751,m751,characteristic:sample id
+GSE25055,GSM615376,M751,m751,normalized_title
+GSE25055,GSM615376,M751,mdaccm751,explicit_source_identifier
+GSE25055,GSM615377,M753,m753,characteristic:sample id
+GSE25055,GSM615377,M753,m753,normalized_title
+GSE25055,GSM615377,M753,mdaccm753,explicit_source_identifier
+GSE25055,GSM615378,M757,m757,characteristic:sample id
+GSE25055,GSM615378,M757,m757,normalized_title
+GSE25055,GSM615378,M757,mdaccm757,explicit_source_identifier
+GSE25055,GSM615379,M758,m758,characteristic:sample id
+GSE25055,GSM615379,M758,m758,normalized_title
+GSE25055,GSM615379,M758,mdaccm758,explicit_source_identifier
+GSE25055,GSM615380,M763,m763,characteristic:sample id
+GSE25055,GSM615380,M763,m763,normalized_title
+GSE25055,GSM615380,M763,mdaccm763,explicit_source_identifier
+GSE25055,GSM615381,M765,m765,characteristic:sample id
+GSE25055,GSM615381,M765,m765,normalized_title
+GSE25055,GSM615381,M765,mdaccm765,explicit_source_identifier
+GSE25055,GSM615382,M766,m766,characteristic:sample id
+GSE25055,GSM615382,M766,m766,normalized_title
+GSE25055,GSM615382,M766,mdaccm766,explicit_source_identifier
+GSE25055,GSM615383,M767,m767,characteristic:sample id
+GSE25055,GSM615383,M767,m767,normalized_title
+GSE25055,GSM615383,M767,mdaccm767,explicit_source_identifier
+GSE25055,GSM615384,M768,m768,characteristic:sample id
+GSE25055,GSM615384,M768,m768,normalized_title
+GSE25055,GSM615384,M768,mdaccm768,explicit_source_identifier
+GSE25055,GSM615385,M771,m771,characteristic:sample id
+GSE25055,GSM615385,M771,m771,normalized_title
+GSE25055,GSM615385,M771,mdaccm771,explicit_source_identifier
+GSE25055,GSM615386,M774,m774,characteristic:sample id
+GSE25055,GSM615386,M774,m774,normalized_title
+GSE25055,GSM615386,M774,mdaccm774,explicit_source_identifier
+GSE25055,GSM615387,M779,m779,characteristic:sample id
+GSE25055,GSM615387,M779,m779,normalized_title
+GSE25055,GSM615387,M779,mdaccm779,explicit_source_identifier
+GSE25055,GSM615388,M781,m781,characteristic:sample id
+GSE25055,GSM615388,M781,m781,normalized_title
+GSE25055,GSM615388,M781,mdaccm781,explicit_source_identifier
+GSE25055,GSM615389,M782,m782,characteristic:sample id
+GSE25055,GSM615389,M782,m782,normalized_title
+GSE25055,GSM615389,M782,mdaccm782,explicit_source_identifier
+GSE25055,GSM615390,M783,m783,characteristic:sample id
+GSE25055,GSM615390,M783,m783,normalized_title
+GSE25055,GSM615390,M783,mdaccm783,explicit_source_identifier
+GSE25055,GSM615391,M784,m784,characteristic:sample id
+GSE25055,GSM615391,M784,m784,normalized_title
+GSE25055,GSM615391,M784,mdaccm784,explicit_source_identifier
+GSE25055,GSM615392,M791,m791,characteristic:sample id
+GSE25055,GSM615392,M791,m791,normalized_title
+GSE25055,GSM615392,M791,mdaccm791,explicit_source_identifier
+GSE25055,GSM615393,M792,m792,characteristic:sample id
+GSE25055,GSM615393,M792,m792,normalized_title
+GSE25055,GSM615393,M792,mdaccm792,explicit_source_identifier
+GSE25055,GSM615394,M794,m794,characteristic:sample id
+GSE25055,GSM615394,M794,m794,normalized_title
+GSE25055,GSM615394,M794,mdaccm794,explicit_source_identifier
+GSE25055,GSM615395,M795,m795,characteristic:sample id
+GSE25055,GSM615395,M795,m795,normalized_title
+GSE25055,GSM615395,M795,mdaccm795,explicit_source_identifier
+GSE25055,GSM615396,M802,m802,characteristic:sample id
+GSE25055,GSM615396,M802,m802,normalized_title
+GSE25055,GSM615396,M802,mdaccm802,explicit_source_identifier
+GSE25055,GSM615397,M805,m805,characteristic:sample id
+GSE25055,GSM615397,M805,m805,normalized_title
+GSE25055,GSM615397,M805,mdaccm805,explicit_source_identifier
+GSE25055,GSM615398,M806,m806,characteristic:sample id
+GSE25055,GSM615398,M806,m806,normalized_title
+GSE25055,GSM615398,M806,mdaccm806,explicit_source_identifier
+GSE25055,GSM615399,M810,m810,characteristic:sample id
+GSE25055,GSM615399,M810,m810,normalized_title
+GSE25055,GSM615399,M810,mdaccm810,explicit_source_identifier
+GSE25055,GSM615400,PERU01,mdaccperu01,explicit_source_identifier
+GSE25055,GSM615400,PERU01,peru01,characteristic:sample id
+GSE25055,GSM615400,PERU01,peru01,normalized_title
+GSE25055,GSM615401,PERU07,mdaccperu07,explicit_source_identifier
+GSE25055,GSM615401,PERU07,peru07,characteristic:sample id
+GSE25055,GSM615401,PERU07,peru07,normalized_title
+GSE25055,GSM615402,PERU09,mdaccperu09,explicit_source_identifier
+GSE25055,GSM615402,PERU09,peru09,characteristic:sample id
+GSE25055,GSM615402,PERU09,peru09,normalized_title
+GSE25055,GSM615403,PERU11,mdaccperu11,explicit_source_identifier
+GSE25055,GSM615403,PERU11,peru11,characteristic:sample id
+GSE25055,GSM615403,PERU11,peru11,normalized_title
+GSE25055,GSM615404,PERU12_14,mdaccperu1214,explicit_source_identifier
+GSE25055,GSM615404,PERU12_14,peru1214,characteristic:sample id
+GSE25055,GSM615404,PERU12_14,peru1214,normalized_title
+GSE25055,GSM615405,PERU14_16,mdaccperu1416,explicit_source_identifier
+GSE25055,GSM615405,PERU14_16,peru1416,characteristic:sample id
+GSE25055,GSM615405,PERU14_16,peru1416,normalized_title
+GSE25065,GSM615631,1,uso1,explicit_source_identifier
+GSE25065,GSM615631,1,uso1,source_namespaced_title
+GSE25065,GSM615632,5,uso5,explicit_source_identifier
+GSE25065,GSM615632,5,uso5,source_namespaced_title
+GSE25065,GSM615633,12,uso12,explicit_source_identifier
+GSE25065,GSM615633,12,uso12,source_namespaced_title
+GSE25065,GSM615634,13,uso13,explicit_source_identifier
+GSE25065,GSM615634,13,uso13,source_namespaced_title
+GSE25065,GSM615635,18,uso18,explicit_source_identifier
+GSE25065,GSM615635,18,uso18,source_namespaced_title
+GSE25065,GSM615636,20,uso20,explicit_source_identifier
+GSE25065,GSM615636,20,uso20,source_namespaced_title
+GSE25065,GSM615637,23,uso23,explicit_source_identifier
+GSE25065,GSM615637,23,uso23,source_namespaced_title
+GSE25065,GSM615638,24,uso24,explicit_source_identifier
+GSE25065,GSM615638,24,uso24,source_namespaced_title
+GSE25065,GSM615639,30,uso30,explicit_source_identifier
+GSE25065,GSM615639,30,uso30,source_namespaced_title
+GSE25065,GSM615640,31,uso31,explicit_source_identifier
+GSE25065,GSM615640,31,uso31,source_namespaced_title
+GSE25065,GSM615641,32,uso32,explicit_source_identifier
+GSE25065,GSM615641,32,uso32,source_namespaced_title
+GSE25065,GSM615642,35,uso35,explicit_source_identifier
+GSE25065,GSM615642,35,uso35,source_namespaced_title
+GSE25065,GSM615643,36,uso36,explicit_source_identifier
+GSE25065,GSM615643,36,uso36,source_namespaced_title
+GSE25065,GSM615644,45,uso45,explicit_source_identifier
+GSE25065,GSM615644,45,uso45,source_namespaced_title
+GSE25065,GSM615645,46,uso46,explicit_source_identifier
+GSE25065,GSM615645,46,uso46,source_namespaced_title
+GSE25065,GSM615646,48,uso48,explicit_source_identifier
+GSE25065,GSM615646,48,uso48,source_namespaced_title
+GSE25065,GSM615647,51,uso51,explicit_source_identifier
+GSE25065,GSM615647,51,uso51,source_namespaced_title
+GSE25065,GSM615648,52,uso52,explicit_source_identifier
+GSE25065,GSM615648,52,uso52,source_namespaced_title
+GSE25065,GSM615649,67,uso67,explicit_source_identifier
+GSE25065,GSM615649,67,uso67,source_namespaced_title
+GSE25065,GSM615650,68,uso68,explicit_source_identifier
+GSE25065,GSM615650,68,uso68,source_namespaced_title
+GSE25065,GSM615651,70,uso70,explicit_source_identifier
+GSE25065,GSM615651,70,uso70,source_namespaced_title
+GSE25065,GSM615652,76,uso76,explicit_source_identifier
+GSE25065,GSM615652,76,uso76,source_namespaced_title
+GSE25065,GSM615653,77,uso77,explicit_source_identifier
+GSE25065,GSM615653,77,uso77,source_namespaced_title
+GSE25065,GSM615654,80,uso80,explicit_source_identifier
+GSE25065,GSM615654,80,uso80,source_namespaced_title
+GSE25065,GSM615655,85,uso85,explicit_source_identifier
+GSE25065,GSM615655,85,uso85,source_namespaced_title
+GSE25065,GSM615656,86,uso86,explicit_source_identifier
+GSE25065,GSM615656,86,uso86,source_namespaced_title
+GSE25065,GSM615657,87,uso87,explicit_source_identifier
+GSE25065,GSM615657,87,uso87,source_namespaced_title
+GSE25065,GSM615658,88,uso88,explicit_source_identifier
+GSE25065,GSM615658,88,uso88,source_namespaced_title
+GSE25065,GSM615659,94,uso94,explicit_source_identifier
+GSE25065,GSM615659,94,uso94,source_namespaced_title
+GSE25065,GSM615660,95,uso95,explicit_source_identifier
+GSE25065,GSM615660,95,uso95,source_namespaced_title
+GSE25065,GSM615661,96,uso96,explicit_source_identifier
+GSE25065,GSM615661,96,uso96,source_namespaced_title
+GSE25065,GSM615662,97,uso97,explicit_source_identifier
+GSE25065,GSM615662,97,uso97,source_namespaced_title
+GSE25065,GSM615663,100,uso100,explicit_source_identifier
+GSE25065,GSM615663,100,uso100,source_namespaced_title
+GSE25065,GSM615664,101,uso101,explicit_source_identifier
+GSE25065,GSM615664,101,uso101,source_namespaced_title
+GSE25065,GSM615665,103,uso103,explicit_source_identifier
+GSE25065,GSM615665,103,uso103,source_namespaced_title
+GSE25065,GSM615666,104,uso104,explicit_source_identifier
+GSE25065,GSM615666,104,uso104,source_namespaced_title
+GSE25065,GSM615667,106,uso106,explicit_source_identifier
+GSE25065,GSM615667,106,uso106,source_namespaced_title
+GSE25065,GSM615668,110,uso110,explicit_source_identifier
+GSE25065,GSM615668,110,uso110,source_namespaced_title
+GSE25065,GSM615669,111,uso111,explicit_source_identifier
+GSE25065,GSM615669,111,uso111,source_namespaced_title
+GSE25065,GSM615670,112,uso112,explicit_source_identifier
+GSE25065,GSM615670,112,uso112,source_namespaced_title
+GSE25065,GSM615671,113,uso113,explicit_source_identifier
+GSE25065,GSM615671,113,uso113,source_namespaced_title
+GSE25065,GSM615672,118,uso118,explicit_source_identifier
+GSE25065,GSM615672,118,uso118,source_namespaced_title
+GSE25065,GSM615673,124,uso124,explicit_source_identifier
+GSE25065,GSM615673,124,uso124,source_namespaced_title
+GSE25065,GSM615674,125,uso125,explicit_source_identifier
+GSE25065,GSM615674,125,uso125,source_namespaced_title
+GSE25065,GSM615675,130,uso130,explicit_source_identifier
+GSE25065,GSM615675,130,uso130,source_namespaced_title
+GSE25065,GSM615676,133,uso133,explicit_source_identifier
+GSE25065,GSM615676,133,uso133,source_namespaced_title
+GSE25065,GSM615677,145,uso145,explicit_source_identifier
+GSE25065,GSM615677,145,uso145,source_namespaced_title
+GSE25065,GSM615678,148,uso148,explicit_source_identifier
+GSE25065,GSM615678,148,uso148,source_namespaced_title
+GSE25065,GSM615679,149,uso149,explicit_source_identifier
+GSE25065,GSM615679,149,uso149,source_namespaced_title
+GSE25065,GSM615680,150,uso150,explicit_source_identifier
+GSE25065,GSM615680,150,uso150,source_namespaced_title
+GSE25065,GSM615681,154,uso154,explicit_source_identifier
+GSE25065,GSM615681,154,uso154,source_namespaced_title
+GSE25065,GSM615682,155,uso155,explicit_source_identifier
+GSE25065,GSM615682,155,uso155,source_namespaced_title
+GSE25065,GSM615683,159,uso159,explicit_source_identifier
+GSE25065,GSM615683,159,uso159,source_namespaced_title
+GSE25065,GSM615684,161,uso161,explicit_source_identifier
+GSE25065,GSM615684,161,uso161,source_namespaced_title
+GSE25065,GSM615685,223,mdacc223,explicit_source_identifier
+GSE25065,GSM615685,223,mdacc223,source_namespaced_title
+GSE25065,GSM615686,225,mdacc225,explicit_source_identifier
+GSE25065,GSM615686,225,mdacc225,source_namespaced_title
+GSE25065,GSM615687,249,mdacc249,explicit_source_identifier
+GSE25065,GSM615687,249,mdacc249,source_namespaced_title
+GSE25065,GSM615688,268,mdacc268,explicit_source_identifier
+GSE25065,GSM615688,268,mdacc268,source_namespaced_title
+GSE25065,GSM615689,272,mdacc272,explicit_source_identifier
+GSE25065,GSM615689,272,mdacc272,source_namespaced_title
+GSE25065,GSM615690,290,mdacc290,explicit_source_identifier
+GSE25065,GSM615690,290,mdacc290,source_namespaced_title
+GSE25065,GSM615691,293,mdacc293,explicit_source_identifier
+GSE25065,GSM615691,293,mdacc293,source_namespaced_title
+GSE25065,GSM615692,305,mdacc305,explicit_source_identifier
+GSE25065,GSM615692,305,mdacc305,source_namespaced_title
+GSE25065,GSM615693,320,mdacc320,explicit_source_identifier
+GSE25065,GSM615693,320,mdacc320,source_namespaced_title
+GSE25065,GSM615694,324,mdacc324,explicit_source_identifier
+GSE25065,GSM615694,324,mdacc324,source_namespaced_title
+GSE25065,GSM615695,327,mdacc327,explicit_source_identifier
+GSE25065,GSM615695,327,mdacc327,source_namespaced_title
+GSE25065,GSM615696,336,mdacc336,explicit_source_identifier
+GSE25065,GSM615696,336,mdacc336,source_namespaced_title
+GSE25065,GSM615697,337,mdacc337,explicit_source_identifier
+GSE25065,GSM615697,337,mdacc337,source_namespaced_title
+GSE25065,GSM615698,342,mdacc342,explicit_source_identifier
+GSE25065,GSM615698,342,mdacc342,source_namespaced_title
+GSE25065,GSM615699,348,mdacc348,explicit_source_identifier
+GSE25065,GSM615699,348,mdacc348,source_namespaced_title
+GSE25065,GSM615700,364,mdacc364,explicit_source_identifier
+GSE25065,GSM615700,364,mdacc364,source_namespaced_title
+GSE25065,GSM615701,437,mdacc437,explicit_source_identifier
+GSE25065,GSM615701,437,mdacc437,source_namespaced_title
+GSE25065,GSM615702,440,mdacc440,explicit_source_identifier
+GSE25065,GSM615702,440,mdacc440,source_namespaced_title
+GSE25065,GSM615703,470,mdacc470,explicit_source_identifier
+GSE25065,GSM615703,470,mdacc470,source_namespaced_title
+GSE25065,GSM615704,480,mdacc480,explicit_source_identifier
+GSE25065,GSM615704,480,mdacc480,source_namespaced_title
+GSE25065,GSM615705,496,mdacc496,explicit_source_identifier
+GSE25065,GSM615705,496,mdacc496,source_namespaced_title
+GSE25065,GSM615706,509,mdacc509,explicit_source_identifier
+GSE25065,GSM615706,509,mdacc509,source_namespaced_title
+GSE25065,GSM615707,544,mdacc544,explicit_source_identifier
+GSE25065,GSM615707,544,mdacc544,source_namespaced_title
+GSE25065,GSM615708,551,mdacc551,explicit_source_identifier
+GSE25065,GSM615708,551,mdacc551,source_namespaced_title
+GSE25065,GSM615709,575,mdacc575,explicit_source_identifier
+GSE25065,GSM615709,575,mdacc575,source_namespaced_title
+GSE25065,GSM615710,645,mdacc645,explicit_source_identifier
+GSE25065,GSM615710,645,mdacc645,source_namespaced_title
+GSE25065,GSM615711,660,mdacc660,explicit_source_identifier
+GSE25065,GSM615711,660,mdacc660,source_namespaced_title
+GSE25065,GSM615712,699,mdacc699,explicit_source_identifier
+GSE25065,GSM615712,699,mdacc699,source_namespaced_title
+GSE25065,GSM615713,748,mdacc748,explicit_source_identifier
+GSE25065,GSM615713,748,mdacc748,source_namespaced_title
+GSE25065,GSM615714,787,mdacc787,explicit_source_identifier
+GSE25065,GSM615714,787,mdacc787,source_namespaced_title
+GSE25065,GSM615715,798,mdacc798,explicit_source_identifier
+GSE25065,GSM615715,798,mdacc798,source_namespaced_title
+GSE25065,GSM615716,811,mdacc811,explicit_source_identifier
+GSE25065,GSM615716,811,mdacc811,source_namespaced_title
+GSE25065,GSM615717,813,mdacc813,explicit_source_identifier
+GSE25065,GSM615717,813,mdacc813,source_namespaced_title
+GSE25065,GSM615718,814,mdacc814,explicit_source_identifier
+GSE25065,GSM615718,814,mdacc814,source_namespaced_title
+GSE25065,GSM615719,815,mdacc815,explicit_source_identifier
+GSE25065,GSM615719,815,mdacc815,source_namespaced_title
+GSE25065,GSM615720,817,mdacc817,explicit_source_identifier
+GSE25065,GSM615720,817,mdacc817,source_namespaced_title
+GSE25065,GSM615721,821,mdacc821,explicit_source_identifier
+GSE25065,GSM615721,821,mdacc821,source_namespaced_title
+GSE25065,GSM615722,822,mdacc822,explicit_source_identifier
+GSE25065,GSM615722,822,mdacc822,source_namespaced_title
+GSE25065,GSM615723,824,mdacc824,explicit_source_identifier
+GSE25065,GSM615723,824,mdacc824,source_namespaced_title
+GSE25065,GSM615724,825,mdacc825,explicit_source_identifier
+GSE25065,GSM615724,825,mdacc825,source_namespaced_title
+GSE25065,GSM615725,826,mdacc826,explicit_source_identifier
+GSE25065,GSM615725,826,mdacc826,source_namespaced_title
+GSE25065,GSM615726,828,mdacc828,explicit_source_identifier
+GSE25065,GSM615726,828,mdacc828,source_namespaced_title
+GSE25065,GSM615727,829,mdacc829,explicit_source_identifier
+GSE25065,GSM615727,829,mdacc829,source_namespaced_title
+GSE25065,GSM615728,831,mdacc831,explicit_source_identifier
+GSE25065,GSM615728,831,mdacc831,source_namespaced_title
+GSE25065,GSM615729,835,mdacc835,explicit_source_identifier
+GSE25065,GSM615729,835,mdacc835,source_namespaced_title
+GSE25065,GSM615730,837,mdacc837,explicit_source_identifier
+GSE25065,GSM615730,837,mdacc837,source_namespaced_title
+GSE25065,GSM615731,838,mdacc838,explicit_source_identifier
+GSE25065,GSM615731,838,mdacc838,source_namespaced_title
+GSE25065,GSM615732,839,mdacc839,explicit_source_identifier
+GSE25065,GSM615732,839,mdacc839,source_namespaced_title
+GSE25065,GSM615733,840,mdacc840,explicit_source_identifier
+GSE25065,GSM615733,840,mdacc840,source_namespaced_title
+GSE25065,GSM615734,842,mdacc842,explicit_source_identifier
+GSE25065,GSM615734,842,mdacc842,source_namespaced_title
+GSE25065,GSM615735,845,mdacc845,explicit_source_identifier
+GSE25065,GSM615735,845,mdacc845,source_namespaced_title
+GSE25065,GSM615736,854,mdacc854,explicit_source_identifier
+GSE25065,GSM615736,854,mdacc854,source_namespaced_title
+GSE25065,GSM615737,857,mdacc857,explicit_source_identifier
+GSE25065,GSM615737,857,mdacc857,source_namespaced_title
+GSE25065,GSM615738,860,mdacc860,explicit_source_identifier
+GSE25065,GSM615738,860,mdacc860,source_namespaced_title
+GSE25065,GSM615739,865,mdacc865,explicit_source_identifier
+GSE25065,GSM615739,865,mdacc865,source_namespaced_title
+GSE25065,GSM615740,867,mdacc867,explicit_source_identifier
+GSE25065,GSM615740,867,mdacc867,source_namespaced_title
+GSE25065,GSM615741,868,mdacc868,explicit_source_identifier
+GSE25065,GSM615741,868,mdacc868,source_namespaced_title
+GSE25065,GSM615742,879,mdacc879,explicit_source_identifier
+GSE25065,GSM615742,879,mdacc879,source_namespaced_title
+GSE25065,GSM615743,880,mdacc880,explicit_source_identifier
+GSE25065,GSM615743,880,mdacc880,source_namespaced_title
+GSE25065,GSM615744,881,mdacc881,explicit_source_identifier
+GSE25065,GSM615744,881,mdacc881,source_namespaced_title
+GSE25065,GSM615745,883,mdacc883,explicit_source_identifier
+GSE25065,GSM615745,883,mdacc883,source_namespaced_title
+GSE25065,GSM615746,885,mdacc885,explicit_source_identifier
+GSE25065,GSM615746,885,mdacc885,source_namespaced_title
+GSE25065,GSM615747,886,mdacc886,explicit_source_identifier
+GSE25065,GSM615747,886,mdacc886,source_namespaced_title
+GSE25065,GSM615748,892,mdacc892,explicit_source_identifier
+GSE25065,GSM615748,892,mdacc892,source_namespaced_title
+GSE25065,GSM615749,893,mdacc893,explicit_source_identifier
+GSE25065,GSM615749,893,mdacc893,source_namespaced_title
+GSE25065,GSM615750,896,mdacc896,explicit_source_identifier
+GSE25065,GSM615750,896,mdacc896,source_namespaced_title
+GSE25065,GSM615751,901,mdacc901,explicit_source_identifier
+GSE25065,GSM615751,901,mdacc901,source_namespaced_title
+GSE25065,GSM615752,905,mdacc905,explicit_source_identifier
+GSE25065,GSM615752,905,mdacc905,source_namespaced_title
+GSE25065,GSM615753,910,mdacc910,explicit_source_identifier
+GSE25065,GSM615753,910,mdacc910,source_namespaced_title
+GSE25065,GSM615754,913,mdacc913,explicit_source_identifier
+GSE25065,GSM615754,913,mdacc913,source_namespaced_title
+GSE25065,GSM615755,916,mdacc916,explicit_source_identifier
+GSE25065,GSM615755,916,mdacc916,source_namespaced_title
+GSE25065,GSM615756,MDA002,mda002,characteristic:sample id
+GSE25065,GSM615756,MDA002,mda002,normalized_title
+GSE25065,GSM615756,MDA002,mdaccmda002,explicit_source_identifier
+GSE25065,GSM615757,MDA003,mda003,characteristic:sample id
+GSE25065,GSM615757,MDA003,mda003,normalized_title
+GSE25065,GSM615757,MDA003,mdaccmda003,explicit_source_identifier
+GSE25065,GSM615758,MDA005,mda005,characteristic:sample id
+GSE25065,GSM615758,MDA005,mda005,normalized_title
+GSE25065,GSM615758,MDA005,mdaccmda005,explicit_source_identifier
+GSE25065,GSM615759,MDA006,mda006,characteristic:sample id
+GSE25065,GSM615759,MDA006,mda006,normalized_title
+GSE25065,GSM615759,MDA006,mdaccmda006,explicit_source_identifier
+GSE25065,GSM615760,MDA007,mda007,characteristic:sample id
+GSE25065,GSM615760,MDA007,mda007,normalized_title
+GSE25065,GSM615760,MDA007,mdaccmda007,explicit_source_identifier
+GSE25065,GSM615761,MDA008,mda008,characteristic:sample id
+GSE25065,GSM615761,MDA008,mda008,normalized_title
+GSE25065,GSM615761,MDA008,mdaccmda008,explicit_source_identifier
+GSE25065,GSM615762,MDA009,mda009,characteristic:sample id
+GSE25065,GSM615762,MDA009,mda009,normalized_title
+GSE25065,GSM615762,MDA009,mdaccmda009,explicit_source_identifier
+GSE25065,GSM615763,MDA010,mda010,characteristic:sample id
+GSE25065,GSM615763,MDA010,mda010,normalized_title
+GSE25065,GSM615763,MDA010,mdaccmda010,explicit_source_identifier
+GSE25065,GSM615764,MDA011,mda011,characteristic:sample id
+GSE25065,GSM615764,MDA011,mda011,normalized_title
+GSE25065,GSM615764,MDA011,mdaccmda011,explicit_source_identifier
+GSE25065,GSM615765,MDA012,mda012,characteristic:sample id
+GSE25065,GSM615765,MDA012,mda012,normalized_title
+GSE25065,GSM615765,MDA012,mdaccmda012,explicit_source_identifier
+GSE25065,GSM615766,MDA013,mda013,characteristic:sample id
+GSE25065,GSM615766,MDA013,mda013,normalized_title
+GSE25065,GSM615766,MDA013,mdaccmda013,explicit_source_identifier
+GSE25065,GSM615767,MDA014,mda014,characteristic:sample id
+GSE25065,GSM615767,MDA014,mda014,normalized_title
+GSE25065,GSM615767,MDA014,mdaccmda014,explicit_source_identifier
+GSE25065,GSM615768,MDA015,mda015,characteristic:sample id
+GSE25065,GSM615768,MDA015,mda015,normalized_title
+GSE25065,GSM615768,MDA015,mdaccmda015,explicit_source_identifier
+GSE25065,GSM615769,MDA016,mda016,characteristic:sample id
+GSE25065,GSM615769,MDA016,mda016,normalized_title
+GSE25065,GSM615769,MDA016,mdaccmda016,explicit_source_identifier
+GSE25065,GSM615770,MDA018,mda018,characteristic:sample id
+GSE25065,GSM615770,MDA018,mda018,normalized_title
+GSE25065,GSM615770,MDA018,mdaccmda018,explicit_source_identifier
+GSE25065,GSM615771,LBJ016,lbj016,characteristic:sample id
+GSE25065,GSM615771,LBJ016,lbj016,normalized_title
+GSE25065,GSM615772,LBJ032,lbj032,characteristic:sample id
+GSE25065,GSM615772,LBJ032,lbj032,normalized_title
+GSE25065,GSM615773,LBJ038,lbj038,characteristic:sample id
+GSE25065,GSM615773,LBJ038,lbj038,normalized_title
+GSE25065,GSM615774,LBJ046,lbj046,characteristic:sample id
+GSE25065,GSM615774,LBJ046,lbj046,normalized_title
+GSE25065,GSM615775,LBJ047,lbj047,characteristic:sample id
+GSE25065,GSM615775,LBJ047,lbj047,normalized_title
+GSE25065,GSM615776,LBJ053,lbj053,characteristic:sample id
+GSE25065,GSM615776,LBJ053,lbj053,normalized_title
+GSE25065,GSM615777,LBJ054,lbj054,characteristic:sample id
+GSE25065,GSM615777,LBJ054,lbj054,normalized_title
+GSE25065,GSM615778,LBJ070,lbj070,characteristic:sample id
+GSE25065,GSM615778,LBJ070,lbj070,normalized_title
+GSE25065,GSM615779,LBJ071,lbj071,characteristic:sample id
+GSE25065,GSM615779,LBJ071,lbj071,normalized_title
+GSE25065,GSM615780,LBJ082,lbj082,characteristic:sample id
+GSE25065,GSM615780,LBJ082,lbj082,normalized_title
+GSE25065,GSM615781,LBJ103,lbj103,characteristic:sample id
+GSE25065,GSM615781,LBJ103,lbj103,normalized_title
+GSE25065,GSM615782,LBJ105,lbj105,characteristic:sample id
+GSE25065,GSM615782,LBJ105,lbj105,normalized_title
+GSE25065,GSM615783,LBJ131,lbj131,characteristic:sample id
+GSE25065,GSM615783,LBJ131,lbj131,normalized_title
+GSE25065,GSM615784,LBJ143,lbj143,characteristic:sample id
+GSE25065,GSM615784,LBJ143,lbj143,normalized_title
+GSE25065,GSM615785,LBJ158,lbj158,characteristic:sample id
+GSE25065,GSM615785,LBJ158,lbj158,normalized_title
+GSE25065,GSM615786,LBJ170,lbj170,characteristic:sample id
+GSE25065,GSM615786,LBJ170,lbj170,normalized_title
+GSE25065,GSM615787,LBJ171,lbj171,characteristic:sample id
+GSE25065,GSM615787,LBJ171,lbj171,normalized_title
+GSE25065,GSM615788,PERU02,peru02,characteristic:sample id
+GSE25065,GSM615788,PERU02,peru02,normalized_title
+GSE25065,GSM615789,PERU05,peru05,characteristic:sample id
+GSE25065,GSM615789,PERU05,peru05,normalized_title
+GSE25065,GSM615790,PERU06,peru06,characteristic:sample id
+GSE25065,GSM615790,PERU06,peru06,normalized_title
+GSE25065,GSM615791,PERU16-18,peru1618,characteristic:sample id
+GSE25065,GSM615791,PERU16-18,peru1618,normalized_title
+GSE25065,GSM615792,PERU21,peru21,characteristic:sample id
+GSE25065,GSM615792,PERU21,peru21,normalized_title
+GSE25065,GSM615793,PERU23,peru23,characteristic:sample id
+GSE25065,GSM615793,PERU23,peru23,normalized_title
+GSE25065,GSM615794,PERU26,peru26,characteristic:sample id
+GSE25065,GSM615794,PERU26,peru26,normalized_title
+GSE25065,GSM615795,PERU28,peru28,characteristic:sample id
+GSE25065,GSM615795,PERU28,peru28,normalized_title
+GSE25065,GSM615796,PERU37,peru37,characteristic:sample id
+GSE25065,GSM615796,PERU37,peru37,normalized_title
+GSE25065,GSM615797,PERU38,peru38,characteristic:sample id
+GSE25065,GSM615797,PERU38,peru38,normalized_title
+GSE25065,GSM615798,PERU40,peru40,characteristic:sample id
+GSE25065,GSM615798,PERU40,peru40,normalized_title
+GSE25065,GSM615799,PERU42,peru42,characteristic:sample id
+GSE25065,GSM615799,PERU42,peru42,normalized_title
+GSE25065,GSM615800,PERU44,peru44,characteristic:sample id
+GSE25065,GSM615800,PERU44,peru44,normalized_title
+GSE25065,GSM615801,PERU48,peru48,characteristic:sample id
+GSE25065,GSM615801,PERU48,peru48,normalized_title
+GSE25065,GSM615802,PERU50,peru50,characteristic:sample id
+GSE25065,GSM615802,PERU50,peru50,normalized_title
+GSE25065,GSM615803,PERU52,peru52,characteristic:sample id
+GSE25065,GSM615803,PERU52,peru52,normalized_title
+GSE25065,GSM615804,PERU53,peru53,characteristic:sample id
+GSE25065,GSM615804,PERU53,peru53,normalized_title
+GSE25065,GSM615805,PERU54,peru54,characteristic:sample id
+GSE25065,GSM615805,PERU54,peru54,normalized_title
+GSE25065,GSM615806,PERU56,peru56,characteristic:sample id
+GSE25065,GSM615806,PERU56,peru56,normalized_title
+GSE25065,GSM615807,PERU57,peru57,characteristic:sample id
+GSE25065,GSM615807,PERU57,peru57,normalized_title
+GSE25065,GSM615808,PERU61,peru61,characteristic:sample id
+GSE25065,GSM615808,PERU61,peru61,normalized_title
+GSE25065,GSM615809,PERU69,peru69,characteristic:sample id
+GSE25065,GSM615809,PERU69,peru69,normalized_title
+GSE25065,GSM615810,PERU72,peru72,characteristic:sample id
+GSE25065,GSM615810,PERU72,peru72,normalized_title
+GSE25065,GSM615811,PERU73,peru73,characteristic:sample id
+GSE25065,GSM615811,PERU73,peru73,normalized_title
+GSE25065,GSM615812,PERU76,peru76,characteristic:sample id
+GSE25065,GSM615812,PERU76,peru76,normalized_title
+GSE25065,GSM615813,Spain04,spain04,characteristic:sample id
+GSE25065,GSM615813,Spain04,spain04,normalized_title
+GSE25065,GSM615814,Spain06,spain06,characteristic:sample id
+GSE25065,GSM615814,Spain06,spain06,normalized_title
+GSE25065,GSM615815,Spain07,spain07,characteristic:sample id
+GSE25065,GSM615815,Spain07,spain07,normalized_title
+GSE25065,GSM615816,Spain12,spain12,characteristic:sample id
+GSE25065,GSM615816,Spain12,spain12,normalized_title
+GSE25065,GSM615817,Spain13,spain13,characteristic:sample id
+GSE25065,GSM615817,Spain13,spain13,normalized_title
+GSE25065,GSM615818,Spain27,spain27,characteristic:sample id
+GSE25065,GSM615818,Spain27,spain27,normalized_title
+GSE25065,GSM615819,Spain30,spain30,characteristic:sample id
+GSE25065,GSM615819,Spain30,spain30,normalized_title
+GSE25065,GSM615820,Spain32,spain32,characteristic:sample id
+GSE25065,GSM615820,Spain32,spain32,normalized_title
+GSE25065,GSM615821,Spain41,spain41,characteristic:sample id
+GSE25065,GSM615821,Spain41,spain41,normalized_title
+GSE25065,GSM615822,Spain45,spain45,characteristic:sample id
+GSE25065,GSM615822,Spain45,spain45,normalized_title
+GSE25065,GSM615823,Spain46,spain46,characteristic:sample id
+GSE25065,GSM615823,Spain46,spain46,normalized_title
+GSE25065,GSM615824,Spain48,spain48,characteristic:sample id
+GSE25065,GSM615824,Spain48,spain48,normalized_title
+GSE25065,GSM615825,Spain49,spain49,characteristic:sample id
+GSE25065,GSM615825,Spain49,spain49,normalized_title
+GSE25065,GSM615826,Spain51,spain51,characteristic:sample id
+GSE25065,GSM615826,Spain51,spain51,normalized_title
+GSE25065,GSM615827,Spain53,spain53,characteristic:sample id
+GSE25065,GSM615827,Spain53,spain53,normalized_title
+GSE25065,GSM615828,Spain57,spain57,characteristic:sample id
+GSE25065,GSM615828,Spain57,spain57,normalized_title
+GSE32646,GSM809193,Breast cancer tumor OU-10,ou10,normalized_title
+GSE32646,GSM809194,Breast cancer tumor OU-11,ou11,normalized_title
+GSE32646,GSM809195,Breast cancer tumor OU-12,ou12,normalized_title
+GSE32646,GSM809196,Breast cancer tumor OU-13,ou13,normalized_title
+GSE32646,GSM809197,Breast cancer tumor OU-14,ou14,normalized_title
+GSE32646,GSM809198,Breast cancer tumor OU-15,ou15,normalized_title
+GSE32646,GSM809199,Breast cancer tumor OU-16,ou16,normalized_title
+GSE32646,GSM809200,Breast cancer tumor OU-17,ou17,normalized_title
+GSE32646,GSM809201,Breast cancer tumor OU-18,ou18,normalized_title
+GSE32646,GSM809202,Breast cancer tumor OU-19,ou19,normalized_title
+GSE32646,GSM809203,Breast cancer tumor OU-20,ou20,normalized_title
+GSE32646,GSM809204,Breast cancer tumor OU-21,ou21,normalized_title
+GSE32646,GSM809205,Breast cancer tumor OU-22,ou22,normalized_title
+GSE32646,GSM809206,Breast cancer tumor OU-23,ou23,normalized_title
+GSE32646,GSM809207,Breast cancer tumor OU-24,ou24,normalized_title
+GSE32646,GSM809208,Breast cancer tumor OU-25,ou25,normalized_title
+GSE32646,GSM809209,Breast cancer tumor OU-26,ou26,normalized_title
+GSE32646,GSM809210,Breast cancer tumor OU-27,ou27,normalized_title
+GSE32646,GSM809211,Breast cancer tumor OU-28,ou28,normalized_title
+GSE32646,GSM809212,Breast cancer tumor OU-29,ou29,normalized_title
+GSE32646,GSM809213,Breast cancer tumor OU-30,ou30,normalized_title
+GSE32646,GSM809214,Breast cancer tumor OU-31,ou31,normalized_title
+GSE32646,GSM809215,Breast cancer tumor OU-32,ou32,normalized_title
+GSE32646,GSM809216,Breast cancer tumor OU-33,ou33,normalized_title
+GSE32646,GSM809217,Breast cancer tumor OU-34,ou34,normalized_title
+GSE32646,GSM809218,Breast cancer tumor OU-35,ou35,normalized_title
+GSE32646,GSM809219,Breast cancer tumor OU-36,ou36,normalized_title
+GSE32646,GSM809220,Breast cancer tumor OU-37,ou37,normalized_title
+GSE32646,GSM809221,Breast cancer tumor OU-38,ou38,normalized_title
+GSE32646,GSM809222,Breast cancer tumor OU-39,ou39,normalized_title
+GSE32646,GSM809223,Breast cancer tumor OU-40,ou40,normalized_title
+GSE32646,GSM809224,Breast cancer tumor OU-41,ou41,normalized_title
+GSE32646,GSM809225,Breast cancer tumor OU-42,ou42,normalized_title
+GSE32646,GSM809226,Breast cancer tumor OU-43,ou43,normalized_title
+GSE32646,GSM809227,Breast cancer tumor OU-44,ou44,normalized_title
+GSE32646,GSM809228,Breast cancer tumor OU-45,ou45,normalized_title
+GSE32646,GSM809229,Breast cancer tumor OU-46,ou46,normalized_title
+GSE32646,GSM809230,Breast cancer tumor OU-47,ou47,normalized_title
+GSE32646,GSM809231,Breast cancer tumor OU-48,ou48,normalized_title
+GSE32646,GSM809232,Breast cancer tumor OU-49,ou49,normalized_title
+GSE32646,GSM809233,Breast cancer tumor OU-50,ou50,normalized_title
+GSE32646,GSM809234,Breast cancer tumor OU-51,ou51,normalized_title
+GSE32646,GSM809235,Breast cancer tumor OU-52,ou52,normalized_title
+GSE32646,GSM809236,Breast cancer tumor OU-53,ou53,normalized_title
+GSE32646,GSM809237,Breast cancer tumor OU-54,ou54,normalized_title
+GSE32646,GSM809238,Breast cancer tumor OU-55,ou55,normalized_title
+GSE32646,GSM809239,Breast cancer tumor OU-56,ou56,normalized_title
+GSE32646,GSM809240,Breast cancer tumor OU-57,ou57,normalized_title
+GSE32646,GSM809241,Breast cancer tumor OU-58,ou58,normalized_title
+GSE32646,GSM809242,Breast cancer tumor OU-59,ou59,normalized_title
+GSE32646,GSM809243,Breast cancer tumor OU-60,ou60,normalized_title
+GSE32646,GSM809244,Breast cancer tumor OU-61,ou61,normalized_title
+GSE32646,GSM809245,Breast cancer tumor OU-62,ou62,normalized_title
+GSE32646,GSM809246,Breast cancer tumor OU-63,ou63,normalized_title
+GSE32646,GSM809247,Breast cancer tumor OU-64,ou64,normalized_title
+GSE32646,GSM809248,Breast cancer tumor OU-65,ou65,normalized_title
+GSE32646,GSM809249,Breast cancer tumor OU-66,ou66,normalized_title
+GSE32646,GSM809250,Breast cancer tumor OU-67,ou67,normalized_title
+GSE32646,GSM809251,Breast cancer tumor OU-68,ou68,normalized_title
+GSE32646,GSM809252,Breast cancer tumor OU-69,ou69,normalized_title
+GSE32646,GSM809253,Breast cancer tumor OU-70,ou70,normalized_title
+GSE32646,GSM809254,Breast cancer tumor OU-71,ou71,normalized_title
+GSE32646,GSM809255,Breast cancer tumor OU-72,ou72,normalized_title
+GSE32646,GSM809256,Breast cancer tumor OU-73,ou73,normalized_title
+GSE32646,GSM809257,Breast cancer tumor OU-74,ou74,normalized_title
+GSE32646,GSM809258,Breast cancer tumor OU-75,ou75,normalized_title
+GSE32646,GSM809259,Breast cancer tumor OU-76,ou76,normalized_title
+GSE32646,GSM809260,Breast cancer tumor OU-77,ou77,normalized_title
+GSE32646,GSM809261,Breast cancer tumor OU-78,ou78,normalized_title
+GSE32646,GSM809262,Breast cancer tumor OU-79,ou79,normalized_title
+GSE32646,GSM809263,Breast cancer tumor OU-80,ou80,normalized_title
+GSE32646,GSM809264,Breast cancer tumor OU-81,ou81,normalized_title
+GSE32646,GSM809265,Breast cancer tumor OU-82,ou82,normalized_title
+GSE32646,GSM809266,Breast cancer tumor OU-83,ou83,normalized_title
+GSE32646,GSM809267,Breast cancer tumor OU-84,ou84,normalized_title
+GSE32646,GSM809268,Breast cancer tumor OU-85,ou85,normalized_title
+GSE32646,GSM809269,Breast cancer tumor OU-86,ou86,normalized_title
+GSE32646,GSM809270,Breast cancer tumor OU-87,ou87,normalized_title
+GSE32646,GSM809271,Breast cancer tumor OU-88,ou88,normalized_title
+GSE32646,GSM809272,Breast cancer tumor OU-89,ou89,normalized_title
+GSE32646,GSM809273,Breast cancer tumor OU-90,ou90,normalized_title
+GSE32646,GSM809274,Breast cancer tumor OU-91,ou91,normalized_title
+GSE32646,GSM809275,Breast cancer tumor OU-92,ou92,normalized_title
+GSE32646,GSM809276,Breast cancer tumor OU-93,ou93,normalized_title
+GSE32646,GSM809277,Breast cancer tumor OU-94,ou94,normalized_title
+GSE32646,GSM809278,Breast cancer tumor OU-95,ou95,normalized_title
+GSE32646,GSM809279,Breast cancer tumor OU-96,ou96,normalized_title
+GSE32646,GSM809280,Breast cancer tumor OU-97,ou97,normalized_title
+GSE32646,GSM809281,Breast cancer tumor OU-98,ou98,normalized_title
+GSE32646,GSM809282,Breast cancer tumor OU-99,ou99,normalized_title
+GSE32646,GSM809283,Breast cancer tumor OU-100,ou100,normalized_title
+GSE32646,GSM809284,Breast cancer tumor OU-101,ou101,normalized_title
+GSE32646,GSM809285,Breast cancer tumor OU-102,ou102,normalized_title
+GSE32646,GSM809286,Breast cancer tumor OU-103,ou103,normalized_title
+GSE32646,GSM809287,Breast cancer tumor OU-104,ou104,normalized_title
+GSE32646,GSM809288,Breast cancer tumor OU-105,ou105,normalized_title
+GSE32646,GSM809289,Breast cancer tumor OU-106,ou106,normalized_title
+GSE32646,GSM809290,Breast cancer tumor OU-107,ou107,normalized_title
+GSE32646,GSM809291,Breast cancer tumor OU-108,ou108,normalized_title
+GSE32646,GSM809292,Breast cancer tumor OU-109,ou109,normalized_title
+GSE32646,GSM809293,Breast cancer tumor OU-110,ou110,normalized_title
+GSE32646,GSM809294,Breast cancer tumor OU-111,ou111,normalized_title
+GSE32646,GSM809295,Breast cancer tumor OU-112,ou112,normalized_title
+GSE32646,GSM809296,Breast cancer tumor OU-113,ou113,normalized_title
+GSE32646,GSM809297,Breast cancer tumor OU-114,ou114,normalized_title
+GSE32646,GSM809298,Breast cancer tumor OU-115,ou115,normalized_title
+GSE34138,GSM842290,PR+NR breast cancer BC_4531933092_C,bc4531933092c,normalized_title
+GSE34138,GSM842291,PR+NR breast cancer BC_4531933092_D,bc4531933092d,normalized_title
+GSE34138,GSM842292,PR+NR breast cancer BC_4531933092_E,bc4531933092e,normalized_title
+GSE34138,GSM842293,PR+NR breast cancer BC_4531933069_D,bc4531933069d,normalized_title
+GSE34138,GSM842294,pCR+npCR mamma breast cancer BC_4531933069_E,bc4531933069e,normalized_title
+GSE34138,GSM842295,pCR+npCR mamma breast cancer BC_4531933046_B,bc4531933046b,normalized_title
+GSE34138,GSM842296,PR+NR breast cancer BC_4531933043_C,bc4531933043c,normalized_title
+GSE34138,GSM842297,PR+NR breast cancer BC_4531933041_A,bc4531933041a,normalized_title
+GSE34138,GSM842298,PR+NR breast cancer BC_4531933041_B,bc4531933041b,normalized_title
+GSE34138,GSM842299,PR+NR breast cancer BC_4531933041_C,bc4531933041c,normalized_title
+GSE34138,GSM842300,PR+NR breast cancer BC_4531933041_D,bc4531933041d,normalized_title
+GSE34138,GSM842301,PR+NR breast cancer BC_4560224008_C,bc4560224008c,normalized_title
+GSE34138,GSM842302,pCR+npCR mamma breast cancer BC_4560224008_D,bc4560224008d,normalized_title
+GSE34138,GSM842303,pCR+npCR mamma breast cancer BC_4560224008_F,bc4560224008f,normalized_title
+GSE34138,GSM842304,PR+NR breast cancer BC_4560224007_A,bc4560224007a,normalized_title
+GSE34138,GSM842305,pCR+npCR mamma breast cancer BC_4560224007_C,bc4560224007c,normalized_title
+GSE34138,GSM842306,PR+NR breast cancer BC_4560224007_E,bc4560224007e,normalized_title
+GSE34138,GSM842307,PR+NR breast cancer BC_4560224007_F,bc4560224007f,normalized_title
+GSE34138,GSM842308,pCR+npCR mamma breast cancer BC_4544460088_A,bc4544460088a,normalized_title
+GSE34138,GSM842309,PR+NR breast cancer BC_4544460088_B,bc4544460088b,normalized_title
+GSE34138,GSM842310,PR+NR breast cancer BC_4544460088_C,bc4544460088c,normalized_title
+GSE34138,GSM842311,PR+NR breast cancer BC_4544460088_F,bc4544460088f,normalized_title
+GSE34138,GSM842312,PR+NR breast cancer BC_4531933077_B,bc4531933077b,normalized_title
+GSE34138,GSM842313,pCR+npCR mamma breast cancer BC_4531933077_C,bc4531933077c,normalized_title
+GSE34138,GSM842314,PR+NR breast cancer BC_4531933077_D,bc4531933077d,normalized_title
+GSE34138,GSM842315,PR+NR breast cancer BC_4531933077_E,bc4531933077e,normalized_title
+GSE34138,GSM842316,PR+NR breast cancer BC_4531933077_F,bc4531933077f,normalized_title
+GSE34138,GSM842317,PR+NR breast cancer BC_4531933072_E,bc4531933072e,normalized_title
+GSE34138,GSM842318,PR+NR breast cancer BC_4531933045_C,bc4531933045c,normalized_title
+GSE34138,GSM842319,PR+NR breast cancer BC_4531933045_E,bc4531933045e,normalized_title
+GSE34138,GSM842320,PR+NR breast cancer BC_4531933045_F,bc4531933045f,normalized_title
+GSE34138,GSM842321,PR+NR breast cancer BC_4531933044_A,bc4531933044a,normalized_title
+GSE34138,GSM842322,PR+NR breast cancer BC_4531933044_B,bc4531933044b,normalized_title
+GSE34138,GSM842323,PR+NR breast cancer BC_4531933044_E,bc4531933044e,normalized_title
+GSE34138,GSM842324,PR+NR breast cancer BC_4531933044_F,bc4531933044f,normalized_title
+GSE34138,GSM842325,PR+NR breast cancer BC_4531933083_B,bc4531933083b,normalized_title
+GSE34138,GSM842326,PR+NR breast cancer BC_4531933083_E,bc4531933083e,normalized_title
+GSE34138,GSM842327,PR+NR breast cancer BC_4531933070_B,bc4531933070b,normalized_title
+GSE34138,GSM842328,pCR+npCR mamma breast cancer BC_4531933070_E,bc4531933070e,normalized_title
+GSE34138,GSM842329,PR+NR breast cancer BC_4531933070_F,bc4531933070f,normalized_title
+GSE34138,GSM842330,PR+NR breast cancer BC_4531933064_B,bc4531933064b,normalized_title
+GSE34138,GSM842331,PR+NR breast cancer BC_4531933064_D,bc4531933064d,normalized_title
+GSE34138,GSM842332,PR+NR breast cancer BC_4531933064_E,bc4531933064e,normalized_title
+GSE34138,GSM842333,PR+NR breast cancer BC_4531933064_F,bc4531933064f,normalized_title
+GSE34138,GSM842334,PR+NR breast cancer BC_4531933059_C,bc4531933059c,normalized_title
+GSE34138,GSM842335,PR+NR breast cancer BC_4520679065_F,bc4520679065f,normalized_title
+GSE34138,GSM842336,PR+NR breast cancer BC_4560224084_E,bc4560224084e,normalized_title
+GSE34138,GSM842337,pCR+npCR mamma breast cancer BC_4531933041_F,bc4531933041f,normalized_title
+GSE34138,GSM842338,pCR+npCR mamma breast cancer BC_4560224088_D,bc4560224088d,normalized_title
+GSE34138,GSM842339,PR+NR breast cancer BC_4560224078_A,bc4560224078a,normalized_title
+GSE34138,GSM842340,PR+NR breast cancer BC_4560224078_B,bc4560224078b,normalized_title
+GSE34138,GSM842341,PR+NR breast cancer BC_4560224074_F,bc4560224074f,normalized_title
+GSE34138,GSM842342,PR+NR breast cancer BC_4560224073_C,bc4560224073c,normalized_title
+GSE34138,GSM842343,pCR+npCR mamma breast cancer BC_4560224073_D,bc4560224073d,normalized_title
+GSE34138,GSM842344,PR+NR breast cancer BC_4560224066_A,bc4560224066a,normalized_title
+GSE34138,GSM842345,PR+NR breast cancer BC_4560224066_C,bc4560224066c,normalized_title
+GSE34138,GSM842346,PR+NR breast cancer BC_4560224066_D,bc4560224066d,normalized_title
+GSE34138,GSM842347,PR+NR breast cancer BC_4560224066_E,bc4560224066e,normalized_title
+GSE34138,GSM842348,pCR+npCR mamma breast cancer BC_4560224045_A,bc4560224045a,normalized_title
+GSE34138,GSM842349,PR+NR breast cancer BC_4560224045_B,bc4560224045b,normalized_title
+GSE34138,GSM842350,PR+NR breast cancer BC_4560224045_C,bc4560224045c,normalized_title
+GSE34138,GSM842351,PR+NR breast cancer BC_4560224045_D,bc4560224045d,normalized_title
+GSE34138,GSM842352,pCR+npCR mamma breast cancer BC_4560224045_E,bc4560224045e,normalized_title
+GSE34138,GSM842353,PR+NR breast cancer BC_4560224043_B,bc4560224043b,normalized_title
+GSE34138,GSM842354,PR+NR breast cancer BC_4560224043_D,bc4560224043d,normalized_title
+GSE34138,GSM842355,pCR+npCR mamma breast cancer BC_4560224043_E,bc4560224043e,normalized_title
+GSE34138,GSM842356,PR+NR breast cancer BC_4560224043_F,bc4560224043f,normalized_title
+GSE34138,GSM842357,PR+NR breast cancer BC_4560224035_A,bc4560224035a,normalized_title
+GSE34138,GSM842358,PR+NR breast cancer BC_4560224035_B,bc4560224035b,normalized_title
+GSE34138,GSM842359,PR+NR breast cancer BC_4560224035_E,bc4560224035e,normalized_title
+GSE34138,GSM842360,PR+NR breast cancer BC_4560224029_B,bc4560224029b,normalized_title
+GSE34138,GSM842361,PR+NR breast cancer BC_4560224029_E,bc4560224029e,normalized_title
+GSE34138,GSM842362,PR+NR breast cancer BC_4560224029_F,bc4560224029f,normalized_title
+GSE34138,GSM842363,PR+NR breast cancer BC_4560224027_D,bc4560224027d,normalized_title
+GSE34138,GSM842364,PR+NR breast cancer BC_4560224027_E,bc4560224027e,normalized_title
+GSE34138,GSM842365,pCR+npCR mamma breast cancer BC_4560224015_A,bc4560224015a,normalized_title
+GSE34138,GSM842366,PR+NR breast cancer BC_4560224015_C,bc4560224015c,normalized_title
+GSE34138,GSM842367,PR+NR breast cancer BC_4560224064_A,bc4560224064a,normalized_title
+GSE34138,GSM842368,PR+NR breast cancer BC_4560224064_B,bc4560224064b,normalized_title
+GSE34138,GSM842369,pCR+npCR mamma breast cancer BC_4560224064_E,bc4560224064e,normalized_title
+GSE34138,GSM842370,PR+NR breast cancer BC_4753042046_C,bc4753042046c,normalized_title
+GSE34138,GSM842371,PR+NR breast cancer BC_5357957058_A,bc5357957058a,normalized_title
+GSE34138,GSM842372,PR+NR breast cancer BC_5357957058_B,bc5357957058b,normalized_title
+GSE34138,GSM842373,PR+NR breast cancer BC_5357957058_F,bc5357957058f,normalized_title
+GSE34138,GSM842374,pCR+npCR mamma breast cancer BC_5357957054_D,bc5357957054d,normalized_title
+GSE34138,GSM842375,PR+NR breast cancer BC_5357957052_A,bc5357957052a,normalized_title
+GSE34138,GSM842376,PR+NR breast cancer BC_5357957052_B,bc5357957052b,normalized_title
+GSE34138,GSM842377,PR+NR breast cancer BC_5357957052_E,bc5357957052e,normalized_title
+GSE34138,GSM842378,pCR+npCR mamma breast cancer BC_5357957052_F,bc5357957052f,normalized_title
+GSE34138,GSM842379,PR+NR breast cancer BC_5357957045_A,bc5357957045a,normalized_title
+GSE34138,GSM842380,pCR+npCR mamma breast cancer BC_5357957045_E,bc5357957045e,normalized_title
+GSE34138,GSM842381,PR+NR breast cancer BC_5357957044_A,bc5357957044a,normalized_title
+GSE34138,GSM842382,PR+NR breast cancer BC_5357957043_A,bc5357957043a,normalized_title
+GSE34138,GSM842383,PR+NR breast cancer BC_5357957043_E,bc5357957043e,normalized_title
+GSE34138,GSM842384,PR+NR breast cancer BC_5357957042_B,bc5357957042b,normalized_title
+GSE34138,GSM842385,PR+NR breast cancer BC_5357957042_C,bc5357957042c,normalized_title
+GSE34138,GSM842386,PR+NR breast cancer BC_5357957009_B,bc5357957009b,normalized_title
+GSE34138,GSM842387,PR+NR breast cancer BC_5357957009_C,bc5357957009c,normalized_title
+GSE34138,GSM842388,PR+NR breast cancer BC_5357957009_F,bc5357957009f,normalized_title
+GSE34138,GSM842389,PR+NR breast cancer BC_5357957008_A,bc5357957008a,normalized_title
+GSE34138,GSM842390,PR+NR breast cancer BC_5357957008_C,bc5357957008c,normalized_title
+GSE34138,GSM842391,pCR+npCR mamma breast cancer BC_5357957008_D,bc5357957008d,normalized_title
+GSE34138,GSM842392,PR+NR breast cancer BC_5357957008_F,bc5357957008f,normalized_title
+GSE34138,GSM842393,PR+NR breast cancer BC_5342587027_A,bc5342587027a,normalized_title
+GSE34138,GSM842394,PR+NR breast cancer BC_5342587027_B,bc5342587027b,normalized_title
+GSE34138,GSM842395,PR+NR breast cancer BC_5342587027_D,bc5342587027d,normalized_title
+GSE34138,GSM842396,pCR+npCR mamma breast cancer BC_5342587015_C,bc5342587015c,normalized_title
+GSE34138,GSM842397,PR+NR breast cancer BC_5342587015_E,bc5342587015e,normalized_title
+GSE34138,GSM842398,PR+NR breast cancer BC_5342587014_B,bc5342587014b,normalized_title
+GSE34138,GSM842399,PR+NR breast cancer BC_5342587014_C,bc5342587014c,normalized_title
+GSE34138,GSM842400,pCR+npCR mamma breast cancer BC_5342587014_D,bc5342587014d,normalized_title
+GSE34138,GSM842401,pCR+npCR mamma breast cancer BC_5342587014_F,bc5342587014f,normalized_title
+GSE34138,GSM842402,pCR+npCR mamma breast cancer BC_5342587013_A,bc5342587013a,normalized_title
+GSE34138,GSM842403,PR+NR breast cancer BC_5342587013_C,bc5342587013c,normalized_title
+GSE34138,GSM842404,PR+NR breast cancer BC_5342587013_D,bc5342587013d,normalized_title
+GSE34138,GSM842405,PR+NR breast cancer BC_5342587009_D,bc5342587009d,normalized_title
+GSE34138,GSM842406,PR+NR breast cancer BC_5342587009_F,bc5342587009f,normalized_title
+GSE34138,GSM842407,PR+NR breast cancer BC_5342587008_D,bc5342587008d,normalized_title
+GSE34138,GSM842408,pCR+npCR mamma breast cancer BC_5342587008_E,bc5342587008e,normalized_title
+GSE34138,GSM842409,PR+NR breast cancer BC_5357957045_D,bc5357957045d,normalized_title
+GSE34138,GSM842470,pCR+npCR mamma breast cancer BC_4531933043_F,bc4531933043f,normalized_title
+GSE34138,GSM842471,pCR+npCR mamma breast cancer BC_4531933077_A,bc4531933077a,normalized_title
+GSE34138,GSM842472,PR+NR breast cancer BC_4531933072_B,bc4531933072b,normalized_title
+GSE34138,GSM842473,pCR+npCR mamma breast cancer BC_4531933045_A,bc4531933045a,normalized_title
+GSE34138,GSM842474,pCR+npCR mamma breast cancer BC_4531933045_B,bc4531933045b,normalized_title
+GSE34138,GSM842475,pCR+npCR mamma breast cancer BC_4531933045_D,bc4531933045d,normalized_title
+GSE34138,GSM842476,PR+NR breast cancer BC_4531933044_C,bc4531933044c,normalized_title
+GSE34138,GSM842477,pCR+npCR mamma breast cancer BC_4531933044_D,bc4531933044d,normalized_title
+GSE34138,GSM842478,pCR+npCR mamma breast cancer BC_4531933083_C,bc4531933083c,normalized_title
+GSE34138,GSM842479,PR+NR breast cancer BC_4531933059_B,bc4531933059b,normalized_title
+GSE34138,GSM842480,PR+NR breast cancer BC_4520679065_C,bc4520679065c,normalized_title
+GSE34138,GSM842481,PR+NR breast cancer BC_4520679065_D,bc4520679065d,normalized_title
+GSE34138,GSM842482,pCR+npCR mamma breast cancer BC_4520679065_E,bc4520679065e,normalized_title
+GSE34138,GSM842483,pCR+npCR mamma breast cancer BC_4560224084_C,bc4560224084c,normalized_title
+GSE34138,GSM842484,PR+NR breast cancer BC_4560224089_D,bc4560224089d,normalized_title
+GSE34138,GSM842485,pCR+npCR mamma breast cancer BC_4560224089_E,bc4560224089e,normalized_title
+GSE34138,GSM842486,pCR+npCR mamma breast cancer BC_4560224089_F,bc4560224089f,normalized_title
+GSE34138,GSM842487,pCR+npCR mamma breast cancer BC_4560224088_E,bc4560224088e,normalized_title
+GSE34138,GSM842488,PR+NR breast cancer BC_4560224074_C,bc4560224074c,normalized_title
+GSE34138,GSM842489,pCR+npCR mamma breast cancer BC_4560224074_D,bc4560224074d,normalized_title
+GSE34138,GSM842490,pCR+npCR mamma breast cancer BC_4560224073_A,bc4560224073a,normalized_title
+GSE34138,GSM842491,pCR+npCR mamma breast cancer BC_4560224073_B,bc4560224073b,normalized_title
+GSE34138,GSM842492,pCR+npCR mamma breast cancer BC_4560224073_E,bc4560224073e,normalized_title
+GSE34138,GSM842493,pCR+npCR mamma breast cancer BC_4560224073_F,bc4560224073f,normalized_title
+GSE34138,GSM842494,PR+NR breast cancer BC_4560224066_F,bc4560224066f,normalized_title
+GSE34138,GSM842495,PR+NR breast cancer BC_4560224053_F,bc4560224053f,normalized_title
+GSE34138,GSM842496,PR+NR breast cancer BC_4560224045_F,bc4560224045f,normalized_title
+GSE34138,GSM842497,pCR+npCR mamma breast cancer BC_4560224035_D,bc4560224035d,normalized_title
+GSE34138,GSM842498,PR+NR breast cancer BC_4560224035_F,bc4560224035f,normalized_title
+GSE34138,GSM842499,PR+NR breast cancer BC_4560224027_F,bc4560224027f,normalized_title
+GSE34138,GSM842500,PR+NR breast cancer BC_4560224015_D,bc4560224015d,normalized_title
+GSE34138,GSM842501,pCR+npCR mamma breast cancer BC_4560224015_E,bc4560224015e,normalized_title
+GSE34138,GSM842502,pCR+npCR mamma breast cancer BC_4560224015_F,bc4560224015f,normalized_title
+GSE34138,GSM842503,PR+NR breast cancer BC_4560224064_C,bc4560224064c,normalized_title
+GSE34138,GSM842504,pCR+npCR mamma breast cancer BC_4560224064_F,bc4560224064f,normalized_title
+GSE34138,GSM842505,PR+NR breast cancer BC_4753042046_A,bc4753042046a,normalized_title
+GSE34138,GSM842506,PR+NR breast cancer BC_5357957054_B,bc5357957054b,normalized_title
+GSE34138,GSM842507,PR+NR breast cancer BC_5357957053_B,bc5357957053b,normalized_title
+GSE34138,GSM842508,pCR+npCR mamma breast cancer BC_5357957053_C,bc5357957053c,normalized_title
+GSE34138,GSM842509,pCR+npCR mamma breast cancer BC_5357957053_D,bc5357957053d,normalized_title
+GSE34138,GSM842510,pCR+npCR mamma breast cancer BC_5357957053_F,bc5357957053f,normalized_title
+GSE34138,GSM842511,NA breast cancer BC_5357957052_C,nabreastcancerbc5357957052c,normalized_title
+GSE34138,GSM842512,pCR+npCR mamma breast cancer BC_5357957045_B,bc5357957045b,normalized_title
+GSE34138,GSM842513,PR+NR breast cancer BC_5357957045_F,bc5357957045f,normalized_title
+GSE34138,GSM842514,PR+NR breast cancer BC_5357957044_C,bc5357957044c,normalized_title
+GSE34138,GSM842515,pCR+npCR mamma breast cancer BC_5357957044_D,bc5357957044d,normalized_title
+GSE34138,GSM842516,pCR+npCR mamma breast cancer BC_5357957044_E,bc5357957044e,normalized_title
+GSE34138,GSM842517,PR+NR breast cancer BC_5357957044_F,bc5357957044f,normalized_title
+GSE34138,GSM842518,PR+NR breast cancer BC_5357957043_B,bc5357957043b,normalized_title
+GSE34138,GSM842519,PR+NR breast cancer BC_5357957043_C,bc5357957043c,normalized_title
+GSE34138,GSM842520,PR+NR breast cancer BC_5357957042_A,bc5357957042a,normalized_title
+GSE34138,GSM842521,PR+NR breast cancer BC_5357957042_D,bc5357957042d,normalized_title
+GSE34138,GSM842522,pCR+npCR mamma breast cancer BC_5357957009_A,bc5357957009a,normalized_title
+GSE34138,GSM842523,pCR+npCR mamma breast cancer BC_5357957009_D,bc5357957009d,normalized_title
+GSE34138,GSM842524,pCR+npCR mamma breast cancer BC_5342587027_C,bc5342587027c,normalized_title
+GSE34138,GSM842525,pCR+npCR mamma breast cancer BC_5342587013_B,bc5342587013b,normalized_title
+GSE34138,GSM842526,pCR+npCR mamma breast cancer BC_5342587013_E,bc5342587013e,normalized_title
+GSE34138,GSM842527,pCR+npCR mamma breast cancer BC_5342587009_C,bc5342587009c,normalized_title
+GSE41998,GSM1030079,Br Ca Pt sample #S1178752-1,s11787521,normalized_title
+GSE41998,GSM1030080,Br Ca Pt sample #E3837722-1,e38377221,normalized_title
+GSE41998,GSM1030081,Br Ca Pt sample #A6263061-1,a62630611,normalized_title
+GSE41998,GSM1030082,Br Ca Pt sample #A6263065-1,a62630651,normalized_title
+GSE41998,GSM1030083,Br Ca Pt sample #S1038589-1,s10385891,normalized_title
+GSE41998,GSM1030084,Br Ca Pt sample #A6999197-1,a69991971,normalized_title
+GSE41998,GSM1030085,Br Ca Pt sample #E3800109-1,e38001091,normalized_title
+GSE41998,GSM1030086,Br Ca Pt sample #S1116462-1,s11164621,normalized_title
+GSE41998,GSM1030087,Br Ca Pt sample #A6997531-1,a69975311,normalized_title
+GSE41998,GSM1030088,Br Ca Pt sample #E4340702-1,e43407021,normalized_title
+GSE41998,GSM1030089,Br Ca Pt sample #E4639353-1,e46393531,normalized_title
+GSE41998,GSM1030090,Br Ca Pt sample #S1297269-1,s12972691,normalized_title
+GSE41998,GSM1030091,Br Ca Pt sample #S1032217-1,s10322171,normalized_title
+GSE41998,GSM1030092,Br Ca Pt sample #S1089746-1,s10897461,normalized_title
+GSE41998,GSM1030093,Br Ca Pt sample #S1032225-1,s10322251,normalized_title
+GSE41998,GSM1030094,Br Ca Pt sample #E4343481-1,e43434811,normalized_title
+GSE41998,GSM1030095,Br Ca Pt sample #S1126096-1,s11260961,normalized_title
+GSE41998,GSM1030096,Br Ca Pt sample #A7082100-1,a70821001,normalized_title
+GSE41998,GSM1030097,Br Ca Pt sample #E3800101-1,e38001011,normalized_title
+GSE41998,GSM1030098,Br Ca Pt sample #E4343479-1,e43434791,normalized_title
+GSE41998,GSM1030099,Br Ca Pt sample #E3916680-1,e39166801,normalized_title
+GSE41998,GSM1030100,Br Ca Pt sample #A6952000-1,a69520001,normalized_title
+GSE41998,GSM1030101,Br Ca Pt sample #E4222992-1,e42229921,normalized_title
+GSE41998,GSM1030102,Br Ca Pt sample #E4332196-1,e43321961,normalized_title
+GSE41998,GSM1030103,Br Ca Pt sample #A7295220-1,a72952201,normalized_title
+GSE41998,GSM1030104,Br Ca Pt sample #S1076366-1,s10763661,normalized_title
+GSE41998,GSM1030105,Br Ca Pt sample #A7330542-1,a73305421,normalized_title
+GSE41998,GSM1030106,Br Ca Pt sample #E4606438-1,e46064381,normalized_title
+GSE41998,GSM1030107,Br Ca Pt sample #E4606440-1,e46064401,normalized_title
+GSE41998,GSM1030108,Br Ca Pt sample #E4340700-1,e43407001,normalized_title
+GSE41998,GSM1030109,Br Ca Pt sample #A7241236-1,a72412361,normalized_title
+GSE41998,GSM1030110,Br Ca Pt sample #E4477306-1,e44773061,normalized_title
+GSE41998,GSM1030111,Br Ca Pt sample #S1123419-1,s11234191,normalized_title
+GSE41998,GSM1030112,Br Ca Pt sample #S1032221-1,s10322211,normalized_title
+GSE41998,GSM1030113,Br Ca Pt sample #A7082102-1,a70821021,normalized_title
+GSE41998,GSM1030114,Br Ca Pt sample #E4708763-1,e47087631,normalized_title
+GSE41998,GSM1030115,Br Ca Pt sample #E4710305-1,e47103051,normalized_title
+GSE41998,GSM1030116,Br Ca Pt sample #L0628963-1,l06289631,normalized_title
+GSE41998,GSM1030117,Br Ca Pt sample #A7573397-1,a75733971,normalized_title
+GSE41998,GSM1030118,Br Ca Pt sample #E4534819-1,e45348191,normalized_title
+GSE41998,GSM1030119,Br Ca Pt sample #E4690595-1,e46905951,normalized_title
+GSE41998,GSM1030120,Br Ca Pt sample #E4751070-1,e47510701,normalized_title
+GSE41998,GSM1030121,Br Ca Pt sample #E4751072-1,e47510721,normalized_title
+GSE41998,GSM1030122,Br Ca Pt sample #A6736485-1,a67364851,normalized_title
+GSE41998,GSM1030123,Br Ca Pt sample #S1076360-1,s10763601,normalized_title
+GSE41998,GSM1030124,Br Ca Pt sample #E3648192-1,e36481921,normalized_title
+GSE41998,GSM1030125,Br Ca Pt sample #L0488310-1,l04883101,normalized_title
+GSE41998,GSM1030126,Br Ca Pt sample #S1121949-1,s11219491,normalized_title
+GSE41998,GSM1030127,Br Ca Pt sample #S1141087-1,s11410871,normalized_title
+GSE41998,GSM1030128,Br Ca Pt sample #S1141089-1,s11410891,normalized_title
+GSE41998,GSM1030129,Br Ca Pt sample #S1038597-1,s10385971,normalized_title
+GSE41998,GSM1030130,Br Ca Pt sample #S1148765-1,s11487651,normalized_title
+GSE41998,GSM1030131,Br Ca Pt sample #E4343389-4,e43433894,normalized_title
+GSE41998,GSM1030132,Br Ca Pt sample #E4343389-3,e43433893,normalized_title
+GSE41998,GSM1030133,Br Ca Pt sample #S1123405-1,s11234051,normalized_title
+GSE41998,GSM1030134,Br Ca Pt sample #A6999199-1,a69991991,normalized_title
+GSE41998,GSM1030135,Br Ca Pt sample #E3837732-1,e38377321,normalized_title
+GSE41998,GSM1030136,Br Ca Pt sample #S1189555-1,s11895551,normalized_title
+GSE41998,GSM1030137,Br Ca Pt sample #S1134718-1,s11347181,normalized_title
+GSE41998,GSM1030138,Br Ca Pt sample #E4690599-1,e46905991,normalized_title
+GSE41998,GSM1030139,Br Ca Pt sample #A7330534-1,a73305341,normalized_title
+GSE41998,GSM1030140,Br Ca Pt sample #S1148757-1,s11487571,normalized_title
+GSE41998,GSM1030141,Br Ca Pt sample #S1189563-1,s11895631,normalized_title
+GSE41998,GSM1030142,Br Ca Pt sample #E4708767-1,e47087671,normalized_title
+GSE41998,GSM1030143,Br Ca Pt sample #S1178750-1,s11787501,normalized_title
+GSE41998,GSM1030144,Br Ca Pt sample #E4764497-1,e47644971,normalized_title
+GSE41998,GSM1030145,Br Ca Pt sample #A6657371-1,a66573711,normalized_title
+GSE41998,GSM1030146,Br Ca Pt sample #E4751060-1,e47510601,normalized_title
+GSE41998,GSM1030147,Br Ca Pt sample #E4719356-1,e47193561,normalized_title
+GSE41998,GSM1030148,Br Ca Pt sample #E4999453-1,e49994531,normalized_title
+GSE41998,GSM1030149,Br Ca Pt sample #E4343389-2,e43433892,normalized_title
+GSE41998,GSM1030150,Br Ca Pt sample #E4597713-1,e45977131,normalized_title
+GSE41998,GSM1030151,Br Ca Pt sample #L0638228-4,l06382284,normalized_title
+GSE41998,GSM1030152,Br Ca Pt sample #E4751058-1,e47510581,normalized_title
+GSE41998,GSM1030153,Br Ca Pt sample #E4669580-1,e46695801,normalized_title
+GSE41998,GSM1030154,Br Ca Pt sample #E4534823-1,e45348231,normalized_title
+GSE41998,GSM1030155,Br Ca Pt sample #E4830792-1,e48307921,normalized_title
+GSE41998,GSM1030156,Br Ca Pt sample #E3385598-1,e33855981,normalized_title
+GSE41998,GSM1030157,Br Ca Pt sample #E3730747-1,e37307471,normalized_title
+GSE41998,GSM1030158,Br Ca Pt sample #S0895769-1,s08957691,normalized_title
+GSE41998,GSM1030159,Br Ca Pt sample #S0895765-1,s08957651,normalized_title
+GSE41998,GSM1030160,Br Ca Pt sample #S0898012-1,s08980121,normalized_title
+GSE41998,GSM1030161,Br Ca Pt sample #S0895767-1,s08957671,normalized_title
+GSE41998,GSM1030162,Br Ca Pt sample #S0960945-1,s09609451,normalized_title
+GSE41998,GSM1030163,Br Ca Pt sample #E3569360-1,e35693601,normalized_title
+GSE41998,GSM1030164,Br Ca Pt sample #S0895756-1,s08957561,normalized_title
+GSE41998,GSM1030165,Br Ca Pt sample #E3663949-1,e36639491,normalized_title
+GSE41998,GSM1030166,Br Ca Pt sample #E3569362-1,e35693621,normalized_title
+GSE41998,GSM1030167,Br Ca Pt sample #A6718068-1,a67180681,normalized_title
+GSE41998,GSM1030168,Br Ca Pt sample #S1183157-1,s11831571,normalized_title
+GSE41998,GSM1030169,Br Ca Pt sample #S1089744-1,s10897441,normalized_title
+GSE41998,GSM1030170,Br Ca Pt sample #S1005949-1,s10059491,normalized_title
+GSE41998,GSM1030171,Br Ca Pt sample #A6926680-1,a69266801,normalized_title
+GSE41998,GSM1030172,Br Ca Pt sample #S1005935-1,s10059351,normalized_title
+GSE41998,GSM1030173,Br Ca Pt sample #A6719819-1,a67198191,normalized_title
+GSE41998,GSM1030174,Br Ca Pt sample #S1121959-1,s11219591,normalized_title
+GSE41998,GSM1030175,Br Ca Pt sample #S1123415-1,s11234151,normalized_title
+GSE41998,GSM1030176,Br Ca Pt sample #E4242182-1,e42421821,normalized_title
+GSE41998,GSM1030177,Br Ca Pt sample #S1121945-1,s11219451,normalized_title
+GSE41998,GSM1030178,Br Ca Pt sample #S1038593-1,s10385931,normalized_title
+GSE41998,GSM1030179,Br Ca Pt sample #E4376531-1,e43765311,normalized_title
+GSE41998,GSM1030180,Br Ca Pt sample #S1121963-1,s11219631,normalized_title
+GSE41998,GSM1030181,Br Ca Pt sample #E3648194-1,e36481941,normalized_title
+GSE41998,GSM1030182,Br Ca Pt sample #S1172325-1,s11723251,normalized_title
+GSE41998,GSM1030183,Br Ca Pt sample #A7181969-1,a71819691,normalized_title
+GSE41998,GSM1030184,Br Ca Pt sample #E4332194-1,e43321941,normalized_title
+GSE41998,GSM1030185,Br Ca Pt sample #A6914216-1,a69142161,normalized_title
+GSE41998,GSM1030186,Br Ca Pt sample #S1230596-1,s12305961,normalized_title
+GSE41998,GSM1030187,Br Ca Pt sample #S1212000-1,s12120001,normalized_title
+GSE41998,GSM1030188,Br Ca Pt sample #E4597723-1,e45977231,normalized_title
+GSE41998,GSM1030189,Br Ca Pt sample #E3416700-1,e34167001,normalized_title
+GSE41998,GSM1030190,Br Ca Pt sample #A7347583-1,a73475831,normalized_title
+GSE41998,GSM1030191,Br Ca Pt sample #A7347583-2,a73475832,normalized_title
+GSE41998,GSM1030192,Br Ca Pt sample #E4555791-1,e45557911,normalized_title
+GSE41998,GSM1030193,Br Ca Pt sample #E4555791-2,e45557912,normalized_title
+GSE41998,GSM1030194,Br Ca Pt sample #E4555791-3,e45557913,normalized_title
+GSE41998,GSM1030195,Br Ca Pt sample #A6997527-1,a69975271,normalized_title
+GSE41998,GSM1030196,Br Ca Pt sample #E3416702-1,e34167021,normalized_title
+GSE41998,GSM1030197,Br Ca Pt sample #E3385596-1,e33855961,normalized_title
+GSE41998,GSM1030198,Br Ca Pt sample #A7342589-1,a73425891,normalized_title
+GSE41998,GSM1030199,Br Ca Pt sample #E4343543-1,e43435431,normalized_title
+GSE41998,GSM1030200,Br Ca Pt sample #S1121941-4,s11219414,normalized_title
+GSE41998,GSM1030201,Br Ca Pt sample #S1038591-1,s10385911,normalized_title
+GSE41998,GSM1030202,Br Ca Pt sample #A7082075-1,a70820751,normalized_title
+GSE41998,GSM1030203,Br Ca Pt sample #S1172333-1,s11723331,normalized_title
+GSE41998,GSM1030204,Br Ca Pt sample #E3837740-1,e38377401,normalized_title
+GSE41998,GSM1030205,Br Ca Pt sample #E3800099-1,e38000991,normalized_title
+GSE41998,GSM1030206,Br Ca Pt sample #A7181973-1,a71819731,normalized_title
+GSE41998,GSM1030207,Br Ca Pt sample #E4791654-1,e47916541,normalized_title
+GSE41998,GSM1030208,Br Ca Pt sample #A7585250-1,a75852501,normalized_title
+GSE41998,GSM1030209,Br Ca Pt sample #E4751082-1,e47510821,normalized_title
+GSE41998,GSM1030210,Br Ca Pt sample #L0638222-4,l06382224,normalized_title
+GSE41998,GSM1030211,Br Ca Pt sample #L0638218-4,l06382184,normalized_title
+GSE41998,GSM1030212,Br Ca Pt sample #L0638232-4,l06382324,normalized_title
+GSE41998,GSM1030213,Br Ca Pt sample #S1037482-1,s10374821,normalized_title
+GSE41998,GSM1030214,Br Ca Pt sample #S0898799-1,s08987991,normalized_title
+GSE41998,GSM1030215,Br Ca Pt sample #S1005937-1,s10059371,normalized_title
+GSE41998,GSM1030216,Br Ca Pt sample #S1005933-1,s10059331,normalized_title
+GSE41998,GSM1030217,Br Ca Pt sample #S1172331-1,s11723311,normalized_title
+GSE41998,GSM1030218,Br Ca Pt sample #E4532900-1,e45329001,normalized_title
+GSE41998,GSM1030219,Br Ca Pt sample #E4639355-1,e46393551,normalized_title
+GSE41998,GSM1030220,Br Ca Pt sample #E3569373-1,e35693731,normalized_title
+GSE41998,GSM1030221,Br Ca Pt sample #E3665685-1,e36656851,normalized_title
+GSE41998,GSM1030222,Br Ca Pt sample #S0922645-1,s09226451,normalized_title
+GSE41998,GSM1030223,Br Ca Pt sample #S0869886-1,s08698861,normalized_title
+GSE41998,GSM1030224,Br Ca Pt sample #A6719815-1,a67198151,normalized_title
+GSE41998,GSM1030225,Br Ca Pt sample #A7347583-3,a73475833,normalized_title
+GSE41998,GSM1030226,Br Ca Pt sample #E4343539-1,e43435391,normalized_title
+GSE41998,GSM1030227,Br Ca Pt sample #E4343515-1,e43435151,normalized_title
+GSE41998,GSM1030228,Br Ca Pt sample #S0953607-1,s09536071,normalized_title
+GSE41998,GSM1030229,Br Ca Pt sample #S0953605-1,s09536051,normalized_title
+GSE41998,GSM1030230,Br Ca Pt sample #A6952002-1,a69520021,normalized_title
+GSE41998,GSM1030231,Br Ca Pt sample #E4606442-1,e46064421,normalized_title
+GSE41998,GSM1030232,Br Ca Pt sample #S1178754-1,s11787541,normalized_title
+GSE41998,GSM1030233,Br Ca Pt sample #S1230600-1,s12306001,normalized_title
+GSE41998,GSM1030234,Br Ca Pt sample #A7013456-1,a70134561,normalized_title
+GSE41998,GSM1030235,Br Ca Pt sample #A7013465-1,a70134651,normalized_title
+GSE41998,GSM1030236,Br Ca Pt sample #S1091332-1,s10913321,normalized_title
+GSE41998,GSM1030237,Br Ca Pt sample #S1005927-1,s10059271,normalized_title
+GSE41998,GSM1030238,Br Ca Pt sample #S1032219-1,s10322191,normalized_title
+GSE41998,GSM1030239,Br Ca Pt sample #E4555795-1,e45557951,normalized_title
+GSE41998,GSM1030240,Br Ca Pt sample #S1089750-1,s10897501,normalized_title
+GSE41998,GSM1030241,Br Ca Pt sample #E4343391-4,e43433914,normalized_title
+GSE41998,GSM1030242,Br Ca Pt sample #E4343391-3,e43433913,normalized_title
+GSE41998,GSM1030243,Br Ca Pt sample #E4343391-2,e43433912,normalized_title
+GSE41998,GSM1030244,Br Ca Pt sample #S1148763-1,s11487631,normalized_title
+GSE41998,GSM1030245,Br Ca Pt sample #A7241230-1,a72412301,normalized_title
+GSE41998,GSM1030246,Br Ca Pt sample #S1148753-1,s11487531,normalized_title
+GSE41998,GSM1030247,Br Ca Pt sample #S1189561-1,s11895611,normalized_title
+GSE41998,GSM1030248,Br Ca Pt sample #S1230608-1,s12306081,normalized_title
+GSE41998,GSM1030249,Br Ca Pt sample #E4597719-1,e45977191,normalized_title
+GSE41998,GSM1030250,Br Ca Pt sample #E4597721-1,e45977211,normalized_title
+GSE41998,GSM1030251,Br Ca Pt sample #L0506122-1,l05061221,normalized_title
+GSE41998,GSM1030252,Br Ca Pt sample #E4597711-1,e45977111,normalized_title
+GSE41998,GSM1030253,Br Ca Pt sample #E4597717-1,e45977171,normalized_title
+GSE41998,GSM1030254,Br Ca Pt sample #E3837750-1,e38377501,normalized_title
+GSE41998,GSM1030255,Br Ca Pt sample #E4534882-1,e45348821,normalized_title
+GSE41998,GSM1030256,Br Ca Pt sample #A6997529-1,a69975291,normalized_title
+GSE41998,GSM1030257,Br Ca Pt sample #E4830790-1,e48307901,normalized_title
+GSE41998,GSM1030258,Br Ca Pt sample #E4751064-1,e47510641,normalized_title
+GSE41998,GSM1030259,Br Ca Pt sample #S0869900-2,s08699002,normalized_title
+GSE41998,GSM1030260,Br Ca Pt sample #A6926682-1,a69266821,normalized_title
+GSE41998,GSM1030261,Br Ca Pt sample #E4242180-1,e42421801,normalized_title
+GSE41998,GSM1030262,Br Ca Pt sample #S1089752-1,s10897521,normalized_title
+GSE41998,GSM1030263,Br Ca Pt sample #E3837744-1,e38377441,normalized_title
+GSE41998,GSM1030264,Br Ca Pt sample #S1184746-1,s11847461,normalized_title
+GSE41998,GSM1030265,Br Ca Pt sample #S1076358-1,s10763581,normalized_title
+GSE41998,GSM1030266,Br Ca Pt sample #S1032223-1,s10322231,normalized_title
+GSE41998,GSM1030267,Br Ca Pt sample #E4597705-1,e45977051,normalized_title
+GSE41998,GSM1030268,Br Ca Pt sample #E3837736-1,e38377361,normalized_title
+GSE41998,GSM1030269,Br Ca Pt sample #S1126094-4,s11260944,normalized_title
+GSE41998,GSM1030270,Br Ca Pt sample #E4597715-1,e45977151,normalized_title
+GSE41998,GSM1030271,Br Ca Pt sample #S1178760-1,s11787601,normalized_title
+GSE41998,GSM1030272,Br Ca Pt sample #S1189557-4,s11895574,normalized_title
+GSE41998,GSM1030273,Br Ca Pt sample #E4343519-1,e43435191,normalized_title
+GSE41998,GSM1030274,Br Ca Pt sample #E4477302-1,e44773021,normalized_title
+GSE41998,GSM1030275,Br Ca Pt sample #E4477304-1,e44773041,normalized_title
+GSE41998,GSM1030276,Br Ca Pt sample #S1121939-4,s11219394,normalized_title
+GSE41998,GSM1030277,Br Ca Pt sample #S1230610-1,s12306101,normalized_title
+GSE41998,GSM1030278,Br Ca Pt sample #E3837746-1,e38377461,normalized_title
+GSE41998,GSM1030279,Br Ca Pt sample #L0638234-4,l06382344,normalized_title
+GSE41998,GSM1030280,Br Ca Pt sample #A7082104-1,a70821041,normalized_title
+GSE41998,GSM1030281,Br Ca Pt sample #E4708765-1,e47087651,normalized_title
+GSE41998,GSM1030282,Br Ca Pt sample #E4751084-1,e47510841,normalized_title
+GSE41998,GSM1030283,Br Ca Pt sample #L0506126-1,l05061261,normalized_title
+GSE41998,GSM1030284,Br Ca Pt sample #L0661244-4,l06612444,normalized_title
+GSE41998,GSM1030285,Br Ca Pt sample #A6779099-4,a67790994,normalized_title
+GSE41998,GSM1030286,Br Ca Pt sample #S1141081-1,s11410811,normalized_title
+GSE41998,GSM1030287,Br Ca Pt sample #E4690597-1,e46905971,normalized_title
+GSE41998,GSM1030288,Br Ca Pt sample #E4682893-1,e46828931,normalized_title
+GSE41998,GSM1030289,Br Ca Pt sample #E4669578-1,e46695781,normalized_title
+GSE41998,GSM1030290,Br Ca Pt sample #E4830786-1,e48307861,normalized_title
+GSE41998,GSM1030291,Br Ca Pt sample #E4669582-1,e46695821,normalized_title
+GSE41998,GSM1030292,Br Ca Pt sample #E3385594-1,e33855941,normalized_title
+GSE41998,GSM1030293,Br Ca Pt sample #E3730745-1,e37307451,normalized_title
+GSE41998,GSM1030294,Br Ca Pt sample #S0898797-1,s08987971,normalized_title
+GSE41998,GSM1030295,Br Ca Pt sample #S0898016-1,s08980161,normalized_title
+GSE41998,GSM1030296,Br Ca Pt sample #E3569371-1,e35693711,normalized_title
+GSE41998,GSM1030297,Br Ca Pt sample #S0900086-1,s09000861,normalized_title
+GSE41998,GSM1030298,Br Ca Pt sample #E3569369-1,e35693691,normalized_title
+GSE41998,GSM1030299,Br Ca Pt sample #S0895758-1,s08957581,normalized_title
+GSE41998,GSM1030300,Br Ca Pt sample #E3569364-1,e35693641,normalized_title
+GSE41998,GSM1030301,Br Ca Pt sample #S0960943-1,s09609431,normalized_title
+GSE41998,GSM1030302,Br Ca Pt sample #A6263046-1,a62630461,normalized_title
+GSE41998,GSM1030303,Br Ca Pt sample #S0922647-1,s09226471,normalized_title
+GSE41998,GSM1030304,Br Ca Pt sample #S0900095-1,s09000951,normalized_title
+GSE41998,GSM1030305,Br Ca Pt sample #S0922641-1,s09226411,normalized_title
+GSE41998,GSM1030306,Br Ca Pt sample #S0952246-1,s09522461,normalized_title
+GSE41998,GSM1030307,Br Ca Pt sample #A6432766-3,a64327663,normalized_title
+GSE41998,GSM1030308,Br Ca Pt sample #A6432766-2,a64327662,normalized_title
+GSE41998,GSM1030309,Br Ca Pt sample #A6432766-4,a64327664,normalized_title
+GSE41998,GSM1030310,Br Ca Pt sample #E3665687-1,e36656871,normalized_title
+GSE41998,GSM1030311,Br Ca Pt sample #A6719817-1,a67198171,normalized_title
+GSE41998,GSM1030312,Br Ca Pt sample #E3665683-2,e36656832,normalized_title
+GSE41998,GSM1030313,Br Ca Pt sample #E3800107-1,e38001071,normalized_title
+GSE41998,GSM1030314,Br Ca Pt sample #A6926678-1,a69266781,normalized_title
+GSE41998,GSM1030315,Br Ca Pt sample #S1123417-1,s11234171,normalized_title
+GSE41998,GSM1030316,Br Ca Pt sample #S1089748-1,s10897481,normalized_title
+GSE41998,GSM1030317,Br Ca Pt sample #A6719813-1,a67198131,normalized_title
+GSE41998,GSM1030318,Br Ca Pt sample #S1121955-1,s11219551,normalized_title
+GSE41998,GSM1030319,Br Ca Pt sample #E3916682-1,e39166821,normalized_title
+GSE41998,GSM1030320,Br Ca Pt sample #A6718367-1,a67183671,normalized_title
+GSE41998,GSM1030321,Br Ca Pt sample #E4376535-1,e43765351,normalized_title
+GSE41998,GSM1030322,Br Ca Pt sample #A7013452-1,a70134521,normalized_title
+GSE41998,GSM1030323,Br Ca Pt sample #S1087426-1,s10874261,normalized_title
+GSE41998,GSM1030324,Br Ca Pt sample #A7014562-1,a70145621,normalized_title
+GSE41998,GSM1030325,Br Ca Pt sample #A6779101-1,a67791011,normalized_title
+GSE41998,GSM1030326,Br Ca Pt sample #S1083021-1,s10830211,normalized_title
+GSE41998,GSM1030327,Br Ca Pt sample #A6914218-1,a69142181,normalized_title
+GSE41998,GSM1030328,Br Ca Pt sample #E4332198-1,e43321981,normalized_title
+GSE41998,GSM1030329,Br Ca Pt sample #A7181967-1,a71819671,normalized_title
+GSE41998,GSM1030330,Br Ca Pt sample #E3837738-1,e38377381,normalized_title
+GSE41998,GSM1030331,Br Ca Pt sample #A6765383-1,a67653831,normalized_title
+GSE41998,GSM1030332,Br Ca Pt sample #S1134710-1,s11347101,normalized_title
+GSE41998,GSM1030333,Br Ca Pt sample #E3800093-1,e38000931,normalized_title
+GSE41998,GSM1030334,Br Ca Pt sample #A7241234-1,a72412341,normalized_title
+GSE41998,GSM1030335,Br Ca Pt sample #E4340698-1,e43406981,normalized_title
+GSE41998,GSM1030336,Br Ca Pt sample #S1172335-1,s11723351,normalized_title
+GSE41998,GSM1030337,Br Ca Pt sample #A6999201-1,a69992011,normalized_title
+GSE41998,GSM1030338,Br Ca Pt sample #E3800095-1,e38000951,normalized_title
+GSE41998,GSM1030339,Br Ca Pt sample #E3837748-1,e38377481,normalized_title
+GSE41998,GSM1030340,Br Ca Pt sample #S1148759-1,s11487591,normalized_title
+GSE41998,GSM1030341,Br Ca Pt sample #A7274132-1,a72741321,normalized_title
+GSE41998,GSM1030342,Br Ca Pt sample #A7341588-1,a73415881,normalized_title
+GSE41998,GSM1030343,Br Ca Pt sample #E3800097-1,e38000971,normalized_title
+GSE41998,GSM1030344,Br Ca Pt sample #E4534827-1,e45348271,normalized_title
+GSE41998,GSM1030345,Br Ca Pt sample #E4785455-1,e47854551,normalized_title
+GSE41998,GSM1030346,Br Ca Pt sample #A6999299-1,a69992991,normalized_title
+GSE41998,GSM1030347,Br Ca Pt sample #A7241232-1,a72412321,normalized_title
+GSE41998,GSM1030348,Br Ca Pt sample #S1121937-4,s11219374,normalized_title
+GSE41998,GSM1030349,Br Ca Pt sample #E4376533-1,e43765331,normalized_title
+GSE41998,GSM1030350,Br Ca Pt sample #S1172323-1,s11723231,normalized_title
+GSE41998,GSM1030351,Br Ca Pt sample #E4534878-1,e45348781,normalized_title
+GSE41998,GSM1030352,Br Ca Pt sample #S0869902-1,s08699021,normalized_title
+GSE41998,GSM1030353,Br Ca Pt sample #S1005947-1,s10059471,normalized_title
+GSE41998,GSM1030354,Br Ca Pt sample #E3416698-4,e34166984,normalized_title
+GSE41998,GSM1030355,Br Ca Pt sample #S1172329-1,s11723291,normalized_title
+GSE41998,GSM1030356,Br Ca Pt sample #S1172337-1,s11723371,normalized_title
+GSE41998,GSM1030357,Br Ca Pt sample #A7585244-1,a75852441,normalized_title
+GSE42822,GSM1050577,breast cancer US001,us001,normalized_title
+GSE42822,GSM1050578,breast cancer US005,us005,normalized_title
+GSE42822,GSM1050579,breast cancer US011,us011,normalized_title
+GSE42822,GSM1050580,breast cancer US014,us014,normalized_title
+GSE42822,GSM1050581,breast cancer US016,us016,normalized_title
+GSE42822,GSM1050582,breast cancer US019,us019,normalized_title
+GSE42822,GSM1050583,breast cancer US020,us020,normalized_title
+GSE42822,GSM1050584,breast cancer US022,us022,normalized_title
+GSE42822,GSM1050585,breast cancer US023,us023,normalized_title
+GSE42822,GSM1050586,breast cancer US024,us024,normalized_title
+GSE42822,GSM1050587,breast cancer US026,us026,normalized_title
+GSE42822,GSM1050588,breast cancer US032,us032,normalized_title
+GSE42822,GSM1050589,breast cancer US033,us033,normalized_title
+GSE42822,GSM1050590,breast cancer US034,us034,normalized_title
+GSE42822,GSM1050591,breast cancer US037,us037,normalized_title
+GSE42822,GSM1050592,breast cancer US038,us038,normalized_title
+GSE42822,GSM1050593,breast cancer US047,us047,normalized_title
+GSE42822,GSM1050594,breast cancer US049,us049,normalized_title
+GSE42822,GSM1050595,breast cancer US051,us051,normalized_title
+GSE42822,GSM1050596,breast cancer US054,us054,normalized_title
+GSE42822,GSM1050597,breast cancer US055,us055,normalized_title
+GSE42822,GSM1050598,breast cancer US057,us057,normalized_title
+GSE42822,GSM1050599,breast cancer US059,us059,normalized_title
+GSE42822,GSM1050600,breast cancer US060,us060,normalized_title
+GSE42822,GSM1050601,breast cancer US067,us067,normalized_title
+GSE42822,GSM1050602,breast cancer US071,us071,normalized_title
+GSE42822,GSM1050603,breast cancer US072,us072,normalized_title
+GSE42822,GSM1050604,breast cancer US073,us073,normalized_title
+GSE42822,GSM1050605,breast cancer US074,us074,normalized_title
+GSE42822,GSM1050606,breast cancer US080,us080,normalized_title
+GSE42822,GSM1050607,breast cancer US082,us082,normalized_title
+GSE42822,GSM1050608,breast cancer US084,us084,normalized_title
+GSE42822,GSM1050609,breast cancer US087,us087,normalized_title
+GSE42822,GSM1050610,breast cancer US088,us088,normalized_title
+GSE42822,GSM1050611,breast cancer US089,us089,normalized_title
+GSE42822,GSM1050612,breast cancer US090,us090,normalized_title
+GSE42822,GSM1050613,breast cancer US093,us093,normalized_title
+GSE42822,GSM1050614,breast cancer US095,us095,normalized_title
+GSE42822,GSM1050615,breast cancer US096,us096,normalized_title
+GSE42822,GSM1050616,breast cancer US099,us099,normalized_title
+GSE42822,GSM1050617,breast cancer US100,us100,normalized_title
+GSE42822,GSM1050618,breast cancer US101,us101,normalized_title
+GSE42822,GSM1050619,breast cancer US103,us103,normalized_title
+GSE42822,GSM1050620,breast cancer US104,us104,normalized_title
+GSE42822,GSM1050621,breast cancer US107,us107,normalized_title
+GSE42822,GSM1050622,breast cancer US108,us108,normalized_title
+GSE42822,GSM1050623,breast cancer US110,us110,normalized_title
+GSE42822,GSM1050624,breast cancer US111,us111,normalized_title
+GSE42822,GSM1050625,breast cancer US112,us112,normalized_title
+GSE42822,GSM1050626,breast cancer US115,us115,normalized_title
+GSE42822,GSM1050627,breast cancer US116,us116,normalized_title
+GSE42822,GSM1050628,breast cancer US117,us117,normalized_title
+GSE42822,GSM1050629,breast cancer US118,us118,normalized_title
+GSE42822,GSM1050630,breast cancer US122,us122,normalized_title
+GSE42822,GSM1050631,breast cancer US128,us128,normalized_title
+GSE42822,GSM1050632,breast cancer US132,us132,normalized_title
+GSE42822,GSM1050633,breast cancer US135,us135,normalized_title
+GSE42822,GSM1050634,breast cancer US141,us141,normalized_title
+GSE42822,GSM1050635,breast cancer US143,us143,normalized_title
+GSE42822,GSM1050636,breast cancer US151,us151,normalized_title
+GSE42822,GSM1050637,breast cancer US154,us154,normalized_title
+GSE42822,GSM1050638,breast cancer US158,us158,normalized_title
+GSE42822,GSM1050639,breast cancer US160,us160,normalized_title
+GSE42822,GSM1050640,breast cancer US165,us165,normalized_title
+GSE42822,GSM1050641,breast cancer US166,us166,normalized_title
+GSE42822,GSM1050642,breast cancer US182,us182,normalized_title
+GSE42822,GSM1050643,breast cancer US085,us085,normalized_title
+GSE42822,GSM1050644,breast cancer US102,us102,normalized_title
+GSE42822,GSM1050645,breast cancer US127,us127,normalized_title
+GSE42822,GSM1050646,breast cancer US131,us131,normalized_title
+GSE42822,GSM1050647,breast cancer US134,us134,normalized_title
+GSE42822,GSM1050648,breast cancer US137,us137,normalized_title
+GSE42822,GSM1050649,breast cancer US142,us142,normalized_title
+GSE42822,GSM1050650,breast cancer US144,us144,normalized_title
+GSE42822,GSM1050651,breast cancer US145,us145,normalized_title
+GSE42822,GSM1050652,breast cancer US148,us148,normalized_title
+GSE42822,GSM1050653,breast cancer US149,us149,normalized_title
+GSE42822,GSM1050654,breast cancer US163,us163,normalized_title
+GSE42822,GSM1050655,breast cancer US164,us164,normalized_title
+GSE42822,GSM1050656,breast cancer US168,us168,normalized_title
+GSE42822,GSM1050657,breast cancer US169,us169,normalized_title
+GSE42822,GSM1050658,breast cancer US170,us170,normalized_title
+GSE42822,GSM1050659,breast cancer US172,us172,normalized_title
+GSE42822,GSM1050660,breast cancer US173,us173,normalized_title
+GSE42822,GSM1050661,breast cancer US177,us177,normalized_title
+GSE42822,GSM1050662,breast cancer US179,us179,normalized_title
+GSE42822,GSM1050663,breast cancer US180,us180,normalized_title
+GSE42822,GSM1050664,breast cancer US181,us181,normalized_title
+GSE42822,GSM1050665,breast cancer US184,us184,normalized_title
+GSE42822,GSM1050666,breast cancer US186,us186,normalized_title
+GSE42822,GSM1050667,breast cancer US190,us190,normalized_title
+GSE50948,GSM1232992,BreastCancer_S002,s002,normalized_title
+GSE50948,GSM1232993,BreastCancer_S003,s003,normalized_title
+GSE50948,GSM1232994,BreastCancer_S004,s004,normalized_title
+GSE50948,GSM1232995,BreastCancer_S005,s005,normalized_title
+GSE50948,GSM1232996,BreastCancer_S006,s006,normalized_title
+GSE50948,GSM1232997,BreastCancer_S007,s007,normalized_title
+GSE50948,GSM1232998,BreastCancer_S008,s008,normalized_title
+GSE50948,GSM1232999,BreastCancer_S009,s009,normalized_title
+GSE50948,GSM1233000,BreastCancer_S010,s010,normalized_title
+GSE50948,GSM1233001,BreastCancer_S011,s011,normalized_title
+GSE50948,GSM1233002,BreastCancer_S012,s012,normalized_title
+GSE50948,GSM1233003,BreastCancer_S013,s013,normalized_title
+GSE50948,GSM1233004,BreastCancer_S014,s014,normalized_title
+GSE50948,GSM1233005,BreastCancer_S015,s015,normalized_title
+GSE50948,GSM1233006,BreastCancer_S016,s016,normalized_title
+GSE50948,GSM1233007,BreastCancer_S017,s017,normalized_title
+GSE50948,GSM1233008,BreastCancer_S018,s018,normalized_title
+GSE50948,GSM1233009,BreastCancer_S019,s019,normalized_title
+GSE50948,GSM1233010,BreastCancer_S020,s020,normalized_title
+GSE50948,GSM1233011,BreastCancer_S021,s021,normalized_title
+GSE50948,GSM1233012,BreastCancer_S022,s022,normalized_title
+GSE50948,GSM1233013,BreastCancer_S023,s023,normalized_title
+GSE50948,GSM1233014,BreastCancer_S024,s024,normalized_title
+GSE50948,GSM1233015,BreastCancer_S025,s025,normalized_title
+GSE50948,GSM1233016,BreastCancer_S026,s026,normalized_title
+GSE50948,GSM1233017,BreastCancer_S027,s027,normalized_title
+GSE50948,GSM1233018,BreastCancer_S030,s030,normalized_title
+GSE50948,GSM1233019,BreastCancer_S031,s031,normalized_title
+GSE50948,GSM1233020,BreastCancer_S032,s032,normalized_title
+GSE50948,GSM1233021,BreastCancer_S033,s033,normalized_title
+GSE50948,GSM1233022,BreastCancer_S035,s035,normalized_title
+GSE50948,GSM1233023,BreastCancer_S036,s036,normalized_title
+GSE50948,GSM1233024,BreastCancer_S037,s037,normalized_title
+GSE50948,GSM1233025,BreastCancer_S038,s038,normalized_title
+GSE50948,GSM1233026,BreastCancer_S039,s039,normalized_title
+GSE50948,GSM1233027,BreastCancer_S040,s040,normalized_title
+GSE50948,GSM1233028,BreastCancer_S042,s042,normalized_title
+GSE50948,GSM1233029,BreastCancer_S043,s043,normalized_title
+GSE50948,GSM1233030,BreastCancer_S045,s045,normalized_title
+GSE50948,GSM1233031,BreastCancer_S046,s046,normalized_title
+GSE50948,GSM1233032,BreastCancer_S047,s047,normalized_title
+GSE50948,GSM1233033,BreastCancer_S048,s048,normalized_title
+GSE50948,GSM1233034,BreastCancer_S049,s049,normalized_title
+GSE50948,GSM1233035,BreastCancer_S050,s050,normalized_title
+GSE50948,GSM1233036,BreastCancer_S053,s053,normalized_title
+GSE50948,GSM1233037,BreastCancer_S054,s054,normalized_title
+GSE50948,GSM1233038,BreastCancer_S055,s055,normalized_title
+GSE50948,GSM1233039,BreastCancer_S057,s057,normalized_title
+GSE50948,GSM1233040,BreastCancer_S058,s058,normalized_title
+GSE50948,GSM1233041,BreastCancer_S060,s060,normalized_title
+GSE50948,GSM1233042,BreastCancer_S062,s062,normalized_title
+GSE50948,GSM1233043,BreastCancer_S063,s063,normalized_title
+GSE50948,GSM1233044,BreastCancer_S066,s066,normalized_title
+GSE50948,GSM1233045,BreastCancer_S067,s067,normalized_title
+GSE50948,GSM1233046,BreastCancer_S069,s069,normalized_title
+GSE50948,GSM1233047,BreastCancer_S070,s070,normalized_title
+GSE50948,GSM1233048,BreastCancer_S075,s075,normalized_title
+GSE50948,GSM1233049,BreastCancer_S076,s076,normalized_title
+GSE50948,GSM1233050,BreastCancer_S078,s078,normalized_title
+GSE50948,GSM1233051,BreastCancer_S080,s080,normalized_title
+GSE50948,GSM1233052,BreastCancer_S082,s082,normalized_title
+GSE50948,GSM1233053,BreastCancer_S086,s086,normalized_title
+GSE50948,GSM1233054,BreastCancer_S087,s087,normalized_title
+GSE50948,GSM1233055,BreastCancer_S088,s088,normalized_title
+GSE50948,GSM1233056,BreastCancer_S090,s090,normalized_title
+GSE50948,GSM1233057,BreastCancer_S094,s094,normalized_title
+GSE50948,GSM1233058,BreastCancer_S095,s095,normalized_title
+GSE50948,GSM1233059,BreastCancer_S097,s097,normalized_title
+GSE50948,GSM1233060,BreastCancer_S099,s099,normalized_title
+GSE50948,GSM1233061,BreastCancer_S101,s101,normalized_title
+GSE50948,GSM1233062,BreastCancer_S106,s106,normalized_title
+GSE50948,GSM1233063,BreastCancer_S107,s107,normalized_title
+GSE50948,GSM1233064,BreastCancer_S108,s108,normalized_title
+GSE50948,GSM1233065,BreastCancer_S109,s109,normalized_title
+GSE50948,GSM1233066,BreastCancer_S112,s112,normalized_title
+GSE50948,GSM1233067,BreastCancer_S113,s113,normalized_title
+GSE50948,GSM1233068,BreastCancer_S114,s114,normalized_title
+GSE50948,GSM1233069,BreastCancer_S115,s115,normalized_title
+GSE50948,GSM1233070,BreastCancer_S116,s116,normalized_title
+GSE50948,GSM1233071,BreastCancer_S117,s117,normalized_title
+GSE50948,GSM1233072,BreastCancer_S118,s118,normalized_title
+GSE50948,GSM1233073,BreastCancer_S120,s120,normalized_title
+GSE50948,GSM1233074,BreastCancer_S121,s121,normalized_title
+GSE50948,GSM1233075,BreastCancer_S126,s126,normalized_title
+GSE50948,GSM1233076,BreastCancer_S127,s127,normalized_title
+GSE50948,GSM1233077,BreastCancer_S129,s129,normalized_title
+GSE50948,GSM1233078,BreastCancer_S130,s130,normalized_title
+GSE50948,GSM1233079,BreastCancer_S133,s133,normalized_title
+GSE50948,GSM1233080,BreastCancer_S135,s135,normalized_title
+GSE50948,GSM1233081,BreastCancer_S138,s138,normalized_title
+GSE50948,GSM1233082,BreastCancer_S139,s139,normalized_title
+GSE50948,GSM1233083,BreastCancer_S146,s146,normalized_title
+GSE50948,GSM1233084,BreastCancer_S149,s149,normalized_title
+GSE50948,GSM1233085,BreastCancer_S151,s151,normalized_title
+GSE50948,GSM1233086,BreastCancer_S152,s152,normalized_title
+GSE50948,GSM1233087,BreastCancer_S153,s153,normalized_title
+GSE50948,GSM1233088,BreastCancer_S156,s156,normalized_title
+GSE50948,GSM1233089,BreastCancer_S161,s161,normalized_title
+GSE50948,GSM1233090,BreastCancer_S166,s166,normalized_title
+GSE50948,GSM1233091,BreastCancer_S167,s167,normalized_title
+GSE50948,GSM1233092,BreastCancer_S170,s170,normalized_title
+GSE50948,GSM1233093,BreastCancer_S173,s173,normalized_title
+GSE50948,GSM1233094,BreastCancer_S174,s174,normalized_title
+GSE50948,GSM1233095,BreastCancer_S175,s175,normalized_title
+GSE50948,GSM1233096,BreastCancer_S178,s178,normalized_title
+GSE50948,GSM1233097,BreastCancer_S179,s179,normalized_title
+GSE50948,GSM1233098,BreastCancer_S180,s180,normalized_title
+GSE50948,GSM1233099,BreastCancer_S182,s182,normalized_title
+GSE50948,GSM1233100,BreastCancer_S183,s183,normalized_title
+GSE50948,GSM1233101,BreastCancer_S184,s184,normalized_title
+GSE50948,GSM1233102,BreastCancer_S185,s185,normalized_title
+GSE50948,GSM1233103,BreastCancer_S192,s192,normalized_title
+GSE50948,GSM1233104,BreastCancer_S193,s193,normalized_title
+GSE50948,GSM1233105,BreastCancer_S203,s203,normalized_title
+GSE50948,GSM1233106,BreastCancer_S205,s205,normalized_title
+GSE50948,GSM1233107,BreastCancer_S207,s207,normalized_title
+GSE50948,GSM1233108,BreastCancer_S208,s208,normalized_title
+GSE50948,GSM1233109,BreastCancer_S210,s210,normalized_title
+GSE50948,GSM1233110,BreastCancer_S211,s211,normalized_title
+GSE50948,GSM1233111,BreastCancer_S212,s212,normalized_title
+GSE50948,GSM1233112,BreastCancer_S215,s215,normalized_title
+GSE50948,GSM1233113,BreastCancer_S218,s218,normalized_title
+GSE50948,GSM1233114,BreastCancer_S219,s219,normalized_title
+GSE50948,GSM1233115,BreastCancer_S221,s221,normalized_title
+GSE50948,GSM1233116,BreastCancer_S226,s226,normalized_title
+GSE50948,GSM1233117,BreastCancer_S230,s230,normalized_title
+GSE50948,GSM1233118,BreastCancer_S231,s231,normalized_title
+GSE50948,GSM1233119,BreastCancer_S232,s232,normalized_title
+GSE50948,GSM1233120,BreastCancer_S233,s233,normalized_title
+GSE50948,GSM1233121,BreastCancer_S234,s234,normalized_title
+GSE50948,GSM1233122,BreastCancer_S235,s235,normalized_title
+GSE50948,GSM1233123,BreastCancer_S237,s237,normalized_title
+GSE50948,GSM1233124,BreastCancer_S241,s241,normalized_title
+GSE50948,GSM1233125,BreastCancer_S244,s244,normalized_title
+GSE50948,GSM1233126,BreastCancer_S245,s245,normalized_title
+GSE50948,GSM1233127,BreastCancer_S246,s246,normalized_title
+GSE50948,GSM1233128,BreastCancer_S247,s247,normalized_title
+GSE50948,GSM1233129,BreastCancer_S248,s248,normalized_title
+GSE50948,GSM1233130,BreastCancer_S250,s250,normalized_title
+GSE50948,GSM1233131,BreastCancer_S251,s251,normalized_title
+GSE50948,GSM1233132,BreastCancer_S252,s252,normalized_title
+GSE50948,GSM1233133,BreastCancer_S253,s253,normalized_title
+GSE50948,GSM1233134,BreastCancer_S254,s254,normalized_title
+GSE50948,GSM1233135,BreastCancer_S256,s256,normalized_title
+GSE50948,GSM1233136,BreastCancer_S257,s257,normalized_title
+GSE50948,GSM1233137,BreastCancer_S258,s258,normalized_title
+GSE50948,GSM1233138,BreastCancer_S259,s259,normalized_title
+GSE50948,GSM1233139,BreastCancer_S260,s260,normalized_title
+GSE50948,GSM1233140,BreastCancer_S261,s261,normalized_title
+GSE50948,GSM1233141,BreastCancer_S262,s262,normalized_title
+GSE50948,GSM1233142,BreastCancer_S263,s263,normalized_title
+GSE50948,GSM1233143,BreastCancer_S264,s264,normalized_title
+GSE50948,GSM1233144,BreastCancer_S265,s265,normalized_title
+GSE50948,GSM1233145,BreastCancer_S266,s266,normalized_title
+GSE50948,GSM1233146,BreastCancer_S268,s268,normalized_title
+GSE50948,GSM1233147,BreastCancer_S269,s269,normalized_title

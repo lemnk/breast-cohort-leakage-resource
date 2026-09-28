@@ -1,0 +1,216 @@
+{
+  "total_series": 5931,
+  "data_types": {
+    "Expression profiling by high throughput sequencing": 2896,
+    "Expression profiling by array": 2265,
+    "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing": 199,
+    "Expression profiling by high throughput sequencing; Other": 83,
+    "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing": 80,
+    "Expression profiling by array; Non-coding RNA profiling by array": 46,
+    "Expression profiling by array; Genome binding/occupancy profiling by high throughput sequencing": 29,
+    "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing; Other": 27,
+    "Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing": 22,
+    "Other; Expression profiling by high throughput sequencing": 19,
+    "Expression profiling by array; Third-party reanalysis": 17,
+    "Expression profiling by array; Genome variation profiling by array": 16,
+    "Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing": 15,
+    "Non-coding RNA profiling by array; Expression profiling by array": 14,
+    "Expression profiling by high throughput sequencing; Other; Genome binding/occupancy profiling by high throughput sequencing": 11,
+    "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing; Other": 9,
+    "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by array": 8,
+    "Expression profiling by array; Expression profiling by high throughput sequencing": 8,
+    "Expression profiling by array; Other": 8,
+    "Expression profiling by array; Methylation profiling by array": 8,
+    "Other; Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing": 7,
+    "Expression profiling by array; Genome variation profiling by SNP array": 7,
+    "Expression profiling by array; Genome variation profiling by genome tiling array": 7,
+    "Methylation profiling by high throughput sequencing; Expression profiling by high throughput sequencing": 6,
+    "Non-coding RNA profiling by high throughput sequencing; Expression profiling by high throughput sequencing": 5,
+    "Genome binding/occupancy profiling by high throughput sequencing; Other; Expression profiling by high throughput sequencing": 5,
+    "Expression profiling by high throughput sequencing; Third-party reanalysis": 5,
+    "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing; Methylation profiling by high throughput sequencing": 5,
+    "Expression profiling by array; Genome binding/occupancy profiling by genome tiling array": 5,
+    "Expression profiling by array; Methylation profiling by genome tiling array": 4,
+    "Other; Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing": 3,
+    "Expression profiling by high throughput sequencing; Expression profiling by array": 3,
+    "Methylation profiling by array; Expression profiling by array": 3,
+    "Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing; Methylation profiling by high throughput sequencing": 2,
+    "Expression profiling by high throughput sequencing; Non-coding RNA profiling by array": 2,
+    "Expression profiling by high throughput sequencing; Methylation profiling by array": 2,
+    "Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing; Other": 2,
+    "Expression profiling by array; Protein profiling by protein array": 2,
+    "Expression profiling by high throughput sequencing; Genome variation profiling by high throughput sequencing": 2,
+    "Expression profiling by high throughput sequencing; Other; Non-coding RNA profiling by high throughput sequencing": 2,
+    "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing; Methylation profiling by genome tiling array": 2,
+    "Genome binding/occupancy profiling by high throughput sequencing; Methylation profiling by high throughput sequencing; Expression profiling by high throughput sequencing": 2,
+    "Genome variation profiling by high throughput sequencing; Expression profiling by high throughput sequencing": 2,
+    "Expression profiling by array; Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing": 2,
+    "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing": 2,
+    "Expression profiling by array; Expression profiling by high throughput sequencing; Other": 2,
+    "Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing": 2,
+    "Third-party reanalysis; Expression profiling by array": 2,
+    "Genome binding/occupancy profiling by genome tiling array; Expression profiling by array": 2,
+    "Non-coding RNA profiling by high throughput sequencing; Expression profiling by high throughput sequencing; Other": 1,
+    "Expression profiling by high throughput sequencing; Genome variation profiling by high throughput sequencing; Other": 1,
+    "Expression profiling by high throughput sequencing; Methylation profiling by array; Genome binding/occupancy profiling by high throughput sequencing": 1,
+    "Genome binding/occupancy profiling by SNP array; Expression profiling by high throughput sequencing": 1,
+    "Methylation profiling by array; Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing": 1,
+    "Expression profiling by high throughput sequencing; Expression profiling by array; Genome binding/occupancy profiling by high throughput sequencing": 1,
+    "Expression profiling by high throughput sequencing; Genome variation profiling by genome tiling array": 1,
+    "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing; Methylation profiling by array; Other; Methylation profiling by high throughput sequencing": 1,
+    "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing": 1,
+    "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing; Genome variation profiling by high throughput sequencing": 1,
+    "Methylation profiling by array; Expression profiling by high throughput sequencing": 1,
+    "Expression profiling by high throughput sequencing; Other; Methylation profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing": 1,
+    "Expression profiling by array; Genome binding/occupancy profiling by high throughput sequencing; Other": 1,
+    "Expression profiling by array; Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing": 1,
+    "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing; Other; Methylation profiling by high throughput sequencing": 1,
+    "Expression profiling by array; Expression profiling by high throughput sequencing; Third-party reanalysis": 1,
+    "Other; Expression profiling by high throughput sequencing; Expression profiling by array": 1,
+    "Genome binding/occupancy profiling by high throughput sequencing; Other; Expression profiling by high throughput sequencing; Methylation profiling by high throughput sequencing": 1,
+    "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing; Other; Methylation profiling by high throughput sequencing": 1,
+    "Genome binding/occupancy profiling by array; Expression profiling by high throughput sequencing": 1,
+    "Expression profiling by high throughput sequencing; Other; Genome binding/occupancy profiling by high throughput sequencing; Methylation profiling by high throughput sequencing": 1,
+    "Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing; Methylation profiling by high throughput sequencing; Genome variation profiling by array": 1,
+    "Expression profiling by high throughput sequencing; Genome variation profiling by SNP array": 1,
+    "Methylation profiling by genome tiling array; Expression profiling by high throughput sequencing": 1,
+    "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by array; Methylation profiling by array": 1,
+    "Methylation profiling by genome tiling array; Expression profiling by array": 1,
+    "Expression profiling by array; Genome variation profiling by genome tiling array; Expression profiling by high throughput sequencing": 1,
+    "Genome binding/occupancy profiling by high throughput sequencing; Methylation profiling by genome tiling array; Expression profiling by high throughput sequencing": 1,
+    "Methylation profiling by genome tiling array; Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing; Genome variation profiling by high throughput sequencing": 1,
+    "Methylation profiling by array; Methylation profiling by high throughput sequencing; Other; Expression profiling by high throughput sequencing": 1,
+    "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by array; Non-coding RNA profiling by array": 1,
+    "Expression profiling by array; Methylation profiling by high throughput sequencing": 1,
+    "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing; Non-coding RNA profiling by high throughput sequencing; Other": 1,
+    "Genome variation profiling by SNP array; Expression profiling by array": 1,
+    "Expression profiling by array; Genome binding/occupancy profiling by high throughput sequencing; Third-party reanalysis": 1,
+    "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing; Methylation profiling by array; Genome variation profiling by SNP array; Methylation profiling by genome tiling array": 1,
+    "Expression profiling by array; SNP genotyping by SNP array": 1,
+    "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by genome tiling array; Expression profiling by array": 1,
+    "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by high throughput sequencing; Other; Genome variation profiling by SNP array; SNP genotyping by SNP array": 1,
+    "Expression profiling by array; Methylation profiling by genome tiling array; Genome binding/occupancy profiling by genome tiling array": 1,
+    "Expression profiling by high throughput sequencing; Genome binding/occupancy profiling by genome tiling array": 1,
+    "SNP genotyping by SNP array; Expression profiling by array": 1,
+    "Genome binding/occupancy profiling by high throughput sequencing; Expression profiling by high throughput sequencing; Methylation profiling by genome tiling array": 1,
+    "Expression profiling by array; Genome binding/occupancy profiling by genome tiling array; Genome binding/occupancy profiling by high throughput sequencing": 1,
+    "Non-coding RNA profiling by array; Expression profiling by array; Non-coding RNA profiling by high throughput sequencing": 1,
+    "Expression profiling by array; Genome variation profiling by genome tiling array; Genome variation profiling by SNP array": 1,
+    "Non-coding RNA profiling by high throughput sequencing; Expression profiling by array": 1,
+    "Expression profiling by array; Third-party reanalysis; Methylation profiling by array; SNP genotyping by SNP array; Genome variation profiling by genome tiling array": 1,
+    "Genome binding/occupancy profiling by high throughput sequencing; Methylation profiling by genome tiling array; Expression profiling by array": 1,
+    "Expression profiling by array; SNP genotyping by SNP array; Genome variation profiling by SNP array": 1,
+    "Expression profiling by array; Genome variation profiling by SNP array; SNP genotyping by SNP array": 1,
+    "Methylation profiling by genome tiling array; Genome binding/occupancy profiling by genome tiling array; Expression profiling by array": 1,
+    "Expression profiling by array; Methylation profiling by genome tiling array; Genome variation profiling by SNP array; SNP genotyping by SNP array": 1,
+    "Expression profiling by array; Genome variation profiling by genome tiling array; Methylation profiling by array": 1
+  },
+  "unique_platform_ids": 630,
+  "top_platforms_by_series": [
+    {
+      "platform": "GPL24676",
+      "series": 1116,
+      "deposited_samples": 37369
+    },
+    {
+      "platform": "GPL18573",
+      "series": 597,
+      "deposited_samples": 42540
+    },
+    {
+      "platform": "GPL16791",
+      "series": 542,
+      "deposited_samples": 40059
+    },
+    {
+      "platform": "GPL570",
+      "series": 512,
+      "deposited_samples": 30981
+    },
+    {
+      "platform": "GPL11154",
+      "series": 447,
+      "deposited_samples": 26764
+    },
+    {
+      "platform": "GPL20301",
+      "series": 332,
+      "deposited_samples": 19765
+    },
+    {
+      "platform": "GPL10558",
+      "series": 250,
+      "deposited_samples": 7403
+    },
+    {
+      "platform": "GPL6244",
+      "series": 146,
+      "deposited_samples": 3307
+    },
+    {
+      "platform": "GPL96",
+      "series": 138,
+      "deposited_samples": 17007
+    },
+    {
+      "platform": "GPL30173",
+      "series": 94,
+      "deposited_samples": 3885
+    },
+    {
+      "platform": "GPL20795",
+      "series": 94,
+      "deposited_samples": 2088
+    },
+    {
+      "platform": "GPL21697",
+      "series": 83,
+      "deposited_samples": 4933
+    },
+    {
+      "platform": "GPL6480",
+      "series": 79,
+      "deposited_samples": 4930
+    },
+    {
+      "platform": "GPL16686",
+      "series": 77,
+      "deposited_samples": 1724
+    },
+    {
+      "platform": "GPL21290",
+      "series": 75,
+      "deposited_samples": 2190
+    },
+    {
+      "platform": "GPL34284",
+      "series": 74,
+      "deposited_samples": 2190
+    },
+    {
+      "platform": "GPL4133",
+      "series": 73,
+      "deposited_samples": 3493
+    },
+    {
+      "platform": "GPL571",
+      "series": 68,
+      "deposited_samples": 2917
+    },
+    {
+      "platform": "GPL23227",
+      "series": 59,
+      "deposited_samples": 987
+    },
+    {
+      "platform": "GPL17586",
+      "series": 59,
+      "deposited_samples": 1776
+    }
+  ],
+  "gpl96_series_in_universe": 138,
+  "gpl96_series_fraction": 0.02326757713707638,
+  "expression_validation_series": 7,
+  "expression_validation_fraction_of_universe": 0.0011802394199966278,
+  "scope_warning": "Expression-rule validation is confined to seven GPL96 series and does not establish RNA-seq or cross-platform accuracy."
+}

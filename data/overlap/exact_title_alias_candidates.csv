@@ -1,0 +1,341 @@
+normalized_title,series_a,sample_a,title_a,series_b,sample_b,title_b,shared_pubmed_ids,evidence_tier
+breastcancermexico10,GSE20271,GSM508062,breast cancer MEXICO10,GSE22093,GSM750753,breast cancer MEXICO10,23185353,exact_specific_title_candidate
+breastcancermexico15,GSE20271,GSM508061,breast cancer MEXICO15,GSE22093,GSM549299,breast cancer MEXICO15,23185353,exact_specific_title_candidate
+breastcancermexico18,GSE20271,GSM508060,breast cancer MEXICO18,GSE22093,GSM549300,breast cancer MEXICO18,23185353,exact_specific_title_candidate
+breastcancerperu21,GSE20271,GSM508059,breast cancer PERU21,GSE22093,GSM549302,breast cancer PERU21,23185353,exact_specific_title_candidate
+breastcancerperu22,GSE20271,GSM508066,breast cancer PERU22,GSE22093,GSM549303,breast cancer PERU22,23185353,exact_specific_title_candidate
+breastcancerperu25,GSE20271,GSM508034,breast cancer PERU25,GSE22093,GSM549304,breast cancer PERU25,23185353,exact_specific_title_candidate
+breastcancerperu27,GSE20271,GSM508051,breast cancer PERU27,GSE22093,GSM549305,breast cancer PERU27,23185353,exact_specific_title_candidate
+breastcancerperu36,GSE20271,GSM508036,breast cancer PERU36,GSE22093,GSM549306,breast cancer PERU36,23185353,exact_specific_title_candidate
+breastcancerperu38,GSE20271,GSM508044,breast cancer PERU38,GSE22093,GSM549307,breast cancer PERU38,23185353,exact_specific_title_candidate
+breastcancerperu41,GSE20271,GSM508038,breast cancer PERU41,GSE22093,GSM549308,breast cancer PERU41,23185353,exact_specific_title_candidate
+breastcancerperu44,GSE20271,GSM508047,breast cancer PERU44,GSE22093,GSM549309,breast cancer PERU44,23185353,exact_specific_title_candidate
+breastcancerperu49,GSE20271,GSM508069,breast cancer PERU49,GSE22093,GSM549310,breast cancer PERU49,23185353,exact_specific_title_candidate
+breastcancerperu53,GSE20271,GSM508054,breast cancer PERU53,GSE22093,GSM549311,breast cancer PERU53,23185353,exact_specific_title_candidate
+breastcancerus001,GSE23988,GSM590841,breast cancer US001,GSE42822,GSM1050577,breast cancer US001,,exact_specific_title_candidate
+breastcancerus005,GSE23988,GSM590842,breast cancer US005,GSE42822,GSM1050578,breast cancer US005,,exact_specific_title_candidate
+breastcancerus011,GSE23988,GSM590843,breast cancer US011,GSE42822,GSM1050579,breast cancer US011,,exact_specific_title_candidate
+breastcancerus014,GSE23988,GSM590844,breast cancer US014,GSE42822,GSM1050580,breast cancer US014,,exact_specific_title_candidate
+breastcancerus019,GSE23988,GSM590845,breast cancer US019,GSE42822,GSM1050582,breast cancer US019,,exact_specific_title_candidate
+breastcancerus022,GSE23988,GSM590846,breast cancer US022,GSE42822,GSM1050584,breast cancer US022,,exact_specific_title_candidate
+breastcancerus023,GSE23988,GSM590847,breast cancer US023,GSE42822,GSM1050585,breast cancer US023,,exact_specific_title_candidate
+breastcancerus024,GSE23988,GSM590848,breast cancer US024,GSE42822,GSM1050586,breast cancer US024,,exact_specific_title_candidate
+breastcancerus026,GSE23988,GSM590849,breast cancer US026,GSE42822,GSM1050587,breast cancer US026,,exact_specific_title_candidate
+breastcancerus032,GSE23988,GSM590850,breast cancer US032,GSE42822,GSM1050588,breast cancer US032,,exact_specific_title_candidate
+breastcancerus033,GSE23988,GSM590851,breast cancer US033,GSE42822,GSM1050589,breast cancer US033,,exact_specific_title_candidate
+breastcancerus034,GSE23988,GSM590852,breast cancer US034,GSE42822,GSM1050590,breast cancer US034,,exact_specific_title_candidate
+breastcancerus037,GSE23988,GSM590853,breast cancer US037,GSE42822,GSM1050591,breast cancer US037,,exact_specific_title_candidate
+breastcancerus038,GSE23988,GSM590854,breast cancer US038,GSE42822,GSM1050592,breast cancer US038,,exact_specific_title_candidate
+breastcancerus047,GSE23988,GSM590855,breast cancer US047,GSE42822,GSM1050593,breast cancer US047,,exact_specific_title_candidate
+breastcancerus049,GSE23988,GSM590856,breast cancer US049,GSE42822,GSM1050594,breast cancer US049,,exact_specific_title_candidate
+breastcancerus051,GSE23988,GSM590857,breast cancer US051,GSE42822,GSM1050595,breast cancer US051,,exact_specific_title_candidate
+breastcancerus054,GSE23988,GSM590858,breast cancer US054,GSE42822,GSM1050596,breast cancer US054,,exact_specific_title_candidate
+breastcancerus055,GSE23988,GSM590859,breast cancer US055,GSE42822,GSM1050597,breast cancer US055,,exact_specific_title_candidate
+breastcancerus057,GSE23988,GSM590860,breast cancer US057,GSE42822,GSM1050598,breast cancer US057,,exact_specific_title_candidate
+breastcancerus067,GSE23988,GSM590861,breast cancer US067,GSE42822,GSM1050601,breast cancer US067,,exact_specific_title_candidate
+breastcancerus071,GSE23988,GSM590862,breast cancer US071,GSE42822,GSM1050602,breast cancer US071,,exact_specific_title_candidate
+breastcancerus072,GSE23988,GSM590863,breast cancer US072,GSE42822,GSM1050603,breast cancer US072,,exact_specific_title_candidate
+breastcancerus074,GSE23988,GSM590864,breast cancer US074,GSE42822,GSM1050605,breast cancer US074,,exact_specific_title_candidate
+breastcancerus080,GSE23988,GSM590865,breast cancer US080,GSE42822,GSM1050606,breast cancer US080,,exact_specific_title_candidate
+breastcancerus082,GSE23988,GSM590866,breast cancer US082,GSE42822,GSM1050607,breast cancer US082,,exact_specific_title_candidate
+breastcancerus084,GSE23988,GSM590867,breast cancer US084,GSE42822,GSM1050608,breast cancer US084,,exact_specific_title_candidate
+breastcancerus087,GSE23988,GSM590868,breast cancer US087,GSE42822,GSM1050609,breast cancer US087,,exact_specific_title_candidate
+breastcancerus088,GSE23988,GSM590869,breast cancer US088,GSE42822,GSM1050610,breast cancer US088,,exact_specific_title_candidate
+breastcancerus089,GSE23988,GSM590870,breast cancer US089,GSE42822,GSM1050611,breast cancer US089,,exact_specific_title_candidate
+breastcancerus090,GSE23988,GSM590871,breast cancer US090,GSE42822,GSM1050612,breast cancer US090,,exact_specific_title_candidate
+breastcancerus096,GSE23988,GSM590872,breast cancer US096,GSE42822,GSM1050615,breast cancer US096,,exact_specific_title_candidate
+breastcancerus099,GSE23988,GSM590873,breast cancer US099,GSE42822,GSM1050616,breast cancer US099,,exact_specific_title_candidate
+breastcancerus100,GSE23988,GSM590874,breast cancer US100,GSE42822,GSM1050617,breast cancer US100,,exact_specific_title_candidate
+breastcancerus103,GSE23988,GSM590875,breast cancer US103,GSE42822,GSM1050619,breast cancer US103,,exact_specific_title_candidate
+breastcancerus104,GSE23988,GSM590876,breast cancer US104,GSE42822,GSM1050620,breast cancer US104,,exact_specific_title_candidate
+breastcancerus107,GSE23988,GSM590877,breast cancer US107,GSE42822,GSM1050621,breast cancer US107,,exact_specific_title_candidate
+breastcancerus108,GSE23988,GSM590878,breast cancer US108,GSE42822,GSM1050622,breast cancer US108,,exact_specific_title_candidate
+breastcancerus110,GSE23988,GSM590879,breast cancer US110,GSE42822,GSM1050623,breast cancer US110,,exact_specific_title_candidate
+breastcancerus111,GSE23988,GSM590880,breast cancer US111,GSE42822,GSM1050624,breast cancer US111,,exact_specific_title_candidate
+breastcancerus112,GSE23988,GSM590881,breast cancer US112,GSE42822,GSM1050625,breast cancer US112,,exact_specific_title_candidate
+breastcancerus116,GSE23988,GSM590882,breast cancer US116,GSE42822,GSM1050627,breast cancer US116,,exact_specific_title_candidate
+breastcancerus117,GSE23988,GSM590883,breast cancer US117,GSE42822,GSM1050628,breast cancer US117,,exact_specific_title_candidate
+breastcancerus118,GSE23988,GSM590884,breast cancer US118,GSE42822,GSM1050629,breast cancer US118,,exact_specific_title_candidate
+breastcancerus122,GSE23988,GSM590885,breast cancer US122,GSE42822,GSM1050630,breast cancer US122,,exact_specific_title_candidate
+breastcancerus128,GSE23988,GSM590886,breast cancer US128,GSE42822,GSM1050631,breast cancer US128,,exact_specific_title_candidate
+breastcancerus131,GSE23988,GSM590887,breast cancer US131,GSE42822,GSM1050646,breast cancer US131,,exact_specific_title_candidate
+breastcancerus132,GSE23988,GSM590888,breast cancer US132,GSE42822,GSM1050632,breast cancer US132,,exact_specific_title_candidate
+breastcancerus135,GSE23988,GSM590889,breast cancer US135,GSE42822,GSM1050633,breast cancer US135,,exact_specific_title_candidate
+breastcancerus141,GSE23988,GSM590890,breast cancer US141,GSE42822,GSM1050634,breast cancer US141,,exact_specific_title_candidate
+breastcancerus143,GSE23988,GSM590891,breast cancer US143,GSE42822,GSM1050635,breast cancer US143,,exact_specific_title_candidate
+breastcancerus144,GSE23988,GSM590892,breast cancer US144,GSE42822,GSM1050650,breast cancer US144,,exact_specific_title_candidate
+breastcancerus151,GSE23988,GSM590893,breast cancer US151,GSE42822,GSM1050636,breast cancer US151,,exact_specific_title_candidate
+breastcancerus154,GSE23988,GSM590894,breast cancer US154,GSE42822,GSM1050637,breast cancer US154,,exact_specific_title_candidate
+breastcancerus158,GSE23988,GSM590895,breast cancer US158,GSE42822,GSM1050638,breast cancer US158,,exact_specific_title_candidate
+breastcancerus160,GSE23988,GSM590896,breast cancer US160,GSE42822,GSM1050639,breast cancer US160,,exact_specific_title_candidate
+breastcancerus165,GSE23988,GSM590897,breast cancer US165,GSE42822,GSM1050640,breast cancer US165,,exact_specific_title_candidate
+breastcancerus166,GSE23988,GSM590898,breast cancer US166,GSE42822,GSM1050641,breast cancer US166,,exact_specific_title_candidate
+breastcancerus168,GSE23988,GSM590899,breast cancer US168,GSE42822,GSM1050656,breast cancer US168,,exact_specific_title_candidate
+breastcancerus186,GSE23988,GSM590900,breast cancer US186,GSE42822,GSM1050666,breast cancer US186,,exact_specific_title_candidate
+breasttumorm098t,GSE267543,GSM8268482,breast tumor M098T,GSE85206,GSM2260313,Breast tumor_M098T,,exact_specific_title_candidate
+breasttumorm111t,GSE267543,GSM8268548,breast tumor M111T,GSE85206,GSM2260316,Breast tumor_M111T,,exact_specific_title_candidate
+breasttumorm152t,GSE267543,GSM8268551,breast tumor M152T,GSE85206,GSM2260318,Breast tumor_M152T,,exact_specific_title_candidate
+breasttumorm169t,GSE267543,GSM8268552,breast tumor M169T,GSE85206,GSM2260327,Breast tumor_M169T,,exact_specific_title_candidate
+breasttumorm199t,GSE267543,GSM8268553,breast tumor M199T,GSE85206,GSM2260344,Breast tumor_M199T,,exact_specific_title_candidate
+breasttumorm202t,GSE267543,GSM8268554,breast tumor M202T,GSE85206,GSM2260346,Breast tumor_M202T,,exact_specific_title_candidate
+breasttumorm218t,GSE267543,GSM8268549,breast tumor M218T,GSE85206,GSM2260351,Breast tumor_M218T,,exact_specific_title_candidate
+breasttumorm226t,GSE267543,GSM8268555,breast tumor M226T,GSE85206,GSM2260353,Breast tumor_M226T,,exact_specific_title_candidate
+breasttumorm250t,GSE267543,GSM8268483,breast tumor M250T,GSE85206,GSM2260363,Breast tumor_M250T,,exact_specific_title_candidate
+breasttumorm266t,GSE267543,GSM8268556,breast tumor M266T,GSE85206,GSM2260371,Breast tumor_M266T,,exact_specific_title_candidate
+breasttumorm277t,GSE267543,GSM8268557,breast tumor M277T,GSE85206,GSM2260375,Breast tumor_M277T,,exact_specific_title_candidate
+breasttumorm315t,GSE267543,GSM8268484,breast tumor M315T,GSE85206,GSM2260391,Breast tumor_M315T,,exact_specific_title_candidate
+breasttumorm318t,GSE267543,GSM8268485,breast tumor M318T,GSE85206,GSM2260393,Breast tumor_M318T,,exact_specific_title_candidate
+breasttumorm330t,GSE267543,GSM8268550,breast tumor M330T,GSE85206,GSM2260401,Breast tumor_M330T,,exact_specific_title_candidate
+breasttumorm389t,GSE267543,GSM8268486,breast tumor M389T,GSE85206,GSM2260422,Breast tumor_M389T,,exact_specific_title_candidate
+breasttumorp101t,GSE43807,GSM1071496,Breast tumor [P101T],GSE56259,GSM1357820,Breast tumor P101T,,exact_specific_title_candidate
+breasttumorp102t,GSE43807,GSM1071497,Breast tumor [P102T],GSE56259,GSM1357821,Breast tumor P102T,,exact_specific_title_candidate
+breasttumorp109t,GSE43807,GSM1071498,Breast tumor [P109T],GSE56259,GSM1357822,Breast tumor P109T,,exact_specific_title_candidate
+breasttumorp114t,GSE43807,GSM1071499,Breast tumor [P114T],GSE56259,GSM1357823,Breast tumor P114T,,exact_specific_title_candidate
+breasttumorp117t,GSE43807,GSM1071500,Breast tumor [P117T],GSE56259,GSM1357824,Breast tumor P117T,,exact_specific_title_candidate
+breasttumorp118t,GSE43807,GSM1071501,Breast tumor [P118T],GSE56259,GSM1357825,Breast tumor P118T,,exact_specific_title_candidate
+breasttumorp120t,GSE43807,GSM1071502,Breast tumor [P120T],GSE56259,GSM1357826,Breast tumor P120T,,exact_specific_title_candidate
+breasttumorp122t,GSE43807,GSM1071503,Breast tumor [P122T],GSE56259,GSM1357827,Breast tumor P122T,,exact_specific_title_candidate
+breasttumorp123t,GSE43807,GSM1071504,Breast tumor [P123T],GSE56259,GSM1357828,Breast tumor P123T,,exact_specific_title_candidate
+breasttumorp131t,GSE43807,GSM1071505,Breast tumor [P131T],GSE56259,GSM1357829,Breast tumor P131T,,exact_specific_title_candidate
+breasttumorp132t,GSE43807,GSM1071506,Breast tumor [P132T],GSE56259,GSM1357830,Breast tumor P132T,,exact_specific_title_candidate
+breasttumorp133t,GSE43807,GSM1071507,Breast tumor [P133T],GSE56259,GSM1357831,Breast tumor P133T,,exact_specific_title_candidate
+breasttumorp134t,GSE43807,GSM1071508,Breast tumor [P134T],GSE56259,GSM1357832,Breast tumor P134T,,exact_specific_title_candidate
+breasttumorp135t,GSE43807,GSM1071509,Breast tumor [P135T],GSE56259,GSM1357833,Breast tumor P135T,,exact_specific_title_candidate
+breasttumorp13t,GSE43807,GSM1071475,Breast tumor [P13T],GSE56259,GSM1357799,Breast tumor P13T,,exact_specific_title_candidate
+breasttumorp141t,GSE43807,GSM1071510,Breast tumor [P141T],GSE56259,GSM1357834,Breast tumor P141T,,exact_specific_title_candidate
+breasttumorp143t,GSE43807,GSM1071511,Breast tumor [P143T],GSE56259,GSM1357835,Breast tumor P143T,,exact_specific_title_candidate
+breasttumorp144t,GSE43807,GSM1071512,Breast tumor [P144T],GSE56259,GSM1357836,Breast tumor P144T,,exact_specific_title_candidate
+breasttumorp155t,GSE43807,GSM1071513,Breast tumor [P155T],GSE56259,GSM1357837,Breast tumor P155T,,exact_specific_title_candidate
+breasttumorp156t,GSE43807,GSM1071514,Breast tumor [P156T],GSE56259,GSM1357838,Breast tumor P156T,,exact_specific_title_candidate
+breasttumorp157t,GSE43807,GSM1071515,Breast tumor [P157T],GSE56259,GSM1357839,Breast tumor P157T,,exact_specific_title_candidate
+breasttumorp15t,GSE43807,GSM1071476,Breast tumor [P15T],GSE56259,GSM1357800,Breast tumor P15T,,exact_specific_title_candidate
+breasttumorp161t,GSE43807,GSM1071516,Breast tumor [P161T],GSE56259,GSM1357840,Breast tumor P161T,,exact_specific_title_candidate
+breasttumorp162t,GSE43807,GSM1071517,Breast tumor [P162T],GSE56259,GSM1357841,Breast tumor P162T,,exact_specific_title_candidate
+breasttumorp164t,GSE43807,GSM1071518,Breast tumor [P164T],GSE56259,GSM1357842,Breast tumor P164T,,exact_specific_title_candidate
+breasttumorp166t,GSE43807,GSM1238317,Breast tumor [P166T],GSE56259,GSM1638962,Breast tumor P166T,,exact_specific_title_candidate
+breasttumorp167t,GSE43807,GSM1071519,Breast tumor [P167T],GSE56259,GSM1357843,Breast tumor P167T,,exact_specific_title_candidate
+breasttumorp168t,GSE43807,GSM1071520,Breast tumor [P168T],GSE56259,GSM1357844,Breast tumor P168T,,exact_specific_title_candidate
+breasttumorp169t,GSE43807,GSM1071521,Breast tumor [P169T],GSE56259,GSM1357845,Breast tumor P169T,,exact_specific_title_candidate
+breasttumorp170t,GSE43807,GSM1071522,Breast tumor [P170T],GSE56259,GSM1357846,Breast tumor P170T,,exact_specific_title_candidate
+breasttumorp178t,GSE43807,GSM1071523,Breast tumor [P178T],GSE56259,GSM1357847,Breast tumor P178T,,exact_specific_title_candidate
+breasttumorp181t,GSE43807,GSM1238318,Breast tumor [P181T],GSE56259,GSM1638963,Breast tumor P181T,,exact_specific_title_candidate
+breasttumorp185t,GSE43807,GSM1071524,Breast tumor [P185T],GSE56259,GSM1357848,Breast tumor P185T,,exact_specific_title_candidate
+breasttumorp186t,GSE43807,GSM1071525,Breast tumor [P186T],GSE56259,GSM1357849,Breast tumor P186T,,exact_specific_title_candidate
+breasttumorp191t,GSE43807,GSM1071526,Breast tumor [P191T],GSE56259,GSM1357850,Breast tumor P191T,,exact_specific_title_candidate
+breasttumorp198t,GSE43807,GSM1238319,Breast tumor [P198T],GSE56259,GSM1638964,Breast tumor P198T,,exact_specific_title_candidate
+breasttumorp213t,GSE43807,GSM1071527,Breast tumor [P213T],GSE56259,GSM1357851,Breast tumor P213T,,exact_specific_title_candidate
+breasttumorp223t,GSE43807,GSM1071528,Breast tumor [P223T],GSE56259,GSM1357852,Breast tumor P223T,,exact_specific_title_candidate
+breasttumorp228t,GSE43807,GSM1071529,Breast tumor [P228T],GSE56259,GSM1357853,Breast tumor P228T,,exact_specific_title_candidate
+breasttumorp242t,GSE43807,GSM1071530,Breast tumor [P242T],GSE56259,GSM1357854,Breast tumor P242T,,exact_specific_title_candidate
+breasttumorp249t,GSE43807,GSM1071531,Breast tumor [P249T],GSE56259,GSM1357855,Breast tumor P249T,,exact_specific_title_candidate
+breasttumorp24t,GSE43807,GSM1071477,Breast tumor [P24T],GSE56259,GSM1357801,Breast tumor P24T,,exact_specific_title_candidate
+breasttumorp253t,GSE43807,GSM1071532,Breast tumor [P253T],GSE56259,GSM1357856,Breast tumor P253T,,exact_specific_title_candidate
+breasttumorp260t,GSE43807,GSM1071533,Breast tumor [P260T],GSE56259,GSM1357857,Breast tumor P260T,,exact_specific_title_candidate
+breasttumorp31t,GSE43807,GSM1071478,Breast tumor [P31T],GSE56259,GSM1357802,Breast tumor P31T,,exact_specific_title_candidate
+breasttumorp32t,GSE43807,GSM1071479,Breast tumor [P32T],GSE56259,GSM1357803,Breast tumor P32T,,exact_specific_title_candidate
+breasttumorp40t,GSE43807,GSM1071480,Breast tumor [P40T],GSE56259,GSM1357804,Breast tumor P40T,,exact_specific_title_candidate
+breasttumorp43t,GSE43807,GSM1071481,Breast tumor [P43T],GSE56259,GSM1357805,Breast tumor P43T,,exact_specific_title_candidate
+breasttumorp45t,GSE43807,GSM1071482,Breast tumor [P45T],GSE56259,GSM1357806,Breast tumor P45T,,exact_specific_title_candidate
+breasttumorp47t,GSE43807,GSM1071483,Breast tumor [P47T],GSE56259,GSM1357807,Breast tumor P47T,,exact_specific_title_candidate
+breasttumorp52t,GSE43807,GSM1071484,Breast tumor [P52T],GSE56259,GSM1357808,Breast tumor P52T,,exact_specific_title_candidate
+breasttumorp55t,GSE43807,GSM1071485,Breast tumor [P55T],GSE56259,GSM1357809,Breast tumor P55T,,exact_specific_title_candidate
+breasttumorp57t,GSE43807,GSM1071486,Breast tumor [P57T],GSE56259,GSM1357810,Breast tumor P57T,,exact_specific_title_candidate
+breasttumorp67t,GSE43807,GSM1071487,Breast tumor [P67T],GSE56259,GSM1357811,Breast tumor P67T,,exact_specific_title_candidate
+breasttumorp69t,GSE43807,GSM1071488,Breast tumor [P69T],GSE56259,GSM1357812,Breast tumor P69T,,exact_specific_title_candidate
+breasttumorp71t,GSE43807,GSM1071489,Breast tumor [P71T],GSE56259,GSM1357813,Breast tumor P71T,,exact_specific_title_candidate
+breasttumorp84t,GSE43807,GSM1071490,Breast tumor [P84T],GSE56259,GSM1357814,Breast tumor P84T,,exact_specific_title_candidate
+breasttumorp85t,GSE43807,GSM1071491,Breast tumor [P85T],GSE56259,GSM1357815,Breast tumor P85T,,exact_specific_title_candidate
+breasttumorp91t,GSE43807,GSM1071492,Breast tumor [P91T],GSE56259,GSM1357816,Breast tumor P91T,,exact_specific_title_candidate
+breasttumorp95t,GSE43807,GSM1071493,Breast tumor [P95T],GSE56259,GSM1357817,Breast tumor P95T,,exact_specific_title_candidate
+breasttumorp96t,GSE43807,GSM1071494,Breast tumor [P96T],GSE56259,GSM1357818,Breast tumor P96T,,exact_specific_title_candidate
+breasttumorp97t,GSE43807,GSM1071495,Breast tumor [P97T],GSE56259,GSM1357819,Breast tumor P97T,,exact_specific_title_candidate
+breasttumorz103t,GSE267543,GSM8268542,breast tumor Z103T,GSE85206,GSM2260281,Breast tumor_Z103T,,exact_specific_title_candidate
+breasttumorz107t,GSE267543,GSM8268543,breast tumor Z107T,GSE85206,GSM2260284,Breast tumor_Z107T,,exact_specific_title_candidate
+ctrd141,GSE132207,GSM3854017,CTR_d14_1,GSE132513,GSM3872484,CTR_D14_1,34403459,exact_specific_title_candidate
+ctrd142,GSE132207,GSM3854018,CTR_d14_2,GSE132513,GSM3872493,CTR_D14_2,34403459,exact_specific_title_candidate
+ctrd143,GSE132207,GSM3854019,CTR_d14_3,GSE132513,GSM3872496,CTR_D14_3,34403459,exact_specific_title_candidate
+ctrd41,GSE132207,GSM3854014,CTR_d4_1,GSE132513,GSM3872483,CTR_D4_1,34403459,exact_specific_title_candidate
+ctrd42,GSE132207,GSM3854015,CTR_d4_2,GSE132513,GSM3872489,CTR_D4_2,34403459,exact_specific_title_candidate
+ctrd43,GSE132207,GSM3854016,CTR_d4_3,GSE132513,GSM3872494,CTR_D4_3,34403459,exact_specific_title_candidate
+hcsc0003,GSE181466,GSM5502958,HCSC-0003,GSE181548,GSM5505562,HCSC-0003,,exact_specific_title_candidate
+hcsc0004,GSE181466,GSM5502965,HCSC-0004,GSE181548,GSM5505569,HCSC-0004,,exact_specific_title_candidate
+hcsc0007,GSE181466,GSM5502970,HCSC-0007,GSE181548,GSM5505574,HCSC-0007,,exact_specific_title_candidate
+hcsc0008,GSE181466,GSM5502955,HCSC-0008,GSE181548,GSM5505559,HCSC-0008,,exact_specific_title_candidate
+hcsc0009,GSE181466,GSM5502905,HCSC-0009,GSE181548,GSM5505508,HCSC-0009,,exact_specific_title_candidate
+hcsc0010,GSE181466,GSM5502995,HCSC-0010,GSE181548,GSM5505599,HCSC-0010,,exact_specific_title_candidate
+hcsc0011,GSE181466,GSM5502996,HCSC-0011,GSE181548,GSM5505600,HCSC-0011,,exact_specific_title_candidate
+hcsc0013,GSE181466,GSM5502973,HCSC-0013,GSE181548,GSM5505577,HCSC-0013,,exact_specific_title_candidate
+hcsc0014,GSE181466,GSM5502969,HCSC-0014,GSE181548,GSM5505573,HCSC-0014,,exact_specific_title_candidate
+hcsc0017,GSE181466,GSM5502985,HCSC-0017,GSE181548,GSM5505589,HCSC-0017,,exact_specific_title_candidate
+hcsc0020,GSE181466,GSM5502977,HCSC-0020,GSE181548,GSM5505581,HCSC-0020,,exact_specific_title_candidate
+hcsc0021,GSE181466,GSM5502986,HCSC-0021,GSE181548,GSM5505590,HCSC-0021,,exact_specific_title_candidate
+hcsc0022,GSE181466,GSM5502990,HCSC-0022,GSE181548,GSM5505594,HCSC-0022,,exact_specific_title_candidate
+hcsc0023,GSE181466,GSM5502948,HCSC-0023,GSE181548,GSM5505552,HCSC-0023,,exact_specific_title_candidate
+hcsc0025,GSE181466,GSM5502906,HCSC-0025,GSE181548,GSM5505509,HCSC-0025,,exact_specific_title_candidate
+hcsc0026,GSE181466,GSM5502907,HCSC-0026,GSE181548,GSM5505510,HCSC-0026,,exact_specific_title_candidate
+hcsc0027,GSE181466,GSM5502908,HCSC-0027,GSE181548,GSM5505511,HCSC-0027,,exact_specific_title_candidate
+hcsc0028,GSE181466,GSM5502909,HCSC-0028,GSE181548,GSM5505512,HCSC-0028,,exact_specific_title_candidate
+hcsc0031,GSE181466,GSM5502910,HCSC-0031,GSE181548,GSM5505513,HCSC-0031,,exact_specific_title_candidate
+hcsc0032,GSE181466,GSM5502911,HCSC-0032,GSE181548,GSM5505514,HCSC-0032,,exact_specific_title_candidate
+hcsc0033,GSE181466,GSM5502912,HCSC-0033,GSE181548,GSM5505515,HCSC-0033,,exact_specific_title_candidate
+hcuv0001,GSE181466,GSM5502913,HCUV-0001,GSE181548,GSM5505516,HCUV-0001,,exact_specific_title_candidate
+hlpr001,GSE181466,GSM5502914,HLPR-001,GSE181548,GSM5505517,HLPR-001,,exact_specific_title_candidate
+hlpr002,GSE181466,GSM5502915,HLPR-002,GSE181548,GSM5505518,HLPR-002,,exact_specific_title_candidate
+hlpr003,GSE181466,GSM5502916,HLPR-003,GSE181548,GSM5505519,HLPR-003,,exact_specific_title_candidate
+hlpr004,GSE181466,GSM5502917,HLPR-004,GSE181548,GSM5505520,HLPR-004,,exact_specific_title_candidate
+hlpr005,GSE181466,GSM5502918,HLPR-005,GSE181548,GSM5505521,HLPR-005,,exact_specific_title_candidate
+hscp0001,GSE181466,GSM5502919,HSCP-0001,GSE181548,GSM5505522,HSCP-0001,,exact_specific_title_candidate
+hscp0002,GSE181466,GSM5502920,HSCP-0002,GSE181548,GSM5505523,HSCP-0002,,exact_specific_title_candidate
+hugm0001,GSE181466,GSM5502960,HUGM-0001,GSE181548,GSM5505564,HUGM-0001,,exact_specific_title_candidate
+hugm0002,GSE181466,GSM5502921,HUGM-0002,GSE181548,GSM5505524,HUGM-0002,,exact_specific_title_candidate
+hugm0008,GSE181466,GSM5502964,HUGM-0008,GSE181548,GSM5505568,HUGM-0008,,exact_specific_title_candidate
+hugm0009,GSE181466,GSM5502962,HUGM-0009,GSE181548,GSM5505566,HUGM-0009,,exact_specific_title_candidate
+hugm0011,GSE181466,GSM5502963,HUGM-0011,GSE181548,GSM5505567,HUGM-0011,,exact_specific_title_candidate
+hugm0015,GSE181466,GSM5502979,HUGM-0015,GSE181548,GSM5505583,HUGM-0015,,exact_specific_title_candidate
+hugm0018,GSE181466,GSM5502982,HUGM-0018,GSE181548,GSM5505586,HUGM-0018,,exact_specific_title_candidate
+hugm0019,GSE181466,GSM5502972,HUGM-0019,GSE181548,GSM5505576,HUGM-0019,,exact_specific_title_candidate
+hugm0022,GSE181466,GSM5502978,HUGM-0022,GSE181548,GSM5505582,HUGM-0022,,exact_specific_title_candidate
+hugm0026,GSE181466,GSM5502983,HUGM-0026,GSE181548,GSM5505587,HUGM-0026,,exact_specific_title_candidate
+hugm0027,GSE181466,GSM5502980,HUGM-0027,GSE181548,GSM5505584,HUGM-0027,,exact_specific_title_candidate
+hugm0028,GSE181466,GSM5502975,HUGM-0028,GSE181548,GSM5505579,HUGM-0028,,exact_specific_title_candidate
+hugm0029,GSE181466,GSM5502950,HUGM-0029,GSE181548,GSM5505554,HUGM-0029,,exact_specific_title_candidate
+hugm0030,GSE181466,GSM5502971,HUGM-0030,GSE181548,GSM5505575,HUGM-0030,,exact_specific_title_candidate
+hugm0031,GSE181466,GSM5502997,HUGM-0031,GSE181548,GSM5505601,HUGM-0031,,exact_specific_title_candidate
+hugm0032,GSE181466,GSM5502992,HUGM-0032,GSE181548,GSM5505596,HUGM-0032,,exact_specific_title_candidate
+hugm0034,GSE181466,GSM5502994,HUGM-0034,GSE181548,GSM5505598,HUGM-0034,,exact_specific_title_candidate
+hugm0036,GSE181466,GSM5502953,HUGM-0036,GSE181548,GSM5505557,HUGM-0036,,exact_specific_title_candidate
+hugm0037,GSE181466,GSM5502959,HUGM-0037,GSE181548,GSM5505563,HUGM-0037,,exact_specific_title_candidate
+hugm0038,GSE181466,GSM5502967,HUGM-0038,GSE181548,GSM5505571,HUGM-0038,,exact_specific_title_candidate
+hugm0041,GSE181466,GSM5502993,HUGM-0041,GSE181548,GSM5505597,HUGM-0041,,exact_specific_title_candidate
+hugm0042,GSE181466,GSM5502961,HUGM-0042,GSE181548,GSM5505565,HUGM-0042,,exact_specific_title_candidate
+hugm0044,GSE181466,GSM5502968,HUGM-0044,GSE181548,GSM5505572,HUGM-0044,,exact_specific_title_candidate
+hugm0045,GSE181466,GSM5502991,HUGM-0045,GSE181548,GSM5505595,HUGM-0045,,exact_specific_title_candidate
+hugm0047,GSE181466,GSM5502956,HUGM-0047,GSE181548,GSM5505560,HUGM-0047,,exact_specific_title_candidate
+hugm0048,GSE181466,GSM5502981,HUGM-0048,GSE181548,GSM5505585,HUGM-0048,,exact_specific_title_candidate
+hugm0050,GSE181466,GSM5502966,HUGM-0050,GSE181548,GSM5505570,HUGM-0050,,exact_specific_title_candidate
+hugm0051,GSE181466,GSM5502951,HUGM-0051,GSE181548,GSM5505555,HUGM-0051,,exact_specific_title_candidate
+hugm0052,GSE181466,GSM5502984,HUGM-0052,GSE181548,GSM5505588,HUGM-0052,,exact_specific_title_candidate
+hugm0053,GSE181466,GSM5502922,HUGM-0053,GSE181548,GSM5505525,HUGM-0053,,exact_specific_title_candidate
+hugm0054,GSE181466,GSM5502923,HUGM-0054,GSE181548,GSM5505526,HUGM-0054,,exact_specific_title_candidate
+hugm0055,GSE181466,GSM5502924,HUGM-0055,GSE181548,GSM5505527,HUGM-0055,,exact_specific_title_candidate
+hugm0056,GSE181466,GSM5502925,HUGM-0056,GSE181548,GSM5505528,HUGM-0056,,exact_specific_title_candidate
+hugm0057,GSE181466,GSM5502926,HUGM-0057,GSE181548,GSM5505529,HUGM-0057,,exact_specific_title_candidate
+hugm0058,GSE181466,GSM5502927,HUGM-0058,GSE181548,GSM5505530,HUGM-0058,,exact_specific_title_candidate
+hugm0059,GSE181466,GSM5502928,HUGM-0059,GSE181548,GSM5505531,HUGM-0059,,exact_specific_title_candidate
+hugm0060,GSE181466,GSM5502929,HUGM-0060,GSE181548,GSM5505532,HUGM-0060,,exact_specific_title_candidate
+hugm0061,GSE181466,GSM5502930,HUGM-0061,GSE181548,GSM5505533,HUGM-0061,,exact_specific_title_candidate
+hugm0063,GSE181466,GSM5502931,HUGM-0063,GSE181548,GSM5505534,HUGM-0063,,exact_specific_title_candidate
+hvdh0001,GSE181466,GSM5502974,HVDH-0001,GSE181548,GSM5505578,HVDH-0001,,exact_specific_title_candidate
+hvdh0002,GSE181466,GSM5502999,HVDH-0002,GSE181548,GSM5505603,HVDH-0002,,exact_specific_title_candidate
+hvdh0003,GSE181466,GSM5503001,HVDH-0003,GSE181548,GSM5505605,HVDH-0003,,exact_specific_title_candidate
+hvdh0004,GSE181466,GSM5502976,HVDH-0004,GSE181548,GSM5505580,HVDH-0004,,exact_specific_title_candidate
+hvdh0005,GSE181466,GSM5503000,HVDH-0005,GSE181548,GSM5505604,HVDH-0005,,exact_specific_title_candidate
+hvdh0006,GSE181466,GSM5502932,HVDH-0006,GSE181548,GSM5505535,HVDH-0006,,exact_specific_title_candidate
+hvdh0007,GSE181466,GSM5502933,HVDH-0007,GSE181548,GSM5505536,HVDH-0007,,exact_specific_title_candidate
+hvdh0008,GSE181466,GSM5502934,HVDH-0008,GSE181548,GSM5505537,HVDH-0008,,exact_specific_title_candidate
+hvdh0011,GSE181466,GSM5502935,HVDH-0011,GSE181548,GSM5505538,HVDH-0011,,exact_specific_title_candidate
+hvdh0012,GSE181466,GSM5502936,HVDH-0012,GSE181548,GSM5505539,HVDH-0012,,exact_specific_title_candidate
+inen0002,GSE181466,GSM5502988,INEN-0002,GSE181548,GSM5505592,INEN-0002,,exact_specific_title_candidate
+inen0003,GSE181466,GSM5502989,INEN-0003,GSE181548,GSM5505593,INEN-0003,,exact_specific_title_candidate
+inen0004,GSE181466,GSM5502952,INEN-0004,GSE181548,GSM5505556,INEN-0004,,exact_specific_title_candidate
+inen0005,GSE181466,GSM5502949,INEN-0005,GSE181548,GSM5505553,INEN-0005,,exact_specific_title_candidate
+inen0006,GSE181466,GSM5502954,INEN-0006,GSE181548,GSM5505558,INEN-0006,,exact_specific_title_candidate
+inen0007,GSE181466,GSM5502987,INEN-0007,GSE181548,GSM5505591,INEN-0007,,exact_specific_title_candidate
+inen0008,GSE181466,GSM5502998,INEN-0008,GSE181548,GSM5505602,INEN-0008,,exact_specific_title_candidate
+inen0009,GSE181466,GSM5502957,INEN-0009,GSE181548,GSM5505561,INEN-0009,,exact_specific_title_candidate
+inen0010,GSE181466,GSM5502946,INEN-0010,GSE181548,GSM5505550,INEN-0010,,exact_specific_title_candidate
+inen0012,GSE181466,GSM5502947,INEN-0012,GSE181548,GSM5505551,INEN-0012,,exact_specific_title_candidate
+inen0014,GSE181466,GSM5502937,INEN-0014,GSE181548,GSM5505540,INEN-0014,,exact_specific_title_candidate
+inen0015,GSE181466,GSM5502938,INEN-0015,GSE181548,GSM5505541,INEN-0015,,exact_specific_title_candidate
+inen0016,GSE181466,GSM5502939,INEN-0016,GSE181548,GSM5505542,INEN-0016,,exact_specific_title_candidate
+inen0017,GSE181466,GSM5502940,INEN-0017,GSE181548,GSM5505543,INEN-0017,,exact_specific_title_candidate
+inen0020,GSE181466,GSM5502941,INEN-0020,GSE181548,GSM5505545,INEN-0020,,exact_specific_title_candidate
+inen0021,GSE181466,GSM5502942,INEN-0021,GSE181548,GSM5505546,INEN-0021,,exact_specific_title_candidate
+inen0022,GSE181466,GSM5502943,INEN-0022,GSE181548,GSM5505547,INEN-0022,,exact_specific_title_candidate
+inen0023,GSE181466,GSM5502944,INEN-0023,GSE181548,GSM5505548,INEN-0023,,exact_specific_title_candidate
+inen0024,GSE181466,GSM5502945,INEN-0024,GSE181548,GSM5505549,INEN-0024,,exact_specific_title_candidate
+pairednonneoplastictissuep102n,GSE43807,GSM1071550,Paired non-neoplastic tissue [P102N],GSE56259,GSM1357874,Paired non-neoplastic tissue P102N,,exact_specific_title_candidate
+pairednonneoplastictissuep109n,GSE43807,GSM1071551,Paired non-neoplastic tissue [P109N],GSE56259,GSM1357875,Paired non-neoplastic tissue P109N,,exact_specific_title_candidate
+pairednonneoplastictissuep114n,GSE43807,GSM1071552,Paired non-neoplastic tissue [P114N],GSE56259,GSM1357876,Paired non-neoplastic tissue P114N,,exact_specific_title_candidate
+pairednonneoplastictissuep117n,GSE43807,GSM1071553,Paired non-neoplastic tissue [P117N],GSE56259,GSM1357877,Paired non-neoplastic tissue P117N,,exact_specific_title_candidate
+pairednonneoplastictissuep118n,GSE43807,GSM1071554,Paired non-neoplastic tissue [P118N],GSE56259,GSM1357878,Paired non-neoplastic tissue P118N,,exact_specific_title_candidate
+pairednonneoplastictissuep123n,GSE43807,GSM1071555,Paired non-neoplastic tissue [P123N],GSE56259,GSM1357879,Paired non-neoplastic tissue P123N,,exact_specific_title_candidate
+pairednonneoplastictissuep131n,GSE43807,GSM1071556,Paired non-neoplastic tissue [P131N],GSE56259,GSM1357880,Paired non-neoplastic tissue P131N,,exact_specific_title_candidate
+pairednonneoplastictissuep133n,GSE43807,GSM1071557,Paired non-neoplastic tissue [P133N],GSE56259,GSM1357881,Paired non-neoplastic tissue P133N,,exact_specific_title_candidate
+pairednonneoplastictissuep134n,GSE43807,GSM1071558,Paired non-neoplastic tissue [P134N],GSE56259,GSM1357882,Paired non-neoplastic tissue P134N,,exact_specific_title_candidate
+pairednonneoplastictissuep135n,GSE43807,GSM1071559,Paired non-neoplastic tissue [P135N],GSE56259,GSM1357883,Paired non-neoplastic tissue P135N,,exact_specific_title_candidate
+pairednonneoplastictissuep13n,GSE43807,GSM1071540,Paired non-neoplastic tissue [P13N],GSE56259,GSM1357864,Paired non-neoplastic tissue P13N,,exact_specific_title_candidate
+pairednonneoplastictissuep143n,GSE43807,GSM1071560,Paired non-neoplastic tissue [P143N],GSE56259,GSM1357884,Paired non-neoplastic tissue P143N,,exact_specific_title_candidate
+pairednonneoplastictissuep144n,GSE43807,GSM1071561,Paired non-neoplastic tissue [P144N],GSE56259,GSM1357885,Paired non-neoplastic tissue P144N,,exact_specific_title_candidate
+pairednonneoplastictissuep155n,GSE43807,GSM1071562,Paired non-neoplastic tissue [P155N],GSE56259,GSM1357886,Paired non-neoplastic tissue P155N,,exact_specific_title_candidate
+pairednonneoplastictissuep156n,GSE43807,GSM1071563,Paired non-neoplastic tissue [P156N],GSE56259,GSM1357887,Paired non-neoplastic tissue P156N,,exact_specific_title_candidate
+pairednonneoplastictissuep15n,GSE43807,GSM1071541,Paired non-neoplastic tissue [P15N],GSE56259,GSM1357865,Paired non-neoplastic tissue P15N,,exact_specific_title_candidate
+pairednonneoplastictissuep162n,GSE43807,GSM1071564,Paired non-neoplastic tissue [P162N],GSE56259,GSM1357888,Paired non-neoplastic tissue P162N,,exact_specific_title_candidate
+pairednonneoplastictissuep167n,GSE43807,GSM1071565,Paired non-neoplastic tissue [P167N],GSE56259,GSM1357889,Paired non-neoplastic tissue P167N,,exact_specific_title_candidate
+pairednonneoplastictissuep168n,GSE43807,GSM1071566,Paired non-neoplastic tissue [P168N],GSE56259,GSM1357890,Paired non-neoplastic tissue P168N,,exact_specific_title_candidate
+pairednonneoplastictissuep169n,GSE43807,GSM1071567,Paired non-neoplastic tissue [P169N],GSE56259,GSM1357891,Paired non-neoplastic tissue P169N,,exact_specific_title_candidate
+pairednonneoplastictissuep170n,GSE43807,GSM1071568,Paired non-neoplastic tissue [P170N],GSE56259,GSM1357892,Paired non-neoplastic tissue P170N,,exact_specific_title_candidate
+pairednonneoplastictissuep178n,GSE43807,GSM1071569,Paired non-neoplastic tissue [P178N],GSE56259,GSM1357893,Paired non-neoplastic tissue P178N,,exact_specific_title_candidate
+pairednonneoplastictissuep181n,GSE43807,GSM1238320,Paired non-neoplastic tissue [P181N],GSE56259,GSM1638965,Paired non-neoplastic tissue P181N,,exact_specific_title_candidate
+pairednonneoplastictissuep185n,GSE43807,GSM1071570,Paired non-neoplastic tissue [P185N],GSE56259,GSM1357894,Paired non-neoplastic tissue P185N,,exact_specific_title_candidate
+pairednonneoplastictissuep191n,GSE43807,GSM1071571,Paired non-neoplastic tissue [P191N],GSE56259,GSM1357895,Paired non-neoplastic tissue P191N,,exact_specific_title_candidate
+pairednonneoplastictissuep198n,GSE43807,GSM1238321,Paired non-neoplastic tissue [P198N],GSE56259,GSM1638966,Paired non-neoplastic tissue P198N,,exact_specific_title_candidate
+pairednonneoplastictissuep228n,GSE43807,GSM1071572,Paired non-neoplastic tissue [P228N],GSE56259,GSM1357896,Paired non-neoplastic tissue P228N,,exact_specific_title_candidate
+pairednonneoplastictissuep249n,GSE43807,GSM1071573,Paired non-neoplastic tissue [P249N],GSE56259,GSM1357897,Paired non-neoplastic tissue P249N,,exact_specific_title_candidate
+pairednonneoplastictissuep24n,GSE43807,GSM1071542,Paired non-neoplastic tissue [P24N],GSE56259,GSM1357866,Paired non-neoplastic tissue P24N,,exact_specific_title_candidate
+pairednonneoplastictissuep260n,GSE43807,GSM1071574,Paired non-neoplastic tissue [P260N],GSE56259,GSM1357898,Paired non-neoplastic tissue P260N,,exact_specific_title_candidate
+pairednonneoplastictissuep32n,GSE43807,GSM1071543,Paired non-neoplastic tissue [P32N],GSE56259,GSM1357867,Paired non-neoplastic tissue P32N,,exact_specific_title_candidate
+pairednonneoplastictissuep43n,GSE43807,GSM1071544,Paired non-neoplastic tissue [P43N],GSE56259,GSM1357868,Paired non-neoplastic tissue P43N,,exact_specific_title_candidate
+pairednonneoplastictissuep57n,GSE43807,GSM1071545,Paired non-neoplastic tissue [P57N],GSE56259,GSM1357869,Paired non-neoplastic tissue P57N,,exact_specific_title_candidate
+pairednonneoplastictissuep84n,GSE43807,GSM1071546,Paired non-neoplastic tissue [P84N],GSE56259,GSM1357870,Paired non-neoplastic tissue P84N,,exact_specific_title_candidate
+pairednonneoplastictissuep85n,GSE43807,GSM1071547,Paired non-neoplastic tissue [P85N],GSE56259,GSM1357871,Paired non-neoplastic tissue P85N,,exact_specific_title_candidate
+pairednonneoplastictissuep95n,GSE43807,GSM1071548,Paired non-neoplastic tissue [P95N],GSE56259,GSM1357872,Paired non-neoplastic tissue P95N,,exact_specific_title_candidate
+pairednonneoplastictissuep96n,GSE43807,GSM1071549,Paired non-neoplastic tissue [P96N],GSE56259,GSM1357873,Paired non-neoplastic tissue P96N,,exact_specific_title_candidate
+pdx3502103820cntl1r,GSE307574,GSM9227070,PDX350.2_1038_20_CNTL_1R,GSE310422,GSM9300935,PDX350.2_1038_20_CNTL_1R,41272064,exact_specific_title_candidate
+pim010,GSE264252,GSM8215002,PIM010,GSE291966,GSM8845766,PIM010,,exact_specific_title_candidate
+pim014,GSE264252,GSM8215010,PIM014,GSE291966,GSM8845768,PIM014,,exact_specific_title_candidate
+pim024,GSE264252,GSM8215011,PIM024,GSE291966,GSM8845769,PIM024,,exact_specific_title_candidate
+pim025,GSE264252,GSM8215017,PIM025,GSE291966,GSM8845770,PIM025,,exact_specific_title_candidate
+pim038,GSE264252,GSM8215018,PIM038,GSE291966,GSM8845772,PIM038,,exact_specific_title_candidate
+pim040,GSE264252,GSM8215009,PIM040,GSE291966,GSM8845773,PIM040,,exact_specific_title_candidate
+pim046,GSE264252,GSM8215001,PIM046,GSE291966,GSM8845775,PIM046,,exact_specific_title_candidate
+pim051,GSE264252,GSM8215012,PIM051,GSE291966,GSM8845779,PIM051,,exact_specific_title_candidate
+pim053,GSE264252,GSM8215008,PIM053,GSE291966,GSM8845780,PIM053,,exact_specific_title_candidate
+pim056,GSE264252,GSM8215007,PIM056,GSE291966,GSM8845781,PIM056,,exact_specific_title_candidate
+pim068,GSE264252,GSM8215000,PIM068,GSE291966,GSM8845783,PIM068,,exact_specific_title_candidate
+pim077,GSE264252,GSM8215021,PIM077,GSE291966,GSM8845785,PIM077,,exact_specific_title_candidate
+pim091,GSE264252,GSM8215006,PIM091,GSE291966,GSM8845787,PIM091,,exact_specific_title_candidate
+pim137,GSE264252,GSM8215019,PIM137,GSE291966,GSM8845794,PIM137,,exact_specific_title_candidate
+pim163,GSE264252,GSM8215016,PIM163,GSE291966,GSM8845797,PIM163,,exact_specific_title_candidate
+pim164,GSE264252,GSM8215015,PIM164,GSE291966,GSM8845798,PIM164,,exact_specific_title_candidate
+pim172,GSE264252,GSM8215020,PIM172,GSE291966,GSM8845802,PIM172,,exact_specific_title_candidate
+pim190,GSE264252,GSM8215024,PIM190,GSE291966,GSM8845808,PIM190,,exact_specific_title_candidate
+pim231,GSE264252,GSM8215025,PIM231,GSE291966,GSM8845818,PIM231,,exact_specific_title_candidate
+pim242,GSE264252,GSM8214998,PIM242,GSE291966,GSM8845820,PIM242,,exact_specific_title_candidate
+pim254,GSE264252,GSM8215013,PIM254,GSE291966,GSM8845823,PIM254,,exact_specific_title_candidate
+pim262,GSE264252,GSM8215003,PIM262,GSE291966,GSM8845824,PIM262,,exact_specific_title_candidate
+pim269,GSE264252,GSM8214999,PIM269,GSE291966,GSM8845826,PIM269,,exact_specific_title_candidate
+pim284,GSE264252,GSM8215004,PIM284,GSE291966,GSM8845828,PIM284,,exact_specific_title_candidate
+pim300,GSE264252,GSM8215022,PIM300,GSE291966,GSM8845831,PIM300,,exact_specific_title_candidate
+pim311,GSE264252,GSM8215014,PIM311,GSE291966,GSM8845832,PIM311,,exact_specific_title_candidate
+pim321,GSE264252,GSM8215005,PIM321,GSE291966,GSM8845833,PIM321,,exact_specific_title_candidate
+pim328,GSE264252,GSM8215023,PIM328,GSE291966,GSM8845835,PIM328,,exact_specific_title_candidate
+pim387,GSE264252,GSM8214992,PIM387,GSE291966,GSM8845850,PIM387,,exact_specific_title_candidate
+pim388,GSE264252,GSM8214995,PIM388,GSE291966,GSM8845851,PIM388,,exact_specific_title_candidate
+pim393,GSE264252,GSM8214996,PIM393,GSE291966,GSM8845852,PIM393,,exact_specific_title_candidate
+pim402,GSE264252,GSM8214993,PIM402,GSE291966,GSM8845854,PIM402,,exact_specific_title_candidate
+pim404,GSE264252,GSM8214997,PIM404,GSE291966,GSM8845855,PIM404,,exact_specific_title_candidate
+pim407,GSE264252,GSM8214994,PIM407,GSE291966,GSM8845856,PIM407,,exact_specific_title_candidate
+restd141,GSE132207,GSM3854026,ReSt_d14_1,GSE132513,GSM3872482,Rest_D14_1,34403459,exact_specific_title_candidate
+restd142,GSE132207,GSM3854027,ReSt_d14_2,GSE132513,GSM3872491,Rest_D14_2,34403459,exact_specific_title_candidate
+restd143,GSE132207,GSM3854028,ReSt_d14_3,GSE132513,GSM3872486,Rest_D14_3,34403459,exact_specific_title_candidate
+wu0780515726,GSE10886,GSM275908,WU-07805-15726,GSE10893,GSM372557,WU-07805-15726,,exact_specific_title_candidate
+wu0780515726,GSE10886,GSM275908,WU-07805-15726,GSE18229,GSM275908,WU-07805-15726,,exact_specific_title_candidate
+wu0780515726,GSE10886,GSM275908,WU-07805-15726,GSE20624,GSM275908,WU-07805-15726,,exact_specific_title_candidate
+wu0780515726,GSE10886,GSM275908,WU-07805-15726,GSE26338,GSM275908,WU-07805-15726,,exact_specific_title_candidate
+wu0780515726,GSE10893,GSM372557,WU-07805-15726,GSE18229,GSM275908,WU-07805-15726,,exact_specific_title_candidate
+wu0780515726,GSE10893,GSM372557,WU-07805-15726,GSE20624,GSM275908,WU-07805-15726,,exact_specific_title_candidate
+wu0780515726,GSE10893,GSM372557,WU-07805-15726,GSE26338,GSM275908,WU-07805-15726,,exact_specific_title_candidate
+wu0780515726,GSE18229,GSM275908,WU-07805-15726,GSE20624,GSM275908,WU-07805-15726,,exact_specific_title_candidate
+wu0780515726,GSE18229,GSM275908,WU-07805-15726,GSE26338,GSM275908,WU-07805-15726,,exact_specific_title_candidate
+wu0780515726,GSE20624,GSM275908,WU-07805-15726,GSE26338,GSM275908,WU-07805-15726,,exact_specific_title_candidate

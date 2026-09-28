@@ -1,0 +1,16 @@
+{
+  "database": "gds",
+  "queries": [
+    "breast cancer AND neoadjuvant AND Homo sapiens[Organism] AND gse[Filter]",
+    "breast cancer AND pathological complete response AND Homo sapiens[Organism] AND gse[Filter]",
+    "breast cancer AND treatment response AND transcriptome AND Homo sapiens[Organism] AND gse[Filter]",
+    "breast cancer AND chemotherapy response AND Homo sapiens[Organism] AND gse[Filter]"
+  ],
+  "retrieval_limit_per_query": 500,
+  "mandatory_seed_accessions": [
+    "GSE20194", "GSE20271", "GSE22093", "GSE23988", "GSE25055",
+    "GSE25065", "GSE32646", "GSE34138", "GSE41998", "GSE42822",
+    "GSE50948"
+  ],
+  "freeze_date": "2026-09-27"
+}

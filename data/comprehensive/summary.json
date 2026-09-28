@@ -1,0 +1,17 @@
+{
+  "series": 5931,
+  "sample_mentions": 282989,
+  "unique_gsm_accessions": 238252,
+  "reused_gsm_accessions": 41428,
+  "exact_gsm_series_pairs": 1165,
+  "exact_gsm_series_involved": 1622,
+  "exact_overlap_patterns": {
+    "complete_containment": 952,
+    "partial_overlap": 154,
+    "near_containment": 59
+  },
+  "specific_title_alias_groups": 2125,
+  "specific_title_alias_links": 4279,
+  "specific_title_alias_series_pairs": 787,
+  "warning": "Title-alias results are review candidates; exact GSM reuse is direct repository-record overlap."
+}

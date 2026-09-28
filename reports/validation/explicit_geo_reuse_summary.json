@@ -1,0 +1,43 @@
+{
+  "query_defined_series": 5931,
+  "third_party_reanalysis_series": 27,
+  "third_party_reanalysis_accessions": [
+    "GSE111151",
+    "GSE115577",
+    "GSE123831",
+    "GSE123832",
+    "GSE123833",
+    "GSE123917",
+    "GSE162296",
+    "GSE17768",
+    "GSE205568",
+    "GSE21541",
+    "GSE215886",
+    "GSE22664",
+    "GSE24124",
+    "GSE26971",
+    "GSE270890",
+    "GSE31519",
+    "GSE33095",
+    "GSE33926",
+    "GSE47561",
+    "GSE50564",
+    "GSE53752",
+    "GSE62502",
+    "GSE65314",
+    "GSE66082",
+    "GSE66083",
+    "GSE77626",
+    "GSE81954"
+  ],
+  "series_level_unique_gsm_references": 135,
+  "references_to_own_series_samples": 2,
+  "references_not_mapped_inside_query_universe": 98,
+  "cross_series_referenced_gsms_mapped_inside_query_universe": 35,
+  "explicit_cross_series_relationships": 2,
+  "pair_counts": {
+    "GSE22664--GSE3156": 2,
+    "GSE65314--GSE32124": 33
+  },
+  "interpretation": "These are explicit data-use or reanalysis relationships stated in GEO metadata. They do not by themselves establish shared patients or physical specimens and are kept separate from the overlap evidence tiers."
+}
