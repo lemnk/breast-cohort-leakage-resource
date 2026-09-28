@@ -8,7 +8,8 @@
 - **Sole and corresponding author:** Naol Beyene
 - **Email:** naolzed6@gmail.com
 - **GitHub repository:** https://github.com/lemnk/breast-cohort-leakage-resource
-- **Archive DOI:** [PENDING ZENODO RELEASE]
+- **Archive DOI:** 10.5281/zenodo.23004247
+- **Archive URL:** https://doi.org/10.5281/zenodo.23004247
 - **Funding:** No external funding was received for this work.
 - **Conflicts of interest:** [AUTHOR MUST COMPLETE ASCO DISCLOSURE AND CONFIRM THE APPLICABLE STATEMENT]
 
@@ -35,7 +36,7 @@ accountability for the work.
 - **Version:** 2.0.0
 - **Code license:** MIT
 - **Derived-data license:** CC BY 4.0
-- **DOI citation:** [ADD AFTER ZENODO PUBLISHES THE RELEASE]
+- **DOI citation:** Beyene N. Breast Cancer Cohort-Overlap Resource. Version 2.0.0. Zenodo. 2026. doi:10.5281/zenodo.23004247
 
 ## Submission declarations requiring the author's confirmation
 
@@ -68,9 +69,8 @@ accountability for the work.
 
 ## Final pre-submission sequence
 
-1. Publish the Zenodo archive and insert its version DOI in the manuscript, README, and cover letter.
-2. Replace the affiliation and postal-address placeholders.
-3. Enter the final conflict-of-interest statement after completing ASCO disclosure.
-4. Confirm originality and that the work is not under consideration elsewhere.
-5. Export the final manuscript and supplements, then perform a final count, link, and terminology audit.
-6. Enter the metadata above in the JCO CCI submission portal and review the generated proof before submission.
+1. Replace the affiliation and postal-address placeholders.
+2. Enter the final conflict-of-interest statement after completing ASCO disclosure.
+3. Confirm originality and that the work is not under consideration elsewhere.
+4. Export the final manuscript and supplements, then perform a final count, link, and terminology audit.
+5. Enter the metadata above in the JCO CCI submission portal and review the generated proof before submission.

@@ -35,7 +35,8 @@ reviewers, and editors designing or evaluating public-data biomarker studies. It
 does not allege misconduct or automatically invalidate prior analyses. Code,
 tests, versioned tables, and documentation are available at
 **https://github.com/lemnk/breast-cohort-leakage-resource** under open licenses.
-The archive DOI will be added before submission.
+The frozen version 2.0.0 release is archived at
+**https://doi.org/10.5281/zenodo.23004247**.
 
 This work was performed using public data and received no external funding. I am
 the sole author. **[Before submission, confirm that the work is original and not

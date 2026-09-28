@@ -45,8 +45,8 @@ that unlinked cohorts are independent.
 ### How to Access/Use
 
 Code, tables, tests, and documentation are available at
-**https://github.com/lemnk/breast-cohort-leakage-resource**; an archive DOI will
-be added before submission.
+**https://github.com/lemnk/breast-cohort-leakage-resource**. The frozen version
+2.0.0 release is archived at **https://doi.org/10.5281/zenodo.23004247**.
 
 ## Background and Scope
 
@@ -350,10 +350,9 @@ the checker.
 
 ## How to Access/Use
 
-The local release includes a series inventory, pair-level lookup, sample-level
-evidence files, checksums, source code, tests, protocol, and figures. After public
-archiving, the permanent URL and DOI must replace the placeholder in the
-abstract. The intended command is:
+The archived release includes a series inventory, pair-level lookup, sample-level
+evidence files, checksums, source code, tests, protocol, and figures. The intended
+command is:
 
 ```text
 python src/check_cohort_overlap.py GSE20194 GSE25055 GSE25065
@@ -370,8 +369,9 @@ checks. Release tables are licensed under CC BY 4.0 and code under MIT.
 All source data are publicly available from NCBI GEO under the accessions listed
 in the release. The derived registry, code, frozen configuration, hashes, and
 reproducibility instructions are available at
-**https://github.com/lemnk/breast-cohort-leakage-resource**. A numbered release
-archive DOI will be added before submission.
+**https://github.com/lemnk/breast-cohort-leakage-resource**. The numbered
+version 2.0.0 release is archived at
+**https://doi.org/10.5281/zenodo.23004247**.
 The project redistributes identifiers and derived evidence; users should consult
 GEO records and original publications for source-specific terms.
 

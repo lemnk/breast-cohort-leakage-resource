@@ -1,6 +1,10 @@
 # Breast Cancer Cohort-Overlap Resource
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23004247.svg)](https://doi.org/10.5281/zenodo.23004247)
+
 Public repository: https://github.com/lemnk/breast-cohort-leakage-resource
+
+Version 2.0.0 archive: https://doi.org/10.5281/zenodo.23004247
 
 This project builds a reproducible sample/patient identity registry across public
 breast cancer transcriptomic cohorts. Its purpose is to catch accidental reuse

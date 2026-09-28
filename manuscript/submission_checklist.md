@@ -31,8 +31,8 @@
 - [ ] Add Naol Beyene's affiliation, optional degrees, postal address, and email
 - [x] Publish the repository at a stable public URL:
       https://github.com/lemnk/breast-cohort-leakage-resource
-- [ ] Archive a numbered release and obtain a DOI (for example, Zenodo)
-- [ ] Add the archive DOI to the abstract, manuscript, and cover letter
+- [x] Archive numbered release v2.0.0 at Zenodo: 10.5281/zenodo.23004247
+- [x] Add the archive DOI to the abstract, manuscript, README, and cover letter
 - [ ] Add a worked cohort-selection case study or small prospective usability test
 - [ ] Verify all 776 review-tier series pairs remain labeled as candidates
 - [ ] Complete the ASCO conflict-of-interest disclosure; the draft AI-assistance
@@ -42,7 +42,7 @@
 ## Editorial assessment
 
 The comprehensive exact-GSM registry is now a credible Resource Report and the
-tool has an active public GitHub link. The archive DOI, author contact details,
-and ASCO disclosure remain mandatory administrative items. A usability
+tool has an active public GitHub link and frozen Zenodo archive. Author contact
+details and the ASCO disclosure remain mandatory administrative items. A usability
 demonstration is the strongest remaining optional scientific addition for peer-
 review resilience.
