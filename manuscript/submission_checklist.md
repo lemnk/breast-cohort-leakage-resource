@@ -28,15 +28,18 @@
 
 ## Required before submission
 
-- [ ] Add Naol Beyene's affiliation, optional degrees, postal address, and email
+- [x] Add Naol Beyene's affiliation, postal address, and email; degrees omitted
+      because none were provided
 - [x] Publish the repository at a stable public URL:
       https://github.com/lemnk/breast-cohort-leakage-resource
 - [x] Archive numbered release v2.0.0 at Zenodo: 10.5281/zenodo.23004247
 - [x] Add the archive DOI to the abstract, manuscript, README, and cover letter
 - [ ] Add a worked cohort-selection case study or small prospective usability test
 - [ ] Verify all 776 review-tier series pairs remain labeled as candidates
-- [ ] Complete the ASCO conflict-of-interest disclosure; the draft AI-assistance
-      statement is populated and should be checked against submission-date policy
+- [x] Add the author's confirmed no-potential-conflict statement to the manuscript
+- [ ] Create or update Naol Beyene's record in the ASCO Disclosure Management
+      System before submission; the AI-assistance statement is populated and
+      should be checked against submission-date policy
 - [ ] Recheck current author instructions immediately before upload
 
 ## Editorial assessment

@@ -6,6 +6,7 @@ authors:
   - family-names: "Beyene"
     given-names: "Naol"
     email: "naolzed6@gmail.com"
+    affiliation: "Jackson State University"
 repository-code: "https://github.com/lemnk/breast-cohort-leakage-resource"
 url: "https://github.com/lemnk/breast-cohort-leakage-resource"
 version: "2.0.0"

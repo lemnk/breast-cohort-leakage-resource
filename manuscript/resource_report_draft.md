@@ -1,10 +1,15 @@
 # A Reproducible Registry of Sample Reuse Across 5,931 Public Breast Cancer Transcriptomic Studies
 
-**Article type:** Resource Report  
-**Running title:** Breast Cancer Cohort-Overlap Resource  
-**Author:** Naol Beyene  
-**Affiliation:** [AFFILIATION REQUIRED]  
-**Corresponding author:** Naol Beyene; naolzed6@gmail.com; [POSTAL ADDRESS REQUIRED]
+**Article type:** Resource Report
+
+**Running title:** Breast Cancer Cohort-Overlap Resource
+
+**Author:** Naol Beyene
+
+**Affiliation:** Jackson State University, Jackson, Mississippi, United States
+
+**Corresponding author:** Naol Beyene; Jackson State University; 1400 John R.
+Lynch Street, Jackson, MS 39217, USA; naolzed6@gmail.com
 
 ## Abstract
 
@@ -383,12 +388,15 @@ Visualization.
 
 ## Support
 
-No external funding was received for this work.
+No external funding was received for this work. The sole author conducted the
+work independently. Jackson State University did not provide financial support,
+supervision, or endorsement; the views expressed are those of the author.
 
 ## Disclosures
 
-**Conflicts of interest:** [REQUIRED: complete the ASCO disclosure process and
-insert the applicable statement.]  
+**Conflicts of interest:** The author has no potential conflicts of interest to
+disclose.
+
 **Generative-AI assistance:** OpenAI Codex using the gpt-5.6-sol model assisted
 with code development and automated retrieval and processing of public data. It
 was not an author. The sole author manually verified the classifications,

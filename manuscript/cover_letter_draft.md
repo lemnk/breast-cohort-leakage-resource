@@ -38,13 +38,21 @@ tests, versioned tables, and documentation are available at
 The frozen version 2.0.0 release is archived at
 **https://doi.org/10.5281/zenodo.23004247**.
 
-This work was performed using public data and received no external funding. I am
-the sole author. **[Before submission, confirm that the work is original and not
-under consideration elsewhere, and complete the required ASCO disclosures.]**
+This work was performed independently using public data and received no external
+funding or institutional sponsorship. I am the sole author and have no potential
+conflicts of interest to disclose. My affiliation identifies my current status
+as a Jackson State University student; the views expressed are my own and do not
+necessarily represent the university.
+
+**Before submission, the author must confirm that the manuscript is original and
+is not under consideration elsewhere.**
 
 Sincerely,
 
-**Naol Beyene [degrees, if applicable]**  
-**[Affiliation]**  
-**[Postal address]**  
+**Naol Beyene**
+
+**Jackson State University**
+
+**1400 John R. Lynch Street, Jackson, MS 39217, USA**
+
 **naolzed6@gmail.com**

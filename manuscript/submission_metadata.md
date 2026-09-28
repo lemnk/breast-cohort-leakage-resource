@@ -6,22 +6,21 @@
 - **Title:** A Reproducible Registry of Sample Reuse Across 5,931 Public Breast Cancer Transcriptomic Studies
 - **Running title:** Breast Cancer Cohort-Overlap Resource
 - **Sole and corresponding author:** Naol Beyene
+- **Affiliation:** Jackson State University, Jackson, Mississippi, United States
+- **Corresponding address:** 1400 John R. Lynch Street, Jackson, MS 39217, USA
 - **Email:** naolzed6@gmail.com
 - **GitHub repository:** https://github.com/lemnk/breast-cohort-leakage-resource
 - **Archive DOI:** 10.5281/zenodo.23004247
 - **Archive URL:** https://doi.org/10.5281/zenodo.23004247
 - **Funding:** No external funding was received for this work.
-- **Conflicts of interest:** [AUTHOR MUST COMPLETE ASCO DISCLOSURE AND CONFIRM THE APPLICABLE STATEMENT]
+- **Conflicts of interest:** The author has no potential conflicts of interest to disclose.
 
-## Author details still required from Naol Beyene
+## Optional or portal-specific author details
 
-- **Affiliation:** [REQUIRED; if no institutional affiliation, confirm whether to use “Independent Researcher, City, Country”]
-- **Department/institution:** [REQUIRED IF APPLICABLE]
-- **City and country:** [REQUIRED]
-- **Corresponding-author postal address:** [REQUIRED]
-- **Academic/professional degrees:** [OPTIONAL]
-- **ORCID iD:** [STRONGLY RECOMMENDED; LEAVE BLANK IF NONE]
-- **Telephone number:** [PROVIDE ONLY IF THE SUBMISSION SYSTEM REQUIRES IT]
+- **Department:** Not provided; omit unless the author identifies a specific JSU department.
+- **Academic/professional degrees:** Not provided; omit.
+- **ORCID iD:** Not provided; recommended but optional.
+- **Telephone number:** Provide privately only if the submission system requires it.
 
 ## Author contribution entry
 
@@ -43,7 +42,10 @@ accountability for the work.
 - The manuscript is original.
 - The manuscript is not under consideration by another journal.
 - The author approves the submitted version.
-- The author has completed the ASCO conflict-of-interest disclosure.
+- The author confirmed that neither the author nor immediate family members had
+  financial relationships with for-profit health care companies during the past
+  two years. The author must still create or update the corresponding record in
+  ASCO's Disclosure Management System before submission.
 - Public GEO data were used; no new participant recruitment or intervention was performed.
 - Any ethics/IRB response in the submission system must match the manuscript and source-data conditions; do not infer an exemption without reading the exact question.
 
