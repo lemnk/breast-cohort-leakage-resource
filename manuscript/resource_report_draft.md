@@ -389,10 +389,11 @@ No external funding was received for this work.
 
 **Conflicts of interest:** [REQUIRED: complete the ASCO disclosure process and
 insert the applicable statement.]  
-**Generative-AI assistance:** OpenAI Codex assisted with code generation,
-public-record evidence collation, workbook preparation, reproducibility checks,
-and language editing. The sole author reviewed and verified the analyses,
-adjudications, and manuscript and accepts responsibility for the work.
+**Generative-AI assistance:** OpenAI Codex using the gpt-5.6-sol model assisted
+with code development and automated retrieval and processing of public data. It
+was not an author. The sole author manually verified the classifications,
+analytical outputs, and cited sources and accepts full responsibility for the
+work.
 
 ## References
 
