@@ -56,6 +56,10 @@ because links are clustered within 57 series pairs (33/100 arise from one pair)
 and were not sampled as independent random observations. Formal binomial
 confidence intervals are therefore not used. Sole author Naol Beyene manually
 verified all 100 classifications and cited sources.
+A second human verifier cross-checked the same 100 links with access to the
+existing classifications and evidence and recorded the same class for every row
+(100% raw agreement). Because the verification was not blinded, Cohen's kappa
+is not presented as an unbiased inter-reviewer reliability estimate.
 
 An explicit-metadata audit found 27 series labeled “Third-party reanalysis.” Of
 135 GSM accessions named in series-level metadata, 35 mapped across two in-scope
@@ -93,9 +97,10 @@ confirmation or support rule. This mixed 2/3 result is an untouched pair-level
 transport check across GPL96 and GPL570. It involves cell lines, not patient
 specimens, and is far too small to estimate general sensitivity or specificity.
 
-The author-verified 100-link review is supplied as a controlled workbook with
-five-category decisions, evidence, source links, reviewer identity, review date,
-author sign-off, and summary counts.
+The 100-link review is supplied with the author-verified adjudication record and
+a separate second-human verification workbook containing five-category
+decisions, evidence, source links, reviewer identity, review date, and explicit
+nonblinded-status fields.
 
 The manuscript now positions the resource against prior work instead of claiming
 novel duplicate detection. Bgee previously identified duplicated Affymetrix

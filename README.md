@@ -24,7 +24,9 @@ between model-development and external-validation data before model fitting.
   sensitivity for different-GSM patient identity
 - Structured review of 100 title candidates found 40 confirmed, 2 probable, 35
   unresolved, and 23 with evidence against identity; sole author Naol Beyene
-  manually verified all rows, and this sample does not estimate rule precision
+  manually verified all rows, and an unblinded second human verifier agreed on
+  all 100 classifications. This sample does not estimate rule precision or
+  independent inter-reviewer reliability
 - An explicit GEO-metadata audit found two in-universe normalization-data reuse
   relationships involving 35 cited GSMs; these remain separate from overlap tiers
 - In a metadata-selected held-out GPL96–GPL570 cell-line pair, frozen rules

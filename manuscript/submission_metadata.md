@@ -58,7 +58,8 @@ accountability for the work.
 - Main manuscript
 - Cover letter
 - Figures and figure legends
-- Supplementary tables/files, including the verified 100-link adjudication workbook
+- Supplementary tables/files, including the verified 100-link adjudication
+  workbook and the unblinded second-human verification workbook
 - Reporting/reproducibility material requested by the journal
 - Author contribution and disclosure information entered in the submission portal
 

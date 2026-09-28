@@ -32,9 +32,12 @@ INCLUDE = [
     "data/heldout/heldout_crossplatform_probe_ids.txt",
     "data/heldout/source_files.json",
     "tools/build_manual_audit_workbook.mjs",
+    "tools/build_reviewer_2_packet.mjs",
+    "tools/process_human_review.mjs",
 ]
 
 EXCLUDE_RELATIVE = {
+    "manuscript/second_ai_verification_review.xlsx",
     "reports/validation/final_pipeline_run.log",
 }
 

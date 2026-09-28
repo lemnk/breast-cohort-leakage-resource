@@ -19,6 +19,8 @@
 - [x] Structured 100-link public-record review with five-category decisions,
       source links, and author-verification controls
 - [x] All 100 classifications manually verified by sole author Naol Beyene
+- [x] Second human verifier cross-checked all 100 links; row-level decisions are
+      preserved, raw agreement was 100/100, and the review is labeled unblinded
 - [x] Explicit GEO third-party-reanalysis and cross-series GSM-reference audit
 - [x] Manuscript below the 3,000-word Resource Report limit
 - [x] Draft data-sharing statement and open licenses
@@ -42,8 +44,9 @@
 - [x] State explicitly that exact GSM reuse is the validated core product and
       title/fingerprint evidence is supplemental
 - [x] Qualify all 2,125 title-derived groups as candidate alias groups
-- [ ] Determine whether “second human reviewer” means a separate independent
-      person; if so, preserve their row-level labels and report agreement
+- [x] Record the second human verification without overstating independence:
+      original classifications were visible, so Cohen's kappa is not presented
+      as an unbiased inter-reviewer reliability estimate
 - [x] Add Methods and disclosure statements identifying the AI tool, model,
       creator, access date, exact uses, and sole-author verification
 - [ ] Create or update Naol Beyene's record in the ASCO Disclosure Management

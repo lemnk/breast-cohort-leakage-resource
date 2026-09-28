@@ -1,0 +1,25 @@
+{
+  "review_type": "unblinded human verification of existing classifications",
+  "reviewer": "Caleb Yitna",
+  "reviewer_identity_publication_requires_consent": true,
+  "author_attribution": "Naol Beyene stated that the completed review in caleb.xlsx was performed by Caleb Yitna and that the AI labels were obsolete template text.",
+  "source_workbook": "caleb.xlsx",
+  "source_sha256": "bacb5555d80efc776bf87a659d920508717458446877135d0c5caaad5a749c07",
+  "review_date": "2026-09-27",
+  "rows_cross_checked": 100,
+  "rows_matching_existing_classification": 100,
+  "rows_with_source_urls": 100,
+  "rows_with_reviewer_evidence": 100,
+  "raw_exact_agreement": 1,
+  "initially_blinded": false,
+  "independent_reliability_estimate": false,
+  "cohen_kappa_reported": false,
+  "class_counts": {
+    "confirmed same patient/sample/material": 40,
+    "probable same patient/material": 2,
+    "related study/model but identity not established": 34,
+    "evidence against identity": 23,
+    "indeterminate": 1
+  },
+  "cross_check_mismatches": 0
+}

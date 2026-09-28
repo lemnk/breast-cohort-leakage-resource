@@ -41,8 +41,9 @@ candidates and supported 12; none of 1,925 deterministic nonmatches met the
 confirmation rule. Within exact-GSM reuse, the title rule recovered 47.3% and
 had no collisions among 100,000 presumed-background pairs, which were not
 verified negatives. Structured review of 100 title candidates classified 40 as
-confirmed, two probable, 35 unresolved, and 23 against identity; the sole author
-verified all rows. Release 2 contains 1,172 high-confidence and 776
+confirmed, two probable, 35 unresolved, and 23 against identity. The sole author
+verified all rows, and an unblinded second human verifier agreed on all 100
+classifications. Release 2 contains 1,172 high-confidence and 776
 review-required pairs. In a held-out GPL96–GPL570 cell-line pair, unchanged rules
 confirmed two of three candidates; none of 15 controls triggered.
 
@@ -197,10 +198,14 @@ these were not gold-standard negatives. A SHA-256-ordered sample of 100 title
 candidates underwent structured public-record review of GEO headers and linked
 publications. Five classes were predefined: confirmed, probable, related but
 identity not established, evidence against identity, and indeterminate. The sole
-author manually verified every classification and cited source. Confirmed plus
-probable defined affirmative support; unresolved cases were not negatives. We
-report counts and a support fraction rather than precision or a binomial interval
-because 33/100 links arose from one series pair.
+author manually verified every classification and cited source. A second human
+verifier then cross-checked all 100 links while the existing classifications and
+evidence were visible and recorded the same class for every row. This was an
+unblinded verification, not independent duplicate adjudication; we report raw
+agreement (100/100) but not Cohen's kappa as an unbiased reliability estimate.
+Confirmed plus probable defined affirmative support; unresolved cases were not
+negatives. We report counts and a support fraction rather than precision or a
+binomial interval because 33/100 links arose from one series pair.
 
 Separately, we searched titles, summaries, subset, and processing fields for
 “Third-party reanalysis” labels and explicit GSMs, then mapped GSMs to containing
@@ -269,7 +274,11 @@ of 100 links had affirmative public-record support in this deterministic sample,
 while 35 remained unresolved and were not treated as negatives. This 42%
 support fraction is not a precision estimate: the link sample was clustered
 within 57 series pairs and was not an independent random sample. Sole author
-Naol Beyene manually verified all 100 row-level classifications and sources.
+Naol Beyene manually verified all 100 row-level classifications and sources. A
+second human verifier, who had access to those classifications and evidence,
+also reviewed all 100 links and recorded identical classifications (100% raw
+agreement). Because this verification was not blinded, it is not presented as
+an independent inter-reviewer reliability estimate.
 
 Twenty-seven series were labeled “Third-party reanalysis.” Of 135 GSMs named in
 series metadata, 35 mapped across two normalization-data relationships: GSE65314
@@ -352,7 +361,8 @@ confirmations among three candidates, but this is too small and biologically
 narrow to estimate patient-level, general cross-platform, or RNA-sequencing
 accuracy. The title rule recovered 47.3% within exact-GSM reuse, which is not a
 general identity-detection sensitivity. The structured 100-link review provides
-descriptive support counts but does not estimate title-rule precision. Processed
+descriptive support counts but does not estimate title-rule precision, and the
+second human verification was unblinded. Processed
 matrices can preserve or distort similarity, and
 our method does not replace raw-file hashes when those files are available. The
 resource does not establish that any published analysis was leaked, quantify

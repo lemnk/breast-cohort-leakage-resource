@@ -31,6 +31,10 @@ We also completed a structured public-record review of 100 deterministic title
 candidates: 40 were confirmed, two probable, 35 unresolved, and 23 had evidence
 against identity. We report this as a descriptive support audit—not a precision
 estimate. I manually verified every row and cited source.
+A second human verifier cross-checked all 100 links and agreed with every
+classification. Because the verifier could see the existing classifications
+and evidence, we report this as unblinded verification rather than independent
+inter-reviewer reliability.
 
 The submission is intended as an informatics safeguard for investigators,
 reviewers, and editors designing or evaluating public-data biomarker studies. It

@@ -57,6 +57,17 @@ All 20 tests passed. The explicit audit recovered two normalization-data reuse
 relationships containing 35 mapped GSM references; these remained separate from
 the overlap evidence tiers.
 
+## Second-human verification cross-check
+
+The supplied reviewer workbook was matched row by row to the frozen 100-link
+adjudication using audit row, series accessions, sample accessions, and class.
+All 100 rows matched, with 40 confirmed, two probable, 34 related/model-only,
+23 against identity, and one indeterminate. The reviewer used a workbook that
+displayed the original classifications and evidence, so the result is recorded
+as unblinded human verification with 100% raw agreement rather than independent
+duplicate adjudication. Cohen's kappa is not reported as an unbiased reliability
+estimate. The source workbook SHA-256 is recorded in the verification summary.
+
 ## Environment
 
 - Python: local Python 3.12 runtime

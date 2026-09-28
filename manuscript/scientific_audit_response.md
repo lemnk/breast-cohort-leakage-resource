@@ -44,6 +44,11 @@ source URLs, reviewer, and date are populated. The 42/100 affirmative-support
 fraction is explicitly not called precision; unresolved cases are not negatives,
 and clustering within series pairs precludes a simple binomial interval.
 Sole author Naol Beyene manually verified all 100 classifications and sources.
+A second human verifier cross-checked all 100 links against the cited evidence
+and recorded the same classifications. The verifier had access to the existing
+classifications, so this is reported as 100% raw agreement from unblinded
+verification, not as independent inter-reviewer reliability; Cohen's kappa is
+not reported.
 
 ## Explicit GEO reuse metadata
 
