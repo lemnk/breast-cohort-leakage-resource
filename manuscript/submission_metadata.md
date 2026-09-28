@@ -14,6 +14,10 @@
 - **Archive URL:** https://doi.org/10.5281/zenodo.23004247
 - **Funding:** No external funding was received for this work.
 - **Conflicts of interest:** The author has no potential conflicts of interest to disclose.
+- **AI research-use disclosure:** OpenAI Codex, model gpt-5.6-sol, OpenAI,
+  accessed September 27, 2026; used for software development, automated public
+  GEO metadata retrieval and processing, and provisional structured review
+  classifications, all manually verified by the sole author.
 
 ## Optional or portal-specific author details
 

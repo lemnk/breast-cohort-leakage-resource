@@ -37,9 +37,10 @@
 - [ ] Add a worked cohort-selection case study or small prospective usability test
 - [ ] Verify all 776 review-tier series pairs remain labeled as candidates
 - [x] Add the author's confirmed no-potential-conflict statement to the manuscript
+- [x] Add Methods and disclosure statements identifying the AI tool, model,
+      creator, access date, exact uses, and sole-author verification
 - [ ] Create or update Naol Beyene's record in the ASCO Disclosure Management
-      System before submission; the AI-assistance statement is populated and
-      should be checked against submission-date policy
+      System before submission
 - [ ] Recheck current author instructions immediately before upload
 
 ## Editorial assessment

@@ -203,6 +203,13 @@ Separately, we searched titles, summaries, subset, and processing fields for
 GSEs. Normalization-reference use does not establish identity, so these
 relationships remained separate from overlap tiers.
 
+OpenAI Codex (model gpt-5.6-sol; OpenAI; accessed September 27, 2026)
+assisted with software development, public-GEO metadata retrieval and processing,
+and provisional structured classification of the 100-link review. The sole
+author inspected the source GEO records and publications and manually verified
+every classification, citation, and analytical output. The system was neither
+an author nor an independent reviewer.
+
 ### User-facing checker
 
 Evidence was aggregated to a series-pair lookup. A pair was high-confidence if
@@ -397,11 +404,11 @@ supervision, or endorsement; the views expressed are those of the author.
 **Conflicts of interest:** The author has no potential conflicts of interest to
 disclose.
 
-**Generative-AI assistance:** OpenAI Codex using the gpt-5.6-sol model assisted
-with code development and automated retrieval and processing of public data. It
-was not an author. The sole author manually verified the classifications,
-analytical outputs, and cited sources and accepts full responsibility for the
-work.
+**Generative-AI assistance:** OpenAI Codex (model gpt-5.6-sol; OpenAI; accessed
+September 27, 2026) assisted with software, public-data retrieval and processing,
+and provisional review classification. It was not an author or independent
+reviewer. The sole author verified all classifications, citations, and outputs
+and accepts full responsibility for the work.
 
 ## References
 
