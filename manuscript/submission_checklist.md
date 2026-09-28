@@ -37,6 +37,13 @@
 - [ ] Add a worked cohort-selection case study or small prospective usability test
 - [ ] Verify all 776 review-tier series pairs remain labeled as candidates
 - [x] Add the author's confirmed no-potential-conflict statement to the manuscript
+- [x] Add the author's confirmed originality and exclusive-consideration
+      statements to the title page and cover letter
+- [x] State explicitly that exact GSM reuse is the validated core product and
+      title/fingerprint evidence is supplemental
+- [x] Qualify all 2,125 title-derived groups as candidate alias groups
+- [ ] Determine whether “second human reviewer” means a separate independent
+      person; if so, preserve their row-level labels and report agreement
 - [x] Add Methods and disclosure statements identifying the AI tool, model,
       creator, access date, exact uses, and sole-author verification
 - [ ] Create or update Naol Beyene's record in the ASCO Disclosure Management

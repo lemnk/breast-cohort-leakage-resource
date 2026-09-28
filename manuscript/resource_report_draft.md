@@ -1,4 +1,4 @@
-# A Reproducible Registry of Sample Reuse Across 5,931 Public Breast Cancer Transcriptomic Studies
+# A Reproducible Registry of Sample Reuse Across 5,931 Public GEO Breast Cancer Expression Series
 
 **Article type:** Resource Report
 
@@ -11,6 +11,9 @@
 **Corresponding author:** Naol Beyene; Jackson State University; 1400 John R.
 Lynch Street, Jackson, MS 39217, USA; naolzed6@gmail.com
 
+**Originality statement:** This manuscript is original and is not under
+consideration by another journal.
+
 ## Abstract
 
 ### Background and Scope
@@ -21,18 +24,19 @@ a reproducible overlap registry for breast cancer transcriptomic series.
 
 ### Solution
 
-A frozen GEO search defined 5,931 human breast-cancer expression series. We
-recorded exact GSM reuse, conservative recurring-title candidates, and outcome-
-blind expression fingerprints in 11 development series. A command-line checker
-reports pairwise evidence while distinguishing “no detected evidence” from proof
-of independence. Fingerprint rules developed in the GPL96 seed family provide
-internal corroboration, not an independent accuracy estimate.
+A frozen GEO search defined 5,931 human breast-cancer expression series. The
+validated core registry records deterministic exact GSM reuse. Conservative
+recurring-title candidates and outcome-blind expression fingerprints in 11
+development series provide supplemental triage and corroboration. A command-line
+checker reports pairwise evidence while distinguishing “no detected evidence”
+from proof of independence. Fingerprint rules developed in the GPL96 seed family
+do not provide an independent accuracy estimate.
 
 ### Evaluation
 
 Among 282,989 sample mentions (238,252 unique GSMs), 41,428 GSMs recurred,
 connecting 1,622 series and 1,165 pairs. Specific titles produced 2,125 additional
-alias groups. Expression evidence confirmed 304 of 385 seed-family identifier
+candidate alias groups. Expression evidence confirmed 304 of 385 seed-family identifier
 candidates and supported 12; none of 1,925 deterministic nonmatches met the
 confirmation rule. Within exact-GSM reuse, the title rule recovered 47.3% and
 had no collisions among 100,000 presumed-background pairs, which were not
@@ -239,7 +243,7 @@ containment can be ignored during validation design.
 
 ### Different-accession candidates
 
-The specific-title rule found 2,125 alias groups and 4,279 cross-series links
+The specific-title rule found 2,125 candidate alias groups and 4,279 cross-series links
 under different GSM accessions. They connected 270 series across 787 pairs.
 These results were retained as
 candidates because an identical local identifier can denote repeated assays,
@@ -348,17 +352,19 @@ confirmations among three candidates, but this is too small and biologically
 narrow to estimate patient-level, general cross-platform, or RNA-sequencing
 accuracy. The title rule recovered 47.3% within exact-GSM reuse, which is not a
 general identity-detection sensitivity. The structured 100-link review provides
-descriptive support counts but not title-rule precision. Processed matrices can preserve or distort similarity, and
+descriptive support counts but does not estimate title-rule precision. Processed
+matrices can preserve or distort similarity, and
 our method does not replace raw-file hashes when those files are available. The
 resource does not establish that any published analysis was leaked, quantify
 bias in a specific model, or assign intent.
 
 The main result is therefore operational: separate GSE accessions cannot safely
-serve as the sole evidence of patient independence. Release 2 turns that warning
-into an auditable lookup with explicit uncertainty. The next release should add
-patient-level and RNA-sequencing validation, publication-level manual adjudication, and a
-prospective usability study in which analysts select cohorts with and without
-the checker.
+serve as the sole evidence of patient independence. The validated core product
+is the deterministic exact-GSM registry; title-derived links are review
+candidates, and fingerprints are supplemental corroboration. Release 2 turns
+that warning into an auditable lookup with explicit uncertainty. The next release
+should add blinded duplicate adjudication, patient-level and RNA-sequencing
+validation, and a prospective usability study.
 
 ## How to Access/Use
 

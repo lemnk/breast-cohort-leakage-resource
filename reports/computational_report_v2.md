@@ -13,7 +13,7 @@ pairs, 952 showed complete containment of the smaller series, 59 near
 containment, and 154 partial overlap. Partial relationships included 359 shared
 records between GSE22133 and GSE25307 and 307 between GSE10893 and GSE26338.
 
-The strict specific-title rule produced 2,125 alias groups, 4,279 different-GSM
+The strict specific-title rule produced 2,125 candidate alias groups, 4,279 different-GSM
 candidate links, and 787 series pairs. These remain review evidence; they are not
 counted as confirmed duplicate patients.
 

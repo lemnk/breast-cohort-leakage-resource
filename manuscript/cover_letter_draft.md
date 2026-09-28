@@ -3,7 +3,7 @@
 Dear Editor-in-Chief,
 
 Please consider our Resource Report, “A Reproducible Registry of Sample Reuse
-Across 5,931 Public Breast Cancer Transcriptomic Studies,” for publication in
+Across 5,931 Public GEO Breast Cancer Expression Series,” for publication in
 *JCO Clinical Cancer Informatics*.
 
 Selecting different repository accessions is often treated as sufficient proof
@@ -12,8 +12,10 @@ that assumption is unsafe and provides a practical preanalysis check. Across
 5,931 human breast-cancer expression series in GEO, we identified 41,428 GSM
 accessions reused across 1,622 series and 1,165 series pairs. Importantly, 154
 pairs showed partial overlap rather than obvious complete containment. The
-versioned checker reports direct record reuse separately from uncertain title
-aliases and never equates absence of detected evidence with independence.
+validated core product is this deterministic exact-GSM registry. The versioned
+checker reports direct record reuse separately from uncertain title candidates;
+expression fingerprints are supplemental corroboration, and absence of detected
+evidence is never equated with independence.
 
 We evaluated the more difficult different-accession matching problem in 11
 method-development series. Of 385 identifier candidates, expression fingerprints
@@ -44,8 +46,8 @@ conflicts of interest to disclose. My affiliation identifies my current status
 as a Jackson State University student; the views expressed are my own and do not
 necessarily represent the university.
 
-**Before submission, the author must confirm that the manuscript is original and
-is not under consideration elsewhere.**
+I confirm that this manuscript is original and is not under consideration by
+another journal.
 
 Sincerely,
 
