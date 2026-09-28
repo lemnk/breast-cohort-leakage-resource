@@ -41,8 +41,8 @@
 
 ## Editorial assessment
 
-The comprehensive exact-GSM registry is now a credible Resource Report. It is not
-submission-ready while the tool lacks an active public link, because the current
-ASCO Resource Report specification explicitly requires one. A usability
+The comprehensive exact-GSM registry is now a credible Resource Report and the
+tool has an active public GitHub link. The archive DOI, author contact details,
+and ASCO disclosure remain mandatory administrative items. A usability
 demonstration is the strongest remaining optional scientific addition for peer-
 review resilience.
