@@ -1,0 +1,19 @@
+source_series,target_series,target_in_evaluation,relation_text,source_url
+GSE124648,GSE124646,False,SuperSeries of: GSE124646,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124648
+GSE124648,GSE124647,False,SuperSeries of: GSE124647,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124648
+GSE124648,GSE129551,False,SuperSeries of: GSE129551,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124648
+GSE124648,GSE129556,False,SuperSeries of: GSE129556,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124648
+GSE124648,GSE129557,False,SuperSeries of: GSE129557,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124648
+GSE124648,GSE129558,False,SuperSeries of: GSE129558,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124648
+GSE124648,GSE129559,False,SuperSeries of: GSE129559,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124648
+GSE124648,GSE129560,False,SuperSeries of: GSE129560,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE124648
+GSE25066,GSE25055,False,SuperSeries of: GSE25055,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25066
+GSE25066,GSE25065,False,SuperSeries of: GSE25065,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE25066
+GSE81540,GSE81538,True,SuperSeries of: GSE81538,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81540
+GSE81540,GSE96058,True,SuperSeries of: GSE96058,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81540
+GSE96058,GSE81540,True,SubSeries of: GSE81540,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96058
+GSE159285,GSE159282,False,SuperSeries of: GSE159282,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE159285
+GSE159285,GSE159284,False,SuperSeries of: GSE159284,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE159285
+GSE28884,GSE29173,False,SuperSeries of: GSE29173,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28884
+GSE28884,GSE29174,False,SuperSeries of: GSE29174,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28884
+GSE81538,GSE81540,True,SubSeries of: GSE81540,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81538

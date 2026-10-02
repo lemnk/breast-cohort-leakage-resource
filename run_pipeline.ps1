@@ -35,7 +35,11 @@ python src\summarize_platform_coverage.py
 if (Test-Path data\heldout\series_matrix\GSE21217-GPL570_series_matrix.txt.gz) {
     python src\validate_heldout_gpl96.py
 }
-python -m unittest discover -s tests -v
 python src\make_figures.py
+python src\relabel_expression_candidates_v3.py
+python src\build_release_v3.py
+python src\evaluate_cohort_selection_utility.py
+python src\make_figures_v3.py
+python -m unittest discover -s tests -v
 
 Write-Host "Pipeline completed successfully."

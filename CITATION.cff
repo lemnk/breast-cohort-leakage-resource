@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this registry or software, please cite the associated manuscript and this software release."
-title: "Breast Cancer Cohort-Overlap Resource"
+title: "Breast Cancer GEO Accession-Overlap Registry"
 type: software
 authors:
   - family-names: "Beyene"
@@ -9,12 +9,9 @@ authors:
     affiliation: "Jackson State University"
 repository-code: "https://github.com/lemnk/breast-cohort-leakage-resource"
 url: "https://github.com/lemnk/breast-cohort-leakage-resource"
-version: "2.0.0"
-date-released: "2026-09-28"
+version: "3.0.0"
+date-released: "2026-10-02"
 license: MIT
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.23004247"
 keywords:
   - breast cancer
   - transcriptomics

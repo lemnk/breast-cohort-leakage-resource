@@ -1,0 +1,13 @@
+{
+  "release": 3,
+  "supersedes_operational_labels_in_release": 2,
+  "series_inventory": 5931,
+  "series_pairs_with_evidence": 1950,
+  "evidence_classes": {
+    "candidate_relationship_review_required": 783,
+    "direct_accession_overlap": 1165,
+    "documented_geo_reuse": 2
+  },
+  "release2_expression_only_pairs_removed_from_high_confidence_identity": 7,
+  "interpretation": "Only exact GSM sharing is direct accession overlap. Documented GEO reuse and different-accession expression/title evidence are reported separately. Expression evidence does not verify same-specimen identity, and no detected edge is not proof of independence."
+}

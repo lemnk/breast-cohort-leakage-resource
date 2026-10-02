@@ -1,4 +1,4 @@
-"""Check a proposed set of GEO series for detected sample/patient overlap."""
+"""Check proposed GEO series for direct overlap and review-required evidence."""
 
 from __future__ import annotations
 
@@ -9,7 +9,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-RELEASE = ROOT / "release_v2"
+RELEASE = ROOT / "release_v3"
 
 
 def normalize_gse(value: str) -> str:
@@ -45,15 +45,17 @@ def check(accessions: list[str]) -> list[dict[str, str]]:
             continue
         details = (
             f"exact_GSM={row['exact_gsm_count']}; "
-            f"different_GSM_title={row['specific_title_candidate_count']}; "
-            f"expression_confirmed={row['expression_confirmed_count']}; "
-            f"expression_supported={row['expression_supported_count']}"
+            f"documented_GEO_reuse={row['documented_geo_reuse_count']}; "
+            f"different_GSM_title_candidate={row['specific_title_candidate_count']}; "
+            f"expression_corroborated_candidate={row['expression_corroborated_candidate_count']}; "
+            f"expression_supported_candidate={row['expression_supported_candidate_count']}; "
+            f"action={row['recommended_action']}"
         )
         results.append(
             {
                 "series_a": a,
                 "series_b": b,
-                "status": row["overall_evidence_tier"],
+                "status": row["evidence_class"],
                 "details": details,
             }
         )

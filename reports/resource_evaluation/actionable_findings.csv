@@ -1,0 +1,4 @@
+series_a,series_b,direct_gsm_intersection_count,checker_exact_gsm_count,checker_matches_direct_intersection,documented_geo_relation,explicit_reuse_cited_gsm_count,expression_corroborated_candidate_count,expression_supported_candidate_count,title_candidate_count,finding_type,cohort_selection_action
+GSE115577,GSE93601,0,0,True,,0,0,0,1110,unresolved_title_identity_candidate,manual source review required; identity is unresolved
+GSE81538,GSE81540,405,405,True,SubSeries of: GSE81540 | SuperSeries of: GSE81538,0,0,0,0,declared_superseries_subseries_with_direct_accession_overlap,use one constituent definition or deduplicate shared GSMs before validation
+GSE81540,GSE96058,3409,3409,True,SubSeries of: GSE81540 | SuperSeries of: GSE96058,0,0,0,0,declared_superseries_subseries_with_direct_accession_overlap,use one constituent definition or deduplicate shared GSMs before validation

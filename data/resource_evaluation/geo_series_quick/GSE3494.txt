@@ -1,0 +1,606 @@
+^SERIES = GSE3494
+!Series_title = An expression signature for p53 in breast cancer predicts mutation status, transcriptional effects, and patient survival
+!Series_geo_accession = GSE3494
+!Series_status = Public on Oct 21 2005
+!Series_submission_date = Oct 21 2005
+!Series_last_update_date = Aug 26 2019
+!Series_pubmed_id = 16141321
+!Series_pubmed_id = 29136509
+!Series_pubmed_id = 28972043
+!Series_summary = The biological tumor samples (ie, breast tumor specimens) consisted of freshly frozen breast tumors from a population-based cohort of 315 women representing 65% of all breast cancers resected in Uppsala County, Sweden, from January 1, 1987 to December 31, 1989.  Estrogen receptor status was determined by biochemical assay as part of the routine clinical procedure. An experienced pathologist determined the Elston-Ellis grades of the tumors, classifying the tumors into low, medium and high-grade tumors.  The clinico-pathological characteristics accompanying each tumor include p53 status, ER status, tumor grade, lymph node status and patient age.
+!Series_summary = Keywords: Tumor sample comparisons
+!Series_overall_design = All tumor specimens were assessed on U133 A and B arrays.
+!Series_type = Expression profiling by array
+!Series_contributor = L,D,Miller
+!Series_contributor = J,,Smeds
+!Series_contributor = J,,George
+!Series_contributor = V,B,Vega
+!Series_contributor = L,,Vergara
+!Series_contributor = A,,Ploner
+!Series_contributor = Y,,Pawitan
+!Series_contributor = P,,Hall
+!Series_contributor = S,,Klaar
+!Series_contributor = E,T,Liu
+!Series_contributor = J,,Bergh
+!Series_sample_id = GSM79114
+!Series_sample_id = GSM79115
+!Series_sample_id = GSM79116
+!Series_sample_id = GSM79117
+!Series_sample_id = GSM79118
+!Series_sample_id = GSM79119
+!Series_sample_id = GSM79120
+!Series_sample_id = GSM79121
+!Series_sample_id = GSM79122
+!Series_sample_id = GSM79123
+!Series_sample_id = GSM79124
+!Series_sample_id = GSM79125
+!Series_sample_id = GSM79126
+!Series_sample_id = GSM79127
+!Series_sample_id = GSM79128
+!Series_sample_id = GSM79129
+!Series_sample_id = GSM79130
+!Series_sample_id = GSM79131
+!Series_sample_id = GSM79132
+!Series_sample_id = GSM79133
+!Series_sample_id = GSM79134
+!Series_sample_id = GSM79135
+!Series_sample_id = GSM79136
+!Series_sample_id = GSM79137
+!Series_sample_id = GSM79138
+!Series_sample_id = GSM79139
+!Series_sample_id = GSM79140
+!Series_sample_id = GSM79141
+!Series_sample_id = GSM79142
+!Series_sample_id = GSM79143
+!Series_sample_id = GSM79144
+!Series_sample_id = GSM79145
+!Series_sample_id = GSM79146
+!Series_sample_id = GSM79147
+!Series_sample_id = GSM79148
+!Series_sample_id = GSM79149
+!Series_sample_id = GSM79150
+!Series_sample_id = GSM79151
+!Series_sample_id = GSM79152
+!Series_sample_id = GSM79153
+!Series_sample_id = GSM79154
+!Series_sample_id = GSM79155
+!Series_sample_id = GSM79156
+!Series_sample_id = GSM79157
+!Series_sample_id = GSM79158
+!Series_sample_id = GSM79159
+!Series_sample_id = GSM79160
+!Series_sample_id = GSM79161
+!Series_sample_id = GSM79162
+!Series_sample_id = GSM79163
+!Series_sample_id = GSM79164
+!Series_sample_id = GSM79165
+!Series_sample_id = GSM79166
+!Series_sample_id = GSM79167
+!Series_sample_id = GSM79168
+!Series_sample_id = GSM79169
+!Series_sample_id = GSM79170
+!Series_sample_id = GSM79171
+!Series_sample_id = GSM79172
+!Series_sample_id = GSM79173
+!Series_sample_id = GSM79174
+!Series_sample_id = GSM79175
+!Series_sample_id = GSM79176
+!Series_sample_id = GSM79177
+!Series_sample_id = GSM79178
+!Series_sample_id = GSM79179
+!Series_sample_id = GSM79180
+!Series_sample_id = GSM79181
+!Series_sample_id = GSM79182
+!Series_sample_id = GSM79183
+!Series_sample_id = GSM79184
+!Series_sample_id = GSM79185
+!Series_sample_id = GSM79186
+!Series_sample_id = GSM79187
+!Series_sample_id = GSM79188
+!Series_sample_id = GSM79189
+!Series_sample_id = GSM79190
+!Series_sample_id = GSM79191
+!Series_sample_id = GSM79192
+!Series_sample_id = GSM79193
+!Series_sample_id = GSM79194
+!Series_sample_id = GSM79195
+!Series_sample_id = GSM79196
+!Series_sample_id = GSM79197
+!Series_sample_id = GSM79198
+!Series_sample_id = GSM79199
+!Series_sample_id = GSM79200
+!Series_sample_id = GSM79201
+!Series_sample_id = GSM79202
+!Series_sample_id = GSM79203
+!Series_sample_id = GSM79204
+!Series_sample_id = GSM79205
+!Series_sample_id = GSM79206
+!Series_sample_id = GSM79207
+!Series_sample_id = GSM79208
+!Series_sample_id = GSM79209
+!Series_sample_id = GSM79210
+!Series_sample_id = GSM79211
+!Series_sample_id = GSM79212
+!Series_sample_id = GSM79213
+!Series_sample_id = GSM79214
+!Series_sample_id = GSM79215
+!Series_sample_id = GSM79216
+!Series_sample_id = GSM79217
+!Series_sample_id = GSM79218
+!Series_sample_id = GSM79219
+!Series_sample_id = GSM79220
+!Series_sample_id = GSM79221
+!Series_sample_id = GSM79222
+!Series_sample_id = GSM79223
+!Series_sample_id = GSM79224
+!Series_sample_id = GSM79225
+!Series_sample_id = GSM79226
+!Series_sample_id = GSM79227
+!Series_sample_id = GSM79228
+!Series_sample_id = GSM79229
+!Series_sample_id = GSM79230
+!Series_sample_id = GSM79231
+!Series_sample_id = GSM79232
+!Series_sample_id = GSM79233
+!Series_sample_id = GSM79234
+!Series_sample_id = GSM79235
+!Series_sample_id = GSM79236
+!Series_sample_id = GSM79237
+!Series_sample_id = GSM79238
+!Series_sample_id = GSM79239
+!Series_sample_id = GSM79240
+!Series_sample_id = GSM79241
+!Series_sample_id = GSM79242
+!Series_sample_id = GSM79243
+!Series_sample_id = GSM79244
+!Series_sample_id = GSM79245
+!Series_sample_id = GSM79246
+!Series_sample_id = GSM79247
+!Series_sample_id = GSM79248
+!Series_sample_id = GSM79249
+!Series_sample_id = GSM79250
+!Series_sample_id = GSM79251
+!Series_sample_id = GSM79252
+!Series_sample_id = GSM79253
+!Series_sample_id = GSM79254
+!Series_sample_id = GSM79255
+!Series_sample_id = GSM79256
+!Series_sample_id = GSM79257
+!Series_sample_id = GSM79258
+!Series_sample_id = GSM79259
+!Series_sample_id = GSM79260
+!Series_sample_id = GSM79261
+!Series_sample_id = GSM79262
+!Series_sample_id = GSM79263
+!Series_sample_id = GSM79264
+!Series_sample_id = GSM79265
+!Series_sample_id = GSM79266
+!Series_sample_id = GSM79267
+!Series_sample_id = GSM79268
+!Series_sample_id = GSM79269
+!Series_sample_id = GSM79270
+!Series_sample_id = GSM79271
+!Series_sample_id = GSM79272
+!Series_sample_id = GSM79273
+!Series_sample_id = GSM79274
+!Series_sample_id = GSM79275
+!Series_sample_id = GSM79276
+!Series_sample_id = GSM79277
+!Series_sample_id = GSM79278
+!Series_sample_id = GSM79279
+!Series_sample_id = GSM79280
+!Series_sample_id = GSM79281
+!Series_sample_id = GSM79282
+!Series_sample_id = GSM79283
+!Series_sample_id = GSM79284
+!Series_sample_id = GSM79285
+!Series_sample_id = GSM79286
+!Series_sample_id = GSM79287
+!Series_sample_id = GSM79288
+!Series_sample_id = GSM79289
+!Series_sample_id = GSM79290
+!Series_sample_id = GSM79291
+!Series_sample_id = GSM79292
+!Series_sample_id = GSM79293
+!Series_sample_id = GSM79294
+!Series_sample_id = GSM79295
+!Series_sample_id = GSM79296
+!Series_sample_id = GSM79297
+!Series_sample_id = GSM79298
+!Series_sample_id = GSM79299
+!Series_sample_id = GSM79300
+!Series_sample_id = GSM79301
+!Series_sample_id = GSM79302
+!Series_sample_id = GSM79303
+!Series_sample_id = GSM79304
+!Series_sample_id = GSM79305
+!Series_sample_id = GSM79306
+!Series_sample_id = GSM79307
+!Series_sample_id = GSM79308
+!Series_sample_id = GSM79309
+!Series_sample_id = GSM79310
+!Series_sample_id = GSM79311
+!Series_sample_id = GSM79312
+!Series_sample_id = GSM79313
+!Series_sample_id = GSM79314
+!Series_sample_id = GSM79315
+!Series_sample_id = GSM79316
+!Series_sample_id = GSM79317
+!Series_sample_id = GSM79318
+!Series_sample_id = GSM79319
+!Series_sample_id = GSM79320
+!Series_sample_id = GSM79321
+!Series_sample_id = GSM79322
+!Series_sample_id = GSM79323
+!Series_sample_id = GSM79324
+!Series_sample_id = GSM79325
+!Series_sample_id = GSM79326
+!Series_sample_id = GSM79327
+!Series_sample_id = GSM79328
+!Series_sample_id = GSM79329
+!Series_sample_id = GSM79330
+!Series_sample_id = GSM79331
+!Series_sample_id = GSM79332
+!Series_sample_id = GSM79333
+!Series_sample_id = GSM79334
+!Series_sample_id = GSM79335
+!Series_sample_id = GSM79336
+!Series_sample_id = GSM79337
+!Series_sample_id = GSM79338
+!Series_sample_id = GSM79339
+!Series_sample_id = GSM79340
+!Series_sample_id = GSM79341
+!Series_sample_id = GSM79342
+!Series_sample_id = GSM79343
+!Series_sample_id = GSM79344
+!Series_sample_id = GSM79345
+!Series_sample_id = GSM79346
+!Series_sample_id = GSM79347
+!Series_sample_id = GSM79348
+!Series_sample_id = GSM79349
+!Series_sample_id = GSM79350
+!Series_sample_id = GSM79351
+!Series_sample_id = GSM79352
+!Series_sample_id = GSM79353
+!Series_sample_id = GSM79354
+!Series_sample_id = GSM79355
+!Series_sample_id = GSM79356
+!Series_sample_id = GSM79357
+!Series_sample_id = GSM79358
+!Series_sample_id = GSM79359
+!Series_sample_id = GSM79360
+!Series_sample_id = GSM79361
+!Series_sample_id = GSM79362
+!Series_sample_id = GSM79363
+!Series_sample_id = GSM79364
+!Series_sample_id = GSM79365
+!Series_sample_id = GSM79366
+!Series_sample_id = GSM79367
+!Series_sample_id = GSM79368
+!Series_sample_id = GSM79369
+!Series_sample_id = GSM79370
+!Series_sample_id = GSM79371
+!Series_sample_id = GSM79372
+!Series_sample_id = GSM79373
+!Series_sample_id = GSM79374
+!Series_sample_id = GSM79375
+!Series_sample_id = GSM79376
+!Series_sample_id = GSM79377
+!Series_sample_id = GSM79378
+!Series_sample_id = GSM79379
+!Series_sample_id = GSM79380
+!Series_sample_id = GSM79381
+!Series_sample_id = GSM79382
+!Series_sample_id = GSM79383
+!Series_sample_id = GSM79384
+!Series_sample_id = GSM79385
+!Series_sample_id = GSM79386
+!Series_sample_id = GSM79387
+!Series_sample_id = GSM79388
+!Series_sample_id = GSM79389
+!Series_sample_id = GSM79390
+!Series_sample_id = GSM79391
+!Series_sample_id = GSM79392
+!Series_sample_id = GSM79393
+!Series_sample_id = GSM79394
+!Series_sample_id = GSM79395
+!Series_sample_id = GSM79396
+!Series_sample_id = GSM79397
+!Series_sample_id = GSM79398
+!Series_sample_id = GSM79399
+!Series_sample_id = GSM79400
+!Series_sample_id = GSM79401
+!Series_sample_id = GSM79402
+!Series_sample_id = GSM79403
+!Series_sample_id = GSM79404
+!Series_sample_id = GSM79405
+!Series_sample_id = GSM79406
+!Series_sample_id = GSM79407
+!Series_sample_id = GSM79408
+!Series_sample_id = GSM79409
+!Series_sample_id = GSM79410
+!Series_sample_id = GSM79411
+!Series_sample_id = GSM79412
+!Series_sample_id = GSM79413
+!Series_sample_id = GSM79414
+!Series_sample_id = GSM79415
+!Series_sample_id = GSM79416
+!Series_sample_id = GSM79417
+!Series_sample_id = GSM79418
+!Series_sample_id = GSM79419
+!Series_sample_id = GSM79420
+!Series_sample_id = GSM79421
+!Series_sample_id = GSM79422
+!Series_sample_id = GSM79423
+!Series_sample_id = GSM79424
+!Series_sample_id = GSM79425
+!Series_sample_id = GSM79426
+!Series_sample_id = GSM79427
+!Series_sample_id = GSM79428
+!Series_sample_id = GSM79429
+!Series_sample_id = GSM79430
+!Series_sample_id = GSM79431
+!Series_sample_id = GSM79432
+!Series_sample_id = GSM79433
+!Series_sample_id = GSM79434
+!Series_sample_id = GSM79435
+!Series_sample_id = GSM79436
+!Series_sample_id = GSM79437
+!Series_sample_id = GSM79438
+!Series_sample_id = GSM79439
+!Series_sample_id = GSM79440
+!Series_sample_id = GSM79441
+!Series_sample_id = GSM79442
+!Series_sample_id = GSM79443
+!Series_sample_id = GSM79444
+!Series_sample_id = GSM79445
+!Series_sample_id = GSM79446
+!Series_sample_id = GSM79447
+!Series_sample_id = GSM79448
+!Series_sample_id = GSM79449
+!Series_sample_id = GSM79450
+!Series_sample_id = GSM79451
+!Series_sample_id = GSM79452
+!Series_sample_id = GSM79453
+!Series_sample_id = GSM79454
+!Series_sample_id = GSM79455
+!Series_sample_id = GSM79456
+!Series_sample_id = GSM79457
+!Series_sample_id = GSM79458
+!Series_sample_id = GSM79459
+!Series_sample_id = GSM79460
+!Series_sample_id = GSM79461
+!Series_sample_id = GSM79462
+!Series_sample_id = GSM79463
+!Series_sample_id = GSM79464
+!Series_sample_id = GSM79465
+!Series_sample_id = GSM79466
+!Series_sample_id = GSM79467
+!Series_sample_id = GSM79468
+!Series_sample_id = GSM79469
+!Series_sample_id = GSM79470
+!Series_sample_id = GSM79471
+!Series_sample_id = GSM79472
+!Series_sample_id = GSM79473
+!Series_sample_id = GSM79474
+!Series_sample_id = GSM79475
+!Series_sample_id = GSM79476
+!Series_sample_id = GSM79477
+!Series_sample_id = GSM79478
+!Series_sample_id = GSM79479
+!Series_sample_id = GSM79480
+!Series_sample_id = GSM79481
+!Series_sample_id = GSM79482
+!Series_sample_id = GSM79483
+!Series_sample_id = GSM79484
+!Series_sample_id = GSM79485
+!Series_sample_id = GSM79486
+!Series_sample_id = GSM79487
+!Series_sample_id = GSM79488
+!Series_sample_id = GSM79489
+!Series_sample_id = GSM79490
+!Series_sample_id = GSM79491
+!Series_sample_id = GSM79492
+!Series_sample_id = GSM79493
+!Series_sample_id = GSM79494
+!Series_sample_id = GSM79495
+!Series_sample_id = GSM79496
+!Series_sample_id = GSM79497
+!Series_sample_id = GSM79498
+!Series_sample_id = GSM79499
+!Series_sample_id = GSM79500
+!Series_sample_id = GSM79501
+!Series_sample_id = GSM79502
+!Series_sample_id = GSM79503
+!Series_sample_id = GSM79504
+!Series_sample_id = GSM79505
+!Series_sample_id = GSM79506
+!Series_sample_id = GSM79507
+!Series_sample_id = GSM79508
+!Series_sample_id = GSM79509
+!Series_sample_id = GSM79510
+!Series_sample_id = GSM79511
+!Series_sample_id = GSM79512
+!Series_sample_id = GSM79513
+!Series_sample_id = GSM79514
+!Series_sample_id = GSM79515
+!Series_sample_id = GSM79516
+!Series_sample_id = GSM79517
+!Series_sample_id = GSM79518
+!Series_sample_id = GSM79519
+!Series_sample_id = GSM79520
+!Series_sample_id = GSM79521
+!Series_sample_id = GSM79522
+!Series_sample_id = GSM79523
+!Series_sample_id = GSM79524
+!Series_sample_id = GSM79525
+!Series_sample_id = GSM79526
+!Series_sample_id = GSM79527
+!Series_sample_id = GSM79528
+!Series_sample_id = GSM79529
+!Series_sample_id = GSM79530
+!Series_sample_id = GSM79531
+!Series_sample_id = GSM79532
+!Series_sample_id = GSM79533
+!Series_sample_id = GSM79534
+!Series_sample_id = GSM79535
+!Series_sample_id = GSM79536
+!Series_sample_id = GSM79537
+!Series_sample_id = GSM79538
+!Series_sample_id = GSM79539
+!Series_sample_id = GSM79540
+!Series_sample_id = GSM79541
+!Series_sample_id = GSM79542
+!Series_sample_id = GSM79543
+!Series_sample_id = GSM79544
+!Series_sample_id = GSM79545
+!Series_sample_id = GSM79546
+!Series_sample_id = GSM79547
+!Series_sample_id = GSM79548
+!Series_sample_id = GSM79549
+!Series_sample_id = GSM79550
+!Series_sample_id = GSM79551
+!Series_sample_id = GSM79552
+!Series_sample_id = GSM79553
+!Series_sample_id = GSM79554
+!Series_sample_id = GSM79555
+!Series_sample_id = GSM79556
+!Series_sample_id = GSM79557
+!Series_sample_id = GSM79558
+!Series_sample_id = GSM79559
+!Series_sample_id = GSM79560
+!Series_sample_id = GSM79561
+!Series_sample_id = GSM79562
+!Series_sample_id = GSM79563
+!Series_sample_id = GSM79564
+!Series_sample_id = GSM79565
+!Series_sample_id = GSM79566
+!Series_sample_id = GSM79567
+!Series_sample_id = GSM79568
+!Series_sample_id = GSM79569
+!Series_sample_id = GSM79570
+!Series_sample_id = GSM79571
+!Series_sample_id = GSM79572
+!Series_sample_id = GSM79573
+!Series_sample_id = GSM79574
+!Series_sample_id = GSM79575
+!Series_sample_id = GSM79576
+!Series_sample_id = GSM79577
+!Series_sample_id = GSM79578
+!Series_sample_id = GSM79579
+!Series_sample_id = GSM79580
+!Series_sample_id = GSM79581
+!Series_sample_id = GSM79582
+!Series_sample_id = GSM79583
+!Series_sample_id = GSM79584
+!Series_sample_id = GSM79585
+!Series_sample_id = GSM79586
+!Series_sample_id = GSM79587
+!Series_sample_id = GSM79588
+!Series_sample_id = GSM79589
+!Series_sample_id = GSM79590
+!Series_sample_id = GSM79591
+!Series_sample_id = GSM79592
+!Series_sample_id = GSM79593
+!Series_sample_id = GSM79594
+!Series_sample_id = GSM79595
+!Series_sample_id = GSM79596
+!Series_sample_id = GSM79597
+!Series_sample_id = GSM79598
+!Series_sample_id = GSM79599
+!Series_sample_id = GSM79600
+!Series_sample_id = GSM79601
+!Series_sample_id = GSM79602
+!Series_sample_id = GSM79603
+!Series_sample_id = GSM79604
+!Series_sample_id = GSM79605
+!Series_sample_id = GSM79606
+!Series_sample_id = GSM79607
+!Series_sample_id = GSM79608
+!Series_sample_id = GSM79609
+!Series_sample_id = GSM79610
+!Series_sample_id = GSM79611
+!Series_sample_id = GSM79612
+!Series_sample_id = GSM79613
+!Series_sample_id = GSM79614
+!Series_sample_id = GSM79615
+!Series_contact_name = Lance,David,Miller
+!Series_contact_email = millerl@gis.a-star.edu.sg
+!Series_contact_phone = 65 6478 8100
+!Series_contact_fax = 65 6478 9060
+!Series_contact_department = Microarray and Expression Genomics
+!Series_contact_institute = Genome Institute of Singapore
+!Series_contact_address = 60 Bioplois Street, #02-01 Genome
+!Series_contact_city = Singapore
+!Series_contact_zip/postal_code = 138672
+!Series_contact_country = Singapore
+!Series_contact_web_link = http://www.gis.a-star.edu.sg/internet/site/investigators.php?f=cv&user_id=7
+!Series_supplementary_file = ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE3nnn/GSE3494/suppl/GSE3494_RAW.tar
+!Series_platform_id = GPL96
+!Series_platform_id = GPL97
+!Series_platform_organism = Homo sapiens
+!Series_platform_taxid = 9606
+!Series_sample_organism = Homo sapiens
+!Series_sample_taxid = 9606
+!Series_relation = BioProject: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA93319
+#INDEX (ID) = 
+#p53 seq mut status (p53+=mutant; p53-=wt) = 
+#p53 DLDA classifier result (0=wt-like, 1=mt-like) = 
+#DLDA error (1=yes, 0=no) = 
+#Elston histologic grade = 
+#ER status = 
+#PgR status = 
+#age at diagnosis = 
+#tumor size (mm) = 
+#Lymph node status = 
+#DSS TIME (Disease-Specific Survival Time in years) = 
+#DSS EVENT (Disease-Specific Survival EVENT; 1=death from breast cancer, 0=alive or censored ) = 
+!series_table_begin = Clinicopathological variables of the Uppsala cohort
+INDEX (ID)	p53 seq mut status (p53+=mutant; p53-=wt)	p53 DLDA classifier result (0=wt-like, 1=mt-like)	DLDA error (1=yes, 0=no)	Elston histologic grade	ER status	PgR status	age at diagnosis	tumor size (mm)	Lymph node status	DSS TIME (Disease-Specific Survival Time in years)	DSS EVENT (Disease-Specific Survival EVENT; 1=death from breast cancer, 0=alive or censored )
+X101B88	p53+	1	0	G3	ER-	PgR-	40	12	LN-	11.833	0
+X102B06	p53+	1	0	G3	ER+	PgR+	51	26	LN-	11.833	0
+X104B91	p53+	0	1	G3	ER+	PgR+	80	24	LN?	3.583	0
+X110B34	p53+	1	0	G2	ER+	PgR+	74	20	LN-	11.667	0
+X111B51	p53+	1	0	G3	ER+	PgR+	41	33	LN-	7.167	1
+X127B00	p53+	1	0	G3	ER+	PgR+	57	22	LN-	4.667	1
+X137B88	p53+	1	0	G2	ER-	PgR-	68	6	LN-	11.5	0
+X143B81	p53+	1	0	G3	ER-	PgR-	93	29	LN?	2.167	0
+X144B49	p53+	0	1	G2	ER+	PgR+	40	21	LN-	11.5	0
+X146B39	p53+	1	0	G3	ER-	PgR-	34	50	LN+	NA	NA
+X147B19	p53+	1	0	G3	ER-	PgR-	71	24	LN+	5.083	0
+X153B09	p53+	1	0	G3	ER-	PgR-	71	18	LN-	11.417	0
+X159B47	p53+	0	1	G2	ER+	PgR+	57	14	LN+	11.417	0
+X164B81	p53+	1	0	G2	ER-	PgR-	62	23	LN-	11.333	0
+X186B22	p53+	0	1	G2	ER+	PgR+	86	46	LN+	1.417	1
+X187B36	p53+	1	0	G2	ER+	PgR+	29	23	LN+	0	1
+X189B83	p53+	1	0	G2	ER-	PgR-	58	38	LN-	NA	NA
+X194B60	p53+	1	0	G3	ER+	PgR-	77	22	LN+	3.583	0
+X19C33	p53+	1	0	G1	ER+	PgR+	61	31	LN+	4.167	1
+X208C06	p53+	1	0	G2	ER+	PgR+	67	22	LN?	0.083	0
+!series_table_end
+#GEO Sample Accession # = 
+#Patient ID = 
+#Affy platform = 
+!series_table_begin = GEO Sample Accession Numbers and associated Patient IDs
+GEO Sample Accession #	Patient ID	Affy platform
+GSM79114	X100B08	HG-U133A
+GSM79115	X101B88	HG-U133A
+GSM79116	X102B06	HG-U133A
+GSM79117	X103B41	HG-U133A
+GSM79118	X104B91	HG-U133A
+GSM79119	X105B13	HG-U133A
+GSM79120	X106B55	HG-U133A
+GSM79121	X10B88	HG-U133A
+GSM79122	X110B34	HG-U133A
+GSM79123	X111B51	HG-U133A
+GSM79124	X112B55	HG-U133A
+GSM79125	X113B11	HG-U133A
+GSM79126	X114B68	HG-U133A
+GSM79127	X11B47	HG-U133A
+GSM79128	X120B73	HG-U133A
+GSM79129	X122B81	HG-U133A
+GSM79130	X124B25	HG-U133A
+GSM79131	X127B00	HG-U133A
+GSM79132	X128B48	HG-U133A
+GSM79133	X130B92	HG-U133A
+!series_table_end

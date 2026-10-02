@@ -1,0 +1,18 @@
+{
+  "protocol": "PROTOCOL_v3_20261002.md",
+  "selected_studies": 30,
+  "array_studies": 15,
+  "sequencing_studies": 15,
+  "screened_pairs": 435,
+  "direct_gsm_intersection_pairs": 2,
+  "checker_direct_overlap_pairs": 2,
+  "checker_direct_count_mismatches": 0,
+  "pairs_added_beyond_direct_intersection": 1,
+  "finding_types": {
+    "declared_superseries_subseries_with_direct_accession_overlap": 2,
+    "no_detected_evidence": 432,
+    "unresolved_title_identity_candidate": 1
+  },
+  "actionable_or_review_required_pairs": 3,
+  "interpretation": "Direct GSM intersection is the reference for accession overlap. The resource's incremental value is limited to consolidated provenance and review-required candidate evidence; candidate evidence is not verified identity."
+}

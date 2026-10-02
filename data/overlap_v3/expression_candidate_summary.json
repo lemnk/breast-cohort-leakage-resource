@@ -1,0 +1,20 @@
+{
+  "release": 3,
+  "source_release": 2,
+  "candidate_rows": 385,
+  "control_rows": 1925,
+  "candidate_rule_counts": {
+    "corroborated_candidate": 304,
+    "supported_candidate": 12,
+    "not_corroborated": 69
+  },
+  "control_rule_counts": {
+    "strong_rule_exceeded": 0,
+    "weaker_rule_exceeded": 4,
+    "neither_rule_exceeded": 1921
+  },
+  "corroborated_candidate_minimum_spearman_rho": 0.7321690096848333,
+  "corroborated_candidates_below_0_95": 113,
+  "statistical_interpretation": "The controls are dependent, study-family-specific presumed nonmatches. Counts are descriptive; no binomial confidence bound or false-confirmation extrapolation is estimated.",
+  "identity_interpretation": "Expression results can corroborate a prespecified different-accession candidate but do not verify same-specimen or same-patient identity."
+}
